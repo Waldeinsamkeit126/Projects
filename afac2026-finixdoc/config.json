@@ -1,0 +1,11 @@
+{
+  "data_root": "D:/AFAC2026/data",
+  "cache_dir": "D:/AFAC2026/cache",
+  "output_dir": "D:/AFAC2026/outputs",
+  "request_timeout_seconds": 240,
+  "request_retries": 2,
+  "max_workers": 2,
+  "whole_image_max_pixels": 24000000,
+  "crop_max_pixels": 55000000,
+  "crop_overlap_pixels": 1000
+}
