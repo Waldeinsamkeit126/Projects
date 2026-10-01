@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "529",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图中无大标题，顶部列头Day 1至Day 6字体最大且为原文本，A为幻觉文本。"
+    },
+    {
+      "id": "532",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图中最左侧为时间轴行头，无'时间段'字段名，A保留了首行原文本。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 6591,
+    "completion_tokens": 3930,
+    "prompt_tokens": 2661,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3768,
+      "text_tokens": 161
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 2339,
+      "cached_tokens": 0,
+      "text_tokens": 322
+    }
+  },
+  "requestId": "chatcmpl-7baffa92-c367-9055-9d44-726fd427dd27"
+}

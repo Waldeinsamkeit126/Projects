@@ -1,0 +1,1028 @@
+{
+  "provenance": {
+    "benchmark": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-01\\k\\work\\kaggriculture_agent\\benchmark_matrix.py",
+    "closed_loop": true,
+    "episode_steps": 720,
+    "town_center_sell_interval": 24,
+    "dev_seeds": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "holdout_seeds": [
+      2070,
+      2071,
+      2072,
+      2073
+    ],
+    "agents": {
+      "kaito_v25": {
+        "path": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-01\\k\\outputs\\kaggriculture_agent\\public_kaito_v25\\main.py",
+        "sha256": "9bdfbafb6755067182d88ce594fd46fb1d712713ffd6931e83d5d50e84bc6fb2"
+      },
+      "tetsutani_v16": {
+        "path": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-01\\k\\outputs\\kaggriculture_agent\\public_tetsutani_v16\\main.py",
+        "sha256": "997e6bfc5234534e246e945bc61c87858ebf997ab85b0a5c9427dd4ed710f1b6"
+      },
+      "rayk_v11": {
+        "path": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-01\\k\\outputs\\kaggriculture_agent\\public_rayk_v11\\main.py",
+        "sha256": "adc61ab15b3b4016e49efe525f4906e6ae3bbb66c4ff29ab795ae09df9fbaa5f"
+      }
+    }
+  },
+  "ranking": {
+    "dev": [
+      {
+        "agent": "tetsutani_v16",
+        "win_point_rate": 1.0,
+        "mean_margin": 51247.125,
+        "mean_score": 72225.0
+      },
+      {
+        "agent": "rayk_v11",
+        "win_point_rate": 1.0,
+        "mean_margin": 17539.75,
+        "mean_score": 38706.5
+      },
+      {
+        "agent": "kaito_v25",
+        "win_point_rate": 0.0,
+        "mean_margin": -34393.4375,
+        "mean_score": 21072.3125
+      }
+    ],
+    "holdout": [
+      {
+        "agent": "tetsutani_v16",
+        "win_point_rate": 1.0,
+        "mean_margin": 53292.125,
+        "mean_score": 74734.875
+      },
+      {
+        "agent": "rayk_v11",
+        "win_point_rate": 1.0,
+        "mean_margin": 16413.0,
+        "mean_score": 38895.125
+      },
+      {
+        "agent": "kaito_v25",
+        "win_point_rate": 0.0,
+        "mean_margin": -34852.5625,
+        "mean_score": 21962.4375
+      }
+    ]
+  },
+  "agents": {
+    "kaito_v25": {
+      "dev": {
+        "games": 16,
+        "wins": 0,
+        "ties": 0,
+        "losses": 16,
+        "win_point_rate": 0.0,
+        "win_point_rate_seed_bootstrap_95ci": [
+          0.0,
+          0.0
+        ],
+        "mean_score": 21072.3125,
+        "mean_margin": -34393.4375,
+        "median_margin": -33336.5,
+        "min_margin": -53848.0,
+        "max_action_seconds": 0.031947099982062355,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 8,
+            "win_point_rate": 0.0,
+            "mean_score": 20962.75,
+            "mean_margin": -34567.625
+          },
+          "1": {
+            "games": 8,
+            "win_point_rate": 0.0,
+            "mean_score": 21181.875,
+            "mean_margin": -34219.25
+          }
+        }
+      },
+      "holdout": {
+        "games": 16,
+        "wins": 0,
+        "ties": 0,
+        "losses": 16,
+        "win_point_rate": 0.0,
+        "win_point_rate_seed_bootstrap_95ci": [
+          0.0,
+          0.0
+        ],
+        "mean_score": 21962.4375,
+        "mean_margin": -34852.5625,
+        "median_margin": -34959.0,
+        "min_margin": -55171.0,
+        "max_action_seconds": 0.07360239999252371,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 8,
+            "win_point_rate": 0.0,
+            "mean_score": 21960.375,
+            "mean_margin": -34933.875
+          },
+          "1": {
+            "games": 8,
+            "win_point_rate": 0.0,
+            "mean_score": 21964.5,
+            "mean_margin": -34771.25
+          }
+        }
+      }
+    },
+    "tetsutani_v16": {
+      "dev": {
+        "games": 8,
+        "wins": 8,
+        "ties": 0,
+        "losses": 0,
+        "win_point_rate": 1.0,
+        "win_point_rate_seed_bootstrap_95ci": [
+          1.0,
+          1.0
+        ],
+        "mean_score": 72225.0,
+        "mean_margin": 51247.125,
+        "median_margin": 52125.5,
+        "min_margin": 47754.0,
+        "max_action_seconds": 0.08352569999988191,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 4,
+            "win_point_rate": 1.0,
+            "mean_score": 71989.25,
+            "mean_margin": 50993.25
+          },
+          "1": {
+            "games": 4,
+            "win_point_rate": 1.0,
+            "mean_score": 72460.75,
+            "mean_margin": 51501.0
+          }
+        }
+      },
+      "holdout": {
+        "games": 8,
+        "wins": 8,
+        "ties": 0,
+        "losses": 0,
+        "win_point_rate": 1.0,
+        "win_point_rate_seed_bootstrap_95ci": [
+          1.0,
+          1.0
+        ],
+        "mean_score": 74734.875,
+        "mean_margin": 53292.125,
+        "median_margin": 53020.0,
+        "min_margin": 52053.0,
+        "max_action_seconds": 0.0751530000125058,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 4,
+            "win_point_rate": 1.0,
+            "mean_score": 74583.5,
+            "mean_margin": 53134.0
+          },
+          "1": {
+            "games": 4,
+            "win_point_rate": 1.0,
+            "mean_score": 74886.25,
+            "mean_margin": 53450.25
+          }
+        }
+      }
+    },
+    "rayk_v11": {
+      "dev": {
+        "games": 8,
+        "wins": 8,
+        "ties": 0,
+        "losses": 0,
+        "win_point_rate": 1.0,
+        "win_point_rate_seed_bootstrap_95ci": [
+          1.0,
+          1.0
+        ],
+        "mean_score": 38706.5,
+        "mean_margin": 17539.75,
+        "median_margin": 17441.5,
+        "min_margin": 16552.0,
+        "max_action_seconds": 0.0007271999784279615,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 4,
+            "win_point_rate": 1.0,
+            "mean_score": 38813.0,
+            "mean_margin": 17445.25
+          },
+          "1": {
+            "games": 4,
+            "win_point_rate": 1.0,
+            "mean_score": 38600.0,
+            "mean_margin": 17634.25
+          }
+        }
+      },
+      "holdout": {
+        "games": 8,
+        "wins": 8,
+        "ties": 0,
+        "losses": 0,
+        "win_point_rate": 1.0,
+        "win_point_rate_seed_bootstrap_95ci": [
+          1.0,
+          1.0
+        ],
+        "mean_score": 38895.125,
+        "mean_margin": 16413.0,
+        "median_margin": 16216.0,
+        "min_margin": 15204.0,
+        "max_action_seconds": 0.0011819999781437218,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 4,
+            "win_point_rate": 1.0,
+            "mean_score": 38888.0,
+            "mean_margin": 16408.5
+          },
+          "1": {
+            "games": 4,
+            "win_point_rate": 1.0,
+            "mean_score": 38902.25,
+            "mean_margin": 16417.5
+          }
+        }
+      }
+    }
+  },
+  "pairs": [
+    {
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "splits": {
+        "dev": {
+          "games": 8,
+          "wins": 0,
+          "ties": 0,
+          "losses": 8,
+          "win_point_rate": 0.0,
+          "win_point_rate_seed_bootstrap_95ci": [
+            0.0,
+            0.0
+          ],
+          "mean_score": 20977.875,
+          "mean_margin": -51247.125,
+          "median_margin": -52125.5,
+          "min_margin": -53848.0,
+          "max_action_seconds": 0.031947099982062355,
+          "all_done": true,
+          "by_position": {
+            "0": {
+              "games": 4,
+              "win_point_rate": 0.0,
+              "mean_score": 20959.75,
+              "mean_margin": -51501.0
+            },
+            "1": {
+              "games": 4,
+              "win_point_rate": 0.0,
+              "mean_score": 20996.0,
+              "mean_margin": -50993.25
+            }
+          }
+        },
+        "holdout": {
+          "games": 8,
+          "wins": 0,
+          "ties": 0,
+          "losses": 8,
+          "win_point_rate": 0.0,
+          "win_point_rate_seed_bootstrap_95ci": [
+            0.0,
+            0.0
+          ],
+          "mean_score": 21442.75,
+          "mean_margin": -53292.125,
+          "median_margin": -53020.0,
+          "min_margin": -55171.0,
+          "max_action_seconds": 0.025340499996673316,
+          "all_done": true,
+          "by_position": {
+            "0": {
+              "games": 4,
+              "win_point_rate": 0.0,
+              "mean_score": 21436.0,
+              "mean_margin": -53450.25
+            },
+            "1": {
+              "games": 4,
+              "win_point_rate": 0.0,
+              "mean_score": 21449.5,
+              "mean_margin": -53134.0
+            }
+          }
+        }
+      }
+    },
+    {
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "splits": {
+        "dev": {
+          "games": 8,
+          "wins": 0,
+          "ties": 0,
+          "losses": 8,
+          "win_point_rate": 0.0,
+          "win_point_rate_seed_bootstrap_95ci": [
+            0.0,
+            0.0
+          ],
+          "mean_score": 21166.75,
+          "mean_margin": -17539.75,
+          "median_margin": -17441.5,
+          "min_margin": -18919.0,
+          "max_action_seconds": 0.024769999989075586,
+          "all_done": true,
+          "by_position": {
+            "0": {
+              "games": 4,
+              "win_point_rate": 0.0,
+              "mean_score": 20965.75,
+              "mean_margin": -17634.25
+            },
+            "1": {
+              "games": 4,
+              "win_point_rate": 0.0,
+              "mean_score": 21367.75,
+              "mean_margin": -17445.25
+            }
+          }
+        },
+        "holdout": {
+          "games": 8,
+          "wins": 0,
+          "ties": 0,
+          "losses": 8,
+          "win_point_rate": 0.0,
+          "win_point_rate_seed_bootstrap_95ci": [
+            0.0,
+            0.0
+          ],
+          "mean_score": 22482.125,
+          "mean_margin": -16413.0,
+          "median_margin": -16216.0,
+          "min_margin": -17865.0,
+          "max_action_seconds": 0.07360239999252371,
+          "all_done": true,
+          "by_position": {
+            "0": {
+              "games": 4,
+              "win_point_rate": 0.0,
+              "mean_score": 22484.75,
+              "mean_margin": -16417.5
+            },
+            "1": {
+              "games": 4,
+              "win_point_rate": 0.0,
+              "mean_score": 22479.5,
+              "mean_margin": -16408.5
+            }
+          }
+        }
+      }
+    },
+    {
+      "agent_a": "tetsutani_v16",
+      "agent_b": "rayk_v11",
+      "splits": {
+        "dev": {
+          "games": 0,
+          "wins": 0,
+          "ties": 0,
+          "losses": 0,
+          "win_point_rate": 0.0,
+          "win_point_rate_seed_bootstrap_95ci": [
+            0.0,
+            0.0
+          ],
+          "mean_score": 0.0,
+          "mean_margin": 0.0,
+          "median_margin": 0.0,
+          "min_margin": 0.0,
+          "max_action_seconds": 0.0,
+          "all_done": true,
+          "by_position": {}
+        },
+        "holdout": {
+          "games": 0,
+          "wins": 0,
+          "ties": 0,
+          "losses": 0,
+          "win_point_rate": 0.0,
+          "win_point_rate_seed_bootstrap_95ci": [
+            0.0,
+            0.0
+          ],
+          "mean_score": 0.0,
+          "mean_margin": 0.0,
+          "median_margin": 0.0,
+          "min_margin": 0.0,
+          "max_action_seconds": 0.0,
+          "all_done": true,
+          "by_position": {}
+        }
+      }
+    }
+  ],
+  "games": [
+    {
+      "split": "dev",
+      "seed": 70,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 0,
+      "score_a": 21608.0,
+      "score_b": 38443.0,
+      "margin_a": -16835.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.117454199993517,
+      "max_action_seconds_a": 0.0006355999794322997,
+      "max_action_seconds_b": 0.0002725999802350998,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 70,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 1,
+      "score_a": 21523.0,
+      "score_b": 38190.0,
+      "margin_a": -16667.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.11736619999283,
+      "max_action_seconds_a": 0.024769999989075586,
+      "max_action_seconds_b": 0.0004304999893065542,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 71,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 0,
+      "score_a": 21392.0,
+      "score_b": 40311.0,
+      "margin_a": -18919.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.35350379999727,
+      "max_action_seconds_a": 0.0008409000001847744,
+      "max_action_seconds_b": 0.0003111999831162393,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 71,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 1,
+      "score_a": 21957.0,
+      "score_b": 39406.0,
+      "margin_a": -17449.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.298354300000938,
+      "max_action_seconds_a": 0.00044410000555217266,
+      "max_action_seconds_b": 0.0003661000228021294,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 72,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 0,
+      "score_a": 20192.0,
+      "score_b": 38423.0,
+      "margin_a": -18231.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.281487300002482,
+      "max_action_seconds_a": 0.00044329999946057796,
+      "max_action_seconds_b": 0.00021579998428933322,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 72,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 1,
+      "score_a": 20192.0,
+      "score_b": 38423.0,
+      "margin_a": -18231.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.477779600012582,
+      "max_action_seconds_a": 0.0005419999943114817,
+      "max_action_seconds_b": 0.0007271999784279615,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 73,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 0,
+      "score_a": 20671.0,
+      "score_b": 37223.0,
+      "margin_a": -16552.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.894629799993709,
+      "max_action_seconds_a": 0.023372700001345947,
+      "max_action_seconds_b": 0.00022650000755675137,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 73,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 1,
+      "score_a": 21799.0,
+      "score_b": 39233.0,
+      "margin_a": -17434.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.663307200011332,
+      "max_action_seconds_a": 0.0003876000118907541,
+      "max_action_seconds_b": 0.0005913000204600394,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 70,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 0,
+      "score_a": 21885.0,
+      "score_b": 69639.0,
+      "margin_a": -47754.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 3.5059098999772687,
+      "max_action_seconds_a": 0.0004020000051241368,
+      "max_action_seconds_b": 0.00046430001384578645,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 70,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 1,
+      "score_a": 21727.0,
+      "score_b": 70513.0,
+      "margin_a": -48786.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 3.6711698999861255,
+      "max_action_seconds_a": 0.0004321000014897436,
+      "max_action_seconds_b": 0.0006041000015102327,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 71,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 0,
+      "score_a": 18950.0,
+      "score_b": 71482.0,
+      "margin_a": -52532.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 3.591245699994033,
+      "max_action_seconds_a": 0.0003597000031732023,
+      "max_action_seconds_b": 0.0010906000097747892,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 71,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 1,
+      "score_a": 18958.0,
+      "score_b": 67916.0,
+      "margin_a": -48958.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 3.5335117999929935,
+      "max_action_seconds_a": 0.0005194999976083636,
+      "max_action_seconds_b": 0.0004621999978553504,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 72,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 0,
+      "score_a": 19591.0,
+      "score_b": 73439.0,
+      "margin_a": -53848.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.404578699992271,
+      "max_action_seconds_a": 0.00046910002129152417,
+      "max_action_seconds_b": 0.0006622000073548406,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 72,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 1,
+      "score_a": 19591.0,
+      "score_b": 73439.0,
+      "margin_a": -53848.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.609588099992834,
+      "max_action_seconds_a": 0.031947099982062355,
+      "max_action_seconds_b": 0.08352569999988191,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 73,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 0,
+      "score_a": 23413.0,
+      "score_b": 75283.0,
+      "margin_a": -51870.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.481117400020594,
+      "max_action_seconds_a": 0.001969899982213974,
+      "max_action_seconds_b": 0.000506600015796721,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 73,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 1,
+      "score_a": 23708.0,
+      "score_b": 76089.0,
+      "margin_a": -52381.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.520451999997022,
+      "max_action_seconds_a": 0.00047790000098757446,
+      "max_action_seconds_b": 0.0005639999872073531,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2070,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 0,
+      "score_a": 24178.0,
+      "score_b": 39551.0,
+      "margin_a": -15373.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.4152415999851655,
+      "max_action_seconds_a": 0.07360239999252371,
+      "max_action_seconds_b": 0.00022800001897849143,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2070,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 1,
+      "score_a": 24188.0,
+      "score_b": 39392.0,
+      "margin_a": -15204.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.530456200009212,
+      "max_action_seconds_a": 0.0007063999946694821,
+      "max_action_seconds_b": 0.0004900999774690717,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2071,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 0,
+      "score_a": 21627.0,
+      "score_b": 39492.0,
+      "margin_a": -17865.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.896412500005681,
+      "max_action_seconds_a": 0.0010274999949615449,
+      "max_action_seconds_b": 0.00028890001703985035,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2071,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 1,
+      "score_a": 21877.0,
+      "score_b": 39449.0,
+      "margin_a": -17572.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.831594499992207,
+      "max_action_seconds_a": 0.0003905999765265733,
+      "max_action_seconds_b": 0.0007823999912943691,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2072,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 0,
+      "score_a": 21596.0,
+      "score_b": 37965.0,
+      "margin_a": -16369.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.718006100010825,
+      "max_action_seconds_a": 0.0006846000032965094,
+      "max_action_seconds_b": 0.00023899998632259667,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2072,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 1,
+      "score_a": 21311.0,
+      "score_b": 36893.0,
+      "margin_a": -15582.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.758169800014002,
+      "max_action_seconds_a": 0.0008934999932534993,
+      "max_action_seconds_b": 0.0011819999781437218,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2073,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 0,
+      "score_a": 22538.0,
+      "score_b": 38601.0,
+      "margin_a": -16063.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.652901099994779,
+      "max_action_seconds_a": 0.0008911999757401645,
+      "max_action_seconds_b": 0.0003470000228844583,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2073,
+      "agent_a": "kaito_v25",
+      "agent_b": "rayk_v11",
+      "position_a": 1,
+      "score_a": 22542.0,
+      "score_b": 39818.0,
+      "margin_a": -17276.0,
+      "winner": "rayk_v11",
+      "elapsed_seconds": 4.696965699986322,
+      "max_action_seconds_a": 0.0007951000006869435,
+      "max_action_seconds_b": 0.000538699998287484,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2070,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 0,
+      "score_a": 23825.0,
+      "score_b": 77086.0,
+      "margin_a": -53261.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.441056799987564,
+      "max_action_seconds_a": 0.0008626000199001282,
+      "max_action_seconds_b": 0.0006152999994810671,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2070,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 1,
+      "score_a": 23825.0,
+      "score_b": 77086.0,
+      "margin_a": -53261.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.442571299994597,
+      "max_action_seconds_a": 0.0006030999938957393,
+      "max_action_seconds_b": 0.0006552999839186668,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2071,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 0,
+      "score_a": 21082.0,
+      "score_b": 73861.0,
+      "margin_a": -52779.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.788955299998634,
+      "max_action_seconds_a": 0.0005762999935541302,
+      "max_action_seconds_b": 0.0009467999916523695,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2071,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 1,
+      "score_a": 21082.0,
+      "score_b": 73861.0,
+      "margin_a": -52779.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.637563199998112,
+      "max_action_seconds_a": 0.01850249999552034,
+      "max_action_seconds_b": 0.0005056000081822276,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2072,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 0,
+      "score_a": 19787.0,
+      "score_b": 74958.0,
+      "margin_a": -55171.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.503538199991453,
+      "max_action_seconds_a": 0.0015284000255633146,
+      "max_action_seconds_b": 0.02201339998282492,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2072,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 1,
+      "score_a": 19978.0,
+      "score_b": 74421.0,
+      "margin_a": -54443.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.547578500001691,
+      "max_action_seconds_a": 0.025340499996673316,
+      "max_action_seconds_b": 0.0751530000125058,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2073,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 0,
+      "score_a": 21050.0,
+      "score_b": 73640.0,
+      "margin_a": -52590.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.673749199981103,
+      "max_action_seconds_a": 0.0020564999722409993,
+      "max_action_seconds_b": 0.0004923999949824065,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 2073,
+      "agent_a": "kaito_v25",
+      "agent_b": "tetsutani_v16",
+      "position_a": 1,
+      "score_a": 20913.0,
+      "score_b": 72966.0,
+      "margin_a": -52053.0,
+      "winner": "tetsutani_v16",
+      "elapsed_seconds": 4.634087099984754,
+      "max_action_seconds_a": 0.0014475000207312405,
+      "max_action_seconds_b": 0.0007840000034775585,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

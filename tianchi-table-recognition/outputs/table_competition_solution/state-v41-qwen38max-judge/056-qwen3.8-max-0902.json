@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "id": "529",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "主表标题为夏令营日程表，B仅为列头罗列"
+    },
+    {
+      "id": "532",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "左列为时间轴字段，A是数据值而非表头"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1698,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1625,
+      "text_tokens": 72
+    },
+    "prompt_tokens": 2762,
+    "prompt_tokens_details": {
+      "cached_tokens": 2048,
+      "image_tokens": 2339,
+      "text_tokens": 423
+    },
+    "total_tokens": 4460
+  },
+  "requestId": "chatcmpl-9f1b5c82-b1b7-9614-935a-65e8911b9512",
+  "model": "qwen3.8-max-0902"
+}

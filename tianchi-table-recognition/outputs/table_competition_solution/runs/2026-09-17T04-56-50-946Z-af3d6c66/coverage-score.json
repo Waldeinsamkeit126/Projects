@@ -1,0 +1,151 @@
+{
+  "datasetVersion": "coverage-validation-v1",
+  "fixtureHash": "ec91bcbedbc08deb9a0b8483b6f2d19eaed35fa66507357a0a4db5c9a863c513",
+  "scorerHash": "1825cafa1d7bd892c35318baf991481f22fccf277fba32811ca6c9a8aa9ba6a6",
+  "split": "validation",
+  "predictionsSha256": "58dab22a54d6eae6d20def8a445076baee765d54d8b9a131de8bd89945cf2dbf",
+  "evaluatedAt": "2026-09-17T04:58:50.174Z",
+  "total": 12,
+  "correct": 12,
+  "formatValid": 12,
+  "missing": 0,
+  "metric": "local-exact-match-v2 (not the official evaluator)",
+  "categories": {
+    "full-structure": {
+      "total": 4,
+      "correct": 4,
+      "formatValid": 4
+    },
+    "partial-structure": {
+      "total": 4,
+      "correct": 4,
+      "formatValid": 4
+    },
+    "table-location-and-value": {
+      "total": 4,
+      "correct": 4,
+      "formatValid": 4
+    }
+  },
+  "details": [
+    {
+      "id": "cv-tiered-full",
+      "category": "full-structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-tiered-header",
+      "category": "partial-structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-tiered-value",
+      "category": "table-location-and-value",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-blanks-full",
+      "category": "full-structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-blanks-header",
+      "category": "partial-structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-blanks-value",
+      "category": "table-location-and-value",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-groups-full",
+      "category": "full-structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-groups-header",
+      "category": "partial-structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-groups-value",
+      "category": "table-location-and-value",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-multitable-full",
+      "category": "full-structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-multitable-header",
+      "category": "partial-structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "cv-multitable-value",
+      "category": "table-location-and-value",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    }
+  ],
+  "missingRecords": 0,
+  "emptyAnswers": 0,
+  "answered": 12,
+  "invalidNonempty": 0,
+  "mismatchedValid": 0,
+  "answerCoverage": 1,
+  "overallExactMatch": 1,
+  "answeredExactMatch": 1,
+  "complete": true,
+  "rateNote": "answeredExactMatch 仅针对非空回答；不代表全量准确率。缺失答案不应归因于识别能力，须结合 upstreamError 和请求记录判断。",
+  "limitation": "新增独立合成源表，供候选策略对比；本地精确匹配，不能换算天池成绩。这个小型验证集不是未见真实扫描件上的泛化证明。"
+}

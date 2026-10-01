@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\060.pdf",
+  "results": [
+    {
+      "id": "569",
+      "source_file": "0060.pdf",
+      "resolved_file": "060.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":14,\"col_count\":9,\"cells\":[{\"text\":\"Difficulty\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Category\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"#\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Agent Win\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"RAG Win\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"Tie\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"Agent%\",\"row\":0,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"RAG%\",\"row\":0,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"Tie%\",\"row\":0,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"Version\",\"row\":6,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Tool Calls\",\"row\":6,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"Prefill (tokens)\",\"row\":6,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Output (tokens)\",\"row\":6,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"Internal Evaluation (内部综合评估)\",\"row\":9,\"col\":3,\"rowspan\":1,\"colspan\":6},{\"text\":\"Category\",\"row\":10,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Subcategory\",\"row\":10,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"#\",\"row\":10,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"V4 win\",\"row\":10,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"V3.2 win\",\"row\":10,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"tie\",\"row\":10,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"V4%\",\"row\":10,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"V3.2%\",\"row\":10,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"tie%\",\"row\":10,\"col\":8,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "570",
+      "source_file": "060.pdf",
+      "resolved_file": "060.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"#\":\"869\",\"Agent Win\":\"536\",\"RAG Win\":\"159\",\"Tie\":\"174\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "571",
+      "source_file": "060.pdf",
+      "resolved_file": "060.pdf",
+      "model": "qwen3.8-max",
+      "answer": "16.2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "572",
+      "source_file": "060.pdf",
+      "resolved_file": "060.pdf",
+      "model": "qwen3.8-max",
+      "answer": "10453",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "573",
+      "source_file": "060.pdf",
+      "resolved_file": "060.pdf",
+      "model": "qwen3.8-max",
+      "answer": "289",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "574",
+      "source_file": "060.pdf",
+      "resolved_file": "060.pdf",
+      "model": "qwen3.8-max",
+      "answer": "28.5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "575",
+      "source_file": "060.pdf",
+      "resolved_file": "060.pdf",
+      "model": "qwen3.8-max",
+      "answer": "61.5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "576",
+      "source_file": "060.pdf",
+      "resolved_file": "060.pdf",
+      "model": "qwen3.8-max",
+      "answer": "377",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "577",
+      "source_file": "060.pdf",
+      "resolved_file": "060.pdf",
+      "model": "qwen3.8-max",
+      "answer": "218",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "578",
+      "source_file": "060.pdf",
+      "resolved_file": "060.pdf",
+      "model": "qwen3.8-max",
+      "answer": "368",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

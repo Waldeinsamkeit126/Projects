@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\062.pdf",
+  "results": [
+    {
+      "id": "589",
+      "source_file": "062.pdf",
+      "resolved_file": "062.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":20,\"col_count\":14,\"cells\":[{\"text\":\"Subcategory (文体)\",\"row\":0,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"#\",\"row\":0,\"col\":1,\"rowspan\":2,\"colspan\":1},{\"text\":\"Instruction Following(指令遵循)\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":6},{\"text\":\"Writing Quality (写作质量)\",\"row\":0,\"col\":8,\"rowspan\":1,\"colspan\":6},{\"text\":\"DS\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Gem\",\"row\":1,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"Tie\",\"row\":1,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"DS%\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"Gem%\",\"row\":1,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"Tie%\",\"row\":1,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"DS\",\"row\":1,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"Gem\",\"row\":1,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"Tie\",\"row\":1,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"DS%\",\"row\":1,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"Gem%\",\"row\":1,\"col\":12,\"rowspan\":1,\"colspan\":1},{\"text\":\"Tie%\",\"row\":1,\"col\":13,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "590",
+      "source_file": "062.pdf",
+      "resolved_file": "062.pdf",
+      "model": "qwen3.8-max",
+      "answer": "836",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "591",
+      "source_file": "062.pdf",
+      "resolved_file": "062.pdf",
+      "model": "qwen3.8-max",
+      "answer": "26.67",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "592",
+      "source_file": "062.pdf",
+      "resolved_file": "062.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"Subcategory (文体)\":\"Classical Poetry (古诗文)\",\"DS\":\"24\",\"Gem\":\"24\",\"Tie\":\"0\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "593",
+      "source_file": "062.pdf",
+      "resolved_file": "062.pdf",
+      "model": "qwen3.8-max",
+      "answer": "76.79",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "594",
+      "source_file": "062.pdf",
+      "resolved_file": "062.pdf",
+      "model": "qwen3.8-max",
+      "answer": "52.17",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "595",
+      "source_file": "062.pdf",
+      "resolved_file": "062.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"Subcategory (文体)\":\"Creative Writing (创意写作)\",\"DS\":\"4\",\"Gem\":\"2\",\"Tie\":\"0\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "596",
+      "source_file": "062.pdf",
+      "resolved_file": "062.pdf",
+      "model": "qwen3.8-max",
+      "answer": "515",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "597",
+      "source_file": "062.pdf",
+      "resolved_file": "062.pdf",
+      "model": "qwen3.8-max",
+      "answer": "Lyrics (歌词)",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "598",
+      "source_file": "062.pdf",
+      "resolved_file": "062.pdf",
+      "model": "qwen3.8-max",
+      "answer": "591",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

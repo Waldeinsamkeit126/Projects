@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "130",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片顶部为阿拉伯文，主体为英文，A符合从上到下的顺序且语义正确。"
+    },
+    {
+      "id": "138",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B选项中'之字形缝纫机最大速度'取值错误（取了直缝的速度2500，应为Zig-Zag的1800），A选项数值正确。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 2427,
+    "completion_tokens": 1519,
+    "prompt_tokens": 908,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1347,
+      "text_tokens": 171
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 496,
+      "cached_tokens": 0,
+      "text_tokens": 412
+    }
+  },
+  "requestId": "chatcmpl-db3e4ab0-a683-92c3-adad-beedf063a366"
+}

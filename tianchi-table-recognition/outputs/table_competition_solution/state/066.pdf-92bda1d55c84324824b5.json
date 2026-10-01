@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\066.pdf",
+  "results": [
+    {
+      "id": "629",
+      "source_file": "066.pdf",
+      "resolved_file": "066.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":28,\"col_count\":10,\"cells\":[{\"text\":\"\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"2022A\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"2023A\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"2024E\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"2025E\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"2026E\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"2023H1\",\"row\":0,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"2023H2\",\"row\":0,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"2024H1\",\"row\":0,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"2024H2\",\"row\":0,\"col\":9,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "630",
+      "source_file": "066.pdf",
+      "resolved_file": "066.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"年份\":\"2024\",\"调整后收入(亿元)\":\"210.2\"},{\"年份\":\"2025\",\"调整后收入(亿元)\":\"227.8\"},{\"年份\":\"2026\",\"调整后收入(亿元)\":\"246.0\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "631",
+      "source_file": "066.pdf",
+      "resolved_file": "066.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"年份\":\"2024\",\"收入前值(亿元)\":\"220.2\"},{\"年份\":\"2025\",\"收入前值(亿元)\":\"247.7\"},{\"年份\":\"2026\",\"收入前值(亿元)\":\"275.3\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "632",
+      "source_file": "066.pdf",
+      "resolved_file": "066.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"年份\":\"2024\",\"调整后毛利率\":\"44.4%\"},{\"年份\":\"2025\",\"调整后毛利率\":\"44.6%\"},{\"年份\":\"2026\",\"调整后毛利率\":\"44.6%\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "633",
+      "source_file": "066.pdf",
+      "resolved_file": "066.pdf",
+      "model": "qwen3.8-max",
+      "answer": "22.6%",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "634",
+      "source_file": "066.pdf",
+      "resolved_file": "066.pdf",
+      "model": "qwen3.8-max",
+      "answer": "12.1%",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "635",
+      "source_file": "066.pdf",
+      "resolved_file": "066.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"年份\":\"2024\",\"归母净利润前值(亿元)\":\"28.5\"},{\"年份\":\"2025\",\"归母净利润前值(亿元)\":\"32.7\"},{\"年份\":\"2026\",\"归母净利润前值(亿元)\":\"36.2\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "636",
+      "source_file": "066.pdf",
+      "resolved_file": "066.pdf",
+      "model": "qwen3.8-max",
+      "answer": "29.3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "637",
+      "source_file": "066.pdf",
+      "resolved_file": "066.pdf",
+      "model": "qwen3.8-max",
+      "answer": "1.1",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "638",
+      "source_file": "066.pdf",
+      "resolved_file": "066.pdf",
+      "model": "qwen3.8-max",
+      "answer": "81.6",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

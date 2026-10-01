@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\031.png",
+  "results": [
+    {
+      "id": "299",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Grupo Especial - Carnaval 2016.2 - Sábado",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "300",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3-vl-plus",
+      "answer": "葡萄牙语",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "301",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3-vl-plus",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "302",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Agrêmiação",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "303",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Notas por Extensão",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "304",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3-vl-plus",
+      "answer": "9.3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "305",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3-vl-plus",
+      "answer": "9.4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "306",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3-vl-plus",
+      "answer": "10",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "307",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3-vl-plus",
+      "answer": "10",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "308",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"Borboleta Transgênero nota\":\"10\",\"满分队伍数量\":\"3\",\"最高分\":\"10\",\"最低分\":\"9.3\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "decisions": [
+    {
+      "id": "891",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图中2016-17行Annual Target为16000000"
+    },
+    {
+      "id": "892",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Rework行Avg Contract Value为500000（高亮单元格）"
+    },
+    {
+      "id": "896",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "6.75×1333333≈8999997.75，A为截断值，B偏差过大"
+    },
+    {
+      "id": "897",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "2041667-(-1108907)=3150574，B少1000"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1996,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1809,
+      "text_tokens": 186
+    },
+    "prompt_tokens": 913,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 314,
+      "text_tokens": 599
+    },
+    "total_tokens": 2909
+  },
+  "requestId": "chatcmpl-9b3f7925-ed0c-9c0f-83cc-ec9a401fe876",
+  "model": "qwen3.8-max-0902"
+}

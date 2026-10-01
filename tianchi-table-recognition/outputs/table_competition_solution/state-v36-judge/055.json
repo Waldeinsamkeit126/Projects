@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "524",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格中第一列为'官方标配(原封)'，A选项'套餐A(原封)'在表中不存在（表中为套餐A(定制)），B选项准确匹配表格第一行数据。"
+    },
+    {
+      "id": "528",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A选项最低活动价199在表中不存在（最低为399或499，主套餐最低为20299）；B选项提取了具体的退换规则文本且价格20299为主套餐最低，更为准确。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 2724,
+    "completion_tokens": 1979,
+    "prompt_tokens": 745,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1770,
+      "text_tokens": 208
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 352,
+      "cached_tokens": 0,
+      "text_tokens": 393
+    }
+  },
+  "requestId": "chatcmpl-40030564-8213-90cb-86ef-3d945de3b80e"
+}

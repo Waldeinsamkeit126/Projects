@@ -1,0 +1,169 @@
+{
+  "version": "official-array-stratified-pilot-v1",
+  "sourceHash": "616ee4070115a266061ed44cc95f2ee41bb68d0d95de33760a1ae8d065f89a4f",
+  "inputSha256": "594e0d8cbcfbe38edd243d02b425b58c342655d5d90a56822489915b36ed36d1",
+  "source": {
+    "path": "D:/tests.xlsx",
+    "sheet": "Sheet1",
+    "range": "A2:F909",
+    "answerColumnRead": false
+  },
+  "mediaDir": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files",
+  "settings": {
+    "imageModel": "qwen3-vl-plus",
+    "pdfModel": "qwen3.8-max",
+    "maxCompletionTokens": 4096,
+    "temperature": 0,
+    "enableThinking": false,
+    "maxAttempts": 1,
+    "maxRequests": 4,
+    "maxQuestionsPerFile": 3,
+    "concurrency": 1,
+    "automaticFallback": false
+  },
+  "selection": {
+    "seed": "official-array-stratified-pilot-v1",
+    "algorithm": "one-distinct-file-per-stratum; capped-count descending, metadata hash tie-break; up to 3 questions",
+    "arrayQuestions": 99,
+    "strata": {
+      "image/extract": 6,
+      "image/thinking": 51,
+      "pdf/extract": 33,
+      "pdf/thinking": 9
+    }
+  },
+  "units": [
+    {
+      "stratum": "image/extract",
+      "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\010.png",
+      "mediaKind": "image",
+      "model": "qwen3-vl-plus",
+      "questions": [
+        {
+          "id": "75",
+          "file_name": "010.png",
+          "question_type": "extract",
+          "question": "Day 6 下午 14:00-17:30 包含哪些事项？",
+          "table_hint": "",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "90",
+          "file_name": "010.png",
+          "question_type": "extract",
+          "question": "Day 6 下午 14:00-17:30 包含哪两个事项？",
+          "table_hint": "",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "89",
+          "file_name": "010.png",
+          "question_type": "extract",
+          "question": "Day 4 下午 14:00-17:30 包含哪两个任务？",
+          "table_hint": "",
+          "answer_format": "json_array"
+        }
+      ],
+      "mediaBytes": 296305,
+      "mediaSha256": "6a6db2f06047c72a2c5e8862c4afe4b976f1af737b1991bb0df7c7b0fe77bea0",
+      "promptSha256": "1db18f3d1fdd54d8932e83acf529e8c51fd89c87290c29f2b37dc025e2dbd146"
+    },
+    {
+      "stratum": "image/thinking",
+      "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\011.jpg",
+      "mediaKind": "image",
+      "model": "qwen3-vl-plus",
+      "questions": [
+        {
+          "id": "108",
+          "file_name": "011.jpg",
+          "question_type": "thinking",
+          "question": "请按表中顺序列出以下字段的答案：授课语言/Language of Instruction、开课院系/School、先修课程/Prerequisite、授课教师/Teacher。",
+          "table_hint": "Course Outline",
+          "answer_format": "json_array"
+        }
+      ],
+      "mediaBytes": 69214,
+      "mediaSha256": "266c74887d61dd18244e641552969a21dd6515c30e7bcbdba2ec1e4ca8edf043",
+      "promptSha256": "658b8f6d1d98dac756a275d0755cb7b98500ebea37d71ae43b1a8c43d571ddeb"
+    },
+    {
+      "stratum": "pdf/extract",
+      "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\006.pdf",
+      "mediaKind": "pdf",
+      "model": "qwen3.8-max",
+      "questions": [
+        {
+          "id": "35",
+          "file_name": "006.pdf",
+          "question_type": "extract",
+          "question": "坏账表中，期末余额中坏账准备中，各个分类的金额是多少",
+          "table_hint": "坏账表中",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "38",
+          "file_name": "006.pdf",
+          "question_type": "extract",
+          "question": "坏账表中，期初余额中坏账准备，各个分类的金额是多少",
+          "table_hint": "坏账表中",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "26",
+          "file_name": "006.pdf",
+          "question_type": "extract",
+          "question": "应收账款表，1年以内账款，期末与期初余额是多少？",
+          "table_hint": "应收账款表",
+          "answer_format": "json_array"
+        }
+      ],
+      "mediaBytes": 463142,
+      "mediaSha256": "6082b1d03404774017a70d60e2ea9cfb4929a15445e9c285332e07df2719b3b8",
+      "promptSha256": "b2fb910a11afc7ce51fe9fbe835ac93c7ccb371f734aa7ec76c308ca9972d1b2"
+    },
+    {
+      "stratum": "pdf/thinking",
+      "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\005.pdf",
+      "mediaKind": "pdf",
+      "model": "qwen3.8-max",
+      "questions": [
+        {
+          "id": "23",
+          "file_name": "005.pdf",
+          "question_type": "thinking",
+          "question": "专项储备，本年度增减是由那些变动引起的？",
+          "table_hint": "",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "22",
+          "file_name": "005.pdf",
+          "question_type": "thinking",
+          "question": "那些项，今年有增减变动？",
+          "table_hint": "",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "24",
+          "file_name": "005.pdf",
+          "question_type": "thinking",
+          "question": "归属母公司股东权益的包含那些部分？",
+          "table_hint": "",
+          "answer_format": "json_array"
+        }
+      ],
+      "mediaBytes": 1419838,
+      "mediaSha256": "0830211f3616de82c9c517a3d47d8c0b3d8027ff4e6910912c781e4a4dff2607",
+      "promptSha256": "04c0ac057ee2851ff188b187bc30559d3b58625c8dee45e2b406ca7bff7b4485"
+    }
+  ],
+  "proposedMaxRequests": 4,
+  "selectedQuestions": 10,
+  "readsPriorAnswers": false,
+  "referenceLabelsAvailable": false,
+  "exportAllowed": false,
+  "submissionAllowed": false,
+  "note": "Official-data format/inference pilot only; no ground-truth accuracy, historical answer import, XLSX export or automatic submission. Plan is not spending authorization.",
+  "digest": "a044a293e475153c7edf67e5c417042cd84da2be0f49811b850f9fd1e67e5f2d"
+}

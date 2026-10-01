@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "248",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "图片为单页有表头表格，适合提取；A、B语义等价，A用中文类型与布尔值更贴合中文字段"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2148,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2090,
+      "text_tokens": 57
+    },
+    "prompt_tokens": 588,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 170,
+      "text_tokens": 418
+    },
+    "total_tokens": 2736
+  },
+  "requestId": "chatcmpl-477effa9-9269-9fe6-a9c9-6abebb7d0f81",
+  "model": "qwen3.8-max-0902"
+}

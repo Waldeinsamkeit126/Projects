@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\064.pdf",
+  "results": [
+    {
+      "id": "609",
+      "source_file": "064.pdf",
+      "resolved_file": "064.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":10,\"col_count\":7,\"cells\":[{\"text\":\"Catchment\",\"row\":0,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"Year\",\"row\":0,\"col\":1,\"rowspan\":2,\"colspan\":1},{\"text\":\"Rainfalla (mm)\",\"row\":0,\"col\":2,\"rowspan\":2,\"colspan\":1},{\"text\":\"Total flow reduction (%)\",\"row\":0,\"col\":3,\"rowspan\":2,\"colspan\":1},{\"text\":\"Low flow reduction (%)\",\"row\":0,\"col\":4,\"rowspan\":2,\"colspan\":1},{\"text\":\"Estimated from Fig. 4\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":2},{\"text\":\"Total flow reduction (%)b\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"Low flow reduction (%)c\",\"row\":1,\"col\":6,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "610",
+      "source_file": "064.pdf",
+      "resolved_file": "064.pdf",
+      "model": "qwen3.8-max",
+      "answer": "21",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "611",
+      "source_file": "064.pdf",
+      "resolved_file": "064.pdf",
+      "model": "qwen3.8-max",
+      "answer": "78",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "612",
+      "source_file": "064.pdf",
+      "resolved_file": "064.pdf",
+      "model": "qwen3.8-max",
+      "answer": "100",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "613",
+      "source_file": "064.pdf",
+      "resolved_file": "064.pdf",
+      "model": "qwen3.8-max",
+      "answer": "1388 (+6)",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "614",
+      "source_file": "064.pdf",
+      "resolved_file": "064.pdf",
+      "model": "qwen3.8-max",
+      "answer": "69",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "615",
+      "source_file": "064.pdf",
+      "resolved_file": "064.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"Metric\":\"Estimated total flow reduction (%)\",\"Value\":\"32\"},{\"Metric\":\"Estimated low flow reduction (%)\",\"Value\":\"35\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "616",
+      "source_file": "064.pdf",
+      "resolved_file": "064.pdf",
+      "model": "qwen3.8-max",
+      "answer": "-9",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "617",
+      "source_file": "064.pdf",
+      "resolved_file": "064.pdf",
+      "model": "qwen3.8-max",
+      "answer": "Redhill",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "618",
+      "source_file": "064.pdf",
+      "resolved_file": "064.pdf",
+      "model": "qwen3.8-max",
+      "answer": "59.5",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

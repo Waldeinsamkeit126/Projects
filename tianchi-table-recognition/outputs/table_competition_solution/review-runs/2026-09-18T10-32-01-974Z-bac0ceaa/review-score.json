@@ -1,0 +1,385 @@
+{
+  "mode": "offline-targeted-review-evaluation",
+  "evaluatedAt": "2026-09-18T10:34:08.802Z",
+  "datasetVersion": "scan-stress-v1",
+  "split": "development",
+  "variant": "clean",
+  "planDigest": "2eca41a9813294d3a67e5736f3b3ac83d6c5dea4f0a54850cf2449ba14ff6b61",
+  "sourceHash": "a143d034045ef916366f36a8cc5f0ff9992ae5f4cd8ac1985a7212cbb3558ae5",
+  "reportSha256": "fd9b4108e168c60258e83bd7f43c2f8ba0933ca9277315cff28f4cfeb5d1f30a",
+  "baselinePredictionsSha256": "e8bf48e9012f54e9f328e0e1458eb40fee87ba0d554b28b5e87d6297125b6ee7",
+  "candidatePredictionsSha256": "53e855011d1d3b6ea6a9381a668ffe6d8134767d7ed528ead1cc8aac22db57d7",
+  "fixtureHash": "97bea6ec9da6bea5367b2471b35d3ae1fd32411ea088c37f4ac32ce15d50ebc4",
+  "manifestSha256": "96e38d9dc2af364f9ce203239d7b1be38f848b69c4775bb0fb4fef387c116b39",
+  "evaluatorSha256": "e1ccf062ce3be02563d57439a3fc57a7abd171e707ad298729bb40d6f23c7175",
+  "plannedQuestions": 4,
+  "attemptedQuestions": 2,
+  "unattemptedQuestions": [
+    "ss-assembly-clean-q1",
+    "ss-assembly-clean-q2"
+  ],
+  "before": {
+    "total": 4,
+    "correct": 0,
+    "formatValid": 4,
+    "missing": 0,
+    "metric": "local-exact-match-v2 (not the official evaluator)",
+    "categories": {
+      "full-structure": {
+        "total": 2,
+        "correct": 0,
+        "formatValid": 2
+      },
+      "partial-structure": {
+        "total": 2,
+        "correct": 0,
+        "formatValid": 2
+      }
+    },
+    "details": [
+      {
+        "id": "ss-budget-clean-q1",
+        "category": "full-structure",
+        "valid": true,
+        "correct": false,
+        "error": "",
+        "outcome": "mismatch",
+        "upstreamError": ""
+      },
+      {
+        "id": "ss-budget-clean-q2",
+        "category": "partial-structure",
+        "valid": true,
+        "correct": false,
+        "error": "",
+        "outcome": "mismatch",
+        "upstreamError": ""
+      },
+      {
+        "id": "ss-assembly-clean-q1",
+        "category": "full-structure",
+        "valid": true,
+        "correct": false,
+        "error": "",
+        "outcome": "mismatch",
+        "upstreamError": ""
+      },
+      {
+        "id": "ss-assembly-clean-q2",
+        "category": "partial-structure",
+        "valid": true,
+        "correct": false,
+        "error": "",
+        "outcome": "mismatch",
+        "upstreamError": ""
+      }
+    ],
+    "missingRecords": 0,
+    "emptyAnswers": 0,
+    "answered": 4,
+    "invalidNonempty": 0,
+    "mismatchedValid": 4,
+    "answerCoverage": 1,
+    "overallExactMatch": 0,
+    "answeredExactMatch": 0,
+    "complete": true,
+    "rateNote": "answeredExactMatch 仅针对非空回答；不代表全量准确率。缺失答案不应归因于识别能力，须结合 upstreamError 和请求记录判断。"
+  },
+  "after": {
+    "total": 4,
+    "correct": 0,
+    "formatValid": 0,
+    "missing": 2,
+    "metric": "local-exact-match-v2 (not the official evaluator)",
+    "categories": {
+      "full-structure": {
+        "total": 2,
+        "correct": 0,
+        "formatValid": 0
+      },
+      "partial-structure": {
+        "total": 2,
+        "correct": 0,
+        "formatValid": 0
+      }
+    },
+    "details": [
+      {
+        "id": "ss-budget-clean-q1",
+        "category": "full-structure",
+        "valid": false,
+        "correct": false,
+        "error": "cells[11] 超出表格范围",
+        "outcome": "invalid-format",
+        "upstreamError": "cells[11] 超出表格范围"
+      },
+      {
+        "id": "ss-budget-clean-q2",
+        "category": "partial-structure",
+        "valid": false,
+        "correct": false,
+        "error": "cells[11] 超出表格范围",
+        "outcome": "invalid-format",
+        "upstreamError": "cells[11] 超出表格范围"
+      },
+      {
+        "id": "ss-assembly-clean-q1",
+        "category": "full-structure",
+        "valid": false,
+        "correct": false,
+        "error": "答案为空或不是字符串",
+        "outcome": "missing-record",
+        "upstreamError": ""
+      },
+      {
+        "id": "ss-assembly-clean-q2",
+        "category": "partial-structure",
+        "valid": false,
+        "correct": false,
+        "error": "答案为空或不是字符串",
+        "outcome": "missing-record",
+        "upstreamError": ""
+      }
+    ],
+    "missingRecords": 2,
+    "emptyAnswers": 0,
+    "answered": 2,
+    "invalidNonempty": 2,
+    "mismatchedValid": 0,
+    "answerCoverage": 0.5,
+    "overallExactMatch": 0,
+    "answeredExactMatch": 0,
+    "complete": false,
+    "rateNote": "answeredExactMatch 仅针对非空回答；不代表全量准确率。缺失答案不应归因于识别能力，须结合 upstreamError 和请求记录判断。"
+  },
+  "transitions": [
+    {
+      "id": "ss-budget-clean-q1",
+      "beforeCorrect": false,
+      "afterCorrect": false,
+      "outcome": "invalid-format",
+      "transition": "still-not-matched",
+      "priorModel": "qwen3.8-max",
+      "reviewModel": "qwen3-vl-plus",
+      "candidatePassedChecks": false,
+      "beforeDifferences": {
+        "dimensions": {
+          "expected": [
+            8,
+            8
+          ],
+          "actual": [
+            8,
+            7
+          ]
+        },
+        "cells": [
+          {
+            "coordinate": "0:5",
+            "field": "colspan",
+            "expected": 3,
+            "actual": 2
+          },
+          {
+            "coordinate": "1:7",
+            "kind": "missing-cell"
+          },
+          {
+            "coordinate": "3:7",
+            "kind": "missing-cell"
+          },
+          {
+            "coordinate": "4:7",
+            "kind": "missing-cell"
+          },
+          {
+            "coordinate": "5:7",
+            "kind": "missing-cell"
+          },
+          {
+            "coordinate": "6:7",
+            "kind": "missing-cell"
+          },
+          {
+            "coordinate": "7:7",
+            "kind": "missing-cell"
+          }
+        ]
+      },
+      "afterDifferences": null
+    },
+    {
+      "id": "ss-budget-clean-q2",
+      "beforeCorrect": false,
+      "afterCorrect": false,
+      "outcome": "invalid-format",
+      "transition": "still-not-matched",
+      "priorModel": "qwen3-vl-plus",
+      "reviewModel": "qwen3-vl-plus",
+      "candidatePassedChecks": false,
+      "beforeDifferences": {
+        "dimensions": {
+          "expected": [
+            8,
+            8
+          ],
+          "actual": [
+            7,
+            8
+          ]
+        },
+        "cells": [
+          {
+            "coordinate": "0:0",
+            "field": "rowspan",
+            "expected": 3,
+            "actual": 1
+          },
+          {
+            "coordinate": "0:1",
+            "field": "rowspan",
+            "expected": 3,
+            "actual": 1
+          },
+          {
+            "coordinate": "1:4",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          },
+          {
+            "coordinate": "1:7",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          }
+        ]
+      },
+      "afterDifferences": null
+    },
+    {
+      "id": "ss-assembly-clean-q1",
+      "beforeCorrect": false,
+      "afterCorrect": false,
+      "outcome": "missing-record",
+      "transition": "not-returned",
+      "priorModel": "qwen3-vl-plus",
+      "reviewModel": null,
+      "candidatePassedChecks": null,
+      "beforeDifferences": {
+        "dimensions": {
+          "expected": [
+            8,
+            6
+          ],
+          "actual": [
+            8,
+            6
+          ]
+        },
+        "cells": [
+          {
+            "coordinate": "0:0",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          },
+          {
+            "coordinate": "0:1",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          },
+          {
+            "coordinate": "0:4",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          },
+          {
+            "coordinate": "0:5",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          }
+        ]
+      },
+      "afterDifferences": null
+    },
+    {
+      "id": "ss-assembly-clean-q2",
+      "beforeCorrect": false,
+      "afterCorrect": false,
+      "outcome": "missing-record",
+      "transition": "not-returned",
+      "priorModel": "qwen3-vl-plus",
+      "reviewModel": null,
+      "candidatePassedChecks": null,
+      "beforeDifferences": {
+        "dimensions": {
+          "expected": [
+            8,
+            6
+          ],
+          "actual": [
+            8,
+            6
+          ]
+        },
+        "cells": [
+          {
+            "coordinate": "0:0",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          },
+          {
+            "coordinate": "0:1",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          },
+          {
+            "coordinate": "0:4",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          },
+          {
+            "coordinate": "0:5",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          }
+        ]
+      },
+      "afterDifferences": null
+    }
+  ],
+  "corrected": 0,
+  "regressed": 0,
+  "evaluatorControls": {
+    "positive": 4,
+    "negative": 0,
+    "note": "评分器自检，不是模型成绩"
+  },
+  "reviewRun": {
+    "runId": "2026-09-18T10-32-01-974Z-bac0ceaa",
+    "status": "stopped",
+    "stopReason": "unresolved-checks",
+    "requests": {
+      "attempts": 1,
+      "successfulResponses": 1,
+      "failedAttempts": 0,
+      "sumRequestLatencyMs": 71522,
+      "reportedTotalTokens": 4191,
+      "responsesWithoutUsage": 0,
+      "costCny": null,
+      "costNote": "未接入账单；失败请求也可能计费，token 汇总不是账单金额"
+    }
+  },
+  "evaluationApiRequests": 0,
+  "baselineModified": false,
+  "leaderboardScore": null,
+  "limitation": "已分析的合成开发集上的定向复核，不是独立盲测或同预算 A/B；旧最终答案的模型可能不同，不能将差异归因于单一提示策略。缺答计入固定计划分母，但未调用题不属于识别错误。"
+}

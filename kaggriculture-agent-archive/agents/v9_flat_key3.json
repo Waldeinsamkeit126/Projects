@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v9_p1_tinycow80\\main.py",
+    "games": 3,
+    "wins": 1,
+    "mean_score": 96543.66666666667,
+    "mean_margin": 32590.333333333332,
+    "mean_score_delta": 15532.333333333334,
+    "mean_margin_delta": 42188.666666666664,
+    "median_margin_delta": 10305.0,
+    "max_action_seconds": 0.11747009999817237,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89661600,
+      "opponent": "Nolan Liang",
+      "seed": 1068324647,
+      "position": 1,
+      "ours": 96130.0,
+      "theirs": 99649.0,
+      "margin": -3519.0,
+      "win": false,
+      "original_ours": 94776.0,
+      "original_theirs": 98891.0,
+      "original_margin": -4115.0,
+      "score_delta": 1354.0,
+      "margin_delta": 596.0,
+      "elapsed_seconds": 3.7511031999601983,
+      "max_action_seconds": 0.005623800039757043,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90152108,
+      "opponent": "Nolan Liang",
+      "seed": 1487444470,
+      "position": 1,
+      "ours": 80516.0,
+      "theirs": 86708.0,
+      "margin": -6192.0,
+      "win": false,
+      "original_ours": 82068.0,
+      "original_theirs": 98565.0,
+      "original_margin": -16497.0,
+      "score_delta": -1552.0,
+      "margin_delta": 10305.0,
+      "elapsed_seconds": 4.083730500016827,
+      "max_action_seconds": 0.07404879998648539,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90152788,
+      "opponent": "LGarcia10",
+      "seed": 191802636,
+      "position": 1,
+      "ours": 112985.0,
+      "theirs": 5503.0,
+      "margin": 107482.0,
+      "win": true,
+      "original_ours": 66190.0,
+      "original_theirs": 74373.0,
+      "original_margin": -8183.0,
+      "score_delta": 46795.0,
+      "margin_delta": 115665.0,
+      "elapsed_seconds": 3.9612273999955505,
+      "max_action_seconds": 0.11747009999817237,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

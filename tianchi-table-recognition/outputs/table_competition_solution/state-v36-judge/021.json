@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "199",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表头明确为Material，无B选项文本"
+    },
+    {
+      "id": "208",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "绿色单元格共16个，B计数错误；2HM对应具体数值0.450"
+    }
+  ],
+  "usage": {
+    "total_tokens": 1876,
+    "completion_tokens": 577,
+    "prompt_tokens": 1299,
+    "completion_tokens_details": {
+      "reasoning_tokens": 499,
+      "text_tokens": 77
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 914,
+      "cached_tokens": 0,
+      "text_tokens": 385
+    }
+  },
+  "requestId": "chatcmpl-bfe4b432-4988-96ec-a0b6-ec95ba07549b"
+}

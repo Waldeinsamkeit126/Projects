@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\051.jpg",
+  "results": [
+    {
+      "id": "479",
+      "source_file": "051.jpg",
+      "resolved_file": "051.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "标记唛码及备注",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "480",
+      "source_file": "051.jpg",
+      "resolved_file": "051.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "481",
+      "source_file": "051.jpg",
+      "resolved_file": "051.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "10",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "482",
+      "source_file": "051.jpg",
+      "resolved_file": "051.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "境外收货人",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "483",
+      "source_file": "051.jpg",
+      "resolved_file": "051.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "杂费",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "484",
+      "source_file": "051.jpg",
+      "resolved_file": "051.jpg",
+      "model": "qwen3.8-max",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "485",
+      "source_file": "051.jpg",
+      "resolved_file": "051.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "486",
+      "source_file": "051.jpg",
+      "resolved_file": "051.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "否",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "487",
+      "source_file": "051.jpg",
+      "resolved_file": "051.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "488",
+      "source_file": "051.jpg",
+      "resolved_file": "051.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"表格主色\":\"\",\"是否含税率列\":false,\"是否含日期字段\":true,\"是否含签字栏\":true}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

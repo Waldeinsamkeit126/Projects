@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "438",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A的字段名使用中文，更贴近题目表述；两者数值均正确"
+    }
+  ],
+  "usage": {
+    "total_tokens": 1146,
+    "completion_tokens": 509,
+    "prompt_tokens": 637,
+    "completion_tokens_details": {
+      "reasoning_tokens": 465,
+      "text_tokens": 43
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 272,
+      "cached_tokens": 0,
+      "text_tokens": 365
+    }
+  },
+  "requestId": "chatcmpl-31b90c5d-0d47-9947-9f13-e72303934d99"
+}

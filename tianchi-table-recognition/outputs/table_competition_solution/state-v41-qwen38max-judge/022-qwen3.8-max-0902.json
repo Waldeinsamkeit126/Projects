@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "id": "212",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "表头行最左侧非空表头为Estimated actual 2011-12，ASSETS是主体行标签而非表头"
+    },
+    {
+      "id": "218",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "三个数值两候选一致；表头五列均含estimate/estimated，估算年度列数应为5"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 6349,
+    "completion_tokens_details": {
+      "reasoning_tokens": 6250,
+      "text_tokens": 98
+    },
+    "prompt_tokens": 864,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 306,
+      "text_tokens": 558
+    },
+    "total_tokens": 7213
+  },
+  "requestId": "chatcmpl-e8a04b8a-2a9b-9777-a3e0-4aed5e50cd86",
+  "model": "qwen3.8-max-0902"
+}

@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\055.jpg",
+  "results": [
+    {
+      "id": "519",
+      "source_file": "055.jpg",
+      "resolved_file": "055.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "套餐表",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "520",
+      "source_file": "055.jpg",
+      "resolved_file": "055.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "522",
+      "source_file": "055.jpg",
+      "resolved_file": "055.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "套餐",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "523",
+      "source_file": "055.jpg",
+      "resolved_file": "055.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "活动价",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "524",
+      "source_file": "055.jpg",
+      "resolved_file": "055.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "官方标配(原封)",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "525",
+      "source_file": "055.jpg",
+      "resolved_file": "055.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "526",
+      "source_file": "055.jpg",
+      "resolved_file": "055.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "527",
+      "source_file": "055.jpg",
+      "resolved_file": "055.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "528",
+      "source_file": "055.jpg",
+      "resolved_file": "055.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"最低活动价\":\"20299\",\"最高活动价\":\"79999\",\"备注中含退换规则\":\"3年内非人为原因质量问题硬件免费换新\",\"表格下方说明条数\":\"3\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

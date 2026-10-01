@@ -1,0 +1,257 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\010.png",
+  "results": [
+    {
+      "id": "71",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "晚间休息",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "72",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "机会发现",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "73",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "产品开发推进",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "74",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "30",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "75",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"事项\":\"发布成果与成长\",\"描述\":\"颁发证书与荣誉奖项\",\"标签\":\"结营证书+项目档案\"},{\"事项\":\"家长结营交接\",\"描述\":\"有序返程\",\"标签\":\"\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "76",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "产品原型v1.0",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "77",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "Day 6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "78",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "120",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "79",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "0.5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "80",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "晚间休息",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "81",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "82",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Day\":\"Day 2\",\"Content\":\"评审记录\"},{\"Day\":\"Day 4\",\"Content\":\"评审记录\"},{\"Day\":\"Day 5\",\"Content\":\"评审记录\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "83",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Day\":\"Day 4\",\"Content\":\"产品开发推进\"},{\"Day\":\"Day 5\",\"Content\":\"基于价值分析\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "84",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "85",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "迭代与表达",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "86",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "路演与成果",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "87",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "AI应用商业探索",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "88",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "Business",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "89",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"任务名称\":\"用户验证实验\",\"任务描述\":\"验证有效性并收集数据反馈\",\"成果/模块\":\"成果：测试数据\"},{\"任务名称\":\"基于数据分析\",\"任务描述\":\"完成产品迭代\",\"成果/模块\":\"成果：原型v3.0\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "90",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"事项\":\"发布成果与成长\",\"描述\":\"颁发证书与荣誉奖项\",\"标签\":\"结营证书+项目档案\"},{\"事项\":\"家长结营交接\",\"描述\":\"有序返程\",\"标签\":\"\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "91",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "120",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "92",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "90",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "93",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Day\":\"Day 2\",\"Time\":\"19:00-21:00\",\"Content\":\"导师评审项目方向\",\"Output\":\"评审记录\"},{\"Day\":\"Day 4\",\"Time\":\"19:00-21:00\",\"Content\":\"产品评审\",\"Output\":\"评审记录\"},{\"Day\":\"Day 5\",\"Time\":\"19:00-21:00\",\"Content\":\"路演演练\",\"Output\":\"评审记录\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "94",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Day\":\"Day 1\",\"Content\":\"营地集结与入场\\n进行科学团队破冰与角色赋能\\n成果启动：项目立项\"},{\"Day\":\"Day 3\",\"Content\":\"功能与流程设计\\n明确产品逻辑\\n成果：产品逻辑图\"},{\"Day\":\"Day 4\",\"Content\":\"用户验证实验\\n验证有效性并收集数据反馈\\n成果：测试数据\"},{\"Day\":\"Day 5\",\"Content\":\"基于价值分析\\n完成产品终版调优\\n成果：原型v4.0\"},{\"Day\":\"Day 6\",\"Content\":\"发布成果与成长\\n颁发证书与荣誉奖项\\n结营证书+项目档案\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "95",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "开发方案+技术路径",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "96",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "成果：产品原型v2.0",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "97",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "98",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Day\":\"Day 2\",\"BP模块标签\":\"BP模块：Problem\"},{\"Day\":\"Day 3\",\"BP模块标签\":\"BP模块：Product\"},{\"Day\":\"Day 5\",\"BP模块标签\":\"BP模块：Business\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

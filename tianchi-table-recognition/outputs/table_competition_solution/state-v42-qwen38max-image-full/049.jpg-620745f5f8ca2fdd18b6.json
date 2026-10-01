@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\049.jpg",
+  "results": [
+    {
+      "id": "469",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "商品数据",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "470",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "471",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "472",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "尺码",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "473",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "XL",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "474",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "耐克",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "475",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "聚酯纤维",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "476",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "中国 829510 -678",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "477",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "印尼 829509 -678",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "478",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"洗涤建议\":\"冷水机洗\"},{\"衣长\":\"77\"},{\"胸围\":\"95\"},{\"适合身高\":\"175-185\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

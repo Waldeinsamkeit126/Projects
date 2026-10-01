@@ -1,0 +1,3435 @@
+{
+  "player": "KAKA Minishijie",
+  "episode_count": 6,
+  "wins": 0,
+  "losses": 6,
+  "group_summary": {
+    "loss": {
+      "games": 6,
+      "player_reward_mean": 84895.333,
+      "opponent_reward_mean": 98564.5,
+      "margin_mean": -13669.167,
+      "player_day0_money_mean": 255.0,
+      "player_day0_animals_mean": 4.667,
+      "player_day0_crops_mean": 7.0,
+      "player_day5_money_mean": 254.667,
+      "player_day5_animals_mean": 5.0,
+      "player_day5_crops_mean": 12.333,
+      "player_day10_money_mean": 648.167,
+      "player_day10_animals_mean": 11.0,
+      "player_day10_crops_mean": 21.0,
+      "player_day15_money_mean": 14001.5,
+      "player_day15_animals_mean": 15.333,
+      "player_day15_crops_mean": 17.333,
+      "player_day20_money_mean": 41807.167,
+      "player_day20_animals_mean": 17.0,
+      "player_day20_crops_mean": 17.0,
+      "player_day25_money_mean": 63457.0,
+      "player_day25_animals_mean": 17.0,
+      "player_day25_crops_mean": 14.5,
+      "player_day29_money_mean": 84895.333,
+      "player_day29_animals_mean": 17.0,
+      "player_day29_crops_mean": 0.0,
+      "opponent_day0_money_mean": 158.5,
+      "opponent_day0_animals_mean": 3.667,
+      "opponent_day0_crops_mean": 12.5,
+      "opponent_day5_money_mean": 456.167,
+      "opponent_day5_animals_mean": 3.667,
+      "opponent_day5_crops_mean": 17.667,
+      "opponent_day10_money_mean": 4087.667,
+      "opponent_day10_animals_mean": 8.833,
+      "opponent_day10_crops_mean": 28.167,
+      "opponent_day15_money_mean": 14569.5,
+      "opponent_day15_animals_mean": 12.5,
+      "opponent_day15_crops_mean": 49.667,
+      "opponent_day20_money_mean": 34150.0,
+      "opponent_day20_animals_mean": 12.667,
+      "opponent_day20_crops_mean": 41.667,
+      "opponent_day25_money_mean": 60155.333,
+      "opponent_day25_animals_mean": 12.667,
+      "opponent_day25_crops_mean": 33.667,
+      "opponent_day29_money_mean": 98564.5,
+      "opponent_day29_animals_mean": 12.667,
+      "opponent_day29_crops_mean": 12.667
+    },
+    "all": {
+      "games": 6,
+      "player_reward_mean": 84895.333,
+      "opponent_reward_mean": 98564.5,
+      "margin_mean": -13669.167,
+      "player_day0_money_mean": 255.0,
+      "player_day0_animals_mean": 4.667,
+      "player_day0_crops_mean": 7.0,
+      "player_day5_money_mean": 254.667,
+      "player_day5_animals_mean": 5.0,
+      "player_day5_crops_mean": 12.333,
+      "player_day10_money_mean": 648.167,
+      "player_day10_animals_mean": 11.0,
+      "player_day10_crops_mean": 21.0,
+      "player_day15_money_mean": 14001.5,
+      "player_day15_animals_mean": 15.333,
+      "player_day15_crops_mean": 17.333,
+      "player_day20_money_mean": 41807.167,
+      "player_day20_animals_mean": 17.0,
+      "player_day20_crops_mean": 17.0,
+      "player_day25_money_mean": 63457.0,
+      "player_day25_animals_mean": 17.0,
+      "player_day25_crops_mean": 14.5,
+      "player_day29_money_mean": 84895.333,
+      "player_day29_animals_mean": 17.0,
+      "player_day29_crops_mean": 0.0,
+      "opponent_day0_money_mean": 158.5,
+      "opponent_day0_animals_mean": 3.667,
+      "opponent_day0_crops_mean": 12.5,
+      "opponent_day5_money_mean": 456.167,
+      "opponent_day5_animals_mean": 3.667,
+      "opponent_day5_crops_mean": 17.667,
+      "opponent_day10_money_mean": 4087.667,
+      "opponent_day10_animals_mean": 8.833,
+      "opponent_day10_crops_mean": 28.167,
+      "opponent_day15_money_mean": 14569.5,
+      "opponent_day15_animals_mean": 12.5,
+      "opponent_day15_crops_mean": 49.667,
+      "opponent_day20_money_mean": 34150.0,
+      "opponent_day20_animals_mean": 12.667,
+      "opponent_day20_crops_mean": 41.667,
+      "opponent_day25_money_mean": 60155.333,
+      "opponent_day25_animals_mean": 12.667,
+      "opponent_day25_crops_mean": 33.667,
+      "opponent_day29_money_mean": 98564.5,
+      "opponent_day29_animals_mean": 12.667,
+      "opponent_day29_crops_mean": 12.667
+    }
+  },
+  "episodes": [
+    {
+      "episode_id": 89486601,
+      "episode_uuid": "1ea69ea0-8e4d-11f1-b9d6-0242ac130202",
+      "seed": 1706630155,
+      "result": "loss",
+      "margin": -5811.0,
+      "player_index": 0,
+      "player": {
+        "name": "KAKA Minishijie",
+        "reward": 78539.0,
+        "action_counts": {
+          "BUILD_PASTURE": 17,
+          "BUY_ANIMAL": 12,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT": 201,
+          "BUY_SEED": 69,
+          "CARE": 375,
+          "COLLECT_FERTILIZER": 359,
+          "DIG": 5,
+          "DROP": 21,
+          "EAST": 1019,
+          "FEED": 373,
+          "HARVEST": 184,
+          "HIRE": 358,
+          "NORTH": 1384,
+          "PASS": 2569,
+          "PICKUP": 100,
+          "PLACE": 17,
+          "PLANT": 70,
+          "SELL": 146,
+          "SOUTH": 688,
+          "WATER": 485,
+          "WEST": 1141
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 13,
+          "BUY_ANIMAL:SHEEP": 5,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT:WHEAT": 305,
+          "BUY_SEED:CARROT": 32,
+          "BUY_SEED:MELON": 35,
+          "BUY_SEED:WHEAT": 35,
+          "SELL:CARROT": 52,
+          "SELL:FERTILIZER": 352,
+          "SELL:MELON": 162,
+          "SELL:MILK": 297,
+          "SELL:WHEAT": 28,
+          "SELL:WOOL": 118
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 219,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 2,
+          "CARE": 4,
+          "COLLECT_FERTILIZER": 36,
+          "DIG": 38,
+          "DROP": 703,
+          "EAST": 8,
+          "FEED": 5,
+          "HARVEST": 81,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 2,
+          "PLACE": 3,
+          "PLANT": 5,
+          "SELL": 49,
+          "SOUTH": 8,
+          "WATER": 6,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 9,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 1,
+          "DROP": 29,
+          "EAST": 0,
+          "FEED": 0,
+          "HARVEST": 3,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 2,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 255.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 5,
+              "PLANT": 7
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 2,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 5
+            }
+          },
+          "5": {
+            "money": 258.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 8,
+              "PLANT": 13
+            },
+            "crops": {
+              "MELON": 11,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 19
+            }
+          },
+          "10": {
+            "money": 1254.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 23
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 19,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 8,
+              "SHEEP": 3
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 23
+            }
+          },
+          "15": {
+            "money": 17598.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 16,
+              "PLANT": 16
+            },
+            "crops": {
+              "MELON": 13,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 10,
+              "COW_SHED": 1,
+              "SHEEP": 5
+            },
+            "animal_health": {
+              "unfed": 1
+            },
+            "shed": {
+              "COW": 1,
+              "WHEAT": 28
+            }
+          },
+          "20": {
+            "money": 45314.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17,
+              "PLANT": 18
+            },
+            "crops": {
+              "CARROT": 7,
+              "MELON": 6,
+              "WHEAT": 5
+            },
+            "animals": {
+              "COW": 12,
+              "SHEEP": 5
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 33
+            }
+          },
+          "25": {
+            "money": 59604.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17,
+              "PLANT": 10
+            },
+            "crops": {
+              "CARROT": 3,
+              "MELON": 3,
+              "WHEAT": 4
+            },
+            "animals": {
+              "COW": 12,
+              "SHEEP": 5
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 30
+            }
+          },
+          "29": {
+            "money": 78539.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17
+            },
+            "crops": {},
+            "animals": {
+              "COW": 12,
+              "SHEEP": 5
+            },
+            "animal_health": {
+              "unfed": 1
+            },
+            "shed": {
+              "FERTILIZER": 1
+            }
+          }
+        },
+        "final": {
+          "money": 78539.0,
+          "hands": 12,
+          "unlocked_quadrants": 2,
+          "tile_kinds": {
+            "PASTURE": 17
+          },
+          "crops": {},
+          "animals": {
+            "COW": 12,
+            "SHEEP": 5
+          },
+          "animal_health": {
+            "unfed": 1
+          },
+          "shed": {
+            "FERTILIZER": 1
+          }
+        }
+      },
+      "opponent": {
+        "name": "Nur Srijan",
+        "reward": 84350.0,
+        "action_counts": {
+          "BUILD_PASTURE": 12,
+          "BUY_ANIMAL": 8,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT": 123,
+          "BUY_SEED": 41,
+          "CARE": 210,
+          "COLLECT_FERTILIZER": 221,
+          "DIG": 20,
+          "DROP": 1,
+          "EAST": 586,
+          "FEED": 247,
+          "FERTILIZE": 64,
+          "HARVEST": 164,
+          "HIRE": 253,
+          "NORTH": 970,
+          "PASS": 1566,
+          "PICKUP": 211,
+          "PLACE": 12,
+          "PLANT": 78,
+          "SELL": 98,
+          "SOUTH": 313,
+          "WATER": 766,
+          "WEST": 984
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 7,
+          "BUY_ANIMAL:SHEEP": 6,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT:WHEAT": 313,
+          "BUY_SEED:CARROT": 16,
+          "BUY_SEED:MELON": 22,
+          "BUY_SEED:STRAWBERRY": 40,
+          "BUY_SEED:WHEAT": 30,
+          "SELL:CARROT": 42,
+          "SELL:FERTILIZER": 150,
+          "SELL:MELON": 95,
+          "SELL:MILK": 150,
+          "SELL:STRAWBERRY": 131,
+          "SELL:WHEAT": 148,
+          "SELL:WOOL": 106
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 170,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 1,
+          "CARE": 7,
+          "COLLECT_FERTILIZER": 26,
+          "DIG": 235,
+          "DROP": 713,
+          "EAST": 8,
+          "FEED": 6,
+          "FERTILIZE": 128,
+          "HARVEST": 85,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 3,
+          "PLACE": 4,
+          "PLANT": 5,
+          "SELL": 73,
+          "SOUTH": 4,
+          "WATER": 6,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 7,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 9,
+          "DROP": 29,
+          "EAST": 0,
+          "FEED": 0,
+          "FERTILIZE": 5,
+          "HARVEST": 3,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 3,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 30.0,
+            "hands": 6,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 4,
+              "PLANT": 13
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 11
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 2
+            },
+            "animal_health": {},
+            "shed": {}
+          },
+          "5": {
+            "money": 30.0,
+            "hands": 9,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 4,
+              "PLANT": 16
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 11,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 2
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 3
+            }
+          },
+          "10": {
+            "money": 73.0,
+            "hands": 9,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 8,
+              "PLANT": 31
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 11,
+              "STRAWBERRY": 13,
+              "WHEAT": 5
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 2
+            },
+            "animal_health": {
+              "uncared_today": 1
+            },
+            "shed": {
+              "FERTILIZER": 6,
+              "WHEAT": 6
+            }
+          },
+          "15": {
+            "money": 12168.0,
+            "hands": 10,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 39
+            },
+            "crops": {
+              "CARROT": 3,
+              "MELON": 10,
+              "STRAWBERRY": 19,
+              "WHEAT": 7
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 5,
+              "SHEEP_SHED": 1
+            },
+            "animal_health": {
+              "uncared_today": 2
+            },
+            "shed": {
+              "FERTILIZER": 6,
+              "SHEEP": 1,
+              "WHEAT": 11
+            }
+          },
+          "20": {
+            "money": 27161.0,
+            "hands": 10,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 37
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 10,
+              "STRAWBERRY": 20,
+              "WHEAT": 5
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 5,
+              "SHEEP_SHED": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 6,
+              "SHEEP": 1,
+              "WHEAT": 11
+            }
+          },
+          "25": {
+            "money": 48523.0,
+            "hands": 10,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 31,
+              "WEED": 3
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 8,
+              "STRAWBERRY": 20,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 5,
+              "SHEEP_SHED": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 4,
+              "SHEEP": 1,
+              "WHEAT": 11
+            }
+          },
+          "29": {
+            "money": 84350.0,
+            "hands": 0,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 6
+            },
+            "crops": {
+              "STRAWBERRY": 6
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 5,
+              "SHEEP_SHED": 1
+            },
+            "animal_health": {
+              "uncared_today": 11
+            },
+            "shed": {
+              "SHEEP": 1
+            }
+          }
+        },
+        "final": {
+          "money": 84350.0,
+          "hands": 0,
+          "unlocked_quadrants": 3,
+          "tile_kinds": {
+            "PASTURE": 12,
+            "PLANT": 6
+          },
+          "crops": {
+            "STRAWBERRY": 6
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 5,
+            "SHEEP_SHED": 1
+          },
+          "animal_health": {
+            "uncared_today": 11
+          },
+          "shed": {
+            "SHEEP": 1
+          }
+        }
+      }
+    },
+    {
+      "episode_id": 89486052,
+      "episode_uuid": "8e7b25f8-8e4c-11f1-9db2-0242ac130203",
+      "seed": 1805005444,
+      "result": "loss",
+      "margin": -3792.0,
+      "player_index": 0,
+      "player": {
+        "name": "KAKA Minishijie",
+        "reward": 96256.0,
+        "action_counts": {
+          "BUILD_PASTURE": 17,
+          "BUY_ANIMAL": 12,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT": 187,
+          "BUY_SEED": 70,
+          "CARE": 378,
+          "COLLECT_FERTILIZER": 362,
+          "DIG": 2,
+          "DROP": 24,
+          "EAST": 1097,
+          "FEED": 372,
+          "HARVEST": 188,
+          "HIRE": 359,
+          "NORTH": 1311,
+          "PASS": 2589,
+          "PICKUP": 97,
+          "PLACE": 17,
+          "PLANT": 69,
+          "SELL": 154,
+          "SOUTH": 646,
+          "WATER": 487,
+          "WEST": 1172
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 13,
+          "BUY_ANIMAL:SHEEP": 4,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT:WHEAT": 302,
+          "BUY_SEED:CARROT": 30,
+          "BUY_SEED:MELON": 35,
+          "BUY_SEED:WHEAT": 34,
+          "SELL:CARROT": 51,
+          "SELL:FERTILIZER": 354,
+          "SELL:MELON": 156,
+          "SELL:MILK": 324,
+          "SELL:WHEAT": 28,
+          "SELL:WOOL": 97
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 219,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 2,
+          "CARE": 4,
+          "COLLECT_FERTILIZER": 36,
+          "DIG": 479,
+          "DROP": 699,
+          "EAST": 8,
+          "FEED": 5,
+          "HARVEST": 81,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 2,
+          "PLACE": 3,
+          "PLANT": 5,
+          "SELL": 49,
+          "SOUTH": 8,
+          "WATER": 6,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 9,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 19,
+          "DROP": 29,
+          "EAST": 0,
+          "FEED": 0,
+          "HARVEST": 3,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 2,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 255.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 5,
+              "PLANT": 7
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 2,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 5
+            }
+          },
+          "5": {
+            "money": 253.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 8,
+              "PLANT": 13
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 10,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 20
+            }
+          },
+          "10": {
+            "money": 725.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 21
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 18,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 8,
+              "SHEEP": 3,
+              "SHEEP_SHED": 1
+            },
+            "animal_health": {
+              "unfed": 1
+            },
+            "shed": {
+              "SHEEP": 1,
+              "WHEAT": 26
+            }
+          },
+          "15": {
+            "money": 17144.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 16,
+              "PLANT": 18
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 13,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 12,
+              "SHEEP": 4
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 30
+            }
+          },
+          "20": {
+            "money": 45689.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17,
+              "PLANT": 15
+            },
+            "crops": {
+              "CARROT": 3,
+              "MELON": 8,
+              "WHEAT": 4
+            },
+            "animals": {
+              "COW": 13,
+              "SHEEP": 4
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 30,
+              "WOOL": 1
+            }
+          },
+          "25": {
+            "money": 69604.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17,
+              "PLANT": 16
+            },
+            "crops": {
+              "CARROT": 6,
+              "MELON": 5,
+              "WHEAT": 5
+            },
+            "animals": {
+              "COW": 13,
+              "SHEEP": 4
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 26
+            }
+          },
+          "29": {
+            "money": 96256.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17
+            },
+            "crops": {},
+            "animals": {
+              "COW": 13,
+              "SHEEP": 4
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 1
+            }
+          }
+        },
+        "final": {
+          "money": 96256.0,
+          "hands": 12,
+          "unlocked_quadrants": 2,
+          "tile_kinds": {
+            "PASTURE": 17
+          },
+          "crops": {},
+          "animals": {
+            "COW": 13,
+            "SHEEP": 4
+          },
+          "animal_health": {},
+          "shed": {
+            "FERTILIZER": 1
+          }
+        }
+      },
+      "opponent": {
+        "name": "Enrico Ambrosio",
+        "reward": 100048.0,
+        "action_counts": {
+          "BUILD_PASTURE": 12,
+          "BUY_ANIMAL": 8,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT": 97,
+          "BUY_SEED": 49,
+          "CARE": 269,
+          "COLLECT_FERTILIZER": 281,
+          "DIG": 20,
+          "DROP": 11,
+          "EAST": 601,
+          "FEED": 293,
+          "FERTILIZE": 112,
+          "HARVEST": 188,
+          "HIRE": 266,
+          "NORTH": 915,
+          "PASS": 1623,
+          "PICKUP": 232,
+          "PLACE": 12,
+          "PLANT": 79,
+          "SELL": 99,
+          "SOUTH": 311,
+          "WATER": 793,
+          "WEST": 938
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 6,
+          "BUY_ANIMAL:SHEEP": 6,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT:WHEAT": 318,
+          "BUY_SEED:CARROT": 54,
+          "BUY_SEED:MELON": 22,
+          "BUY_SEED:STRAWBERRY": 44,
+          "BUY_SEED:WHEAT": 19,
+          "SELL:CARROT": 35,
+          "SELL:FERTILIZER": 164,
+          "SELL:MELON": 76,
+          "SELL:MILK": 171,
+          "SELL:STRAWBERRY": 152,
+          "SELL:WHEAT": 70,
+          "SELL:WOOL": 152
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 170,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 1,
+          "CARE": 7,
+          "COLLECT_FERTILIZER": 26,
+          "DIG": 283,
+          "DROP": 714,
+          "EAST": 155,
+          "FEED": 6,
+          "FERTILIZE": 306,
+          "HARVEST": 85,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 3,
+          "PLACE": 4,
+          "PLANT": 5,
+          "SELL": 49,
+          "SOUTH": 5,
+          "WATER": 6,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 7,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 11,
+          "DROP": 29,
+          "EAST": 6,
+          "FEED": 0,
+          "FERTILIZE": 12,
+          "HARVEST": 3,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 2,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 37.0,
+            "hands": 7,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 4,
+              "PLANT": 12
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 11
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 2
+            },
+            "animal_health": {},
+            "shed": {}
+          },
+          "5": {
+            "money": 113.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 4,
+              "PLANT": 18
+            },
+            "crops": {
+              "CARROT": 4,
+              "MELON": 11,
+              "STRAWBERRY": 1,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 2
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 5
+            }
+          },
+          "10": {
+            "money": 10.0,
+            "hands": 3,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 28
+            },
+            "crops": {
+              "CARROT": 3,
+              "MELON": 11,
+              "STRAWBERRY": 9,
+              "WHEAT": 5
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 6
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 6,
+              "WHEAT": 15
+            }
+          },
+          "15": {
+            "money": 13220.0,
+            "hands": 10,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 42
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 11,
+              "STRAWBERRY": 25,
+              "WHEAT": 4
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 6
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 6,
+              "WHEAT": 11
+            }
+          },
+          "20": {
+            "money": 33302.0,
+            "hands": 10,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 37
+            },
+            "crops": {
+              "MELON": 11,
+              "STRAWBERRY": 25,
+              "WHEAT": 1
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 6
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 6,
+              "WHEAT": 11
+            }
+          },
+          "25": {
+            "money": 49031.0,
+            "hands": 10,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 22
+            },
+            "crops": {
+              "STRAWBERRY": 20,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 6
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 6,
+              "WHEAT": 11
+            }
+          },
+          "29": {
+            "money": 100048.0,
+            "hands": 10,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 20
+            },
+            "crops": {
+              "STRAWBERRY": 20
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 6
+            },
+            "animal_health": {
+              "uncared_today": 12
+            },
+            "shed": {}
+          }
+        },
+        "final": {
+          "money": 100048.0,
+          "hands": 10,
+          "unlocked_quadrants": 3,
+          "tile_kinds": {
+            "PASTURE": 12,
+            "PLANT": 20
+          },
+          "crops": {
+            "STRAWBERRY": 20
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 6
+          },
+          "animal_health": {
+            "uncared_today": 12
+          },
+          "shed": {}
+        }
+      }
+    },
+    {
+      "episode_id": 89485498,
+      "episode_uuid": "fe181bba-8e4b-11f1-bb10-0242ac130202",
+      "seed": 425022464,
+      "result": "loss",
+      "margin": -5824.0,
+      "player_index": 0,
+      "player": {
+        "name": "KAKA Minishijie",
+        "reward": 71782.0,
+        "action_counts": {
+          "BUILD_COOP": 1,
+          "BUILD_PASTURE": 16,
+          "BUY_ANIMAL": 13,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT": 168,
+          "BUY_SEED": 71,
+          "CARE": 374,
+          "COLLECT_FERTILIZER": 357,
+          "DIG": 4,
+          "DROP": 22,
+          "EAST": 953,
+          "FEED": 358,
+          "HARVEST": 192,
+          "HIRE": 361,
+          "NORTH": 1416,
+          "PASS": 2642,
+          "PICKUP": 99,
+          "PLACE": 17,
+          "PLANT": 75,
+          "SELL": 160,
+          "SOUTH": 693,
+          "WATER": 494,
+          "WEST": 1137
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 8,
+          "BUY_ANIMAL:GOOSE": 1,
+          "BUY_ANIMAL:SHEEP": 10,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT:WHEAT": 285,
+          "BUY_SEED:CARROT": 31,
+          "BUY_SEED:MELON": 36,
+          "BUY_SEED:WHEAT": 40,
+          "SELL:CARROT": 54,
+          "SELL:EGG": 23,
+          "SELL:FERTILIZER": 349,
+          "SELL:MELON": 135,
+          "SELL:MILK": 195,
+          "SELL:WHEAT": 38,
+          "SELL:WOOL": 199
+        },
+        "first_step": {
+          "BUILD_COOP": 376,
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 219,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 2,
+          "CARE": 4,
+          "COLLECT_FERTILIZER": 34,
+          "DIG": 526,
+          "DROP": 703,
+          "EAST": 8,
+          "FEED": 5,
+          "HARVEST": 82,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 2,
+          "PLACE": 3,
+          "PLANT": 5,
+          "SELL": 49,
+          "SOUTH": 8,
+          "WATER": 6,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_COOP": 15,
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 9,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 21,
+          "DROP": 29,
+          "EAST": 0,
+          "FEED": 0,
+          "HARVEST": 3,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 2,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 255.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 5,
+              "PLANT": 7
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 2,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 3,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 6
+            }
+          },
+          "5": {
+            "money": 256.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 8,
+              "PLANT": 11
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 9,
+              "WHEAT": 1
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 20
+            }
+          },
+          "10": {
+            "money": 253.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 17
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 14,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 6,
+              "SHEEP": 5
+            },
+            "animal_health": {
+              "unfed": 1
+            },
+            "shed": {
+              "WHEAT": 13
+            }
+          },
+          "15": {
+            "money": 7420.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "COOP": 1,
+              "PASTURE": 15,
+              "PLANT": 19
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 14,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 6,
+              "COW_SHED": 1,
+              "GOOSE": 1,
+              "SHEEP": 9
+            },
+            "animal_health": {},
+            "shed": {
+              "COW": 1,
+              "WHEAT": 33
+            }
+          },
+          "20": {
+            "money": 30841.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "COOP": 1,
+              "PASTURE": 16,
+              "PLANT": 18
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 10,
+              "WHEAT": 6
+            },
+            "animals": {
+              "COW": 6,
+              "COW_SHED": 2,
+              "GOOSE": 1,
+              "SHEEP": 10
+            },
+            "animal_health": {},
+            "shed": {
+              "COW": 2,
+              "WHEAT": 34
+            }
+          },
+          "25": {
+            "money": 54216.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "COOP": 1,
+              "PASTURE": 16,
+              "PLANT": 17
+            },
+            "crops": {
+              "CARROT": 7,
+              "MELON": 3,
+              "WHEAT": 7
+            },
+            "animals": {
+              "COW": 6,
+              "COW_SHED": 2,
+              "GOOSE": 1,
+              "SHEEP": 10
+            },
+            "animal_health": {},
+            "shed": {
+              "COW": 2,
+              "WHEAT": 35
+            }
+          },
+          "29": {
+            "money": 71782.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "COOP": 1,
+              "PASTURE": 16
+            },
+            "crops": {},
+            "animals": {
+              "COW": 6,
+              "COW_SHED": 2,
+              "GOOSE": 1,
+              "SHEEP": 10
+            },
+            "animal_health": {},
+            "shed": {
+              "COW": 2
+            }
+          }
+        },
+        "final": {
+          "money": 71782.0,
+          "hands": 12,
+          "unlocked_quadrants": 2,
+          "tile_kinds": {
+            "COOP": 1,
+            "PASTURE": 16
+          },
+          "crops": {},
+          "animals": {
+            "COW": 6,
+            "COW_SHED": 2,
+            "GOOSE": 1,
+            "SHEEP": 10
+          },
+          "animal_health": {},
+          "shed": {
+            "COW": 2
+          }
+        }
+      },
+      "opponent": {
+        "name": "omikbop",
+        "reward": 77606.0,
+        "action_counts": {
+          "BUILD_PASTURE": 14,
+          "BUY_ANIMAL": 12,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT": 233,
+          "BUY_SEED": 11,
+          "CARE": 311,
+          "COLLECT_FERTILIZER": 295,
+          "DIG": 13,
+          "DROP": 35,
+          "EAST": 1184,
+          "FEED": 298,
+          "FERTILIZE": 135,
+          "HARVEST": 230,
+          "HIRE": 310,
+          "NORTH": 1087,
+          "PASS": 1137,
+          "PICKUP": 290,
+          "PLACE": 18,
+          "PLANT": 88,
+          "SELL": 84,
+          "SOUTH": 379,
+          "WATER": 769,
+          "WEST": 1455
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 9,
+          "BUY_ANIMAL:SHEEP": 7,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT:WHEAT": 356,
+          "BUY_SEED:MELON": 22,
+          "BUY_SEED:STRAWBERRY": 63,
+          "SELL:FERTILIZER": 150,
+          "SELL:MELON": 53,
+          "SELL:MILK": 171,
+          "SELL:STRAWBERRY": 179,
+          "SELL:WHEAT": 45,
+          "SELL:WOOL": 145
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 197,
+          "BUY_PRODUCT": 2,
+          "BUY_SEED": 1,
+          "CARE": 4,
+          "COLLECT_FERTILIZER": 25,
+          "DIG": 69,
+          "DROP": 7,
+          "EAST": 4,
+          "FEED": 7,
+          "FERTILIZE": 229,
+          "HARVEST": 147,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 2,
+          "PLACE": 3,
+          "PLANT": 6,
+          "SELL": 97,
+          "SOUTH": 5,
+          "WATER": 8,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 8,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 2,
+          "DROP": 0,
+          "EAST": 0,
+          "FEED": 0,
+          "FERTILIZE": 9,
+          "HARVEST": 6,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 4,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 32.0,
+            "hands": 9,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 5,
+              "PLANT": 10
+            },
+            "crops": {
+              "MELON": 10
+            },
+            "animals": {
+              "COW": 3,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 4
+            }
+          },
+          "5": {
+            "money": 33.0,
+            "hands": 9,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 9,
+              "PLANT": 9
+            },
+            "crops": {
+              "MELON": 9
+            },
+            "animals": {
+              "COW": 3,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 10,
+              "WHEAT": 2
+            }
+          },
+          "10": {
+            "money": 701.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 14,
+              "PLANT": 17,
+              "WEED": 1
+            },
+            "crops": {
+              "MELON": 10,
+              "STRAWBERRY": 7
+            },
+            "animals": {
+              "COW": 5,
+              "SHEEP": 4
+            },
+            "animal_health": {
+              "unfed": 1
+            },
+            "shed": {
+              "FERTILIZER": 7,
+              "WHEAT": 7
+            }
+          },
+          "15": {
+            "money": 5891.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 14,
+              "PLANT": 51,
+              "WEED": 2
+            },
+            "crops": {
+              "STRAWBERRY": 51
+            },
+            "animals": {
+              "COW": 7,
+              "SHEEP": 7
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 1,
+              "WHEAT": 11
+            }
+          },
+          "20": {
+            "money": 15214.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 14,
+              "PLANT": 45,
+              "WEED": 14
+            },
+            "crops": {
+              "STRAWBERRY": 45
+            },
+            "animals": {
+              "COW": 7,
+              "SHEEP": 7
+            },
+            "animal_health": {
+              "unfed": 1
+            },
+            "shed": {
+              "FERTILIZER": 3,
+              "MILK": 36,
+              "WHEAT": 9
+            }
+          },
+          "25": {
+            "money": 42736.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 14,
+              "PLANT": 41,
+              "WEED": 17
+            },
+            "crops": {
+              "STRAWBERRY": 41
+            },
+            "animals": {
+              "COW": 7,
+              "SHEEP": 7
+            },
+            "animal_health": {
+              "uncared_today": 1
+            },
+            "shed": {
+              "WHEAT": 6
+            }
+          },
+          "29": {
+            "money": 77606.0,
+            "hands": 8,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 14,
+              "PLANT": 30,
+              "WEED": 18
+            },
+            "crops": {
+              "STRAWBERRY": 30
+            },
+            "animals": {
+              "COW": 7,
+              "SHEEP": 7
+            },
+            "animal_health": {
+              "uncared_today": 1,
+              "unfed": 1
+            },
+            "shed": {
+              "STRAWBERRY": 2,
+              "WHEAT": 9
+            }
+          }
+        },
+        "final": {
+          "money": 77606.0,
+          "hands": 8,
+          "unlocked_quadrants": 3,
+          "tile_kinds": {
+            "PASTURE": 14,
+            "PLANT": 30,
+            "WEED": 18
+          },
+          "crops": {
+            "STRAWBERRY": 30
+          },
+          "animals": {
+            "COW": 7,
+            "SHEEP": 7
+          },
+          "animal_health": {
+            "uncared_today": 1,
+            "unfed": 1
+          },
+          "shed": {
+            "STRAWBERRY": 2,
+            "WHEAT": 9
+          }
+        }
+      }
+    },
+    {
+      "episode_id": 89484952,
+      "episode_uuid": "713dadcc-8e4b-11f1-bad1-0242ac130204",
+      "seed": 1079635452,
+      "result": "loss",
+      "margin": -9023.0,
+      "player_index": 0,
+      "player": {
+        "name": "KAKA Minishijie",
+        "reward": 102043.0,
+        "action_counts": {
+          "BUILD_PASTURE": 17,
+          "BUY_ANIMAL": 12,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT": 183,
+          "BUY_SEED": 74,
+          "CARE": 372,
+          "COLLECT_FERTILIZER": 356,
+          "DIG": 2,
+          "DROP": 23,
+          "EAST": 1073,
+          "FEED": 371,
+          "HARVEST": 189,
+          "HIRE": 361,
+          "NORTH": 1386,
+          "PASS": 2570,
+          "PICKUP": 100,
+          "PLACE": 17,
+          "PLANT": 76,
+          "SELL": 146,
+          "SOUTH": 684,
+          "WATER": 520,
+          "WEST": 1112
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 11,
+          "BUY_ANIMAL:SHEEP": 6,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT:WHEAT": 289,
+          "BUY_SEED:CARROT": 28,
+          "BUY_SEED:MELON": 35,
+          "BUY_SEED:WHEAT": 39,
+          "SELL:CARROT": 52,
+          "SELL:FERTILIZER": 347,
+          "SELL:MELON": 151,
+          "SELL:MILK": 280,
+          "SELL:WHEAT": 28,
+          "SELL:WOOL": 127
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 219,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 2,
+          "CARE": 4,
+          "COLLECT_FERTILIZER": 34,
+          "DIG": 644,
+          "DROP": 703,
+          "EAST": 8,
+          "FEED": 5,
+          "HARVEST": 82,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 2,
+          "PLACE": 3,
+          "PLANT": 5,
+          "SELL": 49,
+          "SOUTH": 8,
+          "WATER": 6,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 9,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 26,
+          "DROP": 29,
+          "EAST": 0,
+          "FEED": 0,
+          "HARVEST": 3,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 2,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 255.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 5,
+              "PLANT": 7
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 2,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 3,
+              "COW_SHED": 1,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "COW": 1,
+              "WHEAT": 6
+            }
+          },
+          "5": {
+            "money": 258.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 8,
+              "PLANT": 13
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 9,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 19
+            }
+          },
+          "10": {
+            "money": 264.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 23
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 17,
+              "WHEAT": 4
+            },
+            "animals": {
+              "COW": 8,
+              "SHEEP": 3
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 24
+            }
+          },
+          "15": {
+            "money": 14497.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 16,
+              "PLANT": 18
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 14,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 9,
+              "SHEEP": 6
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 29
+            }
+          },
+          "20": {
+            "money": 47453.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17,
+              "PLANT": 18
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 10,
+              "WHEAT": 7
+            },
+            "animals": {
+              "COW": 11,
+              "SHEEP": 6
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 30
+            }
+          },
+          "25": {
+            "money": 77312.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17,
+              "PLANT": 16
+            },
+            "crops": {
+              "CARROT": 8,
+              "MELON": 6,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 11,
+              "SHEEP": 6
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 27
+            }
+          },
+          "29": {
+            "money": 102043.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17
+            },
+            "crops": {},
+            "animals": {
+              "COW": 11,
+              "SHEEP": 6
+            },
+            "animal_health": {},
+            "shed": {}
+          }
+        },
+        "final": {
+          "money": 102043.0,
+          "hands": 12,
+          "unlocked_quadrants": 2,
+          "tile_kinds": {
+            "PASTURE": 17
+          },
+          "crops": {},
+          "animals": {
+            "COW": 11,
+            "SHEEP": 6
+          },
+          "animal_health": {},
+          "shed": {}
+        }
+      },
+      "opponent": {
+        "name": "epigene",
+        "reward": 111066.0,
+        "action_counts": {
+          "BUILD_PASTURE": 12,
+          "BUY_ANIMAL": 4,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT": 177,
+          "BUY_SEED": 16,
+          "CARE": 216,
+          "COLLECT_FERTILIZER": 213,
+          "DIG": 33,
+          "DROP": 207,
+          "EAST": 1051,
+          "FEED": 223,
+          "HARVEST": 296,
+          "HIRE": 314,
+          "NORTH": 1279,
+          "PASS": 1304,
+          "PICKUP": 94,
+          "PLACE": 12,
+          "PLANT": 92,
+          "SELL": 704,
+          "SOUTH": 885,
+          "WATER": 613,
+          "WEST": 1245
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 8,
+          "BUY_ANIMAL:SHEEP": 4,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT:WHEAT": 257,
+          "BUY_SEED:CARROT": 32,
+          "BUY_SEED:MELON": 15,
+          "BUY_SEED:STRAWBERRY": 64,
+          "BUY_SEED:WHEAT": 26,
+          "SELL:CARROT": 89991,
+          "SELL:FERTILIZER": 3449655,
+          "SELL:MELON": 149985,
+          "SELL:MILK": 1029897,
+          "SELL:STRAWBERRY": 1899810,
+          "SELL:WHEAT": 130027,
+          "SELL:WOOL": 249975
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 193,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 1,
+          "CARE": 5,
+          "COLLECT_FERTILIZER": 27,
+          "DIG": 404,
+          "DROP": 45,
+          "EAST": 8,
+          "FEED": 5,
+          "HARVEST": 106,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 2,
+          "PLACE": 3,
+          "PLANT": 6,
+          "SELL": 28,
+          "SOUTH": 4,
+          "WATER": 7,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 8,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 16,
+          "DROP": 1,
+          "EAST": 0,
+          "FEED": 0,
+          "HARVEST": 4,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 1,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 677.0,
+            "hands": 7,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 4,
+              "PLANT": 21
+            },
+            "crops": {
+              "MELON": 15,
+              "WHEAT": 6
+            },
+            "animals": {
+              "COW": 2
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 6
+            }
+          },
+          "5": {
+            "money": 1598.0,
+            "hands": 8,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 4,
+              "PLANT": 21
+            },
+            "crops": {
+              "MELON": 15,
+              "WHEAT": 6
+            },
+            "animals": {
+              "COW": 2
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 6
+            }
+          },
+          "10": {
+            "money": 4861.0,
+            "hands": 10,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 10,
+              "PLANT": 26
+            },
+            "crops": {
+              "STRAWBERRY": 26
+            },
+            "animals": {
+              "COW": 5
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 36
+            }
+          },
+          "15": {
+            "money": 12704.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 50
+            },
+            "crops": {
+              "STRAWBERRY": 50
+            },
+            "animals": {
+              "COW": 8,
+              "SHEEP": 3,
+              "SHEEP_SHED": 1
+            },
+            "animal_health": {
+              "uncared_today": 1
+            },
+            "shed": {
+              "SHEEP": 1,
+              "WHEAT": 35
+            }
+          },
+          "20": {
+            "money": 29902.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 52,
+              "WEED": 3
+            },
+            "crops": {
+              "CARROT": 1,
+              "STRAWBERRY": 51
+            },
+            "animals": {
+              "COW": 8,
+              "SHEEP": 4
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 36
+            }
+          },
+          "25": {
+            "money": 76077.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 45,
+              "WEED": 8
+            },
+            "crops": {
+              "STRAWBERRY": 40,
+              "WHEAT": 5
+            },
+            "animals": {
+              "COW": 8,
+              "SHEEP": 4
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 36
+            }
+          },
+          "29": {
+            "money": 111066.0,
+            "hands": 11,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 14,
+              "WEED": 10
+            },
+            "crops": {
+              "CARROT": 1,
+              "STRAWBERRY": 13
+            },
+            "animals": {
+              "COW": 8,
+              "SHEEP": 4
+            },
+            "animal_health": {
+              "uncared_today": 12
+            },
+            "shed": {}
+          }
+        },
+        "final": {
+          "money": 111066.0,
+          "hands": 11,
+          "unlocked_quadrants": 3,
+          "tile_kinds": {
+            "PASTURE": 12,
+            "PLANT": 14,
+            "WEED": 10
+          },
+          "crops": {
+            "CARROT": 1,
+            "STRAWBERRY": 13
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4
+          },
+          "animal_health": {
+            "uncared_today": 12
+          },
+          "shed": {}
+        }
+      }
+    },
+    {
+      "episode_id": 89484406,
+      "episode_uuid": "e10ae9cc-8e4a-11f1-a9a5-0242ac130204",
+      "seed": 1809785243,
+      "result": "loss",
+      "margin": -15956.0,
+      "player_index": 1,
+      "player": {
+        "name": "KAKA Minishijie",
+        "reward": 95319.0,
+        "action_counts": {
+          "BUILD_PASTURE": 17,
+          "BUY_ANIMAL": 12,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT": 195,
+          "BUY_SEED": 73,
+          "CARE": 374,
+          "COLLECT_FERTILIZER": 359,
+          "DIG": 2,
+          "DROP": 22,
+          "EAST": 996,
+          "FEED": 372,
+          "HARVEST": 199,
+          "HIRE": 362,
+          "NORTH": 1422,
+          "PASS": 2573,
+          "PICKUP": 97,
+          "PLACE": 17,
+          "PLANT": 82,
+          "SELL": 144,
+          "SOUTH": 694,
+          "WATER": 518,
+          "WEST": 1141
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 13,
+          "BUY_ANIMAL:SHEEP": 4,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT:WHEAT": 308,
+          "BUY_SEED:CARROT": 37,
+          "BUY_SEED:MELON": 35,
+          "BUY_SEED:WHEAT": 33,
+          "SELL:CARROT": 68,
+          "SELL:FERTILIZER": 335,
+          "SELL:MELON": 156,
+          "SELL:MILK": 310,
+          "SELL:WHEAT": 28,
+          "SELL:WOOL": 92
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 219,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 2,
+          "CARE": 4,
+          "COLLECT_FERTILIZER": 36,
+          "DIG": 59,
+          "DROP": 699,
+          "EAST": 8,
+          "FEED": 5,
+          "HARVEST": 81,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 2,
+          "PLACE": 3,
+          "PLANT": 5,
+          "SELL": 49,
+          "SOUTH": 8,
+          "WATER": 6,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 9,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 2,
+          "DROP": 29,
+          "EAST": 0,
+          "FEED": 0,
+          "HARVEST": 3,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 2,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 255.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 5,
+              "PLANT": 7
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 2,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 5
+            }
+          },
+          "5": {
+            "money": 252.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 8,
+              "PLANT": 12
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 10,
+              "WHEAT": 1
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 20
+            }
+          },
+          "10": {
+            "money": 1135.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 23
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 18,
+              "WHEAT": 4
+            },
+            "animals": {
+              "COW": 8,
+              "SHEEP": 3
+            },
+            "animal_health": {
+              "unfed": 1
+            },
+            "shed": {
+              "WHEAT": 24
+            }
+          },
+          "15": {
+            "money": 15491.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 16,
+              "PLANT": 20
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 16,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 12,
+              "COW_SHED": 1,
+              "SHEEP": 3
+            },
+            "animal_health": {},
+            "shed": {
+              "COW": 1,
+              "WHEAT": 32
+            }
+          },
+          "20": {
+            "money": 47896.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17,
+              "PLANT": 19
+            },
+            "crops": {
+              "CARROT": 7,
+              "MELON": 7,
+              "WHEAT": 5
+            },
+            "animals": {
+              "COW": 13,
+              "SHEEP": 4
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 33
+            }
+          },
+          "25": {
+            "money": 71802.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17,
+              "PLANT": 16
+            },
+            "crops": {
+              "CARROT": 7,
+              "MELON": 1,
+              "WHEAT": 8
+            },
+            "animals": {
+              "COW": 13,
+              "SHEEP": 4
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 20,
+              "WHEAT": 33
+            }
+          },
+          "29": {
+            "money": 95319.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17
+            },
+            "crops": {},
+            "animals": {
+              "COW": 13,
+              "SHEEP": 4
+            },
+            "animal_health": {},
+            "shed": {}
+          }
+        },
+        "final": {
+          "money": 95319.0,
+          "hands": 12,
+          "unlocked_quadrants": 2,
+          "tile_kinds": {
+            "PASTURE": 17
+          },
+          "crops": {},
+          "animals": {
+            "COW": 13,
+            "SHEEP": 4
+          },
+          "animal_health": {},
+          "shed": {}
+        }
+      },
+      "opponent": {
+        "name": "ghostiee11",
+        "reward": 111275.0,
+        "action_counts": {
+          "BUILD_PASTURE": 12,
+          "BUY_ANIMAL": 6,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT": 187,
+          "BUY_SEED": 52,
+          "CARE": 243,
+          "COLLECT_FERTILIZER": 274,
+          "DIG": 16,
+          "DROP": 77,
+          "EAST": 888,
+          "FEED": 259,
+          "HARVEST": 204,
+          "HIRE": 318,
+          "NORTH": 1329,
+          "PASS": 1590,
+          "PICKUP": 70,
+          "PLACE": 12,
+          "PLANT": 106,
+          "SELL": 221,
+          "SOUTH": 973,
+          "WATER": 750,
+          "WEST": 1114
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 2,
+          "BUY_ANIMAL:SHEEP": 10,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT:WHEAT": 523,
+          "BUY_SEED:CARROT": 14,
+          "BUY_SEED:MELON": 18,
+          "BUY_SEED:STRAWBERRY": 39,
+          "BUY_SEED:WHEAT": 36,
+          "SELL:CARROT": 36,
+          "SELL:FERTILIZER": 274,
+          "SELL:MELON": 106,
+          "SELL:MILK": 70,
+          "SELL:STRAWBERRY": 135,
+          "SELL:WHEAT": 390,
+          "SELL:WOOL": 227
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 170,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 1,
+          "CARE": 12,
+          "COLLECT_FERTILIZER": 27,
+          "DIG": 526,
+          "DROP": 28,
+          "EAST": 9,
+          "FEED": 5,
+          "HARVEST": 130,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 2,
+          "PLACE": 3,
+          "PLANT": 4,
+          "SELL": 28,
+          "SOUTH": 8,
+          "WATER": 5,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 7,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 21,
+          "DROP": 1,
+          "EAST": 0,
+          "FEED": 0,
+          "HARVEST": 5,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 1,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 78.0,
+            "hands": 8,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 4,
+              "PLANT": 9
+            },
+            "crops": {
+              "MELON": 9
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 2
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 8
+            }
+          },
+          "5": {
+            "money": 437.0,
+            "hands": 9,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 4,
+              "PLANT": 21
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 10,
+              "STRAWBERRY": 5,
+              "WHEAT": 4
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 2
+            },
+            "animal_health": {
+              "uncared_today": 2
+            },
+            "shed": {}
+          },
+          "10": {
+            "money": 8671.0,
+            "hands": 10,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 8,
+              "PLANT": 37
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 9,
+              "STRAWBERRY": 21,
+              "WHEAT": 5
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 6
+            },
+            "animal_health": {
+              "uncared_today": 1
+            },
+            "shed": {
+              "WHEAT": 20
+            }
+          },
+          "15": {
+            "money": 23898.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 57
+            },
+            "crops": {
+              "MELON": 8,
+              "STRAWBERRY": 39,
+              "WHEAT": 10
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 10
+            },
+            "animal_health": {
+              "unfed": 4
+            },
+            "shed": {
+              "WHEAT": 32
+            }
+          },
+          "20": {
+            "money": 51977.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 38,
+              "WEED": 1
+            },
+            "crops": {
+              "STRAWBERRY": 38
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 10
+            },
+            "animal_health": {
+              "uncared_today": 3
+            },
+            "shed": {
+              "MELON": 7,
+              "WHEAT": 36
+            }
+          },
+          "25": {
+            "money": 75961.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 34,
+              "WEED": 14
+            },
+            "crops": {
+              "CARROT": 3,
+              "STRAWBERRY": 19,
+              "WHEAT": 12
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 10
+            },
+            "animal_health": {
+              "uncared_today": 3
+            },
+            "shed": {
+              "WHEAT": 36
+            }
+          },
+          "29": {
+            "money": 111275.0,
+            "hands": 8,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 1,
+              "WEED": 26
+            },
+            "crops": {
+              "STRAWBERRY": 1
+            },
+            "animals": {
+              "COW": 2,
+              "SHEEP": 10
+            },
+            "animal_health": {
+              "uncared_today": 12,
+              "unfed": 6
+            },
+            "shed": {}
+          }
+        },
+        "final": {
+          "money": 111275.0,
+          "hands": 8,
+          "unlocked_quadrants": 3,
+          "tile_kinds": {
+            "PASTURE": 12,
+            "PLANT": 1,
+            "WEED": 26
+          },
+          "crops": {
+            "STRAWBERRY": 1
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 10
+          },
+          "animal_health": {
+            "uncared_today": 12,
+            "unfed": 6
+          },
+          "shed": {}
+        }
+      }
+    },
+    {
+      "episode_id": 89483866,
+      "episode_uuid": "51ebcbb2-8e4a-11f1-a89f-0242ac130204",
+      "seed": 222207795,
+      "result": "loss",
+      "margin": -41609.0,
+      "player_index": 1,
+      "player": {
+        "name": "KAKA Minishijie",
+        "reward": 65433.0,
+        "action_counts": {
+          "BUILD_PASTURE": 17,
+          "BUY_ANIMAL": 15,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT": 190,
+          "BUY_SEED": 67,
+          "CARE": 377,
+          "COLLECT_FERTILIZER": 360,
+          "DIG": 1,
+          "DROP": 24,
+          "EAST": 1017,
+          "FEED": 372,
+          "HARVEST": 185,
+          "HIRE": 359,
+          "NORTH": 1409,
+          "PASS": 2620,
+          "PICKUP": 100,
+          "PLACE": 17,
+          "PLANT": 71,
+          "SELL": 135,
+          "SOUTH": 679,
+          "WATER": 461,
+          "WEST": 1088
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 11,
+          "BUY_ANIMAL:GOOSE": 1,
+          "BUY_ANIMAL:SHEEP": 7,
+          "BUY_LAND": 1,
+          "BUY_PRODUCT:WHEAT": 321,
+          "BUY_SEED:CARROT": 30,
+          "BUY_SEED:MELON": 35,
+          "BUY_SEED:WHEAT": 32,
+          "SELL:CARROT": 38,
+          "SELL:FERTILIZER": 324,
+          "SELL:MELON": 130,
+          "SELL:MILK": 242,
+          "SELL:WHEAT": 32,
+          "SELL:WOOL": 133
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 220,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 2,
+          "CARE": 4,
+          "COLLECT_FERTILIZER": 36,
+          "DIG": 358,
+          "DROP": 701,
+          "EAST": 8,
+          "FEED": 5,
+          "HARVEST": 81,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 2,
+          "PLACE": 3,
+          "PLANT": 5,
+          "SELL": 49,
+          "SOUTH": 8,
+          "WATER": 6,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 9,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 14,
+          "DROP": 29,
+          "EAST": 0,
+          "FEED": 0,
+          "HARVEST": 3,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 2,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 255.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 5,
+              "PLANT": 7
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 2,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 5
+            }
+          },
+          "5": {
+            "money": 251.0,
+            "hands": 10,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 8,
+              "PLANT": 12
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 10,
+              "WHEAT": 1
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 20
+            }
+          },
+          "10": {
+            "money": 258.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 12,
+              "PLANT": 19
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 14,
+              "WHEAT": 4
+            },
+            "animals": {
+              "COW": 6,
+              "COW_SHED": 1,
+              "SHEEP": 5
+            },
+            "animal_health": {
+              "unfed": 3
+            },
+            "shed": {
+              "COW": 1,
+              "WHEAT": 13
+            }
+          },
+          "15": {
+            "money": 11859.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 16,
+              "PLANT": 13
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 11,
+              "WHEAT": 1
+            },
+            "animals": {
+              "COW": 9,
+              "COW_SHED": 1,
+              "SHEEP": 6
+            },
+            "animal_health": {},
+            "shed": {
+              "COW": 1,
+              "WHEAT": 31
+            }
+          },
+          "20": {
+            "money": 33650.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17,
+              "PLANT": 14
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 9,
+              "WHEAT": 3
+            },
+            "animals": {
+              "COW": 11,
+              "GOOSE_SHED": 1,
+              "SHEEP": 6,
+              "SHEEP_SHED": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "GOOSE": 1,
+              "SHEEP": 1,
+              "WHEAT": 38
+            }
+          },
+          "25": {
+            "money": 48204.0,
+            "hands": 13,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17,
+              "PLANT": 12
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 4,
+              "WHEAT": 6
+            },
+            "animals": {
+              "COW": 11,
+              "GOOSE_SHED": 1,
+              "SHEEP": 6,
+              "SHEEP_SHED": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "FERTILIZER": 29,
+              "GOOSE": 1,
+              "SHEEP": 1,
+              "WHEAT": 31
+            }
+          },
+          "29": {
+            "money": 65433.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 17
+            },
+            "crops": {},
+            "animals": {
+              "COW": 11,
+              "GOOSE_SHED": 1,
+              "SHEEP": 6,
+              "SHEEP_SHED": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "GOOSE": 1,
+              "SHEEP": 1
+            }
+          }
+        },
+        "final": {
+          "money": 65433.0,
+          "hands": 12,
+          "unlocked_quadrants": 2,
+          "tile_kinds": {
+            "PASTURE": 17
+          },
+          "crops": {},
+          "animals": {
+            "COW": 11,
+            "GOOSE_SHED": 1,
+            "SHEEP": 6,
+            "SHEEP_SHED": 1
+          },
+          "animal_health": {},
+          "shed": {
+            "GOOSE": 1,
+            "SHEEP": 1
+          }
+        }
+      },
+      "opponent": {
+        "name": "cmasch",
+        "reward": 107042.0,
+        "action_counts": {
+          "BUILD_PASTURE": 15,
+          "BUY_ANIMAL": 10,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT": 238,
+          "BUY_SEED": 56,
+          "CARE": 290,
+          "COLLECT_FERTILIZER": 332,
+          "DIG": 20,
+          "DROP": 109,
+          "EAST": 911,
+          "FEED": 317,
+          "HARVEST": 209,
+          "HIRE": 318,
+          "NORTH": 1317,
+          "PASS": 1454,
+          "PICKUP": 90,
+          "PLACE": 15,
+          "PLANT": 97,
+          "SELL": 270,
+          "SOUTH": 962,
+          "WATER": 690,
+          "WEST": 1090
+        },
+        "market_quantities": {
+          "BUY_ANIMAL:COW": 4,
+          "BUY_ANIMAL:SHEEP": 11,
+          "BUY_LAND": 2,
+          "BUY_PRODUCT:WHEAT": 1265,
+          "BUY_SEED:CARROT": 13,
+          "BUY_SEED:MELON": 18,
+          "BUY_SEED:STRAWBERRY": 36,
+          "BUY_SEED:WHEAT": 42,
+          "SELL:CARROT": 33,
+          "SELL:FERTILIZER": 332,
+          "SELL:MELON": 101,
+          "SELL:MILK": 120,
+          "SELL:STRAWBERRY": 126,
+          "SELL:WHEAT": 1056,
+          "SELL:WOOL": 247
+        },
+        "first_step": {
+          "BUILD_PASTURE": 1,
+          "BUY_ANIMAL": 1,
+          "BUY_LAND": 170,
+          "BUY_PRODUCT": 1,
+          "BUY_SEED": 1,
+          "CARE": 13,
+          "COLLECT_FERTILIZER": 27,
+          "DIG": 478,
+          "DROP": 28,
+          "EAST": 8,
+          "FEED": 5,
+          "HARVEST": 129,
+          "HIRE": 1,
+          "NORTH": 2,
+          "PASS": 0,
+          "PICKUP": 2,
+          "PLACE": 3,
+          "PLANT": 4,
+          "SELL": 28,
+          "SOUTH": 8,
+          "WATER": 5,
+          "WEST": 2
+        },
+        "first_day": {
+          "BUILD_PASTURE": 0,
+          "BUY_ANIMAL": 0,
+          "BUY_LAND": 7,
+          "BUY_PRODUCT": 0,
+          "BUY_SEED": 0,
+          "CARE": 0,
+          "COLLECT_FERTILIZER": 1,
+          "DIG": 19,
+          "DROP": 1,
+          "EAST": 0,
+          "FEED": 0,
+          "HARVEST": 5,
+          "HIRE": 0,
+          "NORTH": 0,
+          "PASS": 0,
+          "PICKUP": 0,
+          "PLACE": 0,
+          "PLANT": 0,
+          "SELL": 1,
+          "SOUTH": 0,
+          "WATER": 0,
+          "WEST": 0
+        },
+        "checkpoints": {
+          "0": {
+            "money": 97.0,
+            "hands": 8,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 4,
+              "PLANT": 10
+            },
+            "crops": {
+              "MELON": 10
+            },
+            "animals": {
+              "COW": 3,
+              "SHEEP": 1
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 8
+            }
+          },
+          "5": {
+            "money": 526.0,
+            "hands": 9,
+            "unlocked_quadrants": 1,
+            "tile_kinds": {
+              "PASTURE": 4,
+              "PLANT": 21
+            },
+            "crops": {
+              "CARROT": 2,
+              "MELON": 10,
+              "STRAWBERRY": 5,
+              "WHEAT": 4
+            },
+            "animals": {
+              "COW": 3,
+              "SHEEP": 1
+            },
+            "animal_health": {
+              "uncared_today": 3
+            },
+            "shed": {}
+          },
+          "10": {
+            "money": 10210.0,
+            "hands": 12,
+            "unlocked_quadrants": 2,
+            "tile_kinds": {
+              "PASTURE": 11,
+              "PLANT": 30
+            },
+            "crops": {
+              "CARROT": 1,
+              "MELON": 8,
+              "STRAWBERRY": 17,
+              "WHEAT": 4
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 7
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 32
+            }
+          },
+          "15": {
+            "money": 19536.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 15,
+              "PLANT": 59
+            },
+            "crops": {
+              "CARROT": 3,
+              "MELON": 8,
+              "STRAWBERRY": 36,
+              "WHEAT": 12
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 11
+            },
+            "animal_health": {
+              "uncared_today": 4,
+              "unfed": 2
+            },
+            "shed": {
+              "WHEAT": 44
+            }
+          },
+          "20": {
+            "money": 47344.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 15,
+              "PLANT": 41,
+              "WEED": 2
+            },
+            "crops": {
+              "CARROT": 1,
+              "STRAWBERRY": 34,
+              "WHEAT": 6
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 11
+            },
+            "animal_health": {
+              "uncared_today": 6,
+              "unfed": 1
+            },
+            "shed": {
+              "WHEAT": 42
+            }
+          },
+          "25": {
+            "money": 68604.0,
+            "hands": 12,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 15,
+              "PLANT": 29,
+              "WEED": 2
+            },
+            "crops": {
+              "CARROT": 2,
+              "STRAWBERRY": 25,
+              "WHEAT": 2
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 11
+            },
+            "animal_health": {},
+            "shed": {
+              "WHEAT": 45
+            }
+          },
+          "29": {
+            "money": 107042.0,
+            "hands": 8,
+            "unlocked_quadrants": 3,
+            "tile_kinds": {
+              "PASTURE": 15,
+              "PLANT": 5,
+              "WEED": 14
+            },
+            "crops": {
+              "STRAWBERRY": 5
+            },
+            "animals": {
+              "COW": 4,
+              "SHEEP": 11
+            },
+            "animal_health": {
+              "uncared_today": 15
+            },
+            "shed": {}
+          }
+        },
+        "final": {
+          "money": 107042.0,
+          "hands": 8,
+          "unlocked_quadrants": 3,
+          "tile_kinds": {
+            "PASTURE": 15,
+            "PLANT": 5,
+            "WEED": 14
+          },
+          "crops": {
+            "STRAWBERRY": 5
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 11
+          },
+          "animal_health": {
+            "uncared_today": 15
+          },
+          "shed": {}
+        }
+      }
+    }
+  ]
+}

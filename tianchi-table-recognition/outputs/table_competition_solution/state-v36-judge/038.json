@@ -1,0 +1,47 @@
+{
+  "decisions": [
+    {
+      "id": "374",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Levels指具体的实验水平值（-1, 0, 1列），Range为范围，B更准确简洁。"
+    },
+    {
+      "id": "375",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Levels指具体的实验水平值，B更准确简洁。"
+    },
+    {
+      "id": "376",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Levels指具体的实验水平值，B更准确简洁。"
+    },
+    {
+      "id": "377",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Levels指具体的实验水平值，B更准确简洁。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 3055,
+    "completion_tokens": 2184,
+    "prompt_tokens": 871,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2037,
+      "text_tokens": 146
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 422,
+      "cached_tokens": 0,
+      "text_tokens": 449
+    }
+  },
+  "requestId": "chatcmpl-2b1993cf-3cc1-945a-9aba-36dcef4d959e"
+}

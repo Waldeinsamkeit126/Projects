@@ -1,0 +1,142 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v7_purecrop81_after_probe\\main.py",
+    "games": 6,
+    "wins": 6,
+    "mean_score": 101784.83333333333,
+    "mean_margin": 68069.83333333333,
+    "mean_score_delta": -1795.6666666666667,
+    "mean_margin_delta": 2471.8333333333335,
+    "median_margin_delta": -1075.0,
+    "max_action_seconds": 0.06966779998037964,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89508364,
+      "opponent": "KO Ho Tin",
+      "seed": 812554986,
+      "position": 0,
+      "ours": 100186.0,
+      "theirs": 55703.0,
+      "margin": 44483.0,
+      "win": true,
+      "original_ours": 104289.0,
+      "original_theirs": 82282.0,
+      "original_margin": 22007.0,
+      "score_delta": -4103.0,
+      "margin_delta": 22476.0,
+      "elapsed_seconds": 3.232672000012826,
+      "max_action_seconds": 0.05195430002640933,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89481170,
+      "opponent": "Vu Tran Hoang",
+      "seed": 906097251,
+      "position": 0,
+      "ours": 101467.0,
+      "theirs": 32465.0,
+      "margin": 69002.0,
+      "win": true,
+      "original_ours": 92058.0,
+      "original_theirs": 32696.0,
+      "original_margin": 59362.0,
+      "score_delta": 9409.0,
+      "margin_delta": 9640.0,
+      "elapsed_seconds": 3.8934674999909475,
+      "max_action_seconds": 0.06966779998037964,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89480633,
+      "opponent": "Kendamarron",
+      "seed": 1779362906,
+      "position": 0,
+      "ours": 96604.0,
+      "theirs": 35813.0,
+      "margin": 60791.0,
+      "win": true,
+      "original_ours": 106077.0,
+      "original_theirs": 35085.0,
+      "original_margin": 70992.0,
+      "score_delta": -9473.0,
+      "margin_delta": -10201.0,
+      "elapsed_seconds": 4.170530900009908,
+      "max_action_seconds": 0.004899099993053824,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89480102,
+      "opponent": "`",
+      "seed": 428141925,
+      "position": 0,
+      "ours": 125393.0,
+      "theirs": 36914.0,
+      "margin": 88479.0,
+      "win": true,
+      "original_ours": 124314.0,
+      "original_theirs": 38271.0,
+      "original_margin": 86043.0,
+      "score_delta": 1079.0,
+      "margin_delta": 2436.0,
+      "elapsed_seconds": 4.972473600006197,
+      "max_action_seconds": 0.005126300035044551,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89449350,
+      "opponent": "SanggeunParrk",
+      "seed": 1563819567,
+      "position": 0,
+      "ours": 121213.0,
+      "theirs": 3000.0,
+      "margin": 118213.0,
+      "win": true,
+      "original_ours": 125799.0,
+      "original_theirs": 3000.0,
+      "original_margin": 122799.0,
+      "score_delta": -4586.0,
+      "margin_delta": -4586.0,
+      "elapsed_seconds": 3.865435299987439,
+      "max_action_seconds": 0.0635609999881126,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89443935,
+      "opponent": "Ryan Adams",
+      "seed": 784369537,
+      "position": 0,
+      "ours": 65846.0,
+      "theirs": 38395.0,
+      "margin": 27451.0,
+      "win": true,
+      "original_ours": 68946.0,
+      "original_theirs": 36561.0,
+      "original_margin": 32385.0,
+      "score_delta": -3100.0,
+      "margin_delta": -4934.0,
+      "elapsed_seconds": 4.819467899971642,
+      "max_action_seconds": 0.05421500001102686,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

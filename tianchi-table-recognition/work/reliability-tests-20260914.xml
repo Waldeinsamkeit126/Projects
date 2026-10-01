@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+	<testcase name="accept numerical syntax 0" time="0.001170" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="accept numerical syntax -0" time="0.000141" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="accept numerical syntax 12" time="0.000063" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="accept numerical syntax -12.75" time="0.000062" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="accept numerical syntax .5" time="0.000089" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="accept numerical syntax +4" time="0.000060" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="accept numerical syntax 1.2e3" time="0.000055" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="accept numerical syntax 9007199254740993" time="0.000073" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;&amp;quot;" time="0.000376" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot; &amp;quot;" time="0.000262" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;-&amp;quot;" time="0.000120" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;abc&amp;quot;" time="0.000054" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;NaN&amp;quot;" time="0.000060" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;Infinity&amp;quot;" time="0.000047" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;1e309&amp;quot;" time="0.000033" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;0x12&amp;quot;" time="0.000045" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;12元&amp;quot;" time="0.000474" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;12%&amp;quot;" time="0.000045" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;12,34&amp;quot;" time="0.000039" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;1,234,56&amp;quot;" time="0.000025" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;1.2.3&amp;quot;" time="0.000022" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="reject invalid numerical syntax &amp;quot;答案是12&amp;quot;" time="0.000031" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="thousands conversion preserves precision and malformed input" time="0.000073" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="nested JSON is not flattened into apparently valid text" time="0.000187" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="normalization does not enlarge a predicted table" time="0.000731" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="nonempty, safe and nonoverlapping structure" time="0.000165" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="duplicate and missing model IDs are rejected" time="0.000310" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="all inference-affecting options invalidate cache" time="0.000797" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="legacy, missing, duplicate and invalid cached results are detected" time="0.000265" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="provider restriction rejects misleading domains and non-Qwen models" time="0.000394" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="question schema catches duplicate IDs" time="0.000138" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="token accounting keeps unknown cost and missing usage explicit" time="0.000135" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="development evaluation distinguishes format from correctness and missing answers" time="0.000267" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="CLI blocks paid execution and historical base before opening any workbook" time="1.651423" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="mocked transport enforces request cap, no redirects, and records usage" time="0.044636" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="fallback attribution stays per-question and does not invent a title" time="0.005291" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="HTTP error bodies never appear in logged diagnostics" time="0.003498" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="synthetic suite covers every source cell without overlap and has source-disjoint splits" time="0.001193" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="synthetic arithmetic reference values agree with independent calculations" time="0.000127" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<testcase name="offline end-to-end writes traceable reports, reuses cache and repairs missing results" time="0.064259" classname="test" file="C:\Users\zhhzh\Documents\Codex\2026-08-26\x20-x20-2\outputs\table_competition_solution\reliability.test.mjs"/>
+	<!-- tests 40 -->
+	<!-- suites 0 -->
+	<!-- pass 40 -->
+	<!-- fail 0 -->
+	<!-- cancelled 0 -->
+	<!-- skipped 0 -->
+	<!-- todo 0 -->
+	<!-- duration_ms 2355.9106 -->
+</testsuites>

@@ -1,0 +1,111 @@
+{
+  "datasetVersion": "coverage-validation-v1",
+  "provenance": "synthetic-independent",
+  "split": "validation",
+  "questions": [
+    {
+      "file_name": "cv-tiered.png",
+      "table_hint": "半年度练习计划",
+      "id": "cv-tiered-full",
+      "question_type": "structure",
+      "answer_format": "json",
+      "structure_scope": "full",
+      "question": "恢复完整表格结构，cells包含所有单元格，包括空白单元格。标题不计入表内。"
+    },
+    {
+      "file_name": "cv-tiered.png",
+      "table_hint": "半年度练习计划",
+      "id": "cv-tiered-header",
+      "question_type": "structure",
+      "answer_format": "json",
+      "structure_scope": "partial",
+      "question": "仅恢复表头行结构；cells只输出表头，row_count与col_count仍填写整张目标表的逻辑尺寸。"
+    },
+    {
+      "file_name": "cv-tiered.png",
+      "table_hint": "半年度练习计划",
+      "id": "cv-tiered-value",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "采购部门下半年数量是多少？"
+    },
+    {
+      "file_name": "cv-blanks.png",
+      "table_hint": "空白与零练习表",
+      "id": "cv-blanks-full",
+      "question_type": "structure",
+      "answer_format": "json",
+      "structure_scope": "full",
+      "question": "恢复完整表格结构，cells包含所有单元格，包括空白单元格。标题不计入表内。"
+    },
+    {
+      "file_name": "cv-blanks.png",
+      "table_hint": "空白与零练习表",
+      "id": "cv-blanks-header",
+      "question_type": "structure",
+      "answer_format": "json",
+      "structure_scope": "partial",
+      "question": "仅恢复表头行结构；cells只输出表头，row_count与col_count仍填写整张目标表的逻辑尺寸。"
+    },
+    {
+      "file_name": "cv-blanks.png",
+      "table_hint": "空白与零练习表",
+      "id": "cv-blanks-value",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "编号007的数量是多少？"
+    },
+    {
+      "file_name": "cv-groups.png",
+      "table_hint": "分组物料练习表",
+      "id": "cv-groups-full",
+      "question_type": "structure",
+      "answer_format": "json",
+      "structure_scope": "full",
+      "question": "恢复完整表格结构，cells包含所有单元格，包括空白单元格。标题不计入表内。"
+    },
+    {
+      "file_name": "cv-groups.png",
+      "table_hint": "分组物料练习表",
+      "id": "cv-groups-header",
+      "question_type": "structure",
+      "answer_format": "json",
+      "structure_scope": "partial",
+      "question": "仅恢复表头行结构；cells只输出表头，row_count与col_count仍填写整张目标表的逻辑尺寸。"
+    },
+    {
+      "file_name": "cv-groups.png",
+      "table_hint": "分组物料练习表",
+      "id": "cv-groups-value",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "品名为墨的数量是多少？"
+    },
+    {
+      "file_name": "cv-multitable.png",
+      "table_hint": "订单记录（目标表）",
+      "id": "cv-multitable-full",
+      "question_type": "structure",
+      "answer_format": "json",
+      "structure_scope": "full",
+      "question": "只针对右侧的订单记录（目标表）。恢复完整表格结构，cells包含所有单元格，包括空白单元格。标题不计入表内。"
+    },
+    {
+      "file_name": "cv-multitable.png",
+      "table_hint": "订单记录（目标表）",
+      "id": "cv-multitable-header",
+      "question_type": "structure",
+      "answer_format": "json",
+      "structure_scope": "partial",
+      "question": "只针对右侧的订单记录（目标表）。仅恢复表头行结构；cells只输出表头，row_count与col_count仍填写整张目标表的逻辑尺寸。"
+    },
+    {
+      "file_name": "cv-multitable.png",
+      "table_hint": "订单记录（目标表）",
+      "id": "cv-multitable-value",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "只依据右侧订单记录，配件B的数量是多少？"
+    }
+  ]
+}

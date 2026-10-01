@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "449",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "图中无显式大标题，但'园林设计师'作为求职意向内容存在，B选项文本图中不存在，依据保留原表文本原则选A。"
+    },
+    {
+      "id": "453",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "第一行最右侧的字段名（Key）是'出生日期'，'1992.5'是对应的值（Value）。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 3146,
+    "completion_tokens": 2322,
+    "prompt_tokens": 824,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2148,
+      "text_tokens": 173
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 527,
+      "cached_tokens": 0,
+      "text_tokens": 297
+    }
+  },
+  "requestId": "chatcmpl-50261285-701c-929a-8b56-496e3c0dabd0"
+}

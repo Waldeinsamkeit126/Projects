@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\040.png",
+  "results": [
+    {
+      "id": "389",
+      "source_file": "040.png",
+      "resolved_file": "040.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Control versus case characteristics",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "390",
+      "source_file": "040.png",
+      "resolved_file": "040.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "391",
+      "source_file": "040.png",
+      "resolved_file": "040.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "392",
+      "source_file": "040.png",
+      "resolved_file": "040.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Control N = 938 N",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "393",
+      "source_file": "040.png",
+      "resolved_file": "040.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "P",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "394",
+      "source_file": "040.png",
+      "resolved_file": "040.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "938",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "395",
+      "source_file": "040.png",
+      "resolved_file": "040.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "962",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "396",
+      "source_file": "040.png",
+      "resolved_file": "040.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "343",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "397",
+      "source_file": "040.png",
+      "resolved_file": "040.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "363",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "398",
+      "source_file": "040.png",
+      "resolved_file": "040.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"Current smoker control percent\":\"14.1\"},{\"Current smoker case percent\":\"18.0\"},{\"Age mean control\":\"54.3\"},{\"Age mean case\":\"55.1\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "decisions": [
+    {
+      "id": "773",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中2016年Total Assets为295,351，B正确。"
+    },
+    {
+      "id": "776",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "2017 Revenue (158,311) - COGS (58,575) = 99,736，A正确。"
+    },
+    {
+      "id": "777",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "2013 Closing Cash Balance (181,210) - 2012 Closing Cash Balance (167,371) = 13,839，B正确。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 1670,
+    "completion_tokens": 807,
+    "prompt_tokens": 863,
+    "completion_tokens_details": {
+      "reasoning_tokens": 637,
+      "text_tokens": 169
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 477,
+      "cached_tokens": 0,
+      "text_tokens": 386
+    }
+  },
+  "requestId": "chatcmpl-ec0f93ff-f26c-9e20-ad28-a4195ab31309"
+}

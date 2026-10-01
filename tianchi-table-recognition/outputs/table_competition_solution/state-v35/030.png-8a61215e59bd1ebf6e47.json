@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\030.png",
+  "results": [
+    {
+      "id": "289",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3.7-plus",
+      "answer": "Povinnosti výrobcu",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "290",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3.7-plus",
+      "answer": "斯洛伐克语",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "292",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3.7-plus",
+      "answer": "Povinnosti výrobcu",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "293",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3.7-plus",
+      "answer": "Komentár",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "294",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3.7-plus",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "295",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3.7-plus",
+      "answer": "vrátiť prevádzkovateľovi regionálnej distribučnej sústavy doplatok",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "296",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3.7-plus",
+      "answer": "predložiť PDS potvrdenie o pôvode vyrobenej elektriny za predchádzajúci kalendárny rok",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "297",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3.7-plus",
+      "answer": "15. auguste",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "298",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"第五条日期\":\"15. apríla\",\"第六条日期\":\"15. augusta\",\"第八条日期\":\"31.12.\",\"法律依据列名\":\"Prislúchajúci právny predpis\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

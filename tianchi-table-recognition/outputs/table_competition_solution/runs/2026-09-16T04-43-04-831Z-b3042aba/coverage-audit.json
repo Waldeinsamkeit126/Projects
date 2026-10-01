@@ -1,0 +1,166 @@
+{
+  "mode": "read-only-coverage-audit",
+  "generatedAt": "2026-09-16T04:46:03.815Z",
+  "coverageVersion": "explicit-full-grid-v1",
+  "questionSha256": "c260e72dae5dc6d00050186871eabd373423afcb79dcc02f2dc37f3a8c57e9d6",
+  "predictionsSha256": "dc28dc594510cc8ef0f968bde92716cd3a4197444562fdb4acddd8f670f09838",
+  "sourceHash": "c3e67b1cc87f5012d184435f1b6f7c6dd66d15f96aa30fa5e72687c2ade4118b",
+  "apiRequests": 0,
+  "predictionsModified": false,
+  "modelAccuracy": null,
+  "total": 12,
+  "fullScope": 4,
+  "newlyFlagged": 0,
+  "missingRecords": 0,
+  "details": [
+    {
+      "id": "cv-tiered-full",
+      "scope": "full",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": {
+        "version": "explicit-full-grid-v1",
+        "totalSlots": "30",
+        "coveredSlots": "30",
+        "missingSlots": "0",
+        "complete": true,
+        "firstGaps": []
+      }
+    },
+    {
+      "id": "cv-tiered-header",
+      "scope": "partial",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "cv-tiered-value",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "cv-blanks-full",
+      "scope": "full",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": {
+        "version": "explicit-full-grid-v1",
+        "totalSlots": "12",
+        "coveredSlots": "12",
+        "missingSlots": "0",
+        "complete": true,
+        "firstGaps": []
+      }
+    },
+    {
+      "id": "cv-blanks-header",
+      "scope": "partial",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "cv-blanks-value",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "cv-groups-full",
+      "scope": "full",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": {
+        "version": "explicit-full-grid-v1",
+        "totalSlots": "20",
+        "coveredSlots": "20",
+        "missingSlots": "0",
+        "complete": true,
+        "firstGaps": []
+      }
+    },
+    {
+      "id": "cv-groups-header",
+      "scope": "partial",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "cv-groups-value",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "cv-multitable-full",
+      "scope": "full",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": {
+        "version": "explicit-full-grid-v1",
+        "totalSlots": "9",
+        "coveredSlots": "9",
+        "missingSlots": "0",
+        "complete": true,
+        "firstGaps": []
+      }
+    },
+    {
+      "id": "cv-multitable-header",
+      "scope": "partial",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "cv-multitable-value",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    }
+  ],
+  "limitation": "只离线检查已有答案，不生成或修正答案，不重算模型成绩。已查看样例的错误定位不是独立泛化验证。"
+}

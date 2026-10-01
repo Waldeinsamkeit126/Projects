@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "108",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "两候选值完全一致；A以单一扁平对象按题目顺序包含全部四个字段，符合json_array单记录组织惯例，B拆分为多个单键对象冗余"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2895,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2832,
+      "text_tokens": 62
+    },
+    "prompt_tokens": 977,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 496,
+      "text_tokens": 481
+    },
+    "total_tokens": 3872
+  },
+  "requestId": "chatcmpl-debb6ecb-9591-9e34-b5ac-fcb157b32da0",
+  "model": "qwen3.8-max-0902"
+}

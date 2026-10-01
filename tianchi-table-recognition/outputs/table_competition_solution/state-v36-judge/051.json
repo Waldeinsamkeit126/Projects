@@ -1,0 +1,47 @@
+{
+  "decisions": [
+    {
+      "id": "483",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格第一行最右侧表头为'备案号'，虽然'杂费'也在右侧，但'备案号'作为首行表头更符合'表头'定义。"
+    },
+    {
+      "id": "484",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片左上角有明显的黑色图标/Logo。"
+    },
+    {
+      "id": "487",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片宽度明显大于高度，为横向拍摄/排版。"
+    },
+    {
+      "id": "488",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "题目为中文，回答'是/否'比'true/false'更符合语境且均为字符串，表格无'税率'列，有日期和签字栏。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 7271,
+    "completion_tokens": 4308,
+    "prompt_tokens": 2963,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4014,
+      "text_tokens": 293
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 2522,
+      "cached_tokens": 0,
+      "text_tokens": 441
+    }
+  },
+  "requestId": "chatcmpl-8fbf3a16-6664-9344-9406-de1db062338f"
+}

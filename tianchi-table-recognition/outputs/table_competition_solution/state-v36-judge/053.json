@@ -1,0 +1,40 @@
+{
+  "decisions": [
+    {
+      "id": "502",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图中包含 'Amount Per Serving' 文本，作为表头部分，而 'Nutrient' 未出现在图中。"
+    },
+    {
+      "id": "503",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图中包含 '% Daily Value' 文本，位于表格下部作为标题，符合右侧或数值列的表头特征。"
+    },
+    {
+      "id": "508",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "题目要求按顺序列出字段答案，B 选项将每个字段作为独立对象放在数组中，更符合‘列出’和扁平对象数组（键值对列表）的语义，且顺序明确。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 7306,
+    "completion_tokens": 6796,
+    "prompt_tokens": 510,
+    "completion_tokens_details": {
+      "reasoning_tokens": 6547,
+      "text_tokens": 248
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 98,
+      "cached_tokens": 0,
+      "text_tokens": 412
+    }
+  },
+  "requestId": "chatcmpl-450391be-065e-9d7d-b3f2-92d9f73f3ea9"
+}

@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "323",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格结构为左列字段名、右列值，最右侧为值列，无表头。B选项'权利其他状况'位于左侧列底部。"
+    },
+    {
+      "id": "328",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格整体布局为纵向延伸（行多列少），'纵向'比'竖排'更准确描述表格方向，且'竖排'通常指文字排版（仅'权利其他状况'为竖排）。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 5056,
+    "completion_tokens": 4033,
+    "prompt_tokens": 1023,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3841,
+      "text_tokens": 191
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 611,
+      "cached_tokens": 0,
+      "text_tokens": 412
+    }
+  },
+  "requestId": "chatcmpl-61640c53-631a-9a04-98bf-06ce6aacbe35"
+}

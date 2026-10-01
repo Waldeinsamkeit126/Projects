@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\091.png",
+  "results": [
+    {
+      "id": "879",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "{\"row_count\":5,\"col_count\":9,\"cells\":[{\"text\":\"\",\"row\":0,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"Predicted\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":8},{\"text\":\"Count\",\"row\":1,\"col\":1,\"rowspan\":1,\"colspan\":2},{\"text\":\"Overall Percent\",\"row\":1,\"col\":3,\"rowspan\":1,\"colspan\":2},{\"text\":\"Row Percent\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":2},{\"text\":\"Column Percent\",\"row\":1,\"col\":7,\"rowspan\":1,\"colspan\":2},{\"text\":\"Actual\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Fail\",\"row\":2,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"Pass\",\"row\":2,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Fail\",\"row\":2,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"Pass\",\"row\":2,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"Fail\",\"row\":2,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"Pass\",\"row\":2,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"Fail\",\"row\":2,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"Pass\",\"row\":2,\"col\":8,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "880",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "34",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "881",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "9",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "882",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "883",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "35",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "884",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "85.4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "885",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "85",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "886",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "84",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "887",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "69",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "888",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "20.9%",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

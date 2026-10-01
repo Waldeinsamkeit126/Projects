@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\081.png",
+  "results": [
+    {
+      "id": "780",
+      "source_file": "081.png",
+      "resolved_file": "081.png",
+      "model": "qwen3.7-plus",
+      "answer": "CBSE",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "781",
+      "source_file": "081.png",
+      "resolved_file": "081.png",
+      "model": "qwen3.7-plus",
+      "answer": "65",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "782",
+      "source_file": "081.png",
+      "resolved_file": "081.png",
+      "model": "qwen3.7-plus",
+      "answer": "Sports facility is not available for this class",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "783",
+      "source_file": "081.png",
+      "resolved_file": "081.png",
+      "model": "qwen3.7-plus",
+      "answer": "45",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "784",
+      "source_file": "081.png",
+      "resolved_file": "081.png",
+      "model": "qwen3.7-plus",
+      "answer": "82",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "785",
+      "source_file": "081.png",
+      "resolved_file": "081.png",
+      "model": "qwen3.7-plus",
+      "answer": "Sports facility is available for this class",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "786",
+      "source_file": "081.png",
+      "resolved_file": "081.png",
+      "model": "qwen3.7-plus",
+      "answer": "105",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "787",
+      "source_file": "081.png",
+      "resolved_file": "081.png",
+      "model": "qwen3.7-plus",
+      "answer": "165",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "788",
+      "source_file": "081.png",
+      "resolved_file": "081.png",
+      "model": "qwen3.7-plus",
+      "answer": "XYZ Public School XII",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

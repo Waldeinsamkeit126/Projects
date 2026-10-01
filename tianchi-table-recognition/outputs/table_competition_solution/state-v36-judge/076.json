@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "737",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格中三项费用分别为(300), (250), (150)，合计为(700)即-700，且Total Operating Expenses行显示为(700)。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 5345,
+    "completion_tokens": 3672,
+    "prompt_tokens": 1673,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3599,
+      "text_tokens": 72
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 1410,
+      "cached_tokens": 0,
+      "text_tokens": 263
+    }
+  },
+  "requestId": "chatcmpl-b2035bc6-d9e3-9de9-b914-9d0687b699a8"
+}

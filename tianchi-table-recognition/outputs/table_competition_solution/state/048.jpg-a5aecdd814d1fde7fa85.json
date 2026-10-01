@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\048.jpg",
+  "results": [
+    {
+      "id": "459",
+      "source_file": "048.jpg",
+      "resolved_file": "048.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "项目",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "460",
+      "source_file": "048.jpg",
+      "resolved_file": "048.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "461",
+      "source_file": "048.jpg",
+      "resolved_file": "048.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "462",
+      "source_file": "048.jpg",
+      "resolved_file": "048.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "项目",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "463",
+      "source_file": "048.jpg",
+      "resolved_file": "048.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "年初余额",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "464",
+      "source_file": "048.jpg",
+      "resolved_file": "048.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "5288011738.39",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "465",
+      "source_file": "048.jpg",
+      "resolved_file": "048.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "2629981089.49",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "466",
+      "source_file": "048.jpg",
+      "resolved_file": "048.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "389409537.65",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "467",
+      "source_file": "048.jpg",
+      "resolved_file": "048.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "509510514.92",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "468",
+      "source_file": "048.jpg",
+      "resolved_file": "048.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"流动资产合计期末余额\":\"7,059,703,916.00\",\"流动资产合计年初余额\":\"4,428,852,485.11\",\"固定资产期末余额\":\"11,211,345,599.37\",\"在建工程期末余额\":\"344,034,065.45\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

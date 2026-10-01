@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "id": "871",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图中该合并单元格文本分两行显示，换行保留更贴字面"
+    },
+    {
+      "id": "876",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "两个RowSpan=3区域各覆盖3行，合计6；B的8混入RowSpan=5与题意不符"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 7436,
+    "completion_tokens_details": {
+      "reasoning_tokens": 7346,
+      "text_tokens": 89
+    },
+    "prompt_tokens": 646,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 211,
+      "text_tokens": 435
+    },
+    "total_tokens": 8082
+  },
+  "requestId": "chatcmpl-f109a8cb-812c-9cb3-a54f-1582797c7704",
+  "model": "qwen3.8-max-0902"
+}

@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\035.png",
+  "results": [
+    {
+      "id": "339",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3.7-plus",
+      "answer": "Markup format comparison",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "340",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3.7-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "342",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3.7-plus",
+      "answer": "Concise and readable",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "343",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3.7-plus",
+      "answer": "MDX",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "344",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3.7-plus",
+      "answer": "5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "345",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3.7-plus",
+      "answer": "AsciiDoc, MDX",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "346",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3.7-plus",
+      "answer": "Partial",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "347",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3.7-plus",
+      "answer": "Experimental",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "348",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Field\":\"MDX Book/article export\",\"Value\":\"Third-party\"},{\"Field\":\"Quarkdown Targets\",\"Value\":\"HTML, PDF, TXT\"},{\"Field\":\"AsciiDoc Targets\",\"Value\":\"HTML, PDF, ePub\"},{\"Field\":\"MDX Targets\",\"Value\":\"HTML\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

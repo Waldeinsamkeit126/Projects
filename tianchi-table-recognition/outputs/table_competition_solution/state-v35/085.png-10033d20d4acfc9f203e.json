@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\085.png",
+  "results": [
+    {
+      "id": "820",
+      "source_file": "085.png",
+      "resolved_file": "085.png",
+      "model": "qwen3.7-plus",
+      "answer": "Warning",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "821",
+      "source_file": "085.png",
+      "resolved_file": "085.png",
+      "model": "qwen3.7-plus",
+      "answer": "244.97",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "822",
+      "source_file": "085.png",
+      "resolved_file": "085.png",
+      "model": "qwen3.7-plus",
+      "answer": "61.67",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "823",
+      "source_file": "085.png",
+      "resolved_file": "085.png",
+      "model": "qwen3.7-plus",
+      "answer": "Warning",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "824",
+      "source_file": "085.png",
+      "resolved_file": "085.png",
+      "model": "qwen3.7-plus",
+      "answer": "11026.43",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "825",
+      "source_file": "085.png",
+      "resolved_file": "085.png",
+      "model": "qwen3.7-plus",
+      "answer": "Risk",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "826",
+      "source_file": "085.png",
+      "resolved_file": "085.png",
+      "model": "qwen3.7-plus",
+      "answer": "36.49",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "827",
+      "source_file": "085.png",
+      "resolved_file": "085.png",
+      "model": "qwen3.7-plus",
+      "answer": "33761.56",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "828",
+      "source_file": "085.png",
+      "resolved_file": "085.png",
+      "model": "qwen3.7-plus",
+      "answer": "LG Chem.",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

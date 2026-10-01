@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\092.jpg",
+  "results": [
+    {
+      "id": "889",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "{\"row_count\":11,\"col_count\":13,\"cells\":[{\"text\":\"FUNNEL MANAGEMENT PLAN BASED ON INDIVIDUAL CONVERSION RATES\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":13},{\"text\":\"Account Manager\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":6},{\"text\":\"Debajit Mukherjee\",\"row\":1,\"col\":6,\"rowspan\":1,\"colspan\":7},{\"text\":\"\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"1\",\"row\":2,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"2\",\"row\":2,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"3\",\"row\":2,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"4\",\"row\":2,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"5\",\"row\":2,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"6\",\"row\":2,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"7\",\"row\":2,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"8\",\"row\":2,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"9\",\"row\":2,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"10\",\"row\":2,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"11\",\"row\":2,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"12\",\"row\":2,\"col\":12,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":3,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"ANNUAL TARGET\",\"row\":3,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"AVG CONTRACT VALUE (CURRENT AVG VALUE)\",\"row\":3,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"NO. OF CONTRACTS REQUIRED\",\"row\":3,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"TOTAL MEETINGS TO BE DONE PER MONTH\",\"row\":3,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"DISCUSSION TO PROPOSAL CONVERSION RATIO (CURRENT RATIO)\",\"row\":3,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"# PROPOSALS TO BE GENERATED PER MONTH\",\"row\":3,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"PIPELINE VALUE PER MONTH\",\"row\":3,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"PROPOSAL TO ORDERBOOK (CURRENT RATIO)\",\"row\":3,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"# CONTRACTS GENERATED PER MONTH\",\"row\":3,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"ORDER BOOK VALUE GENERATED PER MONTH\",\"row\":3,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"AVG TARGET PER MONTH\",\"row\":3,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"SHORTFALL / SURPLUS\",\"row\":3,\"col\":12,\"rowspan\":1,\"colspan\":1},{\"text\":\"ANNUAL\",\"row\":4,\"col\":0,\"rowspan\":1,\"colspan\":13},{\"text\":\"DATA FROM\",\"row\":5,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"TARGET SHEET\",\"row\":5,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"APRIL TO JAN CONTRACT AVG\",\"row\":5,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 1 / STEP 2\",\"row\":5,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"ACCOUNT MANAGEMENT PLAN\",\"row\":5,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"YTD DAILY ACTIVITY REPORT (PROPOSAL / DISCUSSION %)\",\"row\":5,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 4 * STEP 5\",\"row\":5,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 6 * STEP 2\",\"row\":5,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"YTD DAILY ACTIVITY REPORT (PROPOSAL / BUSINESS GENERATED %)\",\"row\":5,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 6 * STEP 8\",\"row\":5,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 9 * STEP 2\",\"row\":5,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 1 / 12\",\"row\":5,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 10- STEP 11\",\"row\":5,\"col\":12,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "890",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Debajit Mukherjee",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "891",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "16000000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "892",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "500000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "893",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "32",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "894",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "-1108907",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "895",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "84%",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "896",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "8999997.75",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "897",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "3150574",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "898",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

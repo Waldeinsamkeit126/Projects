@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\049.jpg",
+  "results": [
+    {
+      "id": "469",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "NIKE SB COACHES 樱花粉 男女教练夹克",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "470",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "472",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "商品名称",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "473",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "XL",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "474",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "耐克",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "475",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "聚酯纤维",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "476",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "中国 829510 -678",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "477",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "印尼 829509 -678",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "478",
+      "source_file": "049.jpg",
+      "resolved_file": "049.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"洗涤建议\":\"冷水机洗\",\"尺码 XL 衣长\":\"77\",\"尺码 M 胸围\":\"95\",\"XL 适合身高\":\"175-185\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

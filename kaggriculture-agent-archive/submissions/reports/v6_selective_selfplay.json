@@ -1,0 +1,258 @@
+{
+  "summary": {
+    "candidate_variant": "production",
+    "opponent": "self",
+    "games": 16,
+    "wins": 8,
+    "ties": 0,
+    "win_rate": 0.5,
+    "mean_score": 61018.125,
+    "mean_opponent_score": 61018.125,
+    "mean_margin": 0.0,
+    "median_margin": 0.0,
+    "max_game_seconds": 4.51835679996293,
+    "max_action_seconds": 0.054129600001033396
+  },
+  "games": [
+    {
+      "seed": 0,
+      "position": 0,
+      "ours": 58475.0,
+      "theirs": 59330.0,
+      "margin": -855.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 3.9829995000036433,
+      "max_action_seconds": 0.03148830001009628,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 0,
+      "position": 1,
+      "ours": 59330.0,
+      "theirs": 58475.0,
+      "margin": 855.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 3.97543809999479,
+      "max_action_seconds": 0.003308099985588342,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 1,
+      "position": 0,
+      "ours": 76061.0,
+      "theirs": 83584.0,
+      "margin": -7523.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 4.212782800022978,
+      "max_action_seconds": 0.004085500026121736,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 1,
+      "position": 1,
+      "ours": 83584.0,
+      "theirs": 76061.0,
+      "margin": 7523.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 4.086217699979898,
+      "max_action_seconds": 0.0246793000260368,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 2,
+      "position": 0,
+      "ours": 50357.0,
+      "theirs": 54904.0,
+      "margin": -4547.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 4.160957199987024,
+      "max_action_seconds": 0.03872620000038296,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 2,
+      "position": 1,
+      "ours": 54904.0,
+      "theirs": 50357.0,
+      "margin": 4547.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 4.1574223000206985,
+      "max_action_seconds": 0.033892399980686605,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 3,
+      "position": 0,
+      "ours": 63535.0,
+      "theirs": 77596.0,
+      "margin": -14061.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 4.011611399997491,
+      "max_action_seconds": 0.003044600016437471,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 3,
+      "position": 1,
+      "ours": 77596.0,
+      "theirs": 63535.0,
+      "margin": 14061.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 4.042428800021298,
+      "max_action_seconds": 0.0026101000257767737,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 4,
+      "position": 0,
+      "ours": 57706.0,
+      "theirs": 66214.0,
+      "margin": -8508.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 4.18640599999344,
+      "max_action_seconds": 0.050271399959456176,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 4,
+      "position": 1,
+      "ours": 66214.0,
+      "theirs": 57706.0,
+      "margin": 8508.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 4.204953400010709,
+      "max_action_seconds": 0.02469549997476861,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 5,
+      "position": 0,
+      "ours": 69408.0,
+      "theirs": 66876.0,
+      "margin": 2532.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 3.936368399998173,
+      "max_action_seconds": 0.0023013000027276576,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 5,
+      "position": 1,
+      "ours": 66876.0,
+      "theirs": 69408.0,
+      "margin": -2532.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 3.9550729999900796,
+      "max_action_seconds": 0.054129600001033396,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 6,
+      "position": 0,
+      "ours": 30741.0,
+      "theirs": 26398.0,
+      "margin": 4343.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 4.019817200023681,
+      "max_action_seconds": 0.027656200050842017,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 6,
+      "position": 1,
+      "ours": 26398.0,
+      "theirs": 30741.0,
+      "margin": -4343.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 3.9851799000171013,
+      "max_action_seconds": 0.0021456999820657074,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 7,
+      "position": 0,
+      "ours": 67400.0,
+      "theirs": 67705.0,
+      "margin": -305.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 3.998645099985879,
+      "max_action_seconds": 0.04424680001102388,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 7,
+      "position": 1,
+      "ours": 67705.0,
+      "theirs": 67400.0,
+      "margin": 305.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 4.51835679996293,
+      "max_action_seconds": 0.0031267000013031065,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

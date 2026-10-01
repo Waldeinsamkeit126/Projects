@@ -1,0 +1,376 @@
+{
+  "player": "カワシギ",
+  "episode_count": 14,
+  "mean_action_match_fraction": 0.3556547619047619,
+  "mean_exact_prefix_fraction": 0.17857142857142858,
+  "episodes": [
+    {
+      "episode_id": 93787889,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": 19.0,
+      "steps": 720,
+      "action_match_fraction": 0.5069444444444444,
+      "exact_prefix_fraction": 0.3,
+      "first_mismatch": 337,
+      "selected_counts": {
+        "93803702": 72,
+        "93793186": 72,
+        "93897794": 576
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93803702,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        },
+        {
+          "step": 72,
+          "expert": 93793186,
+          "matched_shop_prefix": 1,
+          "visible_shops": [
+            "PIZZA_SHOP"
+          ]
+        },
+        {
+          "step": 144,
+          "expert": 93897794,
+          "matched_shop_prefix": 2,
+          "visible_shops": [
+            "PIZZA_SHOP",
+            "PET_CAFE"
+          ]
+        }
+      ]
+    },
+    {
+      "episode_id": 93793186,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": 14878.0,
+      "steps": 720,
+      "action_match_fraction": 0.36944444444444446,
+      "exact_prefix_fraction": 0.2,
+      "first_mismatch": 217,
+      "selected_counts": {
+        "93803702": 72,
+        "93897794": 648
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93803702,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        },
+        {
+          "step": 72,
+          "expert": 93897794,
+          "matched_shop_prefix": 1,
+          "visible_shops": [
+            "PIZZA_SHOP"
+          ]
+        }
+      ]
+    },
+    {
+      "episode_id": 93798410,
+      "seat": 0,
+      "opponent": "Lucien de Rubempre",
+      "margin": 12093.0,
+      "steps": 720,
+      "action_match_fraction": 0.2611111111111111,
+      "exact_prefix_fraction": 0.1,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93916293": 720
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93916293,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        }
+      ]
+    },
+    {
+      "episode_id": 93803702,
+      "seat": 1,
+      "opponent": "Utkarsh #2",
+      "margin": 2004.0,
+      "steps": 720,
+      "action_match_fraction": 0.2972222222222222,
+      "exact_prefix_fraction": 0.1,
+      "first_mismatch": 146,
+      "selected_counts": {
+        "93816256": 720
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93816256,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        }
+      ]
+    },
+    {
+      "episode_id": 93809928,
+      "seat": 0,
+      "opponent": "Utkarsh #2",
+      "margin": 10845.0,
+      "steps": 720,
+      "action_match_fraction": 0.44166666666666665,
+      "exact_prefix_fraction": 0.1,
+      "first_mismatch": 146,
+      "selected_counts": {
+        "93916293": 720
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93916293,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        }
+      ]
+    },
+    {
+      "episode_id": 93816256,
+      "seat": 1,
+      "opponent": "Utkarsh #2",
+      "margin": 5545.0,
+      "steps": 720,
+      "action_match_fraction": 0.37222222222222223,
+      "exact_prefix_fraction": 0.3,
+      "first_mismatch": 194,
+      "selected_counts": {
+        "93803702": 72,
+        "93822918": 648
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93803702,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        },
+        {
+          "step": 72,
+          "expert": 93822918,
+          "matched_shop_prefix": 1,
+          "visible_shops": [
+            "SMOOTHIE_SHOP"
+          ]
+        }
+      ]
+    },
+    {
+      "episode_id": 93822918,
+      "seat": 1,
+      "opponent": "Kostiantyn Isaienkov",
+      "margin": 230.0,
+      "steps": 720,
+      "action_match_fraction": 0.37222222222222223,
+      "exact_prefix_fraction": 0.3,
+      "first_mismatch": 194,
+      "selected_counts": {
+        "93803702": 72,
+        "93816256": 648
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93803702,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        },
+        {
+          "step": 72,
+          "expert": 93816256,
+          "matched_shop_prefix": 1,
+          "visible_shops": [
+            "SMOOTHIE_SHOP"
+          ]
+        }
+      ]
+    },
+    {
+      "episode_id": 93835266,
+      "seat": 1,
+      "opponent": "ReCurSiON",
+      "margin": 8491.0,
+      "steps": 720,
+      "action_match_fraction": 0.20555555555555555,
+      "exact_prefix_fraction": 0.1,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93803702": 720
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93803702,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        }
+      ]
+    },
+    {
+      "episode_id": 93848465,
+      "seat": 0,
+      "opponent": "ReCurSiON",
+      "margin": 6218.0,
+      "steps": 720,
+      "action_match_fraction": 0.20694444444444443,
+      "exact_prefix_fraction": 0.1,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93916293": 720
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93916293,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        }
+      ]
+    },
+    {
+      "episode_id": 93862421,
+      "seat": 0,
+      "opponent": "Lucien de Rubempre",
+      "margin": 460.0,
+      "steps": 720,
+      "action_match_fraction": 0.4444444444444444,
+      "exact_prefix_fraction": 0.1,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93916293": 720
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93916293,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        }
+      ]
+    },
+    {
+      "episode_id": 93877490,
+      "seat": 0,
+      "opponent": "Utkarsh #2",
+      "margin": -114.0,
+      "steps": 720,
+      "action_match_fraction": 0.26666666666666666,
+      "exact_prefix_fraction": 0.1,
+      "first_mismatch": 169,
+      "selected_counts": {
+        "93916293": 720
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93916293,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        }
+      ]
+    },
+    {
+      "episode_id": 93897794,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": -2952.0,
+      "steps": 720,
+      "action_match_fraction": 0.5069444444444444,
+      "exact_prefix_fraction": 0.3,
+      "first_mismatch": 337,
+      "selected_counts": {
+        "93803702": 72,
+        "93793186": 72,
+        "93787889": 576
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93803702,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        },
+        {
+          "step": 72,
+          "expert": 93793186,
+          "matched_shop_prefix": 1,
+          "visible_shops": [
+            "PIZZA_SHOP"
+          ]
+        },
+        {
+          "step": 144,
+          "expert": 93787889,
+          "matched_shop_prefix": 2,
+          "visible_shops": [
+            "PIZZA_SHOP",
+            "PET_CAFE"
+          ]
+        }
+      ]
+    },
+    {
+      "episode_id": 93916293,
+      "seat": 0,
+      "opponent": "Thomas Tschinkel",
+      "margin": -114.0,
+      "steps": 720,
+      "action_match_fraction": 0.3638888888888889,
+      "exact_prefix_fraction": 0.2,
+      "first_mismatch": 217,
+      "selected_counts": {
+        "93798410": 72,
+        "93936519": 648
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93798410,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        },
+        {
+          "step": 72,
+          "expert": 93936519,
+          "matched_shop_prefix": 1,
+          "visible_shops": [
+            "SMOOTHIE_SHOP"
+          ]
+        }
+      ]
+    },
+    {
+      "episode_id": 93936519,
+      "seat": 0,
+      "opponent": "Thomas Tschinkel",
+      "margin": -2512.0,
+      "steps": 720,
+      "action_match_fraction": 0.3638888888888889,
+      "exact_prefix_fraction": 0.2,
+      "first_mismatch": 217,
+      "selected_counts": {
+        "93916293": 720
+      },
+      "transitions": [
+        {
+          "step": 0,
+          "expert": 93916293,
+          "matched_shop_prefix": 0,
+          "visible_shops": []
+        }
+      ]
+    }
+  ]
+}

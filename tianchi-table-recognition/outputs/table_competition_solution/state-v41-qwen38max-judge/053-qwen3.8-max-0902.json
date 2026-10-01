@@ -1,0 +1,41 @@
+{
+  "decisions": [
+    {
+      "id": "502",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "左列内容为营养素名称，字段名为Nutrient；Amount Per Serving是含量列的分区头"
+    },
+    {
+      "id": "503",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "最右列为每日百分比列，表头为% Daily Value"
+    },
+    {
+      "id": "508",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "单个扁平对象按表序包含四字段，值与图一致(0mg/6g/4g/0g)"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 7607,
+    "completion_tokens_details": {
+      "reasoning_tokens": 7481,
+      "text_tokens": 125
+    },
+    "prompt_tokens": 618,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 98,
+      "text_tokens": 520
+    },
+    "total_tokens": 8225
+  },
+  "requestId": "chatcmpl-f5333186-a07f-9c13-9eab-6b9a388847c4",
+  "model": "qwen3.8-max-0902"
+}

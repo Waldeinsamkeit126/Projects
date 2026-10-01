@@ -1,0 +1,62 @@
+{
+  "decisions": [
+    {
+      "id": "399",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "hint与整表主题一致，A仅为子列组标题"
+    },
+    {
+      "id": "404",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "与图中Young Total行A列一致"
+    },
+    {
+      "id": "405",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "与图中Young Total行B列一致"
+    },
+    {
+      "id": "406",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "与图中Elderly Total行force A列一致"
+    },
+    {
+      "id": "407",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "与图中Young Total行peak pressure A列一致"
+    },
+    {
+      "id": "408",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "A的数值与计数（2组、3面罩、4指标区块）更合理"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 7030,
+    "completion_tokens_details": {
+      "reasoning_tokens": 6838,
+      "text_tokens": 191
+    },
+    "prompt_tokens": 913,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 122,
+      "text_tokens": 791
+    },
+    "total_tokens": 7943
+  },
+  "requestId": "chatcmpl-f4006704-bc76-9e36-b621-38e4583c3cd5",
+  "model": "qwen3.8-max-0902"
+}

@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "710",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B去除了冗余的'Invoice'标签，更准确地提取了编号部分，且保留了#符号符合原表格式。"
+    },
+    {
+      "id": "714",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B的键名'Qty.'保留了原表表头中的点号，符合保留原表文本的要求，比A更准确。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 4349,
+    "completion_tokens": 3510,
+    "prompt_tokens": 839,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3344,
+      "text_tokens": 165
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 442,
+      "cached_tokens": 0,
+      "text_tokens": 397
+    }
+  },
+  "requestId": "chatcmpl-d7bbb7d6-4ccf-9d5a-a9d3-bdc091ebea49"
+}

@@ -1,0 +1,59 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\002.pdf",
+  "results": [
+    {
+      "id": "5",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[\"188,661,393.95\",\"\",\"\",\"46,023,324.74\"]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "6",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "18945194.71",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "7",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[\"95,250,987.68\",\"881,323.23\",\"15,401,527.35\",\"10,540,766.93\"]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "8",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[\"17,663,778.06\",\"24,132,677.69\",\"908,086,512.30\",\"26,653,628.18\",\"3,907,669.91\",\"105,814,633.66\",\"135,604,327.01\",\"3,531,360.81\",\"25,088,416.69\",\"161,613,200.00\"]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "9",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[\"2,794,275,324.10\",\"2,918,275,906.82\"]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "10",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "11",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

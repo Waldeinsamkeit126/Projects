@@ -1,0 +1,2 @@
+[RETRY] 013.jpg 请求失败 (HTTP 429: {"error":{"code":"Throttling.ResourceExhausted","param":null,"message":"An error occurred in model serving, error message is: [Too many requests.]","type":"Throttling.ResourceExhausted"},"id":"chatcmpl-399faa37-7158-9a78-a565-2825f9d89b42"}); 第 1/8 次，16 秒后重试
+[RETRY] 013.jpg 请求失败 (HTTP 429: {"error":{"code":"Throttling.ResourceExhausted","param":null,"message":"An error occurred in model serving, error message is: [Too many requests.]","type":"Throttling.ResourceExhausted"},"id":"chatcmpl-50452eb7-8f9b-924f-9a96-1cfc41ab2f91"}); 第 2/8 次，32 秒后重试

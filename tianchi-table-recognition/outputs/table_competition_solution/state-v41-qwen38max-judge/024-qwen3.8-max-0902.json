@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "238",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图中无Don't know/refused及frequency行，对应值应为空；Never serviced inland=20与主分区=2两者一致，B更准确"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2312,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2252,
+      "text_tokens": 59
+    },
+    "prompt_tokens": 612,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 170,
+      "text_tokens": 442
+    },
+    "total_tokens": 2924
+  },
+  "requestId": "chatcmpl-fe2a2368-20a2-9a7e-bfa8-f0123382634c",
+  "model": "qwen3.8-max-0902"
+}

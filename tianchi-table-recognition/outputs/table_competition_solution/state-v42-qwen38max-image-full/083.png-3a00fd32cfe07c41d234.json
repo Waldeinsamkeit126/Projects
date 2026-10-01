@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\083.png",
+  "results": [
+    {
+      "id": "799",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "{\"row_count\":11,\"col_count\":7,\"cells\":[{\"text\":\"The Error Rate on Different Forms\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":7},{\"text\":\"Form name\",\"row\":1,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"A\",\"row\":1,\"col\":1,\"rowspan\":2,\"colspan\":1},{\"text\":\"B\",\"row\":1,\"col\":2,\"rowspan\":2,\"colspan\":1},{\"text\":\"Total fields (X = A × B)\",\"row\":1,\"col\":3,\"rowspan\":2,\"colspan\":1},{\"text\":\"Fields with errors (Y)\",\"row\":1,\"col\":4,\"rowspan\":2,\"colspan\":1},{\"text\":\"Error rate* (Y/X) × 100 (%)\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":2},{\"text\":\"X/Y\",\"row\":2,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"%age\",\"row\":2,\"col\":6,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "800",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "35184",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "801",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "802",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "0.26",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "803",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "20",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "804",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "63",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "805",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "81714",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "806",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "201",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "807",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "25636",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "808",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Breast pathology",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

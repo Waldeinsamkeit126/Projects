@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\057.jpg",
+  "results": [
+    {
+      "id": "539",
+      "source_file": "057.jpg",
+      "resolved_file": "057.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "芯片公司这么挣钱，员工能拿到多少？",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "540",
+      "source_file": "057.jpg",
+      "resolved_file": "057.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "541",
+      "source_file": "057.jpg",
+      "resolved_file": "057.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "542",
+      "source_file": "057.jpg",
+      "resolved_file": "057.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "英伟达",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "543",
+      "source_file": "057.jpg",
+      "resolved_file": "057.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "人均奖金",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "544",
+      "source_file": "057.jpg",
+      "resolved_file": "057.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "万美元",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "545",
+      "source_file": "057.jpg",
+      "resolved_file": "057.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "30.1",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "546",
+      "source_file": "057.jpg",
+      "resolved_file": "057.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "4986.6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "547",
+      "source_file": "057.jpg",
+      "resolved_file": "057.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "1.8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "548",
+      "source_file": "057.jpg",
+      "resolved_file": "057.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"台积电人均奖金2025\":\"3.6\",\"SK海力士人均奖金2026E\":\"47.7\",\"三星电子人均奖金2026E\":\"39.3\",\"公司数量\":\"5\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

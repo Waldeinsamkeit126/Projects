@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "248",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "题目为中文，候选A使用了中文'表格'描述文件类型，且true/false符合字段布尔值习惯，比全英文的B更贴切。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 3522,
+    "completion_tokens": 3030,
+    "prompt_tokens": 492,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2930,
+      "text_tokens": 99
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 170,
+      "cached_tokens": 0,
+      "text_tokens": 322
+    }
+  },
+  "requestId": "chatcmpl-5f850f9d-3c06-9ee9-8df6-2e988c310845"
+}

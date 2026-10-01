@@ -1,0 +1,247 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\v4_melon88_cow\\main.py",
+    "games": 11,
+    "wins": 3,
+    "mean_score": 76645.63636363637,
+    "mean_margin": -17812.909090909092,
+    "mean_score_delta": -5438.090909090909,
+    "mean_margin_delta": -4414.0,
+    "median_margin_delta": -6455.0,
+    "max_action_seconds": 0.1256928999791853,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89673440,
+      "opponent": "Emre Cirak",
+      "seed": 798474334,
+      "position": 0,
+      "ours": 70659.0,
+      "theirs": 125273.0,
+      "margin": -54614.0,
+      "win": false,
+      "original_ours": 70070.0,
+      "original_theirs": 121693.0,
+      "original_margin": -51623.0,
+      "score_delta": 589.0,
+      "margin_delta": -2991.0,
+      "elapsed_seconds": 4.5736410999670625,
+      "max_action_seconds": 0.07238649995997548,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89668397,
+      "opponent": "motemen",
+      "seed": 1138124550,
+      "position": 1,
+      "ours": 73190.0,
+      "theirs": 96048.0,
+      "margin": -22858.0,
+      "win": false,
+      "original_ours": 84278.0,
+      "original_theirs": 89240.0,
+      "original_margin": -4962.0,
+      "score_delta": -11088.0,
+      "margin_delta": -17896.0,
+      "elapsed_seconds": 4.206149999983609,
+      "max_action_seconds": 0.07627949997549877,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89664441,
+      "opponent": "Stanislav Chistyakov",
+      "seed": 553097306,
+      "position": 1,
+      "ours": 107163.0,
+      "theirs": 108569.0,
+      "margin": -1406.0,
+      "win": false,
+      "original_ours": 81440.0,
+      "original_theirs": 89839.0,
+      "original_margin": -8399.0,
+      "score_delta": 25723.0,
+      "margin_delta": 6993.0,
+      "elapsed_seconds": 4.4757686000084504,
+      "max_action_seconds": 0.1011206999537535,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89662736,
+      "opponent": "khan",
+      "seed": 1760749473,
+      "position": 1,
+      "ours": 94675.0,
+      "theirs": 107008.0,
+      "margin": -12333.0,
+      "win": false,
+      "original_ours": 57421.0,
+      "original_theirs": 84293.0,
+      "original_margin": -26872.0,
+      "score_delta": 37254.0,
+      "margin_delta": 14539.0,
+      "elapsed_seconds": 4.805939399986528,
+      "max_action_seconds": 0.05022530001588166,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89661600,
+      "opponent": "Nolan Liang",
+      "seed": 1068324647,
+      "position": 1,
+      "ours": 73979.0,
+      "theirs": 93256.0,
+      "margin": -19277.0,
+      "win": false,
+      "original_ours": 94776.0,
+      "original_theirs": 98891.0,
+      "original_margin": -4115.0,
+      "score_delta": -20797.0,
+      "margin_delta": -15162.0,
+      "elapsed_seconds": 4.569493599992711,
+      "max_action_seconds": 0.0877737999544479,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89658738,
+      "opponent": "ZechHuang",
+      "seed": 547441592,
+      "position": 0,
+      "ours": 93598.0,
+      "theirs": 145836.0,
+      "margin": -52238.0,
+      "win": false,
+      "original_ours": 74461.0,
+      "original_theirs": 135032.0,
+      "original_margin": -60571.0,
+      "score_delta": 19137.0,
+      "margin_delta": 8333.0,
+      "elapsed_seconds": 4.782720500021242,
+      "max_action_seconds": 0.06572989997221157,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89658155,
+      "opponent": "GzmCR632",
+      "seed": 599855846,
+      "position": 0,
+      "ours": 63058.0,
+      "theirs": 101200.0,
+      "margin": -38142.0,
+      "win": false,
+      "original_ours": 89561.0,
+      "original_theirs": 106327.0,
+      "original_margin": -16766.0,
+      "score_delta": -26503.0,
+      "margin_delta": -21376.0,
+      "elapsed_seconds": 4.719527199980803,
+      "max_action_seconds": 0.1256928999791853,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89658154,
+      "opponent": "suminshim",
+      "seed": 1520630520,
+      "position": 0,
+      "ours": 54751.0,
+      "theirs": 105506.0,
+      "margin": -50755.0,
+      "win": false,
+      "original_ours": 93960.0,
+      "original_theirs": 138260.0,
+      "original_margin": -44300.0,
+      "score_delta": -39209.0,
+      "margin_delta": -6455.0,
+      "elapsed_seconds": 4.620174499985296,
+      "max_action_seconds": 0.06699049996677786,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89662169,
+      "opponent": "Anton Tikhonov",
+      "seed": 815975912,
+      "position": 0,
+      "ours": 74232.0,
+      "theirs": 60777.0,
+      "margin": 13455.0,
+      "win": true,
+      "original_ours": 92841.0,
+      "original_theirs": 90983.0,
+      "original_margin": 1858.0,
+      "score_delta": -18609.0,
+      "margin_delta": 11597.0,
+      "elapsed_seconds": 4.474430300004315,
+      "max_action_seconds": 0.10624250001274049,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89660446,
+      "opponent": "yuto083",
+      "seed": 1654615898,
+      "position": 1,
+      "ours": 64209.0,
+      "theirs": 59919.0,
+      "margin": 4290.0,
+      "win": true,
+      "original_ours": 62844.0,
+      "original_theirs": 50553.0,
+      "original_margin": 12291.0,
+      "score_delta": 1365.0,
+      "margin_delta": -8001.0,
+      "elapsed_seconds": 5.114311399986036,
+      "max_action_seconds": 0.04484549997141585,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89658724,
+      "opponent": "Justin CH123",
+      "seed": 416604342,
+      "position": 0,
+      "ours": 73588.0,
+      "theirs": 35652.0,
+      "margin": 37936.0,
+      "win": true,
+      "original_ours": 101269.0,
+      "original_theirs": 45198.0,
+      "original_margin": 56071.0,
+      "score_delta": -27681.0,
+      "margin_delta": -18135.0,
+      "elapsed_seconds": 4.613043299992569,
+      "max_action_seconds": 0.0037318000104278326,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

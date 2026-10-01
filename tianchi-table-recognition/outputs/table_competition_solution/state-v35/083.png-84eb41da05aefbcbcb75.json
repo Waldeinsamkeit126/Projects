@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\083.png",
+  "results": [
+    {
+      "id": "800",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.7-plus",
+      "answer": "35184",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "801",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.7-plus",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "802",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.7-plus",
+      "answer": "0.26",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "803",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.7-plus",
+      "answer": "20",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "804",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.7-plus",
+      "answer": "63",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "805",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.7-plus",
+      "answer": "81714",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "806",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.7-plus",
+      "answer": "201",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "807",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.7-plus",
+      "answer": "25636",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "808",
+      "source_file": "083.png",
+      "resolved_file": "083.png",
+      "model": "qwen3.7-plus",
+      "answer": "Breast pathology",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

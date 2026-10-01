@@ -1,0 +1,50 @@
+{
+  "datasetVersion": "synthetic-tables-v1",
+  "source": "independently-authored-no-competition-data",
+  "fixtureSha256": "f8303b027d806f19bb9f97640c45ac49a586f33f4e238e2235f6137eeffb5131",
+  "rendererSha256": "d6f81be24220ed14b2ead6487bb9561c68661c3da4b7bcadb7d649cfc01e8ec4",
+  "questionCount": 30,
+  "media": [
+    {
+      "sourceId": "dev-sales",
+      "fileName": "dev-sales.png",
+      "split": "development",
+      "sha256": "9624260089358c21b41ba6bcd30f08f54df46d3a16183bdccfd5698c42c06482",
+      "width": 754,
+      "height": 314
+    },
+    {
+      "sourceId": "dev-missing",
+      "fileName": "dev-missing.png",
+      "split": "development",
+      "sha256": "0bf0ecd0a90a4a5ad5d0f224871e33c0d31fbad18b4968fd2138077593986643",
+      "width": 754,
+      "height": 378
+    },
+    {
+      "sourceId": "dev-english",
+      "fileName": "dev-english.png",
+      "split": "development",
+      "sha256": "f47015a26fc3283846b5149a62118b2e74e3404aa9babdc10a21ff7fedfc5138",
+      "width": 754,
+      "height": 378
+    },
+    {
+      "sourceId": "holdout-merged",
+      "fileName": "holdout-merged.png",
+      "split": "holdout",
+      "sha256": "1afe13ef5dab679cf1ef3645fb1e074f6da427b2f4c109f7bfdd064a0d91f340",
+      "width": 1214,
+      "height": 378
+    },
+    {
+      "sourceId": "holdout-units",
+      "fileName": "holdout-units.png",
+      "split": "holdout",
+      "sha256": "e0caf62b07b1a58daa8f8f88b1e04e9de49ae358dc1ad5676b42a62b653ee914",
+      "width": 984,
+      "height": 378
+    }
+  ],
+  "limitations": "Clean synthetic images only; not a representative benchmark of real scans. Labels are never included in inference input."
+}

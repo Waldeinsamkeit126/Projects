@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\090.png",
+  "results": [
+    {
+      "id": "869",
+      "source_file": "090.png",
+      "resolved_file": "090.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "{\"row_count\":9,\"col_count\":6,\"cells\":[{\"text\":\"Row 1\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"ColumnSpan=\\\"2\\\"\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":2},{\"text\":\"ColumnSpan=\\\"2\\\"\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":2}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "870",
+      "source_file": "090.png",
+      "resolved_file": "090.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "ColumnSpan=\"2\"",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "871",
+      "source_file": "090.png",
+      "resolved_file": "090.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "RowSpan=\"3\" ColumnSpan=\"2\"",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "872",
+      "source_file": "090.png",
+      "resolved_file": "090.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "RowSpan=\"5\"",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "873",
+      "source_file": "090.png",
+      "resolved_file": "090.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "ColumnSpan=\"2\"",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "874",
+      "source_file": "090.png",
+      "resolved_file": "090.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "ColumnSpan=\"2\"",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "875",
+      "source_file": "090.png",
+      "resolved_file": "090.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "9",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "876",
+      "source_file": "090.png",
+      "resolved_file": "090.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "877",
+      "source_file": "090.png",
+      "resolved_file": "090.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "878",
+      "source_file": "090.png",
+      "resolved_file": "090.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "4",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

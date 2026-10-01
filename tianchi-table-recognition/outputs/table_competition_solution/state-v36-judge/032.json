@@ -1,0 +1,40 @@
+{
+  "decisions": [
+    {
+      "id": "314",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格第一行姓名为张明。"
+    },
+    {
+      "id": "317",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "最高分93对应的姓名为江风。"
+    },
+    {
+      "id": "318",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "最低分为70（黄小云），计应10班分数82，共11条记录。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 1795,
+    "completion_tokens": 1043,
+    "prompt_tokens": 752,
+    "completion_tokens_details": {
+      "reasoning_tokens": 935,
+      "text_tokens": 107
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 347,
+      "cached_tokens": 0,
+      "text_tokens": 405
+    }
+  },
+  "requestId": "chatcmpl-fa1e3563-51bc-92c1-bc32-0ab9e2c7f707"
+}

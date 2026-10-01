@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\082.png",
+  "results": [
+    {
+      "id": "789",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3-vl-plus",
+      "answer": "{\"row_count\":4,\"col_count\":13,\"cells\":[{\"text\":\"序号\",\"row\":0,\"col\":0,\"rowspan\":4,\"colspan\":1},{\"text\":\"项目编码\",\"row\":0,\"col\":1,\"rowspan\":4,\"colspan\":1},{\"text\":\"项目名称\",\"row\":0,\"col\":2,\"rowspan\":4,\"colspan\":1},{\"text\":\"项目特征描述\",\"row\":0,\"col\":3,\"rowspan\":4,\"colspan\":1},{\"text\":\"计量单位\",\"row\":0,\"col\":4,\"rowspan\":4,\"colspan\":1},{\"text\":\"工程量\",\"row\":0,\"col\":5,\"rowspan\":4,\"colspan\":1},{\"text\":\"综合单价(元)\",\"row\":0,\"col\":6,\"rowspan\":4,\"colspan\":1},{\"text\":\"合价(元)\",\"row\":0,\"col\":7,\"rowspan\":4,\"colspan\":1},{\"text\":\"其中\",\"row\":0,\"col\":8,\"rowspan\":1,\"colspan\":3},{\"text\":\"备注\",\"row\":0,\"col\":11,\"rowspan\":4,\"colspan\":1},{\"text\":\"人工费\",\"row\":1,\"col\":8,\"rowspan\":3,\"colspan\":1},{\"text\":\"机械费\",\"row\":1,\"col\":9,\"rowspan\":3,\"colspan\":1},{\"text\":\"管理费\",\"row\":1,\"col\":10,\"rowspan\":3,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "790",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3-vl-plus",
+      "answer": "表1-2 分部分项工程量清单及计价表（号清单）",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "791",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3-vl-plus",
+      "answer": "第7页 共10页",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "792",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3-vl-plus",
+      "answer": "现浇构件钢筋",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "793",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3-vl-plus",
+      "answer": "2.238",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "794",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3-vl-plus",
+      "answer": "塑料管",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "795",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3-vl-plus",
+      "answer": "82809",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "796",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3-vl-plus",
+      "answer": "12520",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "797",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3-vl-plus",
+      "answer": "15633",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "798",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3-vl-plus",
+      "answer": "污水",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

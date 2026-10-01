@@ -1,0 +1,297 @@
+{
+  "mode": "read-only-diagnostics-not-rescoring",
+  "generatedAt": "2026-09-17T10:32:19.769Z",
+  "runId": "2026-09-17T10-27-31-986Z-daea26a3",
+  "predictionsSha256": "e8bf48e9012f54e9f328e0e1458eb40fee87ba0d554b28b5e87d6297125b6ee7",
+  "apiRequests": 0,
+  "predictionsModified": false,
+  "strictCorrect": 5,
+  "total": 15,
+  "answered": 10,
+  "missing": 5,
+  "formatValid": 10,
+  "mismatches": [
+    {
+      "id": "ss-budget-clean-q1",
+      "category": "full-structure",
+      "model": "qwen3.8-max",
+      "question": "只依据《季度经费登记（单位：元）》。恢复完整表格结构；标题和表外说明不计入表内，cells须包含所有单元格（含空白），坐标从0开始，合并单元格仅记录一次。",
+      "strictCorrect": false,
+      "dimensions": {
+        "expected": [
+          8,
+          8
+        ],
+        "actual": [
+          8,
+          7
+        ]
+      },
+      "cells": [
+        {
+          "coordinate": "0:5",
+          "field": "colspan",
+          "expected": 3,
+          "actual": 2
+        },
+        {
+          "coordinate": "1:7",
+          "kind": "missing-cell"
+        },
+        {
+          "coordinate": "3:7",
+          "kind": "missing-cell"
+        },
+        {
+          "coordinate": "4:7",
+          "kind": "missing-cell"
+        },
+        {
+          "coordinate": "5:7",
+          "kind": "missing-cell"
+        },
+        {
+          "coordinate": "6:7",
+          "kind": "missing-cell"
+        },
+        {
+          "coordinate": "7:7",
+          "kind": "missing-cell"
+        }
+      ],
+      "cellDifferenceCount": 7,
+      "coverageDiagnostic": {
+        "valid": true,
+        "coverage": {
+          "version": "explicit-full-grid-v1",
+          "totalSlots": "56",
+          "coveredSlots": "56",
+          "missingSlots": "0",
+          "complete": true,
+          "firstGaps": []
+        }
+      }
+    },
+    {
+      "id": "ss-budget-clean-q2",
+      "category": "partial-structure",
+      "model": "qwen3-vl-plus",
+      "question": "只依据《季度经费登记（单位：元）》。仅恢复表头行结构；cells只输出表头，row_count和col_count仍填写整张目标表的逻辑尺寸。",
+      "strictCorrect": false,
+      "dimensions": {
+        "expected": [
+          8,
+          8
+        ],
+        "actual": [
+          7,
+          8
+        ]
+      },
+      "cells": [
+        {
+          "coordinate": "0:0",
+          "field": "rowspan",
+          "expected": 3,
+          "actual": 1
+        },
+        {
+          "coordinate": "0:1",
+          "field": "rowspan",
+          "expected": 3,
+          "actual": 1
+        },
+        {
+          "coordinate": "1:4",
+          "field": "rowspan",
+          "expected": 2,
+          "actual": 1
+        },
+        {
+          "coordinate": "1:7",
+          "field": "rowspan",
+          "expected": 2,
+          "actual": 1
+        }
+      ],
+      "cellDifferenceCount": 4,
+      "coverageDiagnostic": {
+        "valid": true
+      }
+    },
+    {
+      "id": "ss-budget-clean-q3",
+      "category": "header-path",
+      "model": "qwen3-vl-plus",
+      "question": "只依据《季度经费登记（单位：元）》。场地项目第二季度的实支是多少元？只输出数值，不保留多余的小数末尾零。",
+      "strictCorrect": false,
+      "expected": "92.5",
+      "actual": "92.50",
+      "numericEquivalent": true
+    },
+    {
+      "id": "ss-assembly-clean-q1",
+      "category": "full-structure",
+      "model": "qwen3-vl-plus",
+      "question": "只依据《装配班次记录》。恢复完整表格结构；标题和表外说明不计入表内，cells须包含所有单元格（含空白），坐标从0开始，合并单元格仅记录一次。",
+      "strictCorrect": false,
+      "dimensions": {
+        "expected": [
+          8,
+          6
+        ],
+        "actual": [
+          8,
+          6
+        ]
+      },
+      "cells": [
+        {
+          "coordinate": "0:0",
+          "field": "rowspan",
+          "expected": 2,
+          "actual": 1
+        },
+        {
+          "coordinate": "0:1",
+          "field": "rowspan",
+          "expected": 2,
+          "actual": 1
+        },
+        {
+          "coordinate": "0:4",
+          "field": "rowspan",
+          "expected": 2,
+          "actual": 1
+        },
+        {
+          "coordinate": "0:5",
+          "field": "rowspan",
+          "expected": 2,
+          "actual": 1
+        }
+      ],
+      "cellDifferenceCount": 4,
+      "coverageDiagnostic": {
+        "valid": false,
+        "coverage": {
+          "version": "explicit-full-grid-v1",
+          "totalSlots": "48",
+          "coveredSlots": "44",
+          "missingSlots": "4",
+          "complete": false,
+          "firstGaps": [
+            {
+              "row": 1,
+              "col": 0,
+              "height": 1,
+              "width": 2
+            },
+            {
+              "row": 1,
+              "col": 4,
+              "height": 1,
+              "width": 2
+            }
+          ]
+        },
+        "error": "题目明确要求完整表格，但当前 cells 有 4 个逻辑网格未覆盖，例如 (row=1,col=0,高=1,宽=2)、(row=1,col=4,高=1,宽=2)。请重新查看原图，核对空白单元格与纵向/横向合并边界。不得为了填满网格直接补值或扩大跨度；完整范围仍须以题目和图像为准。"
+      }
+    },
+    {
+      "id": "ss-assembly-clean-q2",
+      "category": "partial-structure",
+      "model": "qwen3-vl-plus",
+      "question": "只依据《装配班次记录》。仅恢复表头行结构；cells只输出表头，row_count和col_count仍填写整张目标表的逻辑尺寸。",
+      "strictCorrect": false,
+      "dimensions": {
+        "expected": [
+          8,
+          6
+        ],
+        "actual": [
+          8,
+          6
+        ]
+      },
+      "cells": [
+        {
+          "coordinate": "0:0",
+          "field": "rowspan",
+          "expected": 2,
+          "actual": 1
+        },
+        {
+          "coordinate": "0:1",
+          "field": "rowspan",
+          "expected": 2,
+          "actual": 1
+        },
+        {
+          "coordinate": "0:4",
+          "field": "rowspan",
+          "expected": 2,
+          "actual": 1
+        },
+        {
+          "coordinate": "0:5",
+          "field": "rowspan",
+          "expected": 2,
+          "actual": 1
+        }
+      ],
+      "cellDifferenceCount": 4,
+      "coverageDiagnostic": {
+        "valid": true
+      }
+    }
+  ],
+  "missingItems": [
+    {
+      "id": "ss-warehouse-clean-q1",
+      "category": "full-structure",
+      "valid": false,
+      "correct": false,
+      "error": "答案为空或不是字符串",
+      "outcome": "empty-answer",
+      "upstreamError": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q2",
+      "category": "partial-structure",
+      "valid": false,
+      "correct": false,
+      "error": "答案为空或不是字符串",
+      "outcome": "empty-answer",
+      "upstreamError": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q3",
+      "category": "neighbor-table",
+      "valid": false,
+      "correct": false,
+      "error": "答案为空或不是字符串",
+      "outcome": "empty-answer",
+      "upstreamError": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q4",
+      "category": "identifier",
+      "valid": false,
+      "correct": false,
+      "error": "答案为空或不是字符串",
+      "outcome": "empty-answer",
+      "upstreamError": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q5",
+      "category": "arithmetic",
+      "valid": false,
+      "correct": false,
+      "error": "答案为空或不是字符串",
+      "outcome": "empty-answer",
+      "upstreamError": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    }
+  ],
+  "limitation": "仅比较本次已返回答案与自建开发标签，不更改原答案或严格分数；未保留的初答/重试内容不能从最终答案倒推。"
+}

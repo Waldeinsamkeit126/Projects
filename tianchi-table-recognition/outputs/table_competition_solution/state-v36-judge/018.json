@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "178",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B保留了页码原文'Página 5 de 14'，比A更准确完整。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 1401,
+    "completion_tokens": 566,
+    "prompt_tokens": 835,
+    "completion_tokens_details": {
+      "reasoning_tokens": 517,
+      "text_tokens": 48
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 496,
+      "cached_tokens": 0,
+      "text_tokens": 339
+    }
+  },
+  "requestId": "chatcmpl-61db6632-aea7-90f5-83ef-8236399bc9ff"
+}

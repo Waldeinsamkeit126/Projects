@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "288",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A的字段名'最高 endelig valg 科目'更符合题目中文表述，B使用了挪威语字段名"
+    }
+  ],
+  "usage": {
+    "total_tokens": 1408,
+    "completion_tokens": 672,
+    "prompt_tokens": 736,
+    "completion_tokens_details": {
+      "reasoning_tokens": 616,
+      "text_tokens": 55
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 338,
+      "cached_tokens": 0,
+      "text_tokens": 398
+    }
+  },
+  "requestId": "chatcmpl-cb9093a0-a38d-9aef-b798-88ffe64b87cd"
+}

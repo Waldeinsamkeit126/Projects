@@ -1,0 +1,41 @@
+{
+  "decisions": [
+    {
+      "id": "154",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "The Box 行对应规格值为 A metal box"
+    },
+    {
+      "id": "155",
+      "choice": "A",
+      "answer": "",
+      "confidence": "low",
+      "reason": "B 为行标题非值；A 为 Leads Set 行首行值，范围无法可靠判定，按规则选 A"
+    },
+    {
+      "id": "156",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "set of (9) pieces consist of 对应三个长度值"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 8166,
+    "completion_tokens_details": {
+      "reasoning_tokens": 8049,
+      "text_tokens": 116
+    },
+    "prompt_tokens": 998,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 496,
+      "text_tokens": 502
+    },
+    "total_tokens": 9164
+  },
+  "requestId": "chatcmpl-a29637a1-3f93-98a6-8c9d-d6b338a95d18",
+  "model": "qwen3.8-max-0902"
+}

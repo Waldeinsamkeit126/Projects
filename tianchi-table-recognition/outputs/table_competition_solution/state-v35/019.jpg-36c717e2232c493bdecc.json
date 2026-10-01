@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\019.jpg",
+  "results": [
+    {
+      "id": "179",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "2.1. Santechnikos įtaisai",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "180",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "立陶宛语",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "182",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Nr.",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "183",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Vandens srautas [l/min.]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "184",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Virtuvės čiaupai",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "185",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "186",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Virtuvės kriauklės čiaupai",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "187",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "188",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"1.3 表第一个 gaminių pogrupis\":\"Virtuvės čiaupai\",\"1.3 表第一个水流值\":\"6,0\",\"主要单位\":\"[l/min.]\",\"表格数量\":\"2\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

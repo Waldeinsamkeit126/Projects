@@ -1,0 +1,1416 @@
+{
+  "model": "qwen3.7-plus",
+  "diffCount": 145,
+  "decisions": 145,
+  "selectedChanges": 73,
+  "byChoice": {
+    "B": 76,
+    "A": 67,
+    "CUSTOM": 2
+  },
+  "skipped": [],
+  "manualOverrides": [
+    "90",
+    "117",
+    "128",
+    "148",
+    "238",
+    "737"
+  ],
+  "outputPath": "C:/Users/zhhzh/Documents/Codex/2026-08-26/x20-x20-2/outputs/table_competition_solution/submission-candidate-v36-adjudicated-image-refresh.xlsx",
+  "applied": [
+    {
+      "id": "75",
+      "file_name": "010.png",
+      "question_type": "extract",
+      "answer_format": "json_array",
+      "question": "Day 6 下午 14:00-17:30 包含哪些事项？",
+      "oldAnswer": "[{\"事项\":\"发布成果与成长\",\"描述\":\"颁发证书与荣誉奖项\",\"成果\":\"结营证书+项目档案\"},{\"事项\":\"家长结营交接\",\"描述\":\"有序返程\",\"成果\":\"\"}]",
+      "newAnswer": "[{\"事项\":\"发布成果与成长\",\"描述\":\"颁发证书与荣誉奖项\",\"标签\":\"结营证书+项目档案\"},{\"事项\":\"家长结营交接\",\"描述\":\"有序返程\",\"标签\":\"\"}]",
+      "flags": [
+        "array_empty_value"
+      ],
+      "finalAnswer": "[{\"事项\":\"发布成果与成长\",\"描述\":\"颁发证书与荣誉奖项\",\"标签\":\"结营证书+项目档案\"},{\"事项\":\"家长结营交接\",\"描述\":\"有序返程\",\"标签\":\"\"}]",
+      "decision": {
+        "id": "75",
+        "choice": "B",
+        "answer": "",
+        "confidence": "medium",
+        "reason": "B使用'标签'字段更客观，且结构完整，符合原图绿色框特征。",
+        "file_name": "010.png"
+      }
+    },
+    {
+      "id": "83",
+      "file_name": "010.png",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "哪些天包含绿色“成果”标签？",
+      "oldAnswer": "[{\"day\":\"Day 3\",\"session\":\"产品结构设计\",\"label\":\"成果：产品框架\"},{\"day\":\"Day 4\",\"session\":\"产品开发推进\",\"label\":\"成果：产品原型v2.0\"},{\"day\":\"Day 6\",\"session\":\"项目路演\",\"label\":\"成果：Pitch路演全记录\"},{\"day\":\"Day 1\",\"session\":\"营地集结与入场\",\"label\":\"成果启动：项目立项\"},{\"day\":\"Day 3\",\"session\":\"功能与流程设计\",\"label\":\"成果：产品逻辑图\"},{\"day\":\"Day 4\",\"session\":\"用户验证实验\",\"label\":\"成果：测试数据\"},{\"day\":\"Day 4\",\"session\":\"基于数据分析\",\"label\":\"成果：原型v3.0\"},{\"day\":\"Day 5\",\"session\":\"基于价值分析\",\"label\":\"成果：原型v4.0\"},{\"day\":\"Day 6\",\"session\":\"发布成果与成长\",\"label\":\"结营证书+项目档案\"},{\"day\":\"Day 1\",\"session\":\"AI趋势与案例解析\",\"label\":\"AI商业认知建立\"},{\"day\":\"Day 3\",\"session\":\"MVP开发推进\",\"label\":\"产品原型v1.0\"}]",
+      "newAnswer": "[{\"Day\":\"Day 4\",\"Content\":\"产品开发推进\"},{\"Day\":\"Day 5\",\"Content\":\"基于价值分析\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"day\":\"Day 1\",\"session\":\"营地集结与入场\",\"label\":\"成果启动：项目立项\"},{\"day\":\"Day 1\",\"session\":\"AI趋势与案例解析\",\"label\":\"AI商业认知建立\"},{\"day\":\"Day 3\",\"session\":\"功能与流程设计\",\"label\":\"成果：产品逻辑图\"},{\"day\":\"Day 3\",\"session\":\"MVP开发推进\",\"label\":\"产品原型v1.0\"},{\"day\":\"Day 4\",\"session\":\"产品开发推进\",\"label\":\"成果：产品原型v2.0\"},{\"day\":\"Day 4\",\"session\":\"用户验证实验\",\"label\":\"成果：测试数据\"},{\"day\":\"Day 4\",\"session\":\"基于数据分析\",\"label\":\"成果：原型v3.0\"},{\"day\":\"Day 5\",\"session\":\"基于价值分析\",\"label\":\"成果：原型v4.0\"},{\"day\":\"Day 6\",\"session\":\"项目路演\",\"label\":\"成果：Pitch路演全记录\"},{\"day\":\"Day 6\",\"session\":\"发布成果与成长\",\"label\":\"结营证书+项目档案\"}]",
+      "decision": {
+        "id": "83",
+        "choice": "CUSTOM",
+        "answer": "[{\"day\":\"Day 1\",\"session\":\"营地集结与入场\",\"label\":\"成果启动：项目立项\"},{\"day\":\"Day 1\",\"session\":\"AI趋势与案例解析\",\"label\":\"AI商业认知建立\"},{\"day\":\"Day 3\",\"session\":\"功能与流程设计\",\"label\":\"成果：产品逻辑图\"},{\"day\":\"Day 3\",\"session\":\"MVP开发推进\",\"label\":\"产品原型v1.0\"},{\"day\":\"Day 4\",\"session\":\"产品开发推进\",\"label\":\"成果：产品原型v2.0\"},{\"day\":\"Day 4\",\"session\":\"用户验证实验\",\"label\":\"成果：测试数据\"},{\"day\":\"Day 4\",\"session\":\"基于数据分析\",\"label\":\"成果：原型v3.0\"},{\"day\":\"Day 5\",\"session\":\"基于价值分析\",\"label\":\"成果：原型v4.0\"},{\"day\":\"Day 6\",\"session\":\"项目路演\",\"label\":\"成果：Pitch路演全记录\"},{\"day\":\"Day 6\",\"session\":\"发布成果与成长\",\"label\":\"结营证书+项目档案\"}]",
+        "confidence": "high",
+        "reason": "A将Day 3上午的BP模块误判为成果，B漏选多天。需列出所有绿色框卡片。",
+        "file_name": "010.png"
+      }
+    },
+    {
+      "id": "89",
+      "file_name": "010.png",
+      "question_type": "extract",
+      "answer_format": "json_array",
+      "question": "Day 4 下午 14:00-17:30 包含哪两个任务？",
+      "oldAnswer": "[{\"任务名称\":\"用户验证实验\",\"描述\":\"验证有效性并收集数据反馈\",\"成果\":\"测试数据\"},{\"任务名称\":\"基于数据分析\",\"描述\":\"完成产品迭代\",\"成果\":\"原型v3.0\"}]",
+      "newAnswer": "[{\"任务名称\":\"用户验证实验\",\"任务描述\":\"验证有效性并收集数据反馈\",\"成果/模块\":\"成果：测试数据\"},{\"任务名称\":\"基于数据分析\",\"任务描述\":\"完成产品迭代\",\"成果/模块\":\"成果：原型v3.0\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"任务名称\":\"用户验证实验\",\"任务描述\":\"验证有效性并收集数据反馈\",\"成果/模块\":\"成果：测试数据\"},{\"任务名称\":\"基于数据分析\",\"任务描述\":\"完成产品迭代\",\"成果/模块\":\"成果：原型v3.0\"}]",
+      "decision": {
+        "id": "89",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B保留了原表文本'成果：...'，符合保留原表文本的要求。",
+        "file_name": "010.png"
+      }
+    },
+    {
+      "id": "93",
+      "file_name": "010.png",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "19:00-21:00 时段中，哪些天有“评审记录”产出？",
+      "oldAnswer": "[{\"day\":\"Day 2\",\"activity\":\"导师评审项目方向\",\"output\":\"评审记录\"},{\"day\":\"Day 4\",\"activity\":\"产品评审\",\"output\":\"评审记录\"},{\"day\":\"Day 5\",\"activity\":\"路演演练\",\"output\":\"评审记录\"}]",
+      "newAnswer": "[{\"Day\":\"Day 2\",\"Time\":\"19:00-21:00\",\"Content\":\"导师评审项目方向\",\"Output\":\"评审记录\"},{\"Day\":\"Day 4\",\"Time\":\"19:00-21:00\",\"Content\":\"产品评审\",\"Output\":\"评审记录\"},{\"Day\":\"Day 5\",\"Time\":\"19:00-21:00\",\"Content\":\"路演演练\",\"Output\":\"评审记录\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"Day\":\"Day 2\",\"Time\":\"19:00-21:00\",\"Content\":\"导师评审项目方向\",\"Output\":\"评审记录\"},{\"Day\":\"Day 4\",\"Time\":\"19:00-21:00\",\"Content\":\"产品评审\",\"Output\":\"评审记录\"},{\"Day\":\"Day 5\",\"Time\":\"19:00-21:00\",\"Content\":\"路演演练\",\"Output\":\"评审记录\"}]",
+      "decision": {
+        "id": "93",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B包含了Time字段，信息更完整。",
+        "file_name": "010.png"
+      }
+    },
+    {
+      "id": "96",
+      "file_name": "010.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "Day 4 上午 9:30-12:00 的成果标签是什么？",
+      "oldAnswer": "产品原型v2.0",
+      "newAnswer": "成果：产品原型v2.0",
+      "flags": [],
+      "finalAnswer": "成果：产品原型v2.0",
+      "decision": {
+        "id": "96",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B保留了原表文本'成果：产品原型v2.0'。",
+        "file_name": "010.png"
+      }
+    },
+    {
+      "id": "100",
+      "file_name": "011.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表主要使用哪种语言或语言组合？",
+      "oldAnswer": "中文和英文",
+      "newAnswer": "中英文双语",
+      "flags": [],
+      "finalAnswer": "中英文双语",
+      "decision": {
+        "id": "100",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "表格中包含'双语'字样，且为中英对照，'中英文双语'描述更准确。",
+        "file_name": "011.jpg"
+      }
+    },
+    {
+      "id": "103",
+      "file_name": "011.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最右侧的表头或字段名是什么？",
+      "oldAnswer": "学分 (Credits)",
+      "newAnswer": "学分/Credits",
+      "flags": [],
+      "finalAnswer": "学分/Credits",
+      "decision": {
+        "id": "103",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "图片中'学分'与'Credits'之间无括号，A选项多余括号，B选项用斜杠连接更符合无分隔符的换行文本。",
+        "file_name": "011.jpg"
+      }
+    },
+    {
+      "id": "106",
+      "file_name": "011.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“课程名称/Course Name”对应的值。",
+      "oldAnswer": "中文班:生物信息学算法原理\n英文班:Algorithms in computational biology",
+      "newAnswer": "中文:生物信息学算法原理\n英文:Algorithms in computational biology",
+      "flags": [],
+      "finalAnswer": "中文:生物信息学算法原理\n英文:Algorithms in computational biology",
+      "decision": {
+        "id": "106",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "图片中为'中文:'和'英文:'，A选项多余'班'字，B选项更忠实于原文。",
+        "file_name": "011.jpg"
+      }
+    },
+    {
+      "id": "108",
+      "file_name": "011.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：授课语言/Language of Instruction、开课院系/School、先修课程/Prerequisite、授课教师/Teacher。",
+      "oldAnswer": "[{\"授课语言/Language of Instruction\":\"双语/全英文(Chinese or English)\",\"开课院系/School\":\"生命科学与技术学院(School of Life Sciences and Biotechnology)\",\"先修课程/Prerequisite\":\"概率统计(Probability and Statistics)\",\"授课教师/Teacher\":\"韦朝春\"}]",
+      "newAnswer": "[{\"授课语言/Language of Instruction\":\"双语/全英文Chinese or English\"},{\"开课院系/School\":\"生命科学技术学院School of Life Sciences and Biotechnology\"},{\"先修课程/Prerequisite\":\"概率统计Probability and Statistics\"},{\"授课教师/Teacher\":\"韦朝春\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"授课语言/Language of Instruction\":\"双语/全英文Chinese or English\"},{\"开课院系/School\":\"生命科学技术学院School of Life Sciences and Biotechnology\"},{\"先修课程/Prerequisite\":\"概率统计Probability and Statistics\"},{\"授课教师/Teacher\":\"韦朝春\"}]",
+      "decision": {
+        "id": "108",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "A选项在文本中添加了括号（如概率统计(Probability...)）且学院名称多了'与'字，B选项文本更忠实于图片原貌（无括号，学院名准确）。",
+        "file_name": "011.jpg"
+      }
+    },
+    {
+      "id": "112",
+      "file_name": "012.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最左侧的表头或字段名是什么？",
+      "oldAnswer": "1",
+      "newAnswer": "Course of Study",
+      "flags": [],
+      "finalAnswer": "Course of Study",
+      "decision": {
+        "id": "112",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "Course of Study 是子表明确的最左侧列标题，1 仅为序号内容。",
+        "file_name": "012.jpg"
+      }
+    },
+    {
+      "id": "113",
+      "file_name": "012.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最右侧的表头或字段名是什么？",
+      "oldAnswer": "Attach copy of certificate",
+      "newAnswer": "Remarks",
+      "flags": [],
+      "finalAnswer": "Remarks",
+      "decision": {
+        "id": "113",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "Remarks 是子表明确的最右侧列标题，Attach copy of certificate 为单元格内容。",
+        "file_name": "012.jpg"
+      }
+    },
+    {
+      "id": "116",
+      "file_name": "012.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“NCC 项目”对应的值。",
+      "oldAnswer": "NCC \"C\" / \"B\" / \"A\" Certificate",
+      "newAnswer": "NCC 'C' / 'B' / 'A' Certificate",
+      "flags": [],
+      "finalAnswer": "NCC 'C' / 'B' / 'A' Certificate",
+      "decision": {
+        "id": "116",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "原文使用的是单引号，B 选项更忠实于原图。",
+        "file_name": "012.jpg"
+      }
+    },
+    {
+      "id": "118",
+      "file_name": "012.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：数学表的阶段数、科学表包含科目、社会科学表包含科目、是否多级表头。",
+      "oldAnswer": "[{\"数学表的阶段数\":\"3\",\"科学表包含科目\":\"Chemistry,Biology,Zoology\",\"社会科学表包含科目\":\"History,Geography\",\"是否多级表头\":\"true\"}]",
+      "newAnswer": "[{\"数学表的阶段数\":\"3\",\"科学表包含科目\":\"Chemistry, Biology, Zoology\",\"社会科学表包含科目\":\"History, Geography\",\"是否多级表头\":\"Yes\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"数学表的阶段数\":\"3\",\"科学表包含科目\":\"Chemistry, Biology, Zoology\",\"社会科学表包含科目\":\"History, Geography\",\"是否多级表头\":\"Yes\"}]",
+      "decision": {
+        "id": "118",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B 选项的科目列表分隔更规范（带空格），且 Yes 回答是否问题更自然。",
+        "file_name": "012.jpg"
+      }
+    },
+    {
+      "id": "139",
+      "file_name": "015.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该文件中主表或主区域的标题是什么？",
+      "oldAnswer": "Circular Coil and Electric Fan",
+      "newAnswer": "Component & Specification",
+      "flags": [],
+      "finalAnswer": "Component & Specification",
+      "decision": {
+        "id": "139",
+        "choice": "B",
+        "answer": "",
+        "confidence": "medium",
+        "reason": "Component & Specification 是表格中主要的内容区域标题，A 选项拼凑且不完整。",
+        "file_name": "015.jpg"
+      }
+    },
+    {
+      "id": "143",
+      "file_name": "015.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最右侧的表头或字段名是什么？",
+      "oldAnswer": "Component & Specification",
+      "newAnswer": "Item Name:",
+      "flags": [],
+      "finalAnswer": "Item Name:",
+      "decision": {
+        "id": "143",
+        "choice": "B",
+        "answer": "",
+        "confidence": "medium",
+        "reason": "Item Name: 位于表格第一行的最右侧，作为字段名标签。",
+        "file_name": "015.jpg"
+      }
+    },
+    {
+      "id": "158",
+      "file_name": "016.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：Lunch Set 数量单位、第一页脚注格式、Photocell 是否带红字标题、Lunch Set 是否含图片/示意表。",
+      "oldAnswer": "[{\"Lunch Set 数量单位\":\"Set of (9) pieces\",\"第一页脚注格式\":\"11EU/2016 R1\",\"Photocell 是否带红字标题\":\"true\",\"Lunch Set 是否含图片/示意表\":\"false\"}]",
+      "newAnswer": "[{\"Lunch Set 数量单位\":\"set of (9) pieces consist of\",\"第一页脚注格式\":\"11EU/2016 R1 Page 45 of 81\",\"Photocell 是否带红字标题\":\"Yes\",\"Lunch Set 是否含图片/示意表\":\"No\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"Lunch Set 数量单位\":\"set of (9) pieces consist of\",\"第一页脚注格式\":\"11EU/2016 R1 Page 45 of 81\",\"Photocell 是否带红字标题\":\"Yes\",\"Lunch Set 是否含图片/示意表\":\"No\"}]",
+      "decision": {
+        "id": "158",
+        "choice": "B",
+        "answer": "",
+        "confidence": "medium",
+        "reason": "B更完整保留了原表文本（如脚注含页码，行头含consist of）。",
+        "file_name": "016.jpg"
+      }
+    },
+    {
+      "id": "168",
+      "file_name": "017.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：District 2 第二名学校、District 1 第一名分数、District 2 第一名分数、页脚。",
+      "oldAnswer": "[{\"District 2 第二名学校\":\"Idaho State University\",\"District 1 第一名分数\":\"313\",\"District 2 第一名分数\":\"250\",\"页脚\":\"Fall 2012 NDT Ranking Report\"}]",
+      "newAnswer": "[{\"District 2 第二名学校\":\"Idaho State University\",\"District 1 第一名分数\":\"313\",\"District 2 第一名分数\":\"250\",\"页脚\":\"Fall 2012 NDT Ranking Report Page 13\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"District 2 第二名学校\":\"Idaho State University\",\"District 1 第一名分数\":\"313\",\"District 2 第一名分数\":\"250\",\"页脚\":\"Fall 2012 NDT Ranking Report Page 13\"}]",
+      "decision": {
+        "id": "168",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "页脚应包含完整底部文本，B保留了Page 13更完整",
+        "file_name": "017.jpg"
+      }
+    },
+    {
+      "id": "178",
+      "file_name": "018.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：标黄服务、标蓝分组、表格页码、文件主题。",
+      "oldAnswer": "[{\"标黄服务\":\"Teatro Principal\",\"标蓝分组\":\"Servicios generales\",\"表格页码\":\"5 de 14\",\"文件主题\":\"PCT gasóleo C\"}]",
+      "newAnswer": "[{\"标黄服务\":\"Teatro Principal\",\"标蓝分组\":\"Servicios generales\",\"表格页码\":\"Página 5 de 14\",\"文件主题\":\"PCT gasóleo C\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"标黄服务\":\"Teatro Principal\",\"标蓝分组\":\"Servicios generales\",\"表格页码\":\"Página 5 de 14\",\"文件主题\":\"PCT gasóleo C\"}]",
+      "decision": {
+        "id": "178",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B保留了页码原文'Página 5 de 14'，比A更准确完整。",
+        "file_name": "018.jpg"
+      }
+    },
+    {
+      "id": "179",
+      "file_name": "019.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该文件中主表或主区域的标题是什么？",
+      "oldAnswer": "2.1. Santeknikos įtaisai",
+      "newAnswer": "2.1. Santechnikos įtaisai",
+      "flags": [],
+      "finalAnswer": "2.1. Santechnikos įtaisai",
+      "decision": {
+        "id": "179",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B 的拼写 'Santechnikos' 与图片一致，A 拼写错误。",
+        "file_name": "019.jpg"
+      }
+    },
+    {
+      "id": "182",
+      "file_name": "019.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最左侧的表头或字段名是什么？",
+      "oldAnswer": "Nr",
+      "newAnswer": "Nr.",
+      "flags": [],
+      "finalAnswer": "Nr.",
+      "decision": {
+        "id": "182",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "表头包含 'Nr' 和下方的点，'Nr.' 更完整。",
+        "file_name": "019.jpg"
+      }
+    },
+    {
+      "id": "212",
+      "file_name": "022.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最左侧的表头或字段名是什么？",
+      "oldAnswer": "ASSETS",
+      "newAnswer": "Estimated actual 2011-12",
+      "flags": [],
+      "finalAnswer": "Estimated actual 2011-12",
+      "decision": {
+        "id": "212",
+        "choice": "B",
+        "answer": "",
+        "confidence": "medium",
+        "reason": "表格最上方的表头行（Column Headers）最左侧的有效标题是 'Estimated actual 2011-12'。'ASSETS' 是行标题（Row Header）的内容。",
+        "file_name": "022.png"
+      }
+    },
+    {
+      "id": "223",
+      "file_name": "023.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最右侧的表头或字段名是什么？",
+      "oldAnswer": "aOR (95% CI)†",
+      "newAnswer": "aOR (95% CI)‡",
+      "flags": [],
+      "finalAnswer": "aOR (95% CI)‡",
+      "decision": {
+        "id": "223",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "表头符号为双十字‡，B选项正确，A选项为单十字†。",
+        "file_name": "023.png"
+      }
+    },
+    {
+      "id": "278",
+      "file_name": "028.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：星期三第一二节、星期五第九十节、午休行文本、每周列数。",
+      "oldAnswer": "[{\"星期三第一二节\":\"大学生心理健康教育 (1-4周)\",\"星期五第九十节\":\"网络设备及应用 (1-16周)\",\"午休行文本\":\"\",\"每周列数\":\"5\"}]",
+      "newAnswer": "[{\"星期三第一二节\":\"大学生心理健康教育(1-4周)\",\"星期五第九十节\":\"网络设备及应用(1-16周)\",\"午休行文本\":\"\",\"每周列数\":\"5\"}]",
+      "flags": [
+        "array_empty_value"
+      ],
+      "finalAnswer": "[{\"星期三第一二节\":\"大学生心理健康教育(1-4周)\",\"星期五第九十节\":\"网络设备及应用(1-16周)\",\"午休行文本\":\"\",\"每周列数\":\"5\"}]",
+      "decision": {
+        "id": "278",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "原图单元格内文本为换行显示，无空格字符。中文文本直接拼接（B）比加空格（A）更符合原表字面且避免词语断开风险（如'搭建'），语义更连贯。",
+        "file_name": "028.jpg"
+      }
+    },
+    {
+      "id": "296",
+      "file_name": "030.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“第二条义务关键词”对应的值。",
+      "oldAnswer": "predložiť PDS potvrdenie o pôvode vyrobenej elektriny pre predchádzajúci kalendárny rok",
+      "newAnswer": "predložiť PDS potvrdenie o pôvode vyrobenej elektriny za predchádzajúci kalendárny rok",
+      "flags": [
+        "long_string"
+      ],
+      "finalAnswer": "predložiť PDS potvrdenie o pôvode vyrobenej elektriny za predchádzajúci kalendárny rok",
+      "decision": {
+        "id": "296",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "原表文本使用的是'za'，B准确匹配，A使用了'pre'。",
+        "file_name": "030.png"
+      }
+    },
+    {
+      "id": "299",
+      "file_name": "031.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该文件中主表或主区域的标题是什么？",
+      "oldAnswer": "Grupo Especial - Carnaval 2016.2 - Sábado",
+      "newAnswer": "Grupo Especial – Carnaval 2016.2 - Sábado",
+      "flags": [],
+      "finalAnswer": "Grupo Especial – Carnaval 2016.2 - Sábado",
+      "decision": {
+        "id": "299",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "候选B中的破折号（–）比候选A的连字符（-）更贴近图片中第一个分隔符的视觉长度。",
+        "file_name": "031.png"
+      }
+    },
+    {
+      "id": "314",
+      "file_name": "032.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“第一名学生”对应的值。",
+      "oldAnswer": "张萌",
+      "newAnswer": "张明",
+      "flags": [],
+      "finalAnswer": "张明",
+      "decision": {
+        "id": "314",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "表格第一行姓名为张明。",
+        "file_name": "032.jpg"
+      }
+    },
+    {
+      "id": "317",
+      "file_name": "032.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“最高分姓名”对应的值。",
+      "oldAnswer": "江飞",
+      "newAnswer": "江风",
+      "flags": [],
+      "finalAnswer": "江风",
+      "decision": {
+        "id": "317",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "最高分93对应的姓名为江风。",
+        "file_name": "032.jpg"
+      }
+    },
+    {
+      "id": "318",
+      "file_name": "032.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：最低分、最低分姓名、计应10班分数、记录人数。",
+      "oldAnswer": "[{\"最低分\":\"68\",\"最低分姓名\":\"曾蓉\",\"计应10班分数\":\"82\",\"记录人数\":\"11\"}]",
+      "newAnswer": "[{\"最低分\":\"70\",\"最低分姓名\":\"黄小云\",\"计应10班分数\":\"82\",\"记录人数\":\"11\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"最低分\":\"70\",\"最低分姓名\":\"黄小云\",\"计应10班分数\":\"82\",\"记录人数\":\"11\"}]",
+      "decision": {
+        "id": "318",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "最低分为70（黄小云），计应10班分数82，共11条记录。",
+        "file_name": "032.jpg"
+      }
+    },
+    {
+      "id": "328",
+      "file_name": "033.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：共有宗地面积、房屋建筑面积、使用期限、表格方向。",
+      "oldAnswer": "[{\"共有宗地面积\":\"46768.6m²\",\"房屋建筑面积\":\"116.03m²\",\"使用期限\":\"2077年08月31日止\",\"表格方向\":\"竖排\"}]",
+      "newAnswer": "[{\"共有宗地面积\":\"46768.6m²\",\"房屋建筑面积\":\"116.03m²\",\"使用期限\":\"2077年08月31日止\",\"表格方向\":\"纵向\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"共有宗地面积\":\"46768.6m²\",\"房屋建筑面积\":\"116.03m²\",\"使用期限\":\"2077年08月31日止\",\"表格方向\":\"纵向\"}]",
+      "decision": {
+        "id": "328",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "表格整体布局为纵向延伸（行多列少），'纵向'比'竖排'更准确描述表格方向，且'竖排'通常指文字排版（仅'权利其他状况'为竖排）。",
+        "file_name": "033.jpg"
+      }
+    },
+    {
+      "id": "356",
+      "file_name": "036.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“是否含多级表头”对应的值。",
+      "oldAnswer": "是",
+      "newAnswer": "否",
+      "flags": [],
+      "finalAnswer": "否",
+      "decision": {
+        "id": "356",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "表头只有一行，无多级合并表头。",
+        "file_name": "036.jpg"
+      }
+    },
+    {
+      "id": "357",
+      "file_name": "036.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“主色”对应的值。",
+      "oldAnswer": "黑色",
+      "newAnswer": "黑白",
+      "flags": [],
+      "finalAnswer": "黑白",
+      "decision": {
+        "id": "357",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "图片为黑白扫描件。",
+        "file_name": "036.jpg"
+      }
+    },
+    {
+      "id": "358",
+      "file_name": "036.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：是否横向拍摄、是否含金额列、是否含订单号字段、是否含明细行。",
+      "oldAnswer": "[{\"是否横向拍摄\":\"true\",\"是否含金额列\":\"true\",\"是否含订单号字段\":\"false\",\"是否含明细行\":\"true\"}]",
+      "newAnswer": "[{\"是否横向拍摄\":\"否\",\"是否含金额列\":\"是\",\"是否含订单号字段\":\"否\",\"是否含明细行\":\"是\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"是否横向拍摄\":\"否\",\"是否含金额列\":\"是\",\"是否含订单号字段\":\"否\",\"是否含明细行\":\"是\"}]",
+      "decision": {
+        "id": "358",
+        "choice": "B",
+        "answer": "",
+        "confidence": "medium",
+        "reason": "中文问题优先选中文回答，'横向拍摄'理解为侧拍故为否，其他逻辑符合。",
+        "file_name": "036.jpg"
+      }
+    },
+    {
+      "id": "374",
+      "file_name": "038.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“Temperature levels”对应的值。",
+      "oldAnswer": "25–35, 25, 30, 35",
+      "newAnswer": "25, 30, 35",
+      "flags": [],
+      "finalAnswer": "25, 30, 35",
+      "decision": {
+        "id": "374",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "Levels指具体的实验水平值（-1, 0, 1列），Range为范围，B更准确简洁。",
+        "file_name": "038.png"
+      }
+    },
+    {
+      "id": "375",
+      "file_name": "038.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“pH levels”对应的值。",
+      "oldAnswer": "4–8, 4, 6, 8",
+      "newAnswer": "4, 6, 8",
+      "flags": [],
+      "finalAnswer": "4, 6, 8",
+      "decision": {
+        "id": "375",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "Levels指具体的实验水平值，B更准确简洁。",
+        "file_name": "038.png"
+      }
+    },
+    {
+      "id": "376",
+      "file_name": "038.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“Initial dye concentration levels”对应的值。",
+      "oldAnswer": "4–8, 4, 6, 8",
+      "newAnswer": "4, 6, 8",
+      "flags": [],
+      "finalAnswer": "4, 6, 8",
+      "decision": {
+        "id": "376",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "Levels指具体的实验水平值，B更准确简洁。",
+        "file_name": "038.png"
+      }
+    },
+    {
+      "id": "377",
+      "file_name": "038.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“Mesh size levels”对应的值。",
+      "oldAnswer": "50–150, 50, 100, 150",
+      "newAnswer": "50, 100, 150",
+      "flags": [],
+      "finalAnswer": "50, 100, 150",
+      "decision": {
+        "id": "377",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "Levels指具体的实验水平值，B更准确简洁。",
+        "file_name": "038.png"
+      }
+    },
+    {
+      "id": "379",
+      "file_name": "039.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该文件中主表或主区域的标题是什么？",
+      "oldAnswer": "Health utility regression results",
+      "newAnswer": "EQ-5D health utility score self-assessed current health state",
+      "flags": [],
+      "finalAnswer": "EQ-5D health utility score self-assessed current health state",
+      "decision": {
+        "id": "379",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "依据图片，顶部可见文本为EQ-5D...，A选项文本不在图中。",
+        "file_name": "039.png"
+      }
+    },
+    {
+      "id": "403",
+      "file_name": "041.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最右侧的表头或字段名是什么？",
+      "oldAnswer": "Maximum force (N)",
+      "newAnswer": "Maximum mean pressure (kPa)",
+      "flags": [],
+      "finalAnswer": "Maximum mean pressure (kPa)",
+      "decision": {
+        "id": "403",
+        "choice": "B",
+        "answer": "",
+        "confidence": "medium",
+        "reason": "题目隐含包含两个子表（共4个指标区块），逻辑上最右侧/最后的指标为'Maximum mean pressure (kPa)'。",
+        "file_name": "041.png"
+      }
+    },
+    {
+      "id": "416",
+      "file_name": "043.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“应用能力下一级之一”对应的值。",
+      "oldAnswer": "应用广度、应用深度",
+      "newAnswer": "应用广度",
+      "flags": [],
+      "finalAnswer": "应用广度",
+      "decision": {
+        "id": "416",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "题目问'之一'，B只提取了一个值'应用广度'，符合要求；A提取了两个值。",
+        "file_name": "043.jpg"
+      }
+    },
+    {
+      "id": "442",
+      "file_name": "046.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最左侧的表头或字段名是什么？",
+      "oldAnswer": "Vehicle department",
+      "newAnswer": "Vehicle department\n用车部门",
+      "flags": [],
+      "finalAnswer": "Vehicle department\n用车部门",
+      "decision": {
+        "id": "442",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B完整保留了单元格内的中英文及换行结构。",
+        "file_name": "046.jpg"
+      }
+    },
+    {
+      "id": "443",
+      "file_name": "046.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最右侧的表头或字段名是什么？",
+      "oldAnswer": "Number of passengers",
+      "newAnswer": "Number of passengers\n乘车人数",
+      "flags": [],
+      "finalAnswer": "Number of passengers\n乘车人数",
+      "decision": {
+        "id": "443",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B完整保留了单元格内的中英文及换行结构。",
+        "file_name": "046.jpg"
+      }
+    },
+    {
+      "id": "459",
+      "file_name": "048.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该文件中主表或主区域的标题是什么？",
+      "oldAnswer": "资产负债明细表",
+      "newAnswer": "项目",
+      "flags": [],
+      "finalAnswer": "项目",
+      "decision": {
+        "id": "459",
+        "choice": "B",
+        "answer": "",
+        "confidence": "medium",
+        "reason": "图中无明确主标题，A为幻觉文本，B为图中第一行第一列文本（虽为列头但最接近）。",
+        "file_name": "048.jpg"
+      }
+    },
+    {
+      "id": "468",
+      "file_name": "048.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：流动资产合计期末余额、流动资产合计年初余额、固定资产期末余额、在建工程期末余额。",
+      "oldAnswer": "[{\"流动资产合计期末余额\":\"7,059,703,916.00\",\"流动资产合计年初余额\":\"4,428,852,485.11\",\"固定资产期末余额\":\"11,211,345,599.37\",\"在建工程期末余额\":\"344,034,065.45\"}]",
+      "newAnswer": "[{\"流动资产合计期末余额\":\"7,059,703,916.00\"},{\"流动资产合计年初余额\":\"4,428,852,485.11\"},{\"固定资产期末余额\":\"11,211,345,599.37\"},{\"在建工程期末余额\":\"344,034,065.45\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"流动资产合计期末余额\":\"7,059,703,916.00\"},{\"流动资产合计年初余额\":\"4,428,852,485.11\"},{\"固定资产期末余额\":\"11,211,345,599.37\"},{\"在建工程期末余额\":\"344,034,065.45\"}]",
+      "decision": {
+        "id": "468",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "数值均正确。B的格式为包含多个对象的数组，更符合'列出'多个独立字段答案的语义，且符合扁平对象数组要求。",
+        "file_name": "048.jpg"
+      }
+    },
+    {
+      "id": "473",
+      "file_name": "049.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最右侧的表头或字段名是什么？",
+      "oldAnswer": "中国 829510 -678",
+      "newAnswer": "XL",
+      "flags": [],
+      "finalAnswer": "XL",
+      "decision": {
+        "id": "473",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "XL是表格下半部分数据区最右侧的列标题（表头），而A选项是单元格内的具体数值内容。",
+        "file_name": "049.jpg"
+      }
+    },
+    {
+      "id": "476",
+      "file_name": "049.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“产地1”对应的值。",
+      "oldAnswer": "中国 829510-678",
+      "newAnswer": "中国 829510 -678",
+      "flags": [],
+      "finalAnswer": "中国 829510 -678",
+      "decision": {
+        "id": "476",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "图片中文字显示为'中国 829510 -678'，B选项保留了数字与连字符之间的空格，更忠实于原图。",
+        "file_name": "049.jpg"
+      }
+    },
+    {
+      "id": "477",
+      "file_name": "049.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“产地2”对应的值。",
+      "oldAnswer": "印尼 829509-678",
+      "newAnswer": "印尼 829509 -678",
+      "flags": [],
+      "finalAnswer": "印尼 829509 -678",
+      "decision": {
+        "id": "477",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "图片中文字显示为'印尼 829509 -678'，B选项保留了数字与连字符之间的空格，更忠实于原图。",
+        "file_name": "049.jpg"
+      }
+    },
+    {
+      "id": "483",
+      "file_name": "051.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最右侧的表头或字段名是什么？",
+      "oldAnswer": "杂费",
+      "newAnswer": "备案号",
+      "flags": [],
+      "finalAnswer": "备案号",
+      "decision": {
+        "id": "483",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "表格第一行最右侧表头为'备案号'，虽然'杂费'也在右侧，但'备案号'作为首行表头更符合'表头'定义。",
+        "file_name": "051.jpg"
+      }
+    },
+    {
+      "id": "488",
+      "file_name": "051.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：表格主色、是否含税率列、是否含日期字段、是否含签字栏。",
+      "oldAnswer": "[{\"表格主色\":\"黑白\",\"是否含税率列\":\"false\",\"是否含日期字段\":\"true\",\"是否含签字栏\":\"true\"}]",
+      "newAnswer": "[{\"表格主色\":\"黑白\",\"是否含税率列\":\"否\",\"是否含日期字段\":\"是\",\"是否含签字栏\":\"是\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"表格主色\":\"黑白\",\"是否含税率列\":\"否\",\"是否含日期字段\":\"是\",\"是否含签字栏\":\"是\"}]",
+      "decision": {
+        "id": "488",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "题目为中文，回答'是/否'比'true/false'更符合语境且均为字符串，表格无'税率'列，有日期和签字栏。",
+        "file_name": "051.jpg"
+      }
+    },
+    {
+      "id": "493",
+      "file_name": "052.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最右侧的表头或字段名是什么？",
+      "oldAnswer": "杂费",
+      "newAnswer": "征免",
+      "flags": [],
+      "finalAnswer": "征免",
+      "decision": {
+        "id": "493",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "表格下半部分为明细表，其最右侧表头为'征免'；虽然上半部分最右侧字段为'杂费'，但'表头'通常指明细列名，且'征免'位于整体最右列。",
+        "file_name": "052.jpg"
+      }
+    },
+    {
+      "id": "498",
+      "file_name": "052.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：是否含单价列、是否含金额列、是否含多行明细、是否横向拍摄。",
+      "oldAnswer": "[{\"是否含单价列\":\"是\",\"是否含金额列\":\"是\",\"是否含多行明细\":\"是\",\"是否横向拍摄\":\"是\"}]",
+      "newAnswer": "[{\"是否含单价列\":\"是\",\"是否含金额列\":\"是\",\"是否含多行明细\":\"是\",\"是否横向拍摄\":\"否\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"是否含单价列\":\"是\",\"是否含金额列\":\"是\",\"是否含多行明细\":\"是\",\"是否横向拍摄\":\"否\"}]",
+      "decision": {
+        "id": "498",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "图片文字方向正常，为纵向/正向拍摄，非横向拍摄（旋转90度）。",
+        "file_name": "052.jpg"
+      }
+    },
+    {
+      "id": "508",
+      "file_name": "053.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：Sodium、Total Carbohydrate、Sugars、Protein。",
+      "oldAnswer": "[{\"Sodium\":\"0mg\",\"Total Carbohydrate\":\"6g\",\"Sugars\":\"4g\",\"Protein\":\"0g\"}]",
+      "newAnswer": "[{\"Sodium\":\"0mg\"},{\"Total Carbohydrate\":\"6g\"},{\"Sugars\":\"4g\"},{\"Protein\":\"0g\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"Sodium\":\"0mg\"},{\"Total Carbohydrate\":\"6g\"},{\"Sugars\":\"4g\"},{\"Protein\":\"0g\"}]",
+      "decision": {
+        "id": "508",
+        "choice": "B",
+        "answer": "",
+        "confidence": "medium",
+        "reason": "题目要求按顺序列出字段答案，B 选项将每个字段作为独立对象放在数组中，更符合‘列出’和扁平对象数组（键值对列表）的语义，且顺序明确。",
+        "file_name": "053.jpg"
+      }
+    },
+    {
+      "id": "510",
+      "file_name": "054.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表主要使用哪种语言或语言组合？",
+      "oldAnswer": "Dutch and French",
+      "newAnswer": "荷兰语 / 法语",
+      "flags": [],
+      "finalAnswer": "荷兰语 / 法语",
+      "decision": {
+        "id": "510",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "题目为中文，B选项使用中文回答语言名称，且准确对应表中的荷兰语和法语。",
+        "file_name": "054.jpg"
+      }
+    },
+    {
+      "id": "513",
+      "file_name": "054.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最右侧的表头或字段名是什么？",
+      "oldAnswer": "% RP % AR",
+      "newAnswer": "% RI* / % AR*",
+      "flags": [],
+      "finalAnswer": "% RI* / % AR*",
+      "decision": {
+        "id": "513",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "原表包含星号（脚注标记），且通常为RI (Reference Intake)，B选项保留了星号且识别更准确。",
+        "file_name": "054.jpg"
+      }
+    },
+    {
+      "id": "514",
+      "file_name": "054.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“Energy 100g”对应的值。",
+      "oldAnswer": "255 kJ 60 kcal",
+      "newAnswer": "255 kJ\n60 kcal",
+      "flags": [],
+      "finalAnswer": "255 kJ\n60 kcal",
+      "decision": {
+        "id": "514",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "原表中数值分两行显示，B选项保留换行符，结构更准确。",
+        "file_name": "054.jpg"
+      }
+    },
+    {
+      "id": "515",
+      "file_name": "054.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“Energy 125g”对应的值。",
+      "oldAnswer": "319 kJ 75 kcal",
+      "newAnswer": "319 kJ\n75 kcal",
+      "flags": [],
+      "finalAnswer": "319 kJ\n75 kcal",
+      "decision": {
+        "id": "515",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "原表中数值分两行显示，B选项保留换行符，结构更准确。",
+        "file_name": "054.jpg"
+      }
+    },
+    {
+      "id": "524",
+      "file_name": "055.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请提取“套餐分类之一”对应的值。",
+      "oldAnswer": "套餐A(原封)",
+      "newAnswer": "官方标配(原封)",
+      "flags": [],
+      "finalAnswer": "官方标配(原封)",
+      "decision": {
+        "id": "524",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "表格中第一列为'官方标配(原封)'，A选项'套餐A(原封)'在表中不存在（表中为套餐A(定制)），B选项准确匹配表格第一行数据。",
+        "file_name": "055.jpg"
+      }
+    },
+    {
+      "id": "528",
+      "file_name": "055.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：最低活动价、最高活动价、备注中含退换规则、表格下方说明条数。",
+      "oldAnswer": "[{\"最低活动价\":\"199\",\"最高活动价\":\"79999\",\"备注中含退换规则\":\"true\",\"表格下方说明条数\":\"3\"}]",
+      "newAnswer": "[{\"最低活动价\":\"20299\",\"最高活动价\":\"79999\",\"备注中含退换规则\":\"3年内非人为原因质量问题硬件免费换新\",\"表格下方说明条数\":\"3\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"最低活动价\":\"20299\",\"最高活动价\":\"79999\",\"备注中含退换规则\":\"3年内非人为原因质量问题硬件免费换新\",\"表格下方说明条数\":\"3\"}]",
+      "decision": {
+        "id": "528",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "A选项最低活动价199在表中不存在（最低为399或499，主套餐最低为20299）；B选项提取了具体的退换规则文本且价格20299为主套餐最低，更为准确。",
+        "file_name": "055.jpg"
+      }
+    },
+    {
+      "id": "529",
+      "file_name": "056.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该文件中主表或主区域的标题是什么？",
+      "oldAnswer": "夏令营日程表",
+      "newAnswer": "Day 1, Day 2, Day 3, Day 4, Day 5, Day 6",
+      "flags": [],
+      "finalAnswer": "Day 1, Day 2, Day 3, Day 4, Day 5, Day 6",
+      "decision": {
+        "id": "529",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "图中无大标题，顶部列头Day 1至Day 6字体最大且为原文本，A为幻觉文本。",
+        "file_name": "056.png"
+      }
+    },
+    {
+      "id": "542",
+      "file_name": "057.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该表最左侧的表头或字段名是什么？",
+      "oldAnswer": "英伟达",
+      "newAnswer": "公司名称",
+      "flags": [],
+      "finalAnswer": "澎湃·美数课",
+      "decision": {
+        "id": "542",
+        "choice": "CUSTOM",
+        "answer": "澎湃·美数课",
+        "confidence": "high",
+        "reason": "图片中最左侧列的表头位置（与CEO总薪酬等并列）显示的文字是'澎湃·美数课'，A和B均不准确。",
+        "file_name": "057.jpg"
+      }
+    },
+    {
+      "id": "710",
+      "file_name": "074.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请从 74.jpg 的“A complex table invoice”中提取：Invoice 编号。",
+      "oldAnswer": "Invoice #123456789",
+      "newAnswer": "#123456789",
+      "flags": [],
+      "finalAnswer": "#123456789",
+      "decision": {
+        "id": "710",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B去除了冗余的'Invoice'标签，更准确地提取了编号部分，且保留了#符号符合原表格式。",
+        "file_name": "074.jpg"
+      }
+    },
+    {
+      "id": "714",
+      "file_name": "074.jpg",
+      "question_type": "extract",
+      "answer_format": "json_array",
+      "question": "请从 74.jpg 的“A complex table invoice”中提取：Paperclips 的 Qty、单价、Cost。",
+      "oldAnswer": "[{\"Name / Description\":\"Paperclips\",\"Qty\":\"1000\",\"@\":\"0.01\",\"Cost\":\"10.00\"}]",
+      "newAnswer": "[{\"Name / Description\":\"Paperclips\",\"Qty.\":\"1000\",\"@\":\"0.01\",\"Cost\":\"10.00\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"Name / Description\":\"Paperclips\",\"Qty.\":\"1000\",\"@\":\"0.01\",\"Cost\":\"10.00\"}]",
+      "decision": {
+        "id": "714",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B的键名'Qty.'保留了原表表头中的点号，符合保留原表文本的要求，比A更准确。",
+        "file_name": "074.jpg"
+      }
+    },
+    {
+      "id": "773",
+      "file_name": "080.png",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "请从 80.png 的“Historical Results financial statements”中提取：2016 Total Assets。",
+      "oldAnswer": "295951",
+      "newAnswer": "295351",
+      "flags": [],
+      "finalAnswer": "295351",
+      "decision": {
+        "id": "773",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "图片中2016年Total Assets为295,351，B正确。",
+        "file_name": "080.png"
+      }
+    },
+    {
+      "id": "777",
+      "file_name": "080.png",
+      "question_type": "thinking",
+      "answer_format": "number",
+      "question": "请计算 2013 Closing Cash Balance 与 2012 Closing Cash Balance 的差值。",
+      "oldAnswer": "13239",
+      "newAnswer": "13839",
+      "flags": [],
+      "finalAnswer": "13839",
+      "decision": {
+        "id": "777",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "2013 Closing Cash Balance (181,210) - 2012 Closing Cash Balance (167,371) = 13,839，B正确。",
+        "file_name": "080.png"
+      }
+    },
+    {
+      "id": "790",
+      "file_name": "082.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请从 82.png 的“表1-2 分部分项工程量清单及计价表（号清单）”中提取：表格标题。",
+      "oldAnswer": "表1-2 分部分项工程量清单及计价表（号清单）",
+      "newAnswer": "表1-2 分部分项工程量清单及计价表（ 号清单）",
+      "flags": [],
+      "finalAnswer": "表1-2 分部分项工程量清单及计价表（ 号清单）",
+      "decision": {
+        "id": "790",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "原图括号内有明显空格，B更贴近字面。",
+        "file_name": "082.png"
+      }
+    },
+    {
+      "id": "791",
+      "file_name": "082.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请从 82.png 的“表1-2 分部分项工程量清单及计价表（号清单）”中提取：页码标识。",
+      "oldAnswer": "第7页 共10页",
+      "newAnswer": "第 7 页 共 10 页",
+      "flags": [],
+      "finalAnswer": "第 7 页 共 10 页",
+      "decision": {
+        "id": "791",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "原图文字间距较大，B保留了空格，更准确。",
+        "file_name": "082.png"
+      }
+    },
+    {
+      "id": "841",
+      "file_name": "087.png",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "请从 87.png 的“Classification Results Heatmap”中提取：Banana 在 Data2-Orig-Precision 的值。",
+      "oldAnswer": "0.81",
+      "newAnswer": "0.86",
+      "flags": [],
+      "finalAnswer": "0.86",
+      "decision": {
+        "id": "841",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "Banana行与Data2-Orig-Precision列交叉处数值为0.86。",
+        "file_name": "087.png"
+      }
+    },
+    {
+      "id": "843",
+      "file_name": "087.png",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "请从 87.png 的“Classification Results Heatmap”中提取：Mango 在 Data2-Orig-Precision 的值。",
+      "oldAnswer": "0.54",
+      "newAnswer": "0.87",
+      "flags": [],
+      "finalAnswer": "0.87",
+      "decision": {
+        "id": "843",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "Mango行与Data2-Orig-Precision列交叉处数值为0.87。",
+        "file_name": "087.png"
+      }
+    },
+    {
+      "id": "868",
+      "file_name": "089.png",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按从上到下列出最左列可见编号。",
+      "oldAnswer": "[{\"编号\":\"1\"},{\"编号\":\"4\"},{\"编号\":\"5\"},{\"编号\":\"6\"},{\"编号\":\"7\"},{\"编号\":\"11\"},{\"编号\":\"13\"},{\"编号\":\"17\"},{\"编号\":\"18\"}]",
+      "newAnswer": "[{\"编号\":\"1\"},{\"编号\":\"4\"},{\"编号\":\"5\"},{\"编号\":\"6\"},{\"编号\":\"7\"},{\"编号\":\"11\"},{\"编号\":\"12\"},{\"编号\":\"13\"},{\"编号\":\"17\"},{\"编号\":\"18\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"编号\":\"1\"},{\"编号\":\"4\"},{\"编号\":\"5\"},{\"编号\":\"6\"},{\"编号\":\"7\"},{\"编号\":\"11\"},{\"编号\":\"12\"},{\"编号\":\"13\"},{\"编号\":\"17\"},{\"编号\":\"18\"}]",
+      "decision": {
+        "id": "868",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "B包含了12，A漏掉了12，观察图片最左列从上到下依次为1,4,5,6,7,11,12,13,17,18",
+        "file_name": "089.png"
+      }
+    },
+    {
+      "id": "870",
+      "file_name": "090.png",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请从 90.png 的“merged-cell spreadsheet example”中提取：Row 1 中绿色区域显示的文本。",
+      "oldAnswer": "Row 1",
+      "newAnswer": "ColumnSpan=\"2\"",
+      "flags": [],
+      "finalAnswer": "ColumnSpan=\"2\"",
+      "decision": {
+        "id": "870",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "Row 1 绿色区域文本为 ColumnSpan=\"2\"，A 提取的是行标签且颜色不对。",
+        "file_name": "090.png"
+      }
+    },
+    {
+      "id": "876",
+      "file_name": "090.png",
+      "question_type": "thinking",
+      "answer_format": "number",
+      "question": "请计算包含 RowSpan=\"3\" 的两个合并区域覆盖的行数合计。",
+      "oldAnswer": "6",
+      "newAnswer": "8",
+      "flags": [],
+      "finalAnswer": "8",
+      "decision": {
+        "id": "876",
+        "choice": "B",
+        "answer": "",
+        "confidence": "medium",
+        "reason": "题目表述可能有误，推测意指 RowSpan=3 (3行) 与 RowSpan=5 (5行) 的合计，3+5=8。",
+        "file_name": "090.png"
+      }
+    },
+    {
+      "id": "890",
+      "file_name": "092.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "请从 92.jpg 的“Funnel management plan conversion rates”中提取：Account Manager。",
+      "oldAnswer": "Debajit Mukherjee",
+      "newAnswer": "Debjit Mukherjee",
+      "flags": [],
+      "finalAnswer": "Debjit Mukherjee",
+      "decision": {
+        "id": "890",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "图片中显示为 Debjit Mukherjee，B拼写正确。",
+        "file_name": "092.jpg"
+      }
+    },
+    {
+      "id": "905",
+      "file_name": "093.jpg",
+      "question_type": "extract",
+      "answer_format": "json_array",
+      "question": "请从 93.jpg 的“ASCII Summary records table”中提取：中间列的两个 Description。",
+      "oldAnswer": "[{\"Description\":\"basic structure\",\"Variable Names(units)\":\"NNN,NNN1,NNN2,NNNNNN2,XYZDDD,SOURCE,TARGET\"},{\"Description\":\"local structure perturbations\",\"Variable Names(units)\":\"REDS,XXX,NNN,LLL,LLLL\"}]",
+      "newAnswer": "[{\"Description\":\"basic structure\"},{\"Description\":\"local structure perturbations\"}]",
+      "flags": [],
+      "finalAnswer": "[{\"Description\":\"basic structure\"},{\"Description\":\"local structure perturbations\"}]",
+      "decision": {
+        "id": "905",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "题目仅要求提取中间列的 Description，B 答案简洁且无多余字段，A 答案包含了 Variable Names 列，属于多余信息。",
+        "file_name": "093.jpg"
+      }
+    },
+    {
+      "id": "908",
+      "file_name": "093.jpg",
+      "question_type": "thinking",
+      "answer_format": "string",
+      "question": "请判断该表是否使用 ASCII 线框而非普通表格线。",
+      "oldAnswer": "yes",
+      "newAnswer": "Yes",
+      "flags": [],
+      "finalAnswer": "Yes",
+      "decision": {
+        "id": "908",
+        "choice": "B",
+        "answer": "",
+        "confidence": "high",
+        "reason": "两者语义等价，Yes 首字母大写更符合常规回答规范。",
+        "file_name": "093.jpg"
+      }
+    }
+  ]
+}

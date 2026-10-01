@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\017.jpg",
+  "results": [
+    {
+      "id": "159",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Overall Rankings by District",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "160",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "英语",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "161",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "162",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Ranking",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "163",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "CC?",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "164",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Cal State Fullerton",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "165",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "University of Nevada Las Vegas",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "166",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "CSU Chico",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "167",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Weber State University",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "168",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"District 2 第二名学校\":\"Idaho State University\",\"District 1 第一名分数\":\"313\",\"District 2 第一名分数\":\"250\",\"页脚\":\"Fall 2012 NDT Ranking Report Page 13\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

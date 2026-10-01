@@ -1,0 +1,41 @@
+{
+  "decisions": [
+    {
+      "id": "349",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片顶部无印刷大标题，直接为字段网格，故无明确主标题"
+    },
+    {
+      "id": "350",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表头为中文，字段值含NINGBO、BY SEA、THAILAND等英文"
+    },
+    {
+      "id": "353",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "商品明细表头行最右列为征免"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1014,
+    "completion_tokens_details": {
+      "reasoning_tokens": 902,
+      "text_tokens": 111
+    },
+    "prompt_tokens": 2411,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 1954,
+      "text_tokens": 457
+    },
+    "total_tokens": 3425
+  },
+  "requestId": "chatcmpl-2411b2b9-b64d-9fa2-906b-dcdf631c8e4c",
+  "model": "qwen3.8-max-0902"
+}

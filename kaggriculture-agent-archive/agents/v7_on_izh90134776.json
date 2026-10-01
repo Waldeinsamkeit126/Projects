@@ -1,0 +1,37 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v7_purecrop81_after_probe\\main.py",
+    "games": 1,
+    "wins": 0,
+    "mean_score": 50072.0,
+    "mean_margin": -70852.0,
+    "mean_score_delta": -16340.0,
+    "mean_margin_delta": 2924.0,
+    "median_margin_delta": 2924.0,
+    "max_action_seconds": 0.05286349996458739,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 90134776,
+      "opponent": "izh yng",
+      "seed": 1501958455,
+      "position": 1,
+      "ours": 50072.0,
+      "theirs": 120924.0,
+      "margin": -70852.0,
+      "win": false,
+      "original_ours": 66412.0,
+      "original_theirs": 140188.0,
+      "original_margin": -73776.0,
+      "score_delta": -16340.0,
+      "margin_delta": 2924.0,
+      "elapsed_seconds": 3.8721582000143826,
+      "max_action_seconds": 0.05286349996458739,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

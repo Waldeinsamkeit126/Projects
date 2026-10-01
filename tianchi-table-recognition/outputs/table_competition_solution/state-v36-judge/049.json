@@ -1,0 +1,47 @@
+{
+  "decisions": [
+    {
+      "id": "470",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格中包含大量中文文本以及英文品牌名、型号和尺码（NIKE, XS, S等），故为中英混合。"
+    },
+    {
+      "id": "473",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "XL是表格下半部分数据区最右侧的列标题（表头），而A选项是单元格内的具体数值内容。"
+    },
+    {
+      "id": "476",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中文字显示为'中国 829510 -678'，B选项保留了数字与连字符之间的空格，更忠实于原图。"
+    },
+    {
+      "id": "477",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中文字显示为'印尼 829509 -678'，B选项保留了数字与连字符之间的空格，更忠实于原图。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 2528,
+    "completion_tokens": 1709,
+    "prompt_tokens": 819,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1382,
+      "text_tokens": 326
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 402,
+      "cached_tokens": 0,
+      "text_tokens": 417
+    }
+  },
+  "requestId": "chatcmpl-ae6911b3-46ff-9d67-9e99-d28543f1fd4f"
+}

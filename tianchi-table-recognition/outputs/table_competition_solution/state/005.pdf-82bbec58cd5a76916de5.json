@@ -1,0 +1,41 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\005.pdf",
+  "results": [
+    {
+      "id": "21",
+      "source_file": "005.pdf",
+      "resolved_file": "005.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"项目\":\"上年末\",\"未分配利润\":\"407166999.88\"},{\"项目\":\"本年初\",\"未分配利润\":\"407166999.88\"},{\"项目\":\"本年末\",\"未分配利润\":\"452817690.44\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "22",
+      "source_file": "005.pdf",
+      "resolved_file": "005.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"变动项目\":\"专项储备\"},{\"变动项目\":\"未分配利润\"},{\"变动项目\":\"少数股东权益\"},{\"变动项目\":\"股东权益合计\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "23",
+      "source_file": "005.pdf",
+      "resolved_file": "005.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"变动原因\":\"本期提取\"},{\"变动原因\":\"本期使用\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "24",
+      "source_file": "005.pdf",
+      "resolved_file": "005.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"组成部分\":\"股本\"},{\"组成部分\":\"其他权益工具\"},{\"组成部分\":\"资本公积\"},{\"组成部分\":\"减：库存股\"},{\"组成部分\":\"其他综合收益\"},{\"组成部分\":\"专项储备\"},{\"组成部分\":\"盈余公积\"},{\"组成部分\":\"未分配利润\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

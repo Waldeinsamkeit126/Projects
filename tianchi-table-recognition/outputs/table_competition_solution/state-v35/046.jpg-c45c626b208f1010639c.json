@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\046.jpg",
+  "results": [
+    {
+      "id": "439",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Vehicle department information",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "440",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Chinese and English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "442",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Vehicle department\n用车部门",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "443",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Number of passengers\n乘车人数",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "444",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "合合信息",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "445",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "2020年5月20日",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "446",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "14人",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "447",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "上海静安区市北·云立方A座",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "448",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Driver contact number\":\"18888888888\",\"Car reason\":\"公务出行\",\"License plate number\":\"沪M888888\",\"Driver name\":\"合小安\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

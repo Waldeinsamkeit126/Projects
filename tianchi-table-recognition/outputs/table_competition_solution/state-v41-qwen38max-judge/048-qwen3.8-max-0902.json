@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "id": "459",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "主表标题为资产负债明细表，'项目'仅为列头"
+    },
+    {
+      "id": "468",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "数值均与表一致，A以单个扁平对象按题目顺序组织四字段，符合json_array要求"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 4392,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4309,
+      "text_tokens": 82
+    },
+    "prompt_tokens": 1009,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 420,
+      "text_tokens": 589
+    },
+    "total_tokens": 5401
+  },
+  "requestId": "chatcmpl-27a66f9a-e029-9218-9fce-cf5c34e7048e",
+  "model": "qwen3.8-max-0902"
+}

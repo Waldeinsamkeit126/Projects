@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "288",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "数值均正确（0、11、21、Sosiologi og sosialentr. 为最高61）；A 的字段名与题目一致，B 改用挪威语字段名。"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 480,
+    "completion_tokens_details": {
+      "reasoning_tokens": 409,
+      "text_tokens": 70
+    },
+    "prompt_tokens": 831,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 338,
+      "text_tokens": 493
+    },
+    "total_tokens": 1311
+  },
+  "requestId": "chatcmpl-9a85ee5d-be85-9e71-ad54-5901c4b25f9a",
+  "model": "qwen3.8-max-0902"
+}

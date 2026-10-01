@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "542",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表头行最左单元格字面为\"澎湃·美数课\"，\"公司名称\"未在图中出现"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1244,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1193,
+      "text_tokens": 50
+    },
+    "prompt_tokens": 2846,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 2496,
+      "text_tokens": 350
+    },
+    "total_tokens": 4090
+  },
+  "requestId": "chatcmpl-ea23accb-2579-91a5-9f06-75f7b41c693d",
+  "model": "qwen3.8-max-0902"
+}

@@ -1,0 +1,41 @@
+{
+  "decisions": [
+    {
+      "id": "139",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "图中实际出现的主区域标题为居中的 Component & Specification；A 的字符串并未在表中字面出现"
+    },
+    {
+      "id": "146",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Up to 12 volts 属于 Circular Coil 的 Input，Electric Fan 区仅有 Dimensions，电压未指定"
+    },
+    {
+      "id": "148",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "页码应为 37，布尔字段用 true 更规范；颜色未给出以 Not specified 表述与表内无该信息一致，B 的页码含多余文字"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 5567,
+    "completion_tokens_details": {
+      "reasoning_tokens": 5415,
+      "text_tokens": 151
+    },
+    "prompt_tokens": 1044,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 496,
+      "text_tokens": 548
+    },
+    "total_tokens": 6611
+  },
+  "requestId": "chatcmpl-937735cf-043f-9a92-84bb-438e574682df",
+  "model": "qwen3.8-max-0902"
+}

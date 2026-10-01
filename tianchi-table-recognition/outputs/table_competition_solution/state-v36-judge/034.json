@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "333",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格最右侧（任职记录部分）的表头为备注，B为内容值。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 1339,
+    "completion_tokens": 323,
+    "prompt_tokens": 1016,
+    "completion_tokens_details": {
+      "reasoning_tokens": 276,
+      "text_tokens": 46
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 761,
+      "cached_tokens": 0,
+      "text_tokens": 255
+    }
+  },
+  "requestId": "chatcmpl-f5e88e69-b8f4-9e9b-9d2b-4a0c18c44ac3"
+}

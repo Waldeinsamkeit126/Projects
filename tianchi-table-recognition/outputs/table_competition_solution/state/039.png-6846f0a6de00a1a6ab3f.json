@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\039.png",
+  "results": [
+    {
+      "id": "379",
+      "source_file": "039.png",
+      "resolved_file": "039.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Health utility regression results",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "380",
+      "source_file": "039.png",
+      "resolved_file": "039.png",
+      "model": "qwen3-vl-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "381",
+      "source_file": "039.png",
+      "resolved_file": "039.png",
+      "model": "qwen3-vl-plus",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "382",
+      "source_file": "039.png",
+      "resolved_file": "039.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Variable",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "383",
+      "source_file": "039.png",
+      "resolved_file": "039.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Bootstrap SE*",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "384",
+      "source_file": "039.png",
+      "resolved_file": "039.png",
+      "model": "qwen3-vl-plus",
+      "answer": "-0.0014",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "385",
+      "source_file": "039.png",
+      "resolved_file": "039.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.017",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "386",
+      "source_file": "039.png",
+      "resolved_file": "039.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.0999",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "387",
+      "source_file": "039.png",
+      "resolved_file": "039.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.1028",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "388",
+      "source_file": "039.png",
+      "resolved_file": "039.png",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"Multiple R-squared\":\"0.1028\",\"Adjusted R-squared\":\"0.0877\",\"模型结果列数\":\"4\",\"变量类别之一\":\"Years\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

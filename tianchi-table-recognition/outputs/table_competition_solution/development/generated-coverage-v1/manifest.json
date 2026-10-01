@@ -1,0 +1,38 @@
+{
+  "datasetVersion": "coverage-validation-v1",
+  "source": "newly-authored-generic-coverage-validation",
+  "questionCount": 12,
+  "media": [
+    {
+      "sourceId": "cv-tiered",
+      "fileName": "cv-tiered.png",
+      "sha256": "755e4014545e8a8c298bb2411cb18ca16a0875f14b13249deb7b6fa221d45203",
+      "width": 1068,
+      "height": 382
+    },
+    {
+      "sourceId": "cv-blanks",
+      "fileName": "cv-blanks.png",
+      "sha256": "0d2c36f25e4f3c77ef88c45b69cbbb18e89d8a5ab326139b34d3ee3a14bd2574",
+      "width": 558,
+      "height": 326
+    },
+    {
+      "sourceId": "cv-groups",
+      "fileName": "cv-groups.png",
+      "sha256": "6360efe197285bc4df54588fc12be7d66fdbd0a4bf1ccf09d3bc74fe4ba7b868",
+      "width": 728,
+      "height": 382
+    },
+    {
+      "sourceId": "cv-multitable",
+      "fileName": "cv-multitable.png",
+      "sha256": "cfb45fd35fdf48d0442dd5a744f527b27f04e1a1a84ce5a3dfd388e58a1e8337",
+      "width": 1104,
+      "height": 270
+    }
+  ],
+  "fixtureSha256": "ec91bcbedbc08deb9a0b8483b6f2d19eaed35fa66507357a0a4db5c9a863c513",
+  "rendererSha256": "61ad1cbd4dc47863c4aed5698f40af282f050dd8ce95c6eeb300577d62f6cb5f",
+  "note": "新源表，非正式测试数据；用于候选策略对比，还未运行真实模型，不能宣称验证了泛化。"
+}

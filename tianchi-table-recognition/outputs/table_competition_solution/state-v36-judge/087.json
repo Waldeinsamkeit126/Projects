@@ -1,0 +1,40 @@
+{
+  "decisions": [
+    {
+      "id": "841",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Banana行与Data2-Orig-Precision列交叉处数值为0.86。"
+    },
+    {
+      "id": "843",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Mango行与Data2-Orig-Precision列交叉处数值为0.87。"
+    },
+    {
+      "id": "848",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Banana在Data2-Orig-Precision(0.86), Data2-Orig-Recall(0.81), Data2-Orig-F1(0.53)的平均值为(0.86+0.81+0.53)/3 ≈ 0.73。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 3639,
+    "completion_tokens": 714,
+    "prompt_tokens": 2925,
+    "completion_tokens_details": {
+      "reasoning_tokens": 451,
+      "text_tokens": 262
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 2537,
+      "cached_tokens": 0,
+      "text_tokens": 388
+    }
+  },
+  "requestId": "chatcmpl-6b427131-4041-9241-a97c-37711b9b5ecf"
+}

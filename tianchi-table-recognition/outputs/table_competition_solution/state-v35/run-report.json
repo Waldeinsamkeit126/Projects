@@ -1,0 +1,55 @@
+{
+  "testsPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\tests.xlsx",
+  "templatePath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\submit-template.xlsx",
+  "mediaDir": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files",
+  "questionCount": 604,
+  "allQuestionCount": 908,
+  "uniqueResolvedFiles": 65,
+  "questionTypes": {
+    "extract": 487,
+    "thinking": 117
+  },
+  "answerFormats": {
+    "string": 364,
+    "number": 183,
+    "json_array": 57
+  },
+  "unresolved": [],
+  "filenameCorrections": [],
+  "normalizedQuestionTypes": [],
+  "ignoredSourceAnswerColumn": true,
+  "models": {
+    "pdf": "qwen3.8-max",
+    "image": "qwen3.7-plus"
+  },
+  "refreshStructure": false,
+  "enableThinking": false,
+  "includeSources": [
+    "image"
+  ],
+  "includeTypes": [
+    "structure",
+    "extract",
+    "thinking"
+  ],
+  "excludeTypes": [
+    "structure"
+  ],
+  "baseSubmission": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v34-add-day3-bp.xlsx",
+  "completed": 604,
+  "valid": 602,
+  "invalid": 2,
+  "invalidItems": [
+    {
+      "id": "126",
+      "source_file": "013.jpg",
+      "error": "答案为空"
+    },
+    {
+      "id": "147",
+      "source_file": "015.jpg",
+      "error": "答案为空"
+    }
+  ],
+  "outputPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v35-qwen37-image-refresh.xlsx"
+}

@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\071.pdf",
+  "results": [
+    {
+      "id": "679",
+      "source_file": "071.pdf",
+      "resolved_file": "071.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":25,\"col_count\":25,\"cells\":[{\"text\":\"合金牌号\",\"row\":0,\"col\":0,\"rowspan\":3,\"colspan\":1},{\"text\":\"名义化学成分\",\"row\":0,\"col\":1,\"rowspan\":3,\"colspan\":1},{\"text\":\"化学成分(质量分数)/%\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":23},{\"text\":\"主要成分\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":16},{\"text\":\"杂质,不大于\",\"row\":1,\"col\":18,\"rowspan\":1,\"colspan\":7},{\"text\":\"Ti\",\"row\":2,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Al\",\"row\":2,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"Si\",\"row\":2,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"V\",\"row\":2,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"Mn\",\"row\":2,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"Fe\",\"row\":2,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"Ni\",\"row\":2,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"Cu\",\"row\":2,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"Zr\",\"row\":2,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"Nb\",\"row\":2,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"Mo\",\"row\":2,\"col\":12,\"rowspan\":1,\"colspan\":1},{\"text\":\"Ru\",\"row\":2,\"col\":13,\"rowspan\":1,\"colspan\":1},{\"text\":\"Pd\",\"row\":2,\"col\":14,\"rowspan\":1,\"colspan\":1},{\"text\":\"Sn\",\"row\":2,\"col\":15,\"rowspan\":1,\"colspan\":1},{\"text\":\"Ta\",\"row\":2,\"col\":16,\"rowspan\":1,\"colspan\":1},{\"text\":\"Nd\",\"row\":2,\"col\":17,\"rowspan\":1,\"colspan\":1},{\"text\":\"Fe\",\"row\":2,\"col\":18,\"rowspan\":1,\"colspan\":1},{\"text\":\"C\",\"row\":2,\"col\":19,\"rowspan\":1,\"colspan\":1},{\"text\":\"N\",\"row\":2,\"col\":20,\"rowspan\":1,\"colspan\":1},{\"text\":\"H\",\"row\":2,\"col\":21,\"rowspan\":1,\"colspan\":1},{\"text\":\"O\",\"row\":2,\"col\":22,\"rowspan\":1,\"colspan\":1},{\"text\":\"其他元素\",\"row\":2,\"col\":23,\"rowspan\":1,\"colspan\":2},{\"text\":\"单一\",\"row\":3,\"col\":23,\"rowspan\":1,\"colspan\":1},{\"text\":\"总和\",\"row\":3,\"col\":24,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "680",
+      "source_file": "071.pdf",
+      "resolved_file": "071.pdf",
+      "model": "qwen3.8-max",
+      "answer": "GB/T 3620.1—2016",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "681",
+      "source_file": "071.pdf",
+      "resolved_file": "071.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"合金牌号\":\"TA0\",\"Fe\":\"0.15\",\"C\":\"0.10\",\"N\":\"0.03\",\"H\":\"0.015\",\"O\":\"0.15\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "682",
+      "source_file": "071.pdf",
+      "resolved_file": "071.pdf",
+      "model": "qwen3.8-max",
+      "answer": "4.0~5.5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "683",
+      "source_file": "071.pdf",
+      "resolved_file": "071.pdf",
+      "model": "qwen3.8-max",
+      "answer": "Ti-8Al-1Mo-1V",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "684",
+      "source_file": "071.pdf",
+      "resolved_file": "071.pdf",
+      "model": "qwen3.8-max",
+      "answer": "4.0~6.0",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "685",
+      "source_file": "071.pdf",
+      "resolved_file": "071.pdf",
+      "model": "qwen3.8-max",
+      "answer": "表 1 工业纯钛、α 型和近 α 型钛及钛合金牌号和化学成分",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "686",
+      "source_file": "071.pdf",
+      "resolved_file": "071.pdf",
+      "model": "qwen3.8-max",
+      "answer": "0.3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "687",
+      "source_file": "071.pdf",
+      "resolved_file": "071.pdf",
+      "model": "qwen3.8-max",
+      "answer": "不包含",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "688",
+      "source_file": "071.pdf",
+      "resolved_file": "071.pdf",
+      "model": "qwen3.8-max",
+      "answer": "杂质,不大于",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

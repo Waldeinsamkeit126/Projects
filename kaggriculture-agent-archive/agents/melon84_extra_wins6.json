@@ -1,0 +1,142 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\v4_melon84\\main.py",
+    "games": 6,
+    "wins": 4,
+    "mean_score": 91356.16666666667,
+    "mean_margin": 26684.166666666668,
+    "mean_score_delta": 5348.5,
+    "mean_margin_delta": 9206.166666666666,
+    "median_margin_delta": 6204.5,
+    "max_action_seconds": 0.09100410001701675,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89487704,
+      "opponent": "Hiroyasu Okuno",
+      "seed": 322479772,
+      "position": 0,
+      "ours": 106648.0,
+      "theirs": 22228.0,
+      "margin": 84420.0,
+      "win": true,
+      "original_ours": 100877.0,
+      "original_theirs": 59154.0,
+      "original_margin": 41723.0,
+      "score_delta": 5771.0,
+      "margin_delta": 42697.0,
+      "elapsed_seconds": 3.5953681000100914,
+      "max_action_seconds": 0.056918199989013374,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89487146,
+      "opponent": "starclan",
+      "seed": 1023056128,
+      "position": 1,
+      "ours": 103911.0,
+      "theirs": 80167.0,
+      "margin": 23744.0,
+      "win": true,
+      "original_ours": 94091.0,
+      "original_theirs": 76533.0,
+      "original_margin": 17558.0,
+      "score_delta": 9820.0,
+      "margin_delta": 6186.0,
+      "elapsed_seconds": 4.055465599987656,
+      "max_action_seconds": 0.0019151000014971942,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89485486,
+      "opponent": "motemen",
+      "seed": 1280058445,
+      "position": 1,
+      "ours": 79331.0,
+      "theirs": 93759.0,
+      "margin": -14428.0,
+      "win": false,
+      "original_ours": 57959.0,
+      "original_theirs": 55082.0,
+      "original_margin": 2877.0,
+      "score_delta": 21372.0,
+      "margin_delta": -17305.0,
+      "elapsed_seconds": 3.3981518000073265,
+      "max_action_seconds": 0.0018318000074941665,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89483326,
+      "opponent": "IsaacJinyu",
+      "seed": 1562311381,
+      "position": 1,
+      "ours": 85031.0,
+      "theirs": 90009.0,
+      "margin": -4978.0,
+      "win": false,
+      "original_ours": 83534.0,
+      "original_theirs": 82134.0,
+      "original_margin": 1400.0,
+      "score_delta": 1497.0,
+      "margin_delta": -6378.0,
+      "elapsed_seconds": 4.063977200014051,
+      "max_action_seconds": 0.0018174000142607838,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89482788,
+      "opponent": "MD. Nazmus Sakib Anik",
+      "seed": 54906185,
+      "position": 1,
+      "ours": 76662.0,
+      "theirs": 67954.0,
+      "margin": 8708.0,
+      "win": true,
+      "original_ours": 84850.0,
+      "original_theirs": 82365.0,
+      "original_margin": 2485.0,
+      "score_delta": -8188.0,
+      "margin_delta": 6223.0,
+      "elapsed_seconds": 4.044045500020729,
+      "max_action_seconds": 0.0020832999725826085,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89482245,
+      "opponent": "HIDEYO CHIBA",
+      "seed": 1052099803,
+      "position": 1,
+      "ours": 96554.0,
+      "theirs": 33915.0,
+      "margin": 62639.0,
+      "win": true,
+      "original_ours": 94735.0,
+      "original_theirs": 55910.0,
+      "original_margin": 38825.0,
+      "score_delta": 1819.0,
+      "margin_delta": 23814.0,
+      "elapsed_seconds": 3.5173473000177182,
+      "max_action_seconds": 0.09100410001701675,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

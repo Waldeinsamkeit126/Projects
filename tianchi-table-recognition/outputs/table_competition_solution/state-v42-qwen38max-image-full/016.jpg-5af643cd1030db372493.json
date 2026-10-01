@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\016.jpg",
+  "results": [
+    {
+      "id": "149",
+      "source_file": "016.jpg",
+      "resolved_file": "016.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Component & Specification",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "150",
+      "source_file": "016.jpg",
+      "resolved_file": "016.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "151",
+      "source_file": "016.jpg",
+      "resolved_file": "016.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "152",
+      "source_file": "016.jpg",
+      "resolved_file": "016.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Item No:",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "153",
+      "source_file": "016.jpg",
+      "resolved_file": "016.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Item Name:",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "154",
+      "source_file": "016.jpg",
+      "resolved_file": "016.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Photoelectric effect apparatus with solar cell",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "155",
+      "source_file": "016.jpg",
+      "resolved_file": "016.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Leads Set (Banana)",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "156",
+      "source_file": "016.jpg",
+      "resolved_file": "016.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "(25) cm long (red, black, and yellow). (50) cm long (red, black, and green). (100) cm long (red, black, and blue).",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "157",
+      "source_file": "016.jpg",
+      "resolved_file": "016.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Copper.",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "158",
+      "source_file": "016.jpg",
+      "resolved_file": "016.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"Lunch Set 数量单位\":\"pieces\"},{\"第一页脚注格式\":\"Page 45 of 81\"},{\"Photocell 是否带红字标题\":\"是\"},{\"Lunch Set 是否含图片/示意表\":\"否\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "split": "holdout",
+  "predictionsSha256": "1695672f2924460fe78d60160d22e903f62922712bd2ccd63de84fd08ab7204e",
+  "evaluatedAt": "2026-09-15T13:24:48.443Z",
+  "strictCorrect": 10,
+  "total": 12,
+  "numericEquivalentDifferences": 1,
+  "strictPlusNumericEquivalent": 11,
+  "limitation": "这是附加诊断，不替换严格匹配成绩，不修改预测或标签，不声称官方评测接受等价数值格式。当前留出集在误差分析后不再是未查看的验证集。",
+  "errors": [
+    {
+      "id": "holdout-merged-q6",
+      "category": "structure",
+      "outcome": "mismatch",
+      "diagnosis": "content-or-structure-mismatch",
+      "structureDiff": {
+        "dimensions": {
+          "expected": [
+            4,
+            5
+          ],
+          "actual": [
+            4,
+            5
+          ]
+        },
+        "cells": [
+          {
+            "coordinate": "0:0",
+            "field": "rowspan",
+            "expected": 2,
+            "actual": 1
+          }
+        ]
+      },
+      "upstreamError": ""
+    },
+    {
+      "id": "holdout-units-q4",
+      "category": "arithmetic",
+      "outcome": "mismatch",
+      "diagnosis": "numeric-representation-difference",
+      "expected": "21",
+      "actual": "21.0",
+      "representationOnly": true,
+      "upstreamError": ""
+    }
+  ]
+}

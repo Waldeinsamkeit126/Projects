@@ -1,0 +1,151 @@
+{
+  "datasetVersion": "synthetic-tables-v1",
+  "provenance": "synthetic-independent",
+  "split": "development",
+  "questions": [
+    {
+      "id": "dev-sales-q1",
+      "file_name": "dev-sales.png",
+      "question_type": "extract",
+      "question": "第一条商品的编号是什么？保留前导零。",
+      "table_hint": "练习订单（单价单位：元）",
+      "answer_format": "string"
+    },
+    {
+      "id": "dev-sales-q2",
+      "file_name": "dev-sales.png",
+      "question_type": "extract",
+      "question": "商品002的数量是多少？",
+      "table_hint": "练习订单（单价单位：元）",
+      "answer_format": "number"
+    },
+    {
+      "id": "dev-sales-q3",
+      "file_name": "dev-sales.png",
+      "question_type": "thinking",
+      "question": "两种商品的总金额是多少元？",
+      "table_hint": "练习订单（单价单位：元）",
+      "answer_format": "number"
+    },
+    {
+      "id": "dev-sales-q4",
+      "file_name": "dev-sales.png",
+      "question_type": "thinking",
+      "question": "商品001与商品002的单价差是多少元？",
+      "table_hint": "练习订单（单价单位：元）",
+      "answer_format": "number"
+    },
+    {
+      "id": "dev-sales-q5",
+      "file_name": "dev-sales.png",
+      "question_type": "extract",
+      "question": "按原表顺序列出商品编号和单价，键为商品编号、单价，保留原始单价格式。",
+      "table_hint": "练习订单（单价单位：元）",
+      "answer_format": "json_array"
+    },
+    {
+      "id": "dev-sales-q6",
+      "file_name": "dev-sales.png",
+      "question_type": "structure",
+      "question": "恢复完整表格结构；标题不计入表内。row_count、col_count 为完整表格逻辑尺寸，cells 包含所有单元格（含空格），坐标从0开始，合并单元格仅记一次。",
+      "table_hint": "练习订单（单价单位：元）",
+      "answer_format": "json"
+    },
+    {
+      "id": "dev-missing-q1",
+      "file_name": "dev-missing.png",
+      "question_type": "extract",
+      "question": "东仓数量是多少？",
+      "table_hint": "练习库存",
+      "answer_format": "number"
+    },
+    {
+      "id": "dev-missing-q2",
+      "file_name": "dev-missing.png",
+      "question_type": "extract",
+      "question": "西仓的备注是什么？",
+      "table_hint": "练习库存",
+      "answer_format": "string"
+    },
+    {
+      "id": "dev-missing-q3",
+      "file_name": "dev-missing.png",
+      "question_type": "extract",
+      "question": "依次提取东仓和西仓的仓库、数量、备注，空格内容以空字符串表示。",
+      "table_hint": "练习库存",
+      "answer_format": "json_array"
+    },
+    {
+      "id": "dev-missing-q4",
+      "file_name": "dev-missing.png",
+      "question_type": "thinking",
+      "question": "只对已填写数量的仓库求和，总数量是多少？",
+      "table_hint": "练习库存",
+      "answer_format": "number"
+    },
+    {
+      "id": "dev-missing-q5",
+      "file_name": "dev-missing.png",
+      "question_type": "thinking",
+      "question": "数量单元格为空的仓库共有几个？",
+      "table_hint": "练习库存",
+      "answer_format": "number"
+    },
+    {
+      "id": "dev-missing-q6",
+      "file_name": "dev-missing.png",
+      "question_type": "structure",
+      "question": "恢复完整表格结构；标题不计入表内。row_count、col_count 为完整表格逻辑尺寸，cells 包含所有单元格（含空格），坐标从0开始，合并单元格仅记一次。",
+      "table_hint": "练习库存",
+      "answer_format": "json"
+    },
+    {
+      "id": "dev-english-q1",
+      "file_name": "dev-english.png",
+      "question_type": "extract",
+      "question": "What is the code for the shipment to Oslo?",
+      "table_hint": "Synthetic shipment register",
+      "answer_format": "string"
+    },
+    {
+      "id": "dev-english-q2",
+      "file_name": "dev-english.png",
+      "question_type": "extract",
+      "question": "What is the weight in kg for Lima? Remove thousands separators.",
+      "table_hint": "Synthetic shipment register",
+      "answer_format": "number"
+    },
+    {
+      "id": "dev-english-q3",
+      "file_name": "dev-english.png",
+      "question_type": "thinking",
+      "question": "What is the total weight in kg?",
+      "table_hint": "Synthetic shipment register",
+      "answer_format": "number"
+    },
+    {
+      "id": "dev-english-q4",
+      "file_name": "dev-english.png",
+      "question_type": "thinking",
+      "question": "Which destination has the greatest weight?",
+      "table_hint": "Synthetic shipment register",
+      "answer_format": "string"
+    },
+    {
+      "id": "dev-english-q5",
+      "file_name": "dev-english.png",
+      "question_type": "extract",
+      "question": "List Code and Destination for all rows in their original order.",
+      "table_hint": "Synthetic shipment register",
+      "answer_format": "json_array"
+    },
+    {
+      "id": "dev-english-q6",
+      "file_name": "dev-english.png",
+      "question_type": "structure",
+      "question": "恢复完整表格结构；标题不计入表内。row_count、col_count 为完整表格逻辑尺寸，cells 包含所有单元格（含空格），坐标从0开始，合并单元格仅记一次。",
+      "table_hint": "Synthetic shipment register",
+      "answer_format": "json"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "runId": "2026-09-15T13-21-41-771Z-7f6391cb",
+  "pipeline": "reliable-v1",
+  "startedAt": "2026-09-15T13:21:41.771Z",
+  "testsPath": "D:\\tests.xlsx",
+  "questionsJsonPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated\\questions-holdout.json",
+  "noExport": true,
+  "templatePath": "D:\\submit-template.xlsx",
+  "mediaDir": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated",
+  "questionCount": 12,
+  "allQuestionCount": 12,
+  "uniqueResolvedFiles": 2,
+  "questionTypes": {
+    "thinking": 6,
+    "extract": 4,
+    "structure": 2
+  },
+  "answerFormats": {
+    "number": 8,
+    "json": 2,
+    "json_array": 1,
+    "string": 1
+  },
+  "unresolved": [],
+  "filenameCorrections": [],
+  "normalizedQuestionTypes": [],
+  "ignoredSourceAnswerColumn": true,
+  "models": {
+    "pdf": "qwen3.8-max",
+    "image": "qwen3-vl-plus"
+  },
+  "maxCompletionTokens": 8192,
+  "refreshStructure": false,
+  "enableThinking": false,
+  "includeSources": [
+    "pdf",
+    "image"
+  ],
+  "includeTypes": [
+    "structure",
+    "extract",
+    "thinking"
+  ],
+  "excludeTypes": [],
+  "maxRequests": 4,
+  "historicalAnswersImported": false,
+  "partialRun": false,
+  "validationMeaning": "格式与结构约束检查，不代表答案正确率或合规认证",
+  "sourceHash": "4bf12e0ca5e01ecf5290cd2515d68535eaf5350978b340504414ba1c4a8a8100",
+  "inputSha256": "ef97b49f44afc976795f4a54a79810f3e42333b69a609c10631d966353cad24c",
+  "templateSha256": null,
+  "endpoint": "https://ws-zpzcvtpmb0e3zl4f.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "purpose": "synthetic-holdout-baseline-20260915",
+  "status": "answers-only-no-submission",
+  "outputPath": null,
+  "completedAt": "2026-09-15T13:22:22.884Z",
+  "elapsedMs": 41113,
+  "requests": {
+    "attempts": 2,
+    "successfulResponses": 2,
+    "failedAttempts": 0,
+    "sumRequestLatencyMs": 41071,
+    "reportedTotalTokens": 4101,
+    "responsesWithoutUsage": 0,
+    "costCny": null,
+    "costNote": "未接入账单；失败请求也可能计费，token 汇总不是账单金额"
+  },
+  "cacheHits": 0,
+  "completed": 12,
+  "valid": 12,
+  "invalid": 0,
+  "invalidItems": []
+}

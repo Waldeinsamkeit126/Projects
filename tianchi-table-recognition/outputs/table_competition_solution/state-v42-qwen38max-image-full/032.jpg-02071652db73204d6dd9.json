@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\032.jpg",
+  "results": [
+    {
+      "id": "309",
+      "source_file": "032.jpg",
+      "resolved_file": "032.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Excel测试成绩单",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "310",
+      "source_file": "032.jpg",
+      "resolved_file": "032.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "311",
+      "source_file": "032.jpg",
+      "resolved_file": "032.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "312",
+      "source_file": "032.jpg",
+      "resolved_file": "032.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "编号",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "313",
+      "source_file": "032.jpg",
+      "resolved_file": "032.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "分数",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "314",
+      "source_file": "032.jpg",
+      "resolved_file": "032.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "张明",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "315",
+      "source_file": "032.jpg",
+      "resolved_file": "032.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "91",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "316",
+      "source_file": "032.jpg",
+      "resolved_file": "032.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "93",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "317",
+      "source_file": "032.jpg",
+      "resolved_file": "032.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "江风",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "318",
+      "source_file": "032.jpg",
+      "resolved_file": "032.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"最低分\":\"70\"},{\"最低分姓名\":\"黄小云\"},{\"计应10班分数\":\"82\"},{\"记录人数\":\"11\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

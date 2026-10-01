@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\074.jpg",
+  "results": [
+    {
+      "id": "709",
+      "source_file": "074.jpg",
+      "resolved_file": "074.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "{\"row_count\":8,\"col_count\":4,\"cells\":[{\"text\":\"Invoice #123456789\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":2},{\"text\":\"14 January 2025\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":2},{\"text\":\"Pay to:\\nAcme Billing Co.\\n123 Main St.\\nCityville, NA 12345\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":2},{\"text\":\"Customer:\\nJohn Smith\\n321 Willow Way\\nSoutheast Northwesternshire, MA 54321\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":2},{\"text\":\"Name / Description\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Qty.\",\"row\":2,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"@\",\"row\":2,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Cost\",\"row\":2,\"col\":3,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "710",
+      "source_file": "074.jpg",
+      "resolved_file": "074.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "123456789",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "711",
+      "source_file": "074.jpg",
+      "resolved_file": "074.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "14 January 2025",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "712",
+      "source_file": "074.jpg",
+      "resolved_file": "074.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Acme Billing Co.",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "713",
+      "source_file": "074.jpg",
+      "resolved_file": "074.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "John Smith",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "714",
+      "source_file": "074.jpg",
+      "resolved_file": "074.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"Qty\":\"1000\",\"@\":\"0.01\",\"Cost\":\"10.00\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "715",
+      "source_file": "074.jpg",
+      "resolved_file": "074.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "$ 118.80",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "716",
+      "source_file": "074.jpg",
+      "resolved_file": "074.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "110",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "717",
+      "source_file": "074.jpg",
+      "resolved_file": "074.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "110",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "718",
+      "source_file": "074.jpg",
+      "resolved_file": "074.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "118.8",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

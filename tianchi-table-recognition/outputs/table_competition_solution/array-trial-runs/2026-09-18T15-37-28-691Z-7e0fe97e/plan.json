@@ -1,0 +1,119 @@
+{
+  "version": "tianchi-value-array-candidate-v1",
+  "ruleSource": "https://tianchi.aliyun.com/competition/entrance/532510/information",
+  "sourceHash": "b1120f413d28b7fb9add71beae06c46d85ee8eb90f573e19ab672806020759ef",
+  "coreSourceHash": "46e0dce366c7c49df4bab25c7c9dfb201d46c2ddbbe0c83bbab790e6f6b21898",
+  "questionSha256": "19a4048a4e0e4487522108588621d93ff5d257f9fe9eef146e96101fc66c3132",
+  "referenceSha256": "44631eadcf7a335d2adc2dbf7a4d79e940d56d5163fe5313ee681ecbcaf924c8",
+  "settings": {
+    "model": "qwen3-vl-plus",
+    "maxCompletionTokens": 4096,
+    "temperature": 0,
+    "enableThinking": false,
+    "maxAttempts": 1,
+    "concurrency": 1,
+    "automaticFallback": false
+  },
+  "units": [
+    {
+      "fileName": "dev-sales.png",
+      "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated\\dev-sales.png",
+      "mediaSha256": "9624260089358c21b41ba6bcd30f08f54df46d3a16183bdccfd5698c42c06482",
+      "questions": [
+        {
+          "id": "av-sales-codes",
+          "file_name": "dev-sales.png",
+          "question_type": "extract",
+          "question": "按表格数据行顺序列出全部商品编号。保留前导零，数组元素为编号字符串。",
+          "table_hint": "练习订单（单价单位：元）",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "av-sales-counts",
+          "file_name": "dev-sales.png",
+          "question_type": "extract",
+          "question": "按表格数据行顺序列出全部商品的数量，数组元素为数值。",
+          "table_hint": "练习订单（单价单位：元）",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "av-sales-row",
+          "file_name": "dev-sales.png",
+          "question_type": "extract",
+          "question": "依次输出第一条数据行的商品编号、数量、单价。编号保留前导零，数量和单价为数值，使用一个值数组。",
+          "table_hint": "练习订单（单价单位：元）",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "av-sales-totals",
+          "file_name": "dev-sales.png",
+          "question_type": "thinking",
+          "question": "按表格数据行顺序计算每条商品的数量乘单价，依次列出金额（元），数组元素为数值。",
+          "table_hint": "练习订单（单价单位：元）",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "av-sales-prices",
+          "file_name": "dev-sales.png",
+          "question_type": "extract",
+          "question": "按表格数据行顺序列出全部单价，保留原表小数位格式，数组元素为字符串。",
+          "table_hint": "练习订单（单价单位：元）",
+          "answer_format": "json_array"
+        }
+      ],
+      "promptSha256": "bdd068ebfe76b3eb11596cf2ccca0225a68f981e9a8a2242493ee906fa936793"
+    },
+    {
+      "fileName": "dev-missing.png",
+      "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated\\dev-missing.png",
+      "mediaSha256": "0bf0ecd0a90a4a5ad5d0f224871e33c0d31fbad18b4968fd2138077593986643",
+      "questions": [
+        {
+          "id": "av-stock-counts",
+          "file_name": "dev-missing.png",
+          "question_type": "extract",
+          "question": "依次给出东仓、西仓、南仓的数量。已有数量用数值，空缺用空字符串，不能把零当空缺。",
+          "table_hint": "练习库存",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "av-stock-notes",
+          "file_name": "dev-missing.png",
+          "question_type": "extract",
+          "question": "依次给出东仓、西仓、南仓的备注，空缺用空字符串。",
+          "table_hint": "练习库存",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "av-stock-region",
+          "file_name": "dev-missing.png",
+          "question_type": "extract",
+          "question": "提取东仓和西仓两行的仓库、数量、备注，按行顺序且每行从左到右放进一个平坦值数组。数量用数值，空缺用空字符串。",
+          "table_hint": "练习库存",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "av-stock-positive",
+          "file_name": "dev-missing.png",
+          "question_type": "thinking",
+          "question": "列出已填数量大于零的仓库名称，按表格数据行顺序，用值数组，即使仅有一个仓库也保留数组。",
+          "table_hint": "练习库存",
+          "answer_format": "json_array"
+        },
+        {
+          "id": "av-stock-flags",
+          "file_name": "dev-missing.png",
+          "question_type": "thinking",
+          "question": "按东仓、西仓、南仓的顺序判断数量是否已填写（零也算已填写），用 JSON 布尔值 true/false 数组回答。",
+          "table_hint": "练习库存",
+          "answer_format": "json_array"
+        }
+      ],
+      "promptSha256": "2dd3966e8b23a1ac1e4320e2527f7f681f5eaa380d1d7e32c1cebcd5e7edc2ee"
+    }
+  ],
+  "proposedMaxRequests": 2,
+  "referenceLabelsTransmitted": false,
+  "note": "Synthetic smoke test only, not A/B, not blind validation, no official export/submission. Plan is not spending authorization.",
+  "digest": "46b0cab7ed55a7f6a4d7f31488a6633bb023d14617be2146042c864a4a00c590"
+}

@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "117",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "文化活动为Art/Music/Literature，涵盖National与State两级；B仅抄录第7行证书描述且遗漏State Level"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 470,
+    "completion_tokens_details": {
+      "reasoning_tokens": 414,
+      "text_tokens": 55
+    },
+    "prompt_tokens": 872,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 496,
+      "text_tokens": 376
+    },
+    "total_tokens": 1342
+  },
+  "requestId": "chatcmpl-63bf198b-8528-92ee-a2be-701cd505c815",
+  "model": "qwen3.8-max-0902"
+}

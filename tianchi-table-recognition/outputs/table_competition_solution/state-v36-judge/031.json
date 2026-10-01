@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "299",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "候选B中的破折号（–）比候选A的连字符（-）更贴近图片中第一个分隔符的视觉长度。"
+    },
+    {
+      "id": "300",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "题目为中文，询问语言种类，回答中文“葡萄牙语”符合问答习惯，且语义准确。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 3525,
+    "completion_tokens": 2583,
+    "prompt_tokens": 942,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2420,
+      "text_tokens": 162
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 629,
+      "cached_tokens": 0,
+      "text_tokens": 313
+    }
+  },
+  "requestId": "chatcmpl-771afdd7-40f7-913a-b202-6ac92d9ff0b4"
+}

@@ -1,0 +1,142 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\v10_straw4x40_35\\main.py",
+    "games": 6,
+    "wins": 6,
+    "mean_score": 104895.83333333333,
+    "mean_margin": 42742.833333333336,
+    "mean_score_delta": 12338.833333333334,
+    "mean_margin_delta": 32832.166666666664,
+    "median_margin_delta": 10974.0,
+    "max_action_seconds": 0.06197230005636811,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89389689,
+      "opponent": "Matt Motoki",
+      "seed": 1318674714,
+      "position": 0,
+      "ours": 72444.0,
+      "theirs": 58690.0,
+      "margin": 13754.0,
+      "win": true,
+      "original_ours": 59615.0,
+      "original_theirs": 52197.0,
+      "original_margin": 7418.0,
+      "score_delta": 12829.0,
+      "margin_delta": 6336.0,
+      "elapsed_seconds": 3.744053400005214,
+      "max_action_seconds": 0.0020588000770658255,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89412858,
+      "opponent": "kitory Yeah やきとり",
+      "seed": 886718318,
+      "position": 1,
+      "ours": 110623.0,
+      "theirs": 49916.0,
+      "margin": 60707.0,
+      "win": true,
+      "original_ours": 102457.0,
+      "original_theirs": 55464.0,
+      "original_margin": 46993.0,
+      "score_delta": 8166.0,
+      "margin_delta": 13714.0,
+      "elapsed_seconds": 4.202910299994983,
+      "max_action_seconds": 0.06197230005636811,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89462804,
+      "opponent": "Hira Norm",
+      "seed": 585569036,
+      "position": 0,
+      "ours": 105672.0,
+      "theirs": 94119.0,
+      "margin": 11553.0,
+      "win": true,
+      "original_ours": 92684.0,
+      "original_theirs": 84795.0,
+      "original_margin": 7889.0,
+      "score_delta": 12988.0,
+      "margin_delta": 3664.0,
+      "elapsed_seconds": 4.361033700057305,
+      "max_action_seconds": 0.0024085999466478825,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89487146,
+      "opponent": "starclan",
+      "seed": 1023056128,
+      "position": 1,
+      "ours": 105743.0,
+      "theirs": 79951.0,
+      "margin": 25792.0,
+      "win": true,
+      "original_ours": 94091.0,
+      "original_theirs": 76533.0,
+      "original_margin": 17558.0,
+      "score_delta": 11652.0,
+      "margin_delta": 8234.0,
+      "elapsed_seconds": 4.276153900078498,
+      "max_action_seconds": 0.0025725000305101275,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90374909,
+      "opponent": "Sida Zuo",
+      "seed": 2097202625,
+      "position": 1,
+      "ours": 123501.0,
+      "theirs": 20751.0,
+      "margin": 102750.0,
+      "win": true,
+      "original_ours": 109428.0,
+      "original_theirs": 119585.0,
+      "original_margin": -10157.0,
+      "score_delta": 14073.0,
+      "margin_delta": 112907.0,
+      "elapsed_seconds": 3.614570699981414,
+      "max_action_seconds": 0.002532700076699257,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90381688,
+      "opponent": "Leon",
+      "seed": 1660141956,
+      "position": 0,
+      "ours": 111392.0,
+      "theirs": 69491.0,
+      "margin": 41901.0,
+      "win": true,
+      "original_ours": 97067.0,
+      "original_theirs": 107304.0,
+      "original_margin": -10237.0,
+      "score_delta": 14325.0,
+      "margin_delta": 52138.0,
+      "elapsed_seconds": 3.8810573000228032,
+      "max_action_seconds": 0.0026177000254392624,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

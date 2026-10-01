@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\069.pdf",
+  "results": [
+    {
+      "id": "659",
+      "source_file": "069.pdf",
+      "resolved_file": "069.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":14,\"col_count\":6,\"cells\":[{\"text\":\"\",\"row\":0,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"Before Perturb\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":3},{\"text\":\"After Perturb\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":2},{\"text\":\"ALL\",\"row\":1,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"SEQ\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"ALLd\",\"row\":1,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"ALL\",\"row\":1,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"VP\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "660",
+      "source_file": "069.pdf",
+      "resolved_file": "069.pdf",
+      "model": "qwen3.8-max",
+      "answer": "61.1",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "661",
+      "source_file": "069.pdf",
+      "resolved_file": "069.pdf",
+      "model": "qwen3.8-max",
+      "answer": "66.7",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "662",
+      "source_file": "069.pdf",
+      "resolved_file": "069.pdf",
+      "model": "qwen3.8-max",
+      "answer": "15.1%",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "663",
+      "source_file": "069.pdf",
+      "resolved_file": "069.pdf",
+      "model": "qwen3.8-max",
+      "answer": "75.9",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "664",
+      "source_file": "069.pdf",
+      "resolved_file": "069.pdf",
+      "model": "qwen3.8-max",
+      "answer": "61",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "665",
+      "source_file": "069.pdf",
+      "resolved_file": "069.pdf",
+      "model": "qwen3.8-max",
+      "answer": "0.1%",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "666",
+      "source_file": "069.pdf",
+      "resolved_file": "069.pdf",
+      "model": "qwen3.8-max",
+      "answer": "6.3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "667",
+      "source_file": "069.pdf",
+      "resolved_file": "069.pdf",
+      "model": "qwen3.8-max",
+      "answer": "TAPASLARGE",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "668",
+      "source_file": "069.pdf",
+      "resolved_file": "069.pdf",
+      "model": "qwen3.8-max",
+      "answer": "0.1",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

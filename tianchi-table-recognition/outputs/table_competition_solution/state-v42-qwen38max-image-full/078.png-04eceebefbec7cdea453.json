@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\078.png",
+  "results": [
+    {
+      "id": "749",
+      "source_file": "078.png",
+      "resolved_file": "078.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "{\"row_count\":27,\"col_count\":4,\"cells\":[{\"text\":\"\",\"row\":0,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"Year Ended December 31,\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":3},{\"text\":\"2015\",\"row\":1,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"2016\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"2017\",\"row\":1,\"col\":3,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "750",
+      "source_file": "078.png",
+      "resolved_file": "078.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "118573",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "751",
+      "source_file": "078.png",
+      "resolved_file": "078.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "41322",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "752",
+      "source_file": "078.png",
+      "resolved_file": "078.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "107006",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "753",
+      "source_file": "078.png",
+      "resolved_file": "078.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "111934",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "754",
+      "source_file": "078.png",
+      "resolved_file": "078.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "2371",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "755",
+      "source_file": "078.png",
+      "resolved_file": "078.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "6.15",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "756",
+      "source_file": "078.png",
+      "resolved_file": "078.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "4106",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "757",
+      "source_file": "078.png",
+      "resolved_file": "078.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "6000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "758",
+      "source_file": "078.png",
+      "resolved_file": "078.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "59280",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

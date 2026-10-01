@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\059.pdf",
+  "results": [
+    {
+      "id": "559",
+      "source_file": "59.pdf",
+      "resolved_file": "059.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":24,\"col_count\":7,\"cells\":[{\"text\":\"Benchmark (Metric)\",\"row\":0,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"Opus-4.6 Max\",\"row\":0,\"col\":1,\"rowspan\":2,\"colspan\":1},{\"text\":\"GPT-5.4 xHigh\",\"row\":0,\"col\":2,\"rowspan\":2,\"colspan\":1},{\"text\":\"Gemini-3.1-Pro High\",\"row\":0,\"col\":3,\"rowspan\":2,\"colspan\":1},{\"text\":\"K2.6 Thinking\",\"row\":0,\"col\":4,\"rowspan\":2,\"colspan\":1},{\"text\":\"GLM-5.1 Thinking\",\"row\":0,\"col\":5,\"rowspan\":2,\"colspan\":1},{\"text\":\"DS-V4-Pro Max\",\"row\":0,\"col\":6,\"rowspan\":2,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "560",
+      "source_file": "59.pdf",
+      "resolved_file": "059.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"Model\":\"Opus-4.6 Max\",\"Score\":\"46.2\"},{\"Model\":\"GPT-5.4 xHigh\",\"Score\":\"45.3\"},{\"Model\":\"Gemini-3.1-Pro High\",\"Score\":\"75.6\"},{\"Model\":\"K2.6 Thinking\",\"Score\":\"36.9\"},{\"Model\":\"GLM-5.1 Thinking\",\"Score\":\"38.1\"},{\"Model\":\"DS-V4-Pro Max\",\"Score\":\"57.9\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "561",
+      "source_file": "59.pdf",
+      "resolved_file": "059.pdf",
+      "model": "qwen3.8-max",
+      "answer": "3206",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "562",
+      "source_file": "59.pdf",
+      "resolved_file": "059.pdf",
+      "model": "qwen3.8-max",
+      "answer": "90.2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "563",
+      "source_file": "59.pdf",
+      "resolved_file": "059.pdf",
+      "model": "qwen3.8-max",
+      "answer": "75.1",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "564",
+      "source_file": "59.pdf",
+      "resolved_file": "059.pdf",
+      "model": "qwen3.8-max",
+      "answer": "1619",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "565",
+      "source_file": "59.pdf",
+      "resolved_file": "059.pdf",
+      "model": "qwen3.8-max",
+      "answer": "40.7",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "566",
+      "source_file": "59.pdf",
+      "resolved_file": "059.pdf",
+      "model": "qwen3.8-max",
+      "answer": "4.2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "567",
+      "source_file": "59.pdf",
+      "resolved_file": "059.pdf",
+      "model": "qwen3.8-max",
+      "answer": "60.9",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "568",
+      "source_file": "59.pdf",
+      "resolved_file": "059.pdf",
+      "model": "qwen3.8-max",
+      "answer": "82.8",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

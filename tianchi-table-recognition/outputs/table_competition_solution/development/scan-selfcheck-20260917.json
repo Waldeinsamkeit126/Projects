@@ -1,0 +1,15 @@
+{
+  "datasetVersion": "scan-stress-v1",
+  "manifestSha256": "96e38d9dc2af364f9ce203239d7b1be38f848b69c4775bb0fb4fef387c116b39",
+  "fixtureHash": "97bea6ec9da6bea5367b2471b35d3ae1fd32411ea088c37f4ac32ce15d50ebc4",
+  "scorerHash": "983764fa21d6bec724b5328ed104778313ebaa07a33955f2c265afc4d4d93d92",
+  "split": "all",
+  "variant": "all",
+  "mode": "evaluator-self-check-only",
+  "cases": 60,
+  "positiveControl": 60,
+  "negativeControl": 0,
+  "apiCalls": 0,
+  "modelAccuracy": null,
+  "note": "评估器自检，不是模型正确率。"
+}

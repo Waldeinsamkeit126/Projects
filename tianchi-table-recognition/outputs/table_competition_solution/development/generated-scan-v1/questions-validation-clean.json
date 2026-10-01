@@ -1,0 +1,134 @@
+{
+  "datasetVersion": "scan-stress-v1",
+  "provenance": "newly-authored-synthetic-paired",
+  "split": "validation",
+  "variant": "clean",
+  "questions": [
+    {
+      "id": "ss-production-clean-q1",
+      "file_name": "ss-production-clean.png",
+      "table_hint": "月度生产记录",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《月度生产记录》。恢复完整表格结构；标题和表外说明不计入表内，cells须包含所有单元格（含空白），坐标从0开始，合并单元格仅记录一次。",
+      "structure_scope": "full"
+    },
+    {
+      "id": "ss-production-clean-q2",
+      "file_name": "ss-production-clean.png",
+      "table_hint": "月度生产记录",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《月度生产记录》。仅恢复表头行结构；cells只输出表头，row_count和col_count仍填写整张目标表的逻辑尺寸。",
+      "structure_scope": "partial"
+    },
+    {
+      "id": "ss-production-clean-q3",
+      "file_name": "ss-production-clean.png",
+      "table_hint": "月度生产记录",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "只依据《月度生产记录》。二线二月份的返工数量是多少？只输出数值，不保留多余的小数末尾零。"
+    },
+    {
+      "id": "ss-production-clean-q4",
+      "file_name": "ss-production-clean.png",
+      "table_hint": "月度生产记录",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "只依据《月度生产记录》。一线的编号是什么？保留前导零。"
+    },
+    {
+      "id": "ss-production-clean-q5",
+      "file_name": "ss-production-clean.png",
+      "table_hint": "月度生产记录",
+      "question_type": "thinking",
+      "answer_format": "number",
+      "question": "只依据《月度生产记录》。一线二月份产量减去返工数量是多少？只输出数值，不保留多余的小数末尾零。"
+    },
+    {
+      "id": "ss-measurement-clean-q1",
+      "file_name": "ss-measurement-clean.png",
+      "table_hint": "分区温度记录（单位：摄氏度）",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《分区温度记录（单位：摄氏度）》。恢复完整表格结构；标题和表外说明不计入表内，cells须包含所有单元格（含空白），坐标从0开始，合并单元格仅记录一次。",
+      "structure_scope": "full"
+    },
+    {
+      "id": "ss-measurement-clean-q2",
+      "file_name": "ss-measurement-clean.png",
+      "table_hint": "分区温度记录（单位：摄氏度）",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《分区温度记录（单位：摄氏度）》。仅恢复表头行结构；cells只输出表头，row_count和col_count仍填写整张目标表的逻辑尺寸。",
+      "structure_scope": "partial"
+    },
+    {
+      "id": "ss-measurement-clean-q3",
+      "file_name": "ss-measurement-clean.png",
+      "table_hint": "分区温度记录（单位：摄氏度）",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "只依据《分区温度记录（单位：摄氏度）》。编号073的测量次数是多少？只输出数值，不保留多余的小数末尾零。"
+    },
+    {
+      "id": "ss-measurement-clean-q4",
+      "file_name": "ss-measurement-clean.png",
+      "table_hint": "分区温度记录（单位：摄氏度）",
+      "question_type": "extract",
+      "answer_format": "json_array",
+      "question": "只依据《分区温度记录（单位：摄氏度）》。依次提取编号071和072的编号、读数；两个字段均用字符串，保留原始读数格式，空白写空字符串。"
+    },
+    {
+      "id": "ss-measurement-clean-q5",
+      "file_name": "ss-measurement-clean.png",
+      "table_hint": "分区温度记录（单位：摄氏度）",
+      "question_type": "thinking",
+      "answer_format": "number",
+      "question": "只依据《分区温度记录（单位：摄氏度）》。编号073的读数加上修正值是多少摄氏度？只输出数值，不保留多余的小数末尾零。"
+    },
+    {
+      "id": "ss-inspection-clean-q1",
+      "file_name": "ss-inspection-clean.png",
+      "table_hint": "检验台账",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《检验台账》。恢复完整表格结构；标题和表外说明不计入表内，cells须包含所有单元格（含空白），坐标从0开始，合并单元格仅记录一次。",
+      "structure_scope": "full"
+    },
+    {
+      "id": "ss-inspection-clean-q2",
+      "file_name": "ss-inspection-clean.png",
+      "table_hint": "检验台账",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《检验台账》。仅恢复表头行结构；cells只输出表头，row_count和col_count仍填写整张目标表的逻辑尺寸。",
+      "structure_scope": "partial"
+    },
+    {
+      "id": "ss-inspection-clean-q3",
+      "file_name": "ss-inspection-clean.png",
+      "table_hint": "检验台账",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "只依据《检验台账》。批号X-093的抽样数是多少？只输出数值，不保留多余的小数末尾零。"
+    },
+    {
+      "id": "ss-inspection-clean-q4",
+      "file_name": "ss-inspection-clean.png",
+      "table_hint": "检验台账",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "只依据《检验台账》。批号X-092的判定是什么？"
+    },
+    {
+      "id": "ss-inspection-clean-q5",
+      "file_name": "ss-inspection-clean.png",
+      "table_hint": "检验台账",
+      "question_type": "thinking",
+      "answer_format": "number",
+      "question": "只依据《检验台账》。四个批号的抽样数合计是多少？只输出数值，不保留多余的小数末尾零。"
+    }
+  ]
+}

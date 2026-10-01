@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "837",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "entry_id=5 对应 id 45–55 共 11 行，A 正确"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 309,
+    "completion_tokens_details": {
+      "reasoning_tokens": 258,
+      "text_tokens": 50
+    },
+    "prompt_tokens": 591,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 242,
+      "text_tokens": 349
+    },
+    "total_tokens": 900
+  },
+  "requestId": "chatcmpl-f110cd88-0d6c-9a44-8546-6e4d284cb147",
+  "model": "qwen3.8-max-0902"
+}

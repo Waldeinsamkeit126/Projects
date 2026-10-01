@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "id": "512",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原表左上单元格为两行文字且无斜杠，A无多余'/'更贴字面"
+    },
+    {
+      "id": "518",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "数值均正确；B以数组元素顺序保留题目要求顺序，每字段一个扁平对象，符合json_array顺序要求"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 6053,
+    "completion_tokens_details": {
+      "reasoning_tokens": 5960,
+      "text_tokens": 92
+    },
+    "prompt_tokens": 699,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 134,
+      "text_tokens": 565
+    },
+    "total_tokens": 6752
+  },
+  "requestId": "chatcmpl-d8061bcc-6dba-90ff-839a-c7f3f73ab363",
+  "model": "qwen3.8-max-0902"
+}

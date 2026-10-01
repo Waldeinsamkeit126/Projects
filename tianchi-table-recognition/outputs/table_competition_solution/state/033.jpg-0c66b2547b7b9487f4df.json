@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\033.jpg",
+  "results": [
+    {
+      "id": "319",
+      "source_file": "033.jpg",
+      "resolved_file": "033.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "不动产权信息表",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "320",
+      "source_file": "033.jpg",
+      "resolved_file": "033.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "321",
+      "source_file": "033.jpg",
+      "resolved_file": "033.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "322",
+      "source_file": "033.jpg",
+      "resolved_file": "033.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "权利人",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "323",
+      "source_file": "033.jpg",
+      "resolved_file": "033.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "（右侧无明确表头，为值列）",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "324",
+      "source_file": "033.jpg",
+      "resolved_file": "033.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "共同共有",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "325",
+      "source_file": "033.jpg",
+      "resolved_file": "033.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "国有建设用地使用权/房屋所有权",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "326",
+      "source_file": "033.jpg",
+      "resolved_file": "033.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "出让/商品房",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "327",
+      "source_file": "033.jpg",
+      "resolved_file": "033.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "城镇住宅用地/成套住宅",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "328",
+      "source_file": "033.jpg",
+      "resolved_file": "033.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"共有宗地面积\":\"46768.6m²\",\"房屋建筑面积\":\"116.03m²\",\"使用期限\":\"2077年08月31日止\",\"表格方向\":\"竖排\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

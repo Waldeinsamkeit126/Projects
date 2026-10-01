@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\065.pdf",
+  "results": [
+    {
+      "id": "619",
+      "source_file": "065.pdf",
+      "resolved_file": "065.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":10,\"col_count\":6,\"cells\":[{\"text\":\"盈利预测和财务指标\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"2022\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"2023\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"2024E\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"2025E\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"2026E\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "620",
+      "source_file": "065.pdf",
+      "resolved_file": "065.pdf",
+      "model": "qwen3.8-max",
+      "answer": "21021",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "621",
+      "source_file": "065.pdf",
+      "resolved_file": "065.pdf",
+      "model": "qwen3.8-max",
+      "answer": "2764",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "622",
+      "source_file": "065.pdf",
+      "resolved_file": "065.pdf",
+      "model": "qwen3.8-max",
+      "answer": "0.63",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "623",
+      "source_file": "065.pdf",
+      "resolved_file": "065.pdf",
+      "model": "qwen3.8-max",
+      "answer": "15.5%",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "624",
+      "source_file": "065.pdf",
+      "resolved_file": "065.pdf",
+      "model": "qwen3.8-max",
+      "answer": "8.4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "625",
+      "source_file": "065.pdf",
+      "resolved_file": "065.pdf",
+      "model": "qwen3.8-max",
+      "answer": "6.50- 7.00元",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "626",
+      "source_file": "065.pdf",
+      "resolved_file": "065.pdf",
+      "model": "qwen3.8-max",
+      "answer": "3580",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "627",
+      "source_file": "065.pdf",
+      "resolved_file": "065.pdf",
+      "model": "qwen3.8-max",
+      "answer": "8163",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "628",
+      "source_file": "065.pdf",
+      "resolved_file": "065.pdf",
+      "model": "qwen3.8-max",
+      "answer": "2023",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

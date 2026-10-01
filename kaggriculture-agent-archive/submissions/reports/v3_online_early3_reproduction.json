@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v3_wheat_cowsheep\\main.py",
+    "games": 3,
+    "wins": 3,
+    "mean_score": 107483.0,
+    "mean_margin": 72132.33333333333,
+    "mean_score_delta": 0.0,
+    "mean_margin_delta": 0.0,
+    "median_margin_delta": 0.0,
+    "max_action_seconds": 0.11814129998674616,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89480633,
+      "opponent": "Kendamarron",
+      "seed": 1779362906,
+      "position": 0,
+      "ours": 106077.0,
+      "theirs": 35085.0,
+      "margin": 70992.0,
+      "win": true,
+      "original_ours": 106077.0,
+      "original_theirs": 35085.0,
+      "original_margin": 70992.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.710194399987813,
+      "max_action_seconds": 0.06680620001861826,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89480102,
+      "opponent": "`",
+      "seed": 428141925,
+      "position": 0,
+      "ours": 124314.0,
+      "theirs": 38271.0,
+      "margin": 86043.0,
+      "win": true,
+      "original_ours": 124314.0,
+      "original_theirs": 38271.0,
+      "original_margin": 86043.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.8673265999823343,
+      "max_action_seconds": 0.0032147000019904226,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89481170,
+      "opponent": "Vu Tran Hoang",
+      "seed": 906097251,
+      "position": 0,
+      "ours": 92058.0,
+      "theirs": 32696.0,
+      "margin": 59362.0,
+      "win": true,
+      "original_ours": 92058.0,
+      "original_theirs": 32696.0,
+      "original_margin": 59362.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 4.515196799999103,
+      "max_action_seconds": 0.11814129998674616,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

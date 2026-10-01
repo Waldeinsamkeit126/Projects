@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "agent": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-01\\k\\outputs\\kaggriculture_agent\\v2_hybrid\\main.py",
+    "games": 3,
+    "wins": 1,
+    "mean_score": 88594.33333333333,
+    "mean_margin": 20037.666666666668,
+    "mean_score_delta": 0.0,
+    "mean_margin_delta": 0.0,
+    "median_margin_delta": 0.0,
+    "max_action_seconds": 0.1337663999875076,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89465523,
+      "opponent": "Dmitry Larko",
+      "seed": 1038480784,
+      "position": 1,
+      "ours": 87342.0,
+      "theirs": 91648.0,
+      "margin": -4306.0,
+      "win": false,
+      "original_ours": 87342.0,
+      "original_theirs": 91648.0,
+      "original_margin": -4306.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 6.203742999990936,
+      "max_action_seconds": 0.004247000004397705,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89449350,
+      "opponent": "SanggeunParrk",
+      "seed": 1563819567,
+      "position": 0,
+      "ours": 125799.0,
+      "theirs": 3000.0,
+      "margin": 122799.0,
+      "win": true,
+      "original_ours": 125799.0,
+      "original_theirs": 3000.0,
+      "original_margin": 122799.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 5.927267400023993,
+      "max_action_seconds": 0.1310423999966588,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89422474,
+      "opponent": "yunus_bayram_kagle",
+      "seed": 1324675619,
+      "position": 0,
+      "ours": 52642.0,
+      "theirs": 111022.0,
+      "margin": -58380.0,
+      "win": false,
+      "original_ours": 52642.0,
+      "original_theirs": 111022.0,
+      "original_margin": -58380.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 8.604975599999307,
+      "max_action_seconds": 0.1337663999875076,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

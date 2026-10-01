@@ -1,0 +1,3614 @@
+{
+  "player": "KAKA Minishijie",
+  "episode_count": 11,
+  "wins": 6,
+  "losses": 3,
+  "ties": 2,
+  "groups": {
+    "all": {
+      "games": 11,
+      "player_reward_mean": 94563.545,
+      "opponent_reward_mean": 86585.364,
+      "margin_mean": 7978.182,
+      "day15_money_mean": 20500.364,
+      "day15_strawberry_mean": 32.909,
+      "day15_cows_mean": 7.909,
+      "day15_sheep_mean": 6.455
+    },
+    "win": {
+      "games": 6,
+      "player_reward_mean": 109762.5,
+      "opponent_reward_mean": 94269.833,
+      "margin_mean": 15492.667,
+      "day15_money_mean": 22476.667,
+      "day15_strawberry_mean": 33.5,
+      "day15_cows_mean": 8.0,
+      "day15_sheep_mean": 7.0
+    },
+    "loss": {
+      "games": 3,
+      "player_reward_mean": 57593.667,
+      "opponent_reward_mean": 59325.667,
+      "margin_mean": -1732.0,
+      "day15_money_mean": 19882.667,
+      "day15_strawberry_mean": 32.333,
+      "day15_cows_mean": 9.667,
+      "day15_sheep_mean": 3.667
+    },
+    "high": {
+      "games": 5,
+      "player_reward_mean": 105350.6,
+      "opponent_reward_mean": 92356.6,
+      "margin_mean": 12994.0,
+      "day15_money_mean": 17637.2,
+      "day15_strawberry_mean": 33.2,
+      "day15_cows_mean": 5.6,
+      "day15_sheep_mean": 9.6
+    },
+    "low": {
+      "games": 6,
+      "player_reward_mean": 85574.333,
+      "opponent_reward_mean": 81776.0,
+      "margin_mean": 3798.333,
+      "day15_money_mean": 22886.333,
+      "day15_strawberry_mean": 32.667,
+      "day15_cows_mean": 9.833,
+      "day15_sheep_mean": 3.833
+    }
+  },
+  "episodes": [
+    {
+      "episode_id": 93519678,
+      "seed": 817128263,
+      "seat": 0,
+      "opponent": "AkiraOnojp",
+      "result": "win",
+      "player_reward": 115357.0,
+      "opponent_reward": 105223.0,
+      "margin": 10134.0,
+      "branch": "low",
+      "shops": [
+        "PIZZA_SHOP",
+        "SMOOTHIE_SHOP"
+      ],
+      "player": {
+        "0": {
+          "money": 16.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 58.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 8.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 16144.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "15": {
+          "money": 29367.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 16,
+            "MELON": 8,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 63595.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 24,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 90560.0,
+          "hands": 11,
+          "land": 3,
+          "crops": {
+            "WHEAT": 33,
+            "MELON": 0,
+            "STRAWBERRY": 22,
+            "CARROT": 3,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 115357.0,
+          "hands": 8,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 4,
+          "uncared": 14
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 9.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 5,
+            "MELON": 5,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 1,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "5": {
+          "money": 12.0,
+          "hands": 3,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 5,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 805.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 10,
+            "MELON": 5,
+            "STRAWBERRY": 18,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 6407.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 20086.0,
+          "hands": 9,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 36,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "20": {
+          "money": 56738.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 26,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "25": {
+          "money": 79837.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 46,
+            "MELON": 0,
+            "STRAWBERRY": 16,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 1
+        },
+        "29": {
+          "money": 105223.0,
+          "hands": 10,
+          "land": 3,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 8,
+          "uncared": 10
+        }
+      }
+    },
+    {
+      "episode_id": 93527606,
+      "seed": 2137725169,
+      "seat": 1,
+      "opponent": "Jean-Louis Roy",
+      "result": "loss",
+      "player_reward": 56970.0,
+      "opponent_reward": 61145.0,
+      "margin": -4175.0,
+      "branch": "low",
+      "shops": [
+        "PET_CAFE",
+        "SMOOTHIE_SHOP"
+      ],
+      "player": {
+        "0": {
+          "money": 23.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 41.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 12.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 15040.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "15": {
+          "money": 20983.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 16,
+            "MELON": 8,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 32976.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 24,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 48297.0,
+          "hands": 11,
+          "land": 3,
+          "crops": {
+            "WHEAT": 33,
+            "MELON": 0,
+            "STRAWBERRY": 22,
+            "CARROT": 3,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 56970.0,
+          "hands": 8,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 4,
+          "uncared": 14
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 23.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 41.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 21.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 15140.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "15": {
+          "money": 22300.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 16,
+            "MELON": 8,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 34387.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 24,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 51270.0,
+          "hands": 11,
+          "land": 3,
+          "crops": {
+            "WHEAT": 33,
+            "MELON": 0,
+            "STRAWBERRY": 22,
+            "CARROT": 3,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 61145.0,
+          "hands": 8,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 4,
+          "uncared": 14
+        }
+      }
+    },
+    {
+      "episode_id": 93534864,
+      "seed": 1177179166,
+      "seat": 1,
+      "opponent": "ziliangCok",
+      "result": "win",
+      "player_reward": 89648.0,
+      "opponent_reward": 55270.0,
+      "margin": 34378.0,
+      "branch": "high",
+      "shops": [
+        "YARN_STORE",
+        "BAKERY"
+      ],
+      "player": {
+        "0": {
+          "money": 16.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 43.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 231.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 8,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "10": {
+          "money": 16112.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 8,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 6,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 18494.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 17,
+            "MELON": 8,
+            "STRAWBERRY": 34,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 10,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 44332.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 35,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 12,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 68598.0,
+          "hands": 11,
+          "land": 4,
+          "crops": {
+            "WHEAT": 29,
+            "MELON": 0,
+            "STRAWBERRY": 20,
+            "CARROT": 1,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 12,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 89648.0,
+          "hands": 8,
+          "land": 4,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 1,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 8,
+            "GOOSE": 0
+          },
+          "unfed": 5,
+          "uncared": 14
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 9.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 5,
+            "MELON": 5,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 1,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "5": {
+          "money": 17.0,
+          "hands": 3,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 5,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 1693.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 10,
+            "MELON": 5,
+            "STRAWBERRY": 18,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 8257.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 18108.0,
+          "hands": 9,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 36,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "20": {
+          "money": 29869.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 26,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "25": {
+          "money": 36534.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 46,
+            "MELON": 0,
+            "STRAWBERRY": 16,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "29": {
+          "money": 55270.0,
+          "hands": 10,
+          "land": 3,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 8,
+          "uncared": 10
+        }
+      }
+    },
+    {
+      "episode_id": 93535662,
+      "seed": 2028360649,
+      "seat": 1,
+      "opponent": "Nitesh Ranjan Singh",
+      "result": "win",
+      "player_reward": 126993.0,
+      "opponent_reward": 114096.0,
+      "margin": 12897.0,
+      "branch": "high",
+      "shops": [
+        "BRUNCH_SPOT",
+        "YARN_STORE"
+      ],
+      "player": {
+        "0": {
+          "money": 16.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 58.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 14.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 8,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "10": {
+          "money": 15762.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 8,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 6,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 19153.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 17,
+            "MELON": 8,
+            "STRAWBERRY": 34,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 10,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 54362.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 35,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 12,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 96053.0,
+          "hands": 11,
+          "land": 4,
+          "crops": {
+            "WHEAT": 29,
+            "MELON": 0,
+            "STRAWBERRY": 20,
+            "CARROT": 1,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 12,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 126993.0,
+          "hands": 8,
+          "land": 4,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 1,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 8,
+            "GOOSE": 0
+          },
+          "unfed": 5,
+          "uncared": 14
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 9.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 5,
+            "MELON": 5,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 1,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "5": {
+          "money": 12.0,
+          "hands": 3,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 5,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 1090.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 10,
+            "MELON": 5,
+            "STRAWBERRY": 18,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 7450.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 18687.0,
+          "hands": 9,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 36,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "20": {
+          "money": 50169.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 26,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "25": {
+          "money": 86861.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 46,
+            "MELON": 0,
+            "STRAWBERRY": 16,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "29": {
+          "money": 114096.0,
+          "hands": 10,
+          "land": 3,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 8,
+          "uncared": 10
+        }
+      }
+    },
+    {
+      "episode_id": 93537175,
+      "seed": 309916521,
+      "seat": 0,
+      "opponent": "groots",
+      "result": "tie",
+      "player_reward": 112600.0,
+      "opponent_reward": 112600.0,
+      "margin": 0.0,
+      "branch": "high",
+      "shops": [
+        "SMOOTHIE_SHOP",
+        "YARN_STORE"
+      ],
+      "player": {
+        "0": {
+          "money": 23.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 41.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 6.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 18,
+            "STRAWBERRY": 6,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "10": {
+          "money": 15266.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 8,
+            "MELON": 6,
+            "STRAWBERRY": 9,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 5,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 17041.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 17,
+            "MELON": 6,
+            "STRAWBERRY": 32,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 9,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 47560.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 35,
+            "MELON": 0,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 11,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 86701.0,
+          "hands": 11,
+          "land": 4,
+          "crops": {
+            "WHEAT": 28,
+            "MELON": 0,
+            "STRAWBERRY": 20,
+            "CARROT": 1,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 11,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 112600.0,
+          "hands": 8,
+          "land": 4,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 1,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 8,
+            "GOOSE": 0
+          },
+          "unfed": 5,
+          "uncared": 13
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 23.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 41.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 6.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 18,
+            "STRAWBERRY": 6,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "10": {
+          "money": 15266.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 8,
+            "MELON": 6,
+            "STRAWBERRY": 9,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 5,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 17041.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 17,
+            "MELON": 6,
+            "STRAWBERRY": 32,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 9,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 47560.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 35,
+            "MELON": 0,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 11,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 86701.0,
+          "hands": 11,
+          "land": 4,
+          "crops": {
+            "WHEAT": 29,
+            "MELON": 0,
+            "STRAWBERRY": 20,
+            "CARROT": 1,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 11,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 112600.0,
+          "hands": 8,
+          "land": 4,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 1,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 8,
+            "GOOSE": 0
+          },
+          "unfed": 5,
+          "uncared": 13
+        }
+      }
+    },
+    {
+      "episode_id": 93543666,
+      "seed": 1661245691,
+      "seat": 1,
+      "opponent": "Benjamin H Pepper",
+      "result": "win",
+      "player_reward": 101269.0,
+      "opponent_reward": 83574.0,
+      "margin": 17695.0,
+      "branch": "high",
+      "shops": [
+        "YARN_STORE",
+        "FARMERS_MARKET"
+      ],
+      "player": {
+        "0": {
+          "money": 16.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 43.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 231.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 8,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "10": {
+          "money": 16113.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 8,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 6,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 19543.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 17,
+            "MELON": 8,
+            "STRAWBERRY": 34,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 10,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 53034.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 35,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 12,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 85680.0,
+          "hands": 11,
+          "land": 4,
+          "crops": {
+            "WHEAT": 29,
+            "MELON": 0,
+            "STRAWBERRY": 20,
+            "CARROT": 1,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 12,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 101269.0,
+          "hands": 8,
+          "land": 4,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 1,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 8,
+            "GOOSE": 0
+          },
+          "unfed": 5,
+          "uncared": 14
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 9.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 5,
+            "MELON": 5,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 1,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "5": {
+          "money": 17.0,
+          "hands": 3,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 5,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 1693.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 10,
+            "MELON": 5,
+            "STRAWBERRY": 18,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 8527.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 7,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 20526.0,
+          "hands": 9,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 36,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 7,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 44745.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 26,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 7,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "25": {
+          "money": 66764.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 46,
+            "MELON": 0,
+            "STRAWBERRY": 16,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "29": {
+          "money": 83574.0,
+          "hands": 10,
+          "land": 3,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 8,
+          "uncared": 10
+        }
+      }
+    },
+    {
+      "episode_id": 93543682,
+      "seed": 1310099637,
+      "seat": 0,
+      "opponent": "Jiajun HAN",
+      "result": "win",
+      "player_reward": 123932.0,
+      "opponent_reward": 108809.0,
+      "margin": 15123.0,
+      "branch": "low",
+      "shops": [
+        "SMOOTHIE_SHOP",
+        "BAKERY"
+      ],
+      "player": {
+        "0": {
+          "money": 16.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 43.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 4.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 16053.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "15": {
+          "money": 26698.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 16,
+            "MELON": 8,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 58062.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 24,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 98891.0,
+          "hands": 11,
+          "land": 3,
+          "crops": {
+            "WHEAT": 33,
+            "MELON": 0,
+            "STRAWBERRY": 22,
+            "CARROT": 3,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 123932.0,
+          "hands": 8,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 4,
+          "uncared": 14
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 9.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 5,
+            "MELON": 5,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 1,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "5": {
+          "money": 17.0,
+          "hands": 3,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 5,
+            "STRAWBERRY": 5,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 809.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 5,
+            "STRAWBERRY": 16,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 5656.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 12,
+            "MELON": 12,
+            "STRAWBERRY": 29,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 16154.0,
+          "hands": 9,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 34,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "20": {
+          "money": 49520.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 26,
+            "MELON": 0,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "25": {
+          "money": 86532.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 46,
+            "MELON": 0,
+            "STRAWBERRY": 16,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 1
+        },
+        "29": {
+          "money": 108809.0,
+          "hands": 10,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 8,
+          "uncared": 12
+        }
+      }
+    },
+    {
+      "episode_id": 93559725,
+      "seed": 1114282514,
+      "seat": 1,
+      "opponent": "Zhao Liying",
+      "result": "loss",
+      "player_reward": 68528.0,
+      "opponent_reward": 69117.0,
+      "margin": -589.0,
+      "branch": "low",
+      "shops": [
+        "BAKERY",
+        "BRUNCH_SPOT"
+      ],
+      "player": {
+        "0": {
+          "money": 23.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 56.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 11.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 14722.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "15": {
+          "money": 19750.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 16,
+            "MELON": 8,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 34418.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 24,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 55568.0,
+          "hands": 11,
+          "land": 3,
+          "crops": {
+            "WHEAT": 33,
+            "MELON": 0,
+            "STRAWBERRY": 22,
+            "CARROT": 3,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 68528.0,
+          "hands": 8,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 4,
+          "uncared": 14
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 23.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 56.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 11.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 14722.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "15": {
+          "money": 19793.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 16,
+            "MELON": 8,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 34504.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 24,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 55723.0,
+          "hands": 11,
+          "land": 3,
+          "crops": {
+            "WHEAT": 33,
+            "MELON": 0,
+            "STRAWBERRY": 22,
+            "CARROT": 3,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 69117.0,
+          "hands": 8,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 4,
+          "uncared": 14
+        }
+      }
+    },
+    {
+      "episode_id": 93568853,
+      "seed": 1279406488,
+      "seat": 0,
+      "opponent": "Michael Timbs",
+      "result": "loss",
+      "player_reward": 47283.0,
+      "opponent_reward": 47715.0,
+      "margin": -432.0,
+      "branch": "low",
+      "shops": [
+        "BAKERY",
+        "PET_CAFE"
+      ],
+      "player": {
+        "0": {
+          "money": 16.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 37.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 16.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 18,
+            "STRAWBERRY": 5,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "10": {
+          "money": 15334.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 6,
+            "STRAWBERRY": 9,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 7,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "15": {
+          "money": 18915.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 16,
+            "MELON": 6,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 9,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 30574.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 24,
+            "MELON": 0,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 9,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 36876.0,
+          "hands": 11,
+          "land": 3,
+          "crops": {
+            "WHEAT": 33,
+            "MELON": 0,
+            "STRAWBERRY": 22,
+            "CARROT": 3,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 9,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 47283.0,
+          "hands": 8,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 9,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 4,
+          "uncared": 12
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 9.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 5,
+            "MELON": 5,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 1,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "5": {
+          "money": 356.0,
+          "hands": 3,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 5,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 754.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 5,
+            "STRAWBERRY": 17,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 5546.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 30,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 11496.0,
+          "hands": 9,
+          "land": 3,
+          "crops": {
+            "WHEAT": 13,
+            "MELON": 12,
+            "STRAWBERRY": 35,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "20": {
+          "money": 24185.0,
+          "hands": 14,
+          "land": 3,
+          "crops": {
+            "WHEAT": 26,
+            "MELON": 0,
+            "STRAWBERRY": 32,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 1
+        },
+        "25": {
+          "money": 30094.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 46,
+            "MELON": 0,
+            "STRAWBERRY": 16,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "29": {
+          "money": 47715.0,
+          "hands": 10,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 8,
+          "uncared": 11
+        }
+      }
+    },
+    {
+      "episode_id": 93580482,
+      "seed": 1741374248,
+      "seat": 0,
+      "opponent": "HKmgikao",
+      "result": "tie",
+      "player_reward": 96243.0,
+      "opponent_reward": 96243.0,
+      "margin": 0.0,
+      "branch": "high",
+      "shops": [
+        "FARMERS_MARKET",
+        "YARN_STORE"
+      ],
+      "player": {
+        "0": {
+          "money": 23.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 56.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 9.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 18,
+            "STRAWBERRY": 6,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "10": {
+          "money": 14627.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 8,
+            "MELON": 6,
+            "STRAWBERRY": 9,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 5,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 13955.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 17,
+            "MELON": 6,
+            "STRAWBERRY": 32,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 9,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 40531.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 35,
+            "MELON": 0,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 11,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 73979.0,
+          "hands": 11,
+          "land": 4,
+          "crops": {
+            "WHEAT": 29,
+            "MELON": 0,
+            "STRAWBERRY": 20,
+            "CARROT": 1,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 11,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 96243.0,
+          "hands": 8,
+          "land": 4,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 1,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 8,
+            "GOOSE": 0
+          },
+          "unfed": 5,
+          "uncared": 13
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 23.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 56.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 9.0,
+          "hands": 7,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 18,
+            "STRAWBERRY": 6,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "10": {
+          "money": 14627.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 8,
+            "MELON": 6,
+            "STRAWBERRY": 9,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 5,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "15": {
+          "money": 13955.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 17,
+            "MELON": 6,
+            "STRAWBERRY": 32,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 9,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 40531.0,
+          "hands": 12,
+          "land": 4,
+          "crops": {
+            "WHEAT": 35,
+            "MELON": 0,
+            "STRAWBERRY": 31,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 11,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 73979.0,
+          "hands": 11,
+          "land": 4,
+          "crops": {
+            "WHEAT": 28,
+            "MELON": 0,
+            "STRAWBERRY": 20,
+            "CARROT": 1,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 11,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 96243.0,
+          "hands": 8,
+          "land": 4,
+          "crops": {
+            "WHEAT": 0,
+            "MELON": 0,
+            "STRAWBERRY": 1,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 5,
+            "SHEEP": 8,
+            "GOOSE": 0
+          },
+          "unfed": 5,
+          "uncared": 13
+        }
+      }
+    },
+    {
+      "episode_id": 93590168,
+      "seed": 1557599489,
+      "seat": 0,
+      "opponent": "WeAreFarmers",
+      "result": "win",
+      "player_reward": 101376.0,
+      "opponent_reward": 98647.0,
+      "margin": 2729.0,
+      "branch": "low",
+      "shops": [
+        "FARMERS_MARKET",
+        "SMOOTHIE_SHOP"
+      ],
+      "player": {
+        "0": {
+          "money": 23.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 56.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 13.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 15031.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "15": {
+          "money": 21605.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 16,
+            "MELON": 8,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 35757.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 24,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 76121.0,
+          "hands": 11,
+          "land": 3,
+          "crops": {
+            "WHEAT": 33,
+            "MELON": 0,
+            "STRAWBERRY": 22,
+            "CARROT": 3,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 101376.0,
+          "hands": 8,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 4,
+          "uncared": 14
+        }
+      },
+      "opponent_state": {
+        "0": {
+          "money": 23.0,
+          "hands": 5,
+          "land": 1,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 2
+        },
+        "5": {
+          "money": 56.0,
+          "hands": 4,
+          "land": 1,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 12,
+            "STRAWBERRY": 4,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 4,
+            "SHEEP": 2,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "7": {
+          "money": 13.0,
+          "hands": 8,
+          "land": 2,
+          "crops": {
+            "WHEAT": 3,
+            "MELON": 20,
+            "STRAWBERRY": 7,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 6,
+            "SHEEP": 3,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "10": {
+          "money": 15031.0,
+          "hands": 11,
+          "land": 2,
+          "crops": {
+            "WHEAT": 9,
+            "MELON": 8,
+            "STRAWBERRY": 11,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 8,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 1,
+          "uncared": 0
+        },
+        "15": {
+          "money": 22482.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 16,
+            "MELON": 8,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "20": {
+          "money": 37540.0,
+          "hands": 12,
+          "land": 3,
+          "crops": {
+            "WHEAT": 24,
+            "MELON": 0,
+            "STRAWBERRY": 33,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "25": {
+          "money": 73907.0,
+          "hands": 11,
+          "land": 3,
+          "crops": {
+            "WHEAT": 31,
+            "MELON": 0,
+            "STRAWBERRY": 20,
+            "CARROT": 3,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 0,
+          "uncared": 0
+        },
+        "29": {
+          "money": 98647.0,
+          "hands": 8,
+          "land": 3,
+          "crops": {
+            "WHEAT": 1,
+            "MELON": 0,
+            "STRAWBERRY": 0,
+            "CARROT": 0,
+            "TOMATO": 0
+          },
+          "animals": {
+            "COW": 10,
+            "SHEEP": 4,
+            "GOOSE": 0
+          },
+          "unfed": 7,
+          "uncared": 14
+        }
+      }
+    }
+  ]
+}

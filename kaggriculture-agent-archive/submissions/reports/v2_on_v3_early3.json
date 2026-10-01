@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v2_hybrid\\main.py",
+    "games": 3,
+    "wins": 3,
+    "mean_score": 97674.33333333333,
+    "mean_margin": 62980.333333333336,
+    "mean_score_delta": -9808.666666666666,
+    "mean_margin_delta": -9152.0,
+    "median_margin_delta": -12713.0,
+    "max_action_seconds": 0.06295339998905547,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89480633,
+      "opponent": "Kendamarron",
+      "seed": 1779362906,
+      "position": 0,
+      "ours": 93614.0,
+      "theirs": 35335.0,
+      "margin": 58279.0,
+      "win": true,
+      "original_ours": 106077.0,
+      "original_theirs": 35085.0,
+      "original_margin": 70992.0,
+      "score_delta": -12463.0,
+      "margin_delta": -12713.0,
+      "elapsed_seconds": 3.737498800008325,
+      "max_action_seconds": 0.06295339998905547,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89480102,
+      "opponent": "`",
+      "seed": 428141925,
+      "position": 0,
+      "ours": 108169.0,
+      "theirs": 37823.0,
+      "margin": 70346.0,
+      "win": true,
+      "original_ours": 124314.0,
+      "original_theirs": 38271.0,
+      "original_margin": 86043.0,
+      "score_delta": -16145.0,
+      "margin_delta": -15697.0,
+      "elapsed_seconds": 3.963458099984564,
+      "max_action_seconds": 0.0029771999979857355,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89481170,
+      "opponent": "Vu Tran Hoang",
+      "seed": 906097251,
+      "position": 0,
+      "ours": 91240.0,
+      "theirs": 30924.0,
+      "margin": 60316.0,
+      "win": true,
+      "original_ours": 92058.0,
+      "original_theirs": 32696.0,
+      "original_margin": 59362.0,
+      "score_delta": -818.0,
+      "margin_delta": 954.0,
+      "elapsed_seconds": 4.669134599971585,
+      "max_action_seconds": 0.0034281999978702515,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

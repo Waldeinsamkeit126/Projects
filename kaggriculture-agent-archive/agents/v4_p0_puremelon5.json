@@ -1,0 +1,121 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v4_melon84_cowsheep\\main.py",
+    "games": 5,
+    "wins": 4,
+    "mean_score": 92526.6,
+    "mean_margin": 28783.4,
+    "mean_score_delta": 3434.2,
+    "mean_margin_delta": 12819.6,
+    "median_margin_delta": 7383.0,
+    "max_action_seconds": 0.09585649997461587,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89375430,
+      "opponent": "Koichi HIRAOKA",
+      "seed": 646370722,
+      "position": 0,
+      "ours": 78311.0,
+      "theirs": 41613.0,
+      "margin": 36698.0,
+      "win": true,
+      "original_ours": 75668.0,
+      "original_theirs": 48097.0,
+      "original_margin": 27571.0,
+      "score_delta": 2643.0,
+      "margin_delta": 9127.0,
+      "elapsed_seconds": 3.5267949999542907,
+      "max_action_seconds": 0.06588069989811629,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89480633,
+      "opponent": "Kendamarron",
+      "seed": 1779362906,
+      "position": 0,
+      "ours": 97113.0,
+      "theirs": 35738.0,
+      "margin": 61375.0,
+      "win": true,
+      "original_ours": 106077.0,
+      "original_theirs": 35085.0,
+      "original_margin": 70992.0,
+      "score_delta": -8964.0,
+      "margin_delta": -9617.0,
+      "elapsed_seconds": 3.3620186999905854,
+      "max_action_seconds": 0.002042299951426685,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89508364,
+      "opponent": "KO Ho Tin",
+      "seed": 812554986,
+      "position": 0,
+      "ours": 104289.0,
+      "theirs": 82282.0,
+      "margin": 22007.0,
+      "win": true,
+      "original_ours": 104289.0,
+      "original_theirs": 82282.0,
+      "original_margin": 22007.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.246008300106041,
+      "max_action_seconds": 0.08837980008684099,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89854099,
+      "opponent": "kreiack",
+      "seed": 154530892,
+      "position": 0,
+      "ours": 66986.0,
+      "theirs": 90117.0,
+      "margin": -23131.0,
+      "win": false,
+      "original_ours": 62361.0,
+      "original_theirs": 92875.0,
+      "original_margin": -30514.0,
+      "score_delta": 4625.0,
+      "margin_delta": 7383.0,
+      "elapsed_seconds": 3.85357840009965,
+      "max_action_seconds": 0.09585649997461587,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90381688,
+      "opponent": "Leon",
+      "seed": 1660141956,
+      "position": 0,
+      "ours": 115934.0,
+      "theirs": 68966.0,
+      "margin": 46968.0,
+      "win": true,
+      "original_ours": 97067.0,
+      "original_theirs": 107304.0,
+      "original_margin": -10237.0,
+      "score_delta": 18867.0,
+      "margin_delta": 57205.0,
+      "elapsed_seconds": 3.749613599968143,
+      "max_action_seconds": 0.0029971000039950013,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

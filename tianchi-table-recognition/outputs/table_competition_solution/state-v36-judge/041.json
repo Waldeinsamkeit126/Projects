@@ -1,0 +1,68 @@
+{
+  "decisions": [
+    {
+      "id": "399",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中可见'Contact area (cm²)'作为表头，B选项文本不存在于图中。"
+    },
+    {
+      "id": "403",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "题目隐含包含两个子表（共4个指标区块），逻辑上最右侧/最后的指标为'Maximum mean pressure (kPa)'。"
+    },
+    {
+      "id": "404",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "数值完全匹配图片内容。"
+    },
+    {
+      "id": "405",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "数值完全匹配图片内容。"
+    },
+    {
+      "id": "406",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "数值完全匹配图片内容，B选项为M1行数据。"
+    },
+    {
+      "id": "407",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "数值完全匹配图片内容。"
+    },
+    {
+      "id": "408",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "提取值正确，且统计数量（2组，3类面罩，4个指标区块）符合图表逻辑。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 7340,
+    "completion_tokens": 6514,
+    "prompt_tokens": 826,
+    "completion_tokens_details": {
+      "reasoning_tokens": 6069,
+      "text_tokens": 444
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 122,
+      "cached_tokens": 0,
+      "text_tokens": 704
+    }
+  },
+  "requestId": "chatcmpl-1de89abc-133e-9083-b0e1-71f5e0644dc0"
+}

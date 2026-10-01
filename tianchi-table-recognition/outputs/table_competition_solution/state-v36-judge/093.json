@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "905",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "题目仅要求提取中间列的 Description，B 答案简洁且无多余字段，A 答案包含了 Variable Names 列，属于多余信息。"
+    },
+    {
+      "id": "908",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "两者语义等价，Yes 首字母大写更符合常规回答规范。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 2624,
+    "completion_tokens": 2040,
+    "prompt_tokens": 584,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1883,
+      "text_tokens": 156
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 202,
+      "cached_tokens": 0,
+      "text_tokens": 382
+    }
+  },
+  "requestId": "chatcmpl-ae2d1d00-eadf-9ad0-bbd0-623ae6749705"
+}

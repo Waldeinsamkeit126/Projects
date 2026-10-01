@@ -1,0 +1,9 @@
+Error: HTTP 429: {"error":{"code":"Throttling.ResourceExhausted","param":null,"message":"An error occurred in model serving, error message is: [Too many requests.]","type":"Throttling.ResourceExhausted"},"id":"chatcmpl-c128e91a-5003-9433-aa5d-8dce33446a23"}
+    at callQwen (file:///C:/Users/zhhzh/Documents/Codex/2026-08-26/x20-x20-2/outputs/table_competition_solution/run.mjs:311:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async processGroup (file:///C:/Users/zhhzh/Documents/Codex/2026-08-26/x20-x20-2/outputs/table_competition_solution/run.mjs:338:17)
+    at async file:///C:/Users/zhhzh/Documents/Codex/2026-08-26/x20-x20-2/outputs/table_competition_solution/run.mjs:548:21
+    at async runner (file:///C:/Users/zhhzh/Documents/Codex/2026-08-26/x20-x20-2/outputs/table_competition_solution/run.mjs:409:24)
+    at async Promise.all (index 0)
+    at async runPool (file:///C:/Users/zhhzh/Documents/Codex/2026-08-26/x20-x20-2/outputs/table_competition_solution/run.mjs:412:3)
+    at async main (file:///C:/Users/zhhzh/Documents/Codex/2026-08-26/x20-x20-2/outputs/table_competition_solution/run.mjs:509:25)

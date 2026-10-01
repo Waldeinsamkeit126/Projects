@@ -1,0 +1,57 @@
+{
+  "testsPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\tests.xlsx",
+  "templatePath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\submit-template.xlsx",
+  "mediaDir": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files",
+  "questionCount": 668,
+  "allQuestionCount": 908,
+  "uniqueResolvedFiles": 65,
+  "questionTypes": {
+    "extract": 487,
+    "thinking": 117,
+    "structure": 64
+  },
+  "answerFormats": {
+    "string": 364,
+    "number": 228,
+    "json_array": 57,
+    "json": 19
+  },
+  "unresolved": [],
+  "filenameCorrections": [],
+  "normalizedQuestionTypes": [],
+  "ignoredSourceAnswerColumn": true,
+  "models": {
+    "pdf": "qwen3.8-max-0902",
+    "image": "qwen3.8-max-0902"
+  },
+  "refreshStructure": false,
+  "enableThinking": true,
+  "includeSources": [
+    "image"
+  ],
+  "includeTypes": [
+    "structure",
+    "extract",
+    "thinking"
+  ],
+  "excludeTypes": [],
+  "baseSubmission": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v37-score-feedback-corrections.xlsx"
+}
+[2/65] CACHE 011.jpg
+[3/65] CACHE 012.jpg
+[1/65] CACHE 010.png
+[4/65] CALL  013.jpg (10 questions)
+[5/65] CACHE 014.jpg
+[6/65] CACHE 015.jpg
+[7/65] CACHE 016.jpg
+[8/65] CACHE 017.jpg
+[9/65] CACHE 018.jpg
+[10/65] CACHE 019.jpg
+[11/65] CACHE 020.png
+[12/65] CACHE 021.jpg
+[13/65] CACHE 022.png
+[14/65] CACHE 023.png
+[15/65] CACHE 024.png
+[16/65] CACHE 025.png
+[17/65] CALL  026.png (10 questions)
+[18/65] CALL  027.webp (10 questions)

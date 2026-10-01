@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "238",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表中不存在'Don't know/refused'和'Frequency once every two years'行，A的数值10位置错误且无对应行，B留空更准确。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 3297,
+    "completion_tokens": 2780,
+    "prompt_tokens": 517,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2676,
+      "text_tokens": 103
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 170,
+      "cached_tokens": 0,
+      "text_tokens": 347
+    }
+  },
+  "requestId": "chatcmpl-5b78ba8b-7f4c-95e2-9c71-a30404aa7f1b"
+}

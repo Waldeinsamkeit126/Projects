@@ -1,0 +1,121 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\indar_force_high\\main.py",
+    "games": 5,
+    "wins": 4,
+    "mean_score": 13936.2,
+    "mean_margin": -4006.4,
+    "mean_score_delta": -64448.4,
+    "mean_margin_delta": 8685.2,
+    "median_margin_delta": 13500.0,
+    "max_action_seconds": 0.07075720000284491,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 90619340,
+      "opponent": "Sriram Reddy19",
+      "seed": 1554015963,
+      "position": 0,
+      "ours": 14509.0,
+      "theirs": 5173.0,
+      "margin": 9336.0,
+      "win": true,
+      "original_ours": 93673.0,
+      "original_theirs": 123041.0,
+      "original_margin": -29368.0,
+      "score_delta": -79164.0,
+      "margin_delta": 38704.0,
+      "elapsed_seconds": 2.316921799996635,
+      "max_action_seconds": 0.020613299995602574,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90620136,
+      "opponent": "George Byne",
+      "seed": 612555146,
+      "position": 0,
+      "ours": 13215.0,
+      "theirs": 74829.0,
+      "margin": -61614.0,
+      "win": false,
+      "original_ours": 44824.0,
+      "original_theirs": 66183.0,
+      "original_margin": -21359.0,
+      "score_delta": -31609.0,
+      "margin_delta": -40255.0,
+      "elapsed_seconds": 2.825501700004679,
+      "max_action_seconds": 0.07075720000284491,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90621712,
+      "opponent": "Lucienne",
+      "seed": 2071226910,
+      "position": 1,
+      "ours": 13354.0,
+      "theirs": 0.0,
+      "margin": 13354.0,
+      "win": true,
+      "original_ours": 90616.0,
+      "original_theirs": 90762.0,
+      "original_margin": -146.0,
+      "score_delta": -77262.0,
+      "margin_delta": 13500.0,
+      "elapsed_seconds": 2.3978712000025553,
+      "max_action_seconds": 0.0004107999993721023,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90622517,
+      "opponent": "Masayoshi Kurihara",
+      "seed": 1397279191,
+      "position": 0,
+      "ours": 14096.0,
+      "theirs": 9523.0,
+      "margin": 4573.0,
+      "win": true,
+      "original_ours": 79838.0,
+      "original_theirs": 81677.0,
+      "original_margin": -1839.0,
+      "score_delta": -65742.0,
+      "margin_delta": 6412.0,
+      "elapsed_seconds": 2.4346958000023733,
+      "max_action_seconds": 0.0003935999993700534,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90624908,
+      "opponent": "dlutwzh",
+      "seed": 1735683356,
+      "position": 0,
+      "ours": 14507.0,
+      "theirs": 188.0,
+      "margin": 14319.0,
+      "win": true,
+      "original_ours": 82972.0,
+      "original_theirs": 93718.0,
+      "original_margin": -10746.0,
+      "score_delta": -68465.0,
+      "margin_delta": 25065.0,
+      "elapsed_seconds": 2.065757599993958,
+      "max_action_seconds": 0.06254709999484476,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

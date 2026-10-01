@@ -1,0 +1,121 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\v8_p1_herd_grid\\main.py",
+    "games": 5,
+    "wins": 3,
+    "mean_score": 95010.8,
+    "mean_margin": 35890.4,
+    "mean_score_delta": 15301.4,
+    "mean_margin_delta": 59996.6,
+    "median_margin_delta": 49996.0,
+    "max_action_seconds": 0.11952280002878979,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 90115707,
+      "opponent": "Ben Hamilton",
+      "seed": 1185750349,
+      "position": 1,
+      "ours": 88121.0,
+      "theirs": 17414.0,
+      "margin": 70707.0,
+      "win": true,
+      "original_ours": 67276.0,
+      "original_theirs": 140936.0,
+      "original_margin": -73660.0,
+      "score_delta": 20845.0,
+      "margin_delta": 144367.0,
+      "elapsed_seconds": 3.2312135999673046,
+      "max_action_seconds": 0.06588539999211207,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90113797,
+      "opponent": "shi_koyo",
+      "seed": 417691915,
+      "position": 1,
+      "ours": 87966.0,
+      "theirs": 101030.0,
+      "margin": -13064.0,
+      "win": false,
+      "original_ours": 76472.0,
+      "original_theirs": 88919.0,
+      "original_margin": -12447.0,
+      "score_delta": 11494.0,
+      "margin_delta": -617.0,
+      "elapsed_seconds": 3.756768000021111,
+      "max_action_seconds": 0.11952280002878979,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90113093,
+      "opponent": "JZ",
+      "seed": 1953349462,
+      "position": 1,
+      "ours": 91757.0,
+      "theirs": 110012.0,
+      "margin": -18255.0,
+      "win": false,
+      "original_ours": 87593.0,
+      "original_theirs": 109891.0,
+      "original_margin": -22298.0,
+      "score_delta": 4164.0,
+      "margin_delta": 4043.0,
+      "elapsed_seconds": 3.828604400041513,
+      "max_action_seconds": 0.09950710000703111,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90111023,
+      "opponent": "sd",
+      "seed": 491461792,
+      "position": 1,
+      "ours": 124188.0,
+      "theirs": 25805.0,
+      "margin": 98383.0,
+      "win": true,
+      "original_ours": 90925.0,
+      "original_theirs": 94736.0,
+      "original_margin": -3811.0,
+      "score_delta": 33263.0,
+      "margin_delta": 102194.0,
+      "elapsed_seconds": 3.8380027000093833,
+      "max_action_seconds": 0.08678080001845956,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90130141,
+      "opponent": "Xiaolei Lian",
+      "seed": 386774802,
+      "position": 1,
+      "ours": 83022.0,
+      "theirs": 41341.0,
+      "margin": 41681.0,
+      "win": true,
+      "original_ours": 76281.0,
+      "original_theirs": 84596.0,
+      "original_margin": -8315.0,
+      "score_delta": 6741.0,
+      "margin_delta": 49996.0,
+      "elapsed_seconds": 3.737474799971096,
+      "max_action_seconds": 0.0021246999967843294,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

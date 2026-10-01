@@ -1,0 +1,10 @@
+{"id":"av-sales-codes","answer":"[\"001\",\"002\"]","valid":true,"model":"qwen3-vl-plus","requestIndex":1,"provenance":"automated-qwen-value-array-candidate","runId":"2026-09-18T15-37-28-691Z-7e0fe97e"}
+{"id":"av-sales-counts","answer":"[3,4]","valid":true,"model":"qwen3-vl-plus","requestIndex":1,"provenance":"automated-qwen-value-array-candidate","runId":"2026-09-18T15-37-28-691Z-7e0fe97e"}
+{"id":"av-sales-row","answer":"[\"001\",3,12.5]","valid":true,"model":"qwen3-vl-plus","requestIndex":1,"provenance":"automated-qwen-value-array-candidate","runId":"2026-09-18T15-37-28-691Z-7e0fe97e"}
+{"id":"av-sales-totals","answer":"[37.5,29]","valid":true,"model":"qwen3-vl-plus","requestIndex":1,"provenance":"automated-qwen-value-array-candidate","runId":"2026-09-18T15-37-28-691Z-7e0fe97e"}
+{"id":"av-sales-prices","answer":"[\"12.50\",\"7.25\"]","valid":true,"model":"qwen3-vl-plus","requestIndex":1,"provenance":"automated-qwen-value-array-candidate","runId":"2026-09-18T15-37-28-691Z-7e0fe97e"}
+{"id":"av-stock-counts","answer":"[0,\"\",18]","valid":true,"model":"qwen3-vl-plus","requestIndex":2,"provenance":"automated-qwen-value-array-candidate","runId":"2026-09-18T15-37-28-691Z-7e0fe97e"}
+{"id":"av-stock-notes","answer":"[\"\",\"未盘点\",\"正常\"]","valid":true,"model":"qwen3-vl-plus","requestIndex":2,"provenance":"automated-qwen-value-array-candidate","runId":"2026-09-18T15-37-28-691Z-7e0fe97e"}
+{"id":"av-stock-region","answer":"[\"东仓\",0,\"\",\"西仓\",\"\",\"未盘点\"]","valid":true,"model":"qwen3-vl-plus","requestIndex":2,"provenance":"automated-qwen-value-array-candidate","runId":"2026-09-18T15-37-28-691Z-7e0fe97e"}
+{"id":"av-stock-positive","answer":"[\"南仓\"]","valid":true,"model":"qwen3-vl-plus","requestIndex":2,"provenance":"automated-qwen-value-array-candidate","runId":"2026-09-18T15-37-28-691Z-7e0fe97e"}
+{"id":"av-stock-flags","answer":"[true,false,true]","valid":true,"model":"qwen3-vl-plus","requestIndex":2,"provenance":"automated-qwen-value-array-candidate","runId":"2026-09-18T15-37-28-691Z-7e0fe97e"}

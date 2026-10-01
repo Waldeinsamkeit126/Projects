@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\043.jpg",
+  "results": [
+    {
+      "id": "409",
+      "source_file": "043.jpg",
+      "resolved_file": "043.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "能力分类表",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "410",
+      "source_file": "043.jpg",
+      "resolved_file": "043.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "411",
+      "source_file": "043.jpg",
+      "resolved_file": "043.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "412",
+      "source_file": "043.jpg",
+      "resolved_file": "043.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "分类",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "413",
+      "source_file": "043.jpg",
+      "resolved_file": "043.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "二级",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "414",
+      "source_file": "043.jpg",
+      "resolved_file": "043.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "415",
+      "source_file": "043.jpg",
+      "resolved_file": "043.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "模型能力、工具平台能力、开放性",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "416",
+      "source_file": "043.jpg",
+      "resolved_file": "043.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "应用广度、应用深度",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "417",
+      "source_file": "043.jpg",
+      "resolved_file": "043.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "应用生态",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "418",
+      "source_file": "043.jpg",
+      "resolved_file": "043.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"工具平台能力二级之一\":\"功能丰富度\",\"开发性二级说明\":\"对用户数据隐私保护、数据安全措施\",\"应用广度说明\":\"已覆盖的行业数\",\"主色\":\"#2BA0B3\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

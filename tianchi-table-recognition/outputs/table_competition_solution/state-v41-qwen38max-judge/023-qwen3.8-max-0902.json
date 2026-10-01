@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "228",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "数值均与表一致；A以单个扁平对象按序包含全部字段，符合json_array扁平对象组织，B拆分为多对象不合规范"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 722,
+    "completion_tokens_details": {
+      "reasoning_tokens": 664,
+      "text_tokens": 57
+    },
+    "prompt_tokens": 863,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 401,
+      "text_tokens": 462
+    },
+    "total_tokens": 1585
+  },
+  "requestId": "chatcmpl-90cfb76b-13c7-9f35-97da-d11eef6ef6a0",
+  "model": "qwen3.8-max-0902"
+}

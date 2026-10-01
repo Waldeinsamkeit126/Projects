@@ -1,0 +1,338 @@
+[
+  [
+    {
+      "unitIndex": 31,
+      "questionIds": [
+        "319",
+        "323"
+      ],
+      "diagnostics": [
+        {
+          "id": "319",
+          "error": "答案为空或不是字符串"
+        },
+        {
+          "id": "323",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    },
+    {
+      "unitIndex": 47,
+      "questionIds": [
+        "479",
+        "484"
+      ],
+      "diagnostics": [
+        {
+          "id": "479",
+          "error": "答案为空或不是字符串"
+        },
+        {
+          "id": "484",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    },
+    {
+      "unitIndex": 86,
+      "questionIds": [
+        "873",
+        "874"
+      ],
+      "diagnostics": [
+        {
+          "id": "873",
+          "error": "答案为空或不是字符串"
+        },
+        {
+          "id": "874",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    },
+    {
+      "unitIndex": 10,
+      "questionIds": [
+        "118"
+      ],
+      "diagnostics": [
+        {
+          "id": "118",
+          "error": "第 2 项不是直接值；空缺用空字符串，不能为 null、对象或嵌套数组"
+        }
+      ],
+      "priorAnswerChars": 66
+    }
+  ],
+  [
+    {
+      "unitIndex": 11,
+      "questionIds": [
+        "126"
+      ],
+      "diagnostics": [
+        {
+          "id": "126",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    },
+    {
+      "unitIndex": 13,
+      "questionIds": [
+        "147"
+      ],
+      "diagnostics": [
+        {
+          "id": "147",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    },
+    {
+      "unitIndex": 18,
+      "questionIds": [
+        "197"
+      ],
+      "diagnostics": [
+        {
+          "id": "197",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    },
+    {
+      "unitIndex": 27,
+      "questionIds": [
+        "279"
+      ],
+      "diagnostics": [
+        {
+          "id": "279",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    }
+  ],
+  [
+    {
+      "unitIndex": 30,
+      "questionIds": [
+        "315"
+      ],
+      "diagnostics": [
+        {
+          "id": "315",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    },
+    {
+      "unitIndex": 34,
+      "questionIds": [
+        "349"
+      ],
+      "diagnostics": [
+        {
+          "id": "349",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    },
+    {
+      "unitIndex": 36,
+      "questionIds": [
+        "378"
+      ],
+      "diagnostics": [
+        {
+          "id": "378",
+          "error": "第 3 项不是直接值；空缺用空字符串，不能为 null、对象或嵌套数组"
+        }
+      ],
+      "priorAnswerChars": 38
+    },
+    {
+      "unitIndex": 37,
+      "questionIds": [
+        "387"
+      ],
+      "diagnostics": [
+        {
+          "id": "387",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    }
+  ],
+  [
+    {
+      "unitIndex": 44,
+      "questionIds": [
+        "456"
+      ],
+      "diagnostics": [
+        {
+          "id": "456",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    },
+    {
+      "unitIndex": 48,
+      "questionIds": [
+        "489"
+      ],
+      "diagnostics": [
+        {
+          "id": "489",
+          "error": "答案为空或不是字符串"
+        }
+      ],
+      "priorAnswerChars": 0
+    },
+    {
+      "unitIndex": 70,
+      "questionIds": [
+        "709"
+      ],
+      "diagnostics": [
+        {
+          "id": "709",
+          "error": "cells[4] 与其他单元格重叠"
+        }
+      ],
+      "priorAnswerChars": 531
+    },
+    {
+      "unitIndex": 77,
+      "questionIds": [
+        "779"
+      ],
+      "diagnostics": [
+        {
+          "id": "779",
+          "error": "cells[5] 超出表格范围"
+        }
+      ],
+      "priorAnswerChars": 388
+    }
+  ],
+  [
+    {
+      "unitIndex": 54,
+      "questionIds": [
+        "549"
+      ],
+      "diagnostics": [
+        {
+          "id": "549",
+          "error": "cells[5] 超出表格范围"
+        }
+      ],
+      "priorAnswerChars": 437
+    }
+  ],
+  [
+    {
+      "unitIndex": 55,
+      "questionIds": [
+        "559"
+      ],
+      "diagnostics": [
+        {
+          "id": "559",
+          "error": "cells[6] 超出表格范围"
+        }
+      ],
+      "priorAnswerChars": 508
+    }
+  ],
+  [
+    {
+      "unitIndex": 59,
+      "questionIds": [
+        "599"
+      ],
+      "diagnostics": [
+        {
+          "id": "599",
+          "error": "cells[9] 超出表格范围"
+        }
+      ],
+      "priorAnswerChars": 757
+    }
+  ],
+  [
+    {
+      "unitIndex": 63,
+      "questionIds": [
+        "639"
+      ],
+      "diagnostics": [
+        {
+          "id": "639",
+          "error": "cells[6] 与其他单元格重叠"
+        }
+      ],
+      "priorAnswerChars": 1417
+    }
+  ],
+  [
+    {
+      "unitIndex": 64,
+      "questionIds": [
+        "649"
+      ],
+      "diagnostics": [
+        {
+          "id": "649",
+          "error": "cells[12] 与其他单元格重叠"
+        }
+      ],
+      "priorAnswerChars": 931
+    }
+  ],
+  [
+    {
+      "unitIndex": 67,
+      "questionIds": [
+        "679"
+      ],
+      "diagnostics": [
+        {
+          "id": "679",
+          "error": "cells[11] 与其他单元格重叠"
+        }
+      ],
+      "priorAnswerChars": 1647
+    }
+  ],
+  [
+    {
+      "unitIndex": 88,
+      "questionIds": [
+        "889"
+      ],
+      "diagnostics": [
+        {
+          "id": "889",
+          "error": "cells[12] 超出表格范围"
+        }
+      ],
+      "priorAnswerChars": 1104
+    }
+  ]
+]

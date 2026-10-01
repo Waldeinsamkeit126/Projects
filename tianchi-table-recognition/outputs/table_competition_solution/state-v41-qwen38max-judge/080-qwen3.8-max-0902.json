@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "776",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "158311-58575=99736，与表中2017 Gross Profit一致"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 176,
+    "completion_tokens_details": {
+      "reasoning_tokens": 120,
+      "text_tokens": 55
+    },
+    "prompt_tokens": 838,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 477,
+      "text_tokens": 361
+    },
+    "total_tokens": 1014
+  },
+  "requestId": "chatcmpl-a8a71a2b-d854-9e56-9666-f55a39542539",
+  "model": "qwen3.8-max-0902"
+}

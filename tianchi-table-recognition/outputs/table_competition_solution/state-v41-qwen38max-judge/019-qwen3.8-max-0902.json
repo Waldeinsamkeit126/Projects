@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "188",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A与图一致：首行Virtuvės čiaupai对应8,0，单位l/min.，页内共3个表格；B的水流值6,0与表格数量2均与图不符"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3418,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3344,
+      "text_tokens": 73
+    },
+    "prompt_tokens": 968,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 496,
+      "text_tokens": 472
+    },
+    "total_tokens": 4386
+  },
+  "requestId": "chatcmpl-5de7f5f6-da18-97e9-80b9-10face1b1940",
+  "model": "qwen3.8-max-0902"
+}

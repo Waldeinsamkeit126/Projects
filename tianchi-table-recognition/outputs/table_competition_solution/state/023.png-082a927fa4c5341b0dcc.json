@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\023.png",
+  "results": [
+    {
+      "id": "219",
+      "source_file": "023.png",
+      "resolved_file": "023.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Malaria indicators by area",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "220",
+      "source_file": "023.png",
+      "resolved_file": "023.png",
+      "model": "qwen3-vl-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "221",
+      "source_file": "023.png",
+      "resolved_file": "023.png",
+      "model": "qwen3-vl-plus",
+      "answer": "9",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "222",
+      "source_file": "023.png",
+      "resolved_file": "023.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Areas",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "223",
+      "source_file": "023.png",
+      "resolved_file": "023.png",
+      "model": "qwen3-vl-plus",
+      "answer": "aOR (95% CI)†",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "224",
+      "source_file": "023.png",
+      "resolved_file": "023.png",
+      "model": "qwen3-vl-plus",
+      "answer": "4992",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "225",
+      "source_file": "023.png",
+      "resolved_file": "023.png",
+      "model": "qwen3-vl-plus",
+      "answer": "20827",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "226",
+      "source_file": "023.png",
+      "resolved_file": "023.png",
+      "model": "qwen3-vl-plus",
+      "answer": "5045",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "227",
+      "source_file": "023.png",
+      "resolved_file": "023.png",
+      "model": "qwen3-vl-plus",
+      "answer": "10189",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "228",
+      "source_file": "023.png",
+      "resolved_file": "023.png",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"Total Malaria visit non-user\":\"38.9\",\"Total Non-malaria visit non-user\":\"3418\",\"Total Malaria prevalence\":\"34.7\",\"Area 数量\":\"21\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

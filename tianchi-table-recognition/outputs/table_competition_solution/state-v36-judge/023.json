@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "223",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表头符号为双十字‡，B选项正确，A选项为单十字†。"
+    },
+    {
+      "id": "228",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "A选项将多个字段整合在一个对象中作为数组元素，更符合表格行数据提取的JSON格式（扁平对象数组），且更简洁；B选项将每个字段拆分为独立对象，结构较为冗余。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 7896,
+    "completion_tokens": 7073,
+    "prompt_tokens": 823,
+    "completion_tokens_details": {
+      "reasoning_tokens": 6897,
+      "text_tokens": 175
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 401,
+      "cached_tokens": 0,
+      "text_tokens": 422
+    }
+  },
+  "requestId": "chatcmpl-b4c7f3f1-3d41-9276-915b-abf64e35d846"
+}

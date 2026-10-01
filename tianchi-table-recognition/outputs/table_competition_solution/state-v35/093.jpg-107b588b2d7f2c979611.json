@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\093.jpg",
+  "results": [
+    {
+      "id": "900",
+      "source_file": "093.jpg",
+      "resolved_file": "093.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "XXX",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "901",
+      "source_file": "093.jpg",
+      "resolved_file": "093.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Summary",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "902",
+      "source_file": "093.jpg",
+      "resolved_file": "093.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Note: The following records relate to first pass",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "903",
+      "source_file": "093.jpg",
+      "resolved_file": "093.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "NNN, NNN1, NNN2, NNNNNN2, XYZDDD, SOURCE, TARGET",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "904",
+      "source_file": "093.jpg",
+      "resolved_file": "093.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "REDS, XXX, NNN, LLL, LLLL",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "905",
+      "source_file": "093.jpg",
+      "resolved_file": "093.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Description\":\"basic structure\"},{\"Description\":\"local structure perturbations\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "906",
+      "source_file": "093.jpg",
+      "resolved_file": "093.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "7",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "907",
+      "source_file": "093.jpg",
+      "resolved_file": "093.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "908",
+      "source_file": "093.jpg",
+      "resolved_file": "093.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Yes",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

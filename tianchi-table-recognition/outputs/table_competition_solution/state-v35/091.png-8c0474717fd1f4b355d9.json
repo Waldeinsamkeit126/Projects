@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\091.png",
+  "results": [
+    {
+      "id": "880",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.7-plus",
+      "answer": "34",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "881",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.7-plus",
+      "answer": "9",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "882",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.7-plus",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "883",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.7-plus",
+      "answer": "35",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "884",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.7-plus",
+      "answer": "85.4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "885",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.7-plus",
+      "answer": "85",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "886",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.7-plus",
+      "answer": "84",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "887",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.7-plus",
+      "answer": "69",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "888",
+      "source_file": "091.png",
+      "resolved_file": "091.png",
+      "model": "qwen3.7-plus",
+      "answer": "20.9%",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

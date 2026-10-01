@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\077.pdf",
+  "results": [
+    {
+      "id": "739",
+      "source_file": "077.pdf",
+      "resolved_file": "077.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":28,\"col_count\":3,\"cells\":[{\"text\":\"ASSETS\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":3},{\"text\":\"\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"December 31,\\n2021\",\"row\":1,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"December 31,\\n2020\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"CURRENT ASSETS:\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":3},{\"text\":\"Cash and cash equivalents\",\"row\":3,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"$ 1,326,462\",\"row\":3,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"$ 1,180,413\",\"row\":3,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Short-term investments\",\"row\":4,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"1,749,727\",\"row\":4,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"881,354\",\"row\":4,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Accounts receivable, net\",\"row\":5,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"896,658\",\"row\":5,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"666,012\",\"row\":5,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Inventories\",\"row\":6,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"593,357\",\"row\":6,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"333,085\",\"row\":6,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Prepaid expenses and other current assets\",\"row\":7,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"82,668\",\"row\":7,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"55,358\",\"row\":7,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Prepaid income taxes\",\"row\":8,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"33,238\",\"row\":8,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"24,733\",\"row\":8,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Total current assets\",\"row\":9,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"4,682,110\",\"row\":9,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"3,140,955\",\"row\":9,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"INVESTMENTS\",\"row\":10,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"99,419\",\"row\":10,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"44,291\",\"row\":10,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"PROPERTY AND EQUIPMENT, net\",\"row\":11,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"313,753\",\"row\":11,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"314,656\",\"row\":11,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"DEFERRED INCOME TAXES\",\"row\":12,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"225,221\",\"row\":12,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"241,650\",\"row\":12,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"GOODWILL\",\"row\":13,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"1,331,643\",\"row\":13,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"1,331,643\",\"row\":13,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"OTHER INTANGIBLE ASSETS, net\",\"row\":14,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"1,072,386\",\"row\":14,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"1,059,046\",\"row\":14,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"OTHER ASSETS\",\"row\":15,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"80,252\",\"row\":15,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"70,475\",\"row\":15,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Total Assets\",\"row\":16,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"$ 7,804,784\",\"row\":16,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"$ 6,202,716\",\"row\":16,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"LIABILITIES AND STOCKHOLDERS' EQUITY\",\"row\":17,\"col\":0,\"rowspan\":1,\"colspan\":3},{\"text\":\"CURRENT LIABILITIES:\",\"row\":18,\"col\":0,\"rowspan\":1,\"colspan\":3},{\"text\":\"Accounts payable\",\"row\":19,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"$ 404,263\",\"row\":19,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"$ 296,800\",\"row\":19,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Accrued liabilities\",\"row\":20,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"210,964\",\"row\":20,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"142,653\",\"row\":20,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Accrued promotional allowances\",\"row\":21,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"211,461\",\"row\":21,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"186,658\",\"row\":21,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Deferred revenue\",\"row\":22,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"42,530\",\"row\":22,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"45,429\",\"row\":22,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Accrued compensation\",\"row\":23,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"65,459\",\"row\":23,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"55,015\",\"row\":23,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Income taxes payable\",\"row\":24,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"30,399\",\"row\":24,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"23,433\",\"row\":24,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Total current liabilities\",\"row\":25,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"965,076\",\"row\":25,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"749,988\",\"row\":25,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"DEFERRED REVENUE\",\"row\":26,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"243,249\",\"row\":26,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"264,436\",\"row\":26,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"OTHER LIABILITIES\",\"row\":27,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"29,508\",\"row\":27,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"27,432\",\"row\":27,\"col\":2,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "740",
+      "source_file": "077.pdf",
+      "resolved_file": "077.pdf",
+      "model": "qwen3.8-max",
+      "answer": "7804784",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "741",
+      "source_file": "077.pdf",
+      "resolved_file": "077.pdf",
+      "model": "qwen3.8-max",
+      "answer": "749988",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "742",
+      "source_file": "077.pdf",
+      "resolved_file": "077.pdf",
+      "model": "qwen3.8-max",
+      "answer": "5541352",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "743",
+      "source_file": "077.pdf",
+      "resolved_file": "077.pdf",
+      "model": "qwen3.8-max",
+      "answer": "2.03",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "744",
+      "source_file": "077.pdf",
+      "resolved_file": "077.pdf",
+      "model": "qwen3.8-max",
+      "answer": "1155741",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "745",
+      "source_file": "077.pdf",
+      "resolved_file": "077.pdf",
+      "model": "qwen3.8-max",
+      "answer": "797957",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "746",
+      "source_file": "077.pdf",
+      "resolved_file": "077.pdf",
+      "model": "qwen3.8-max",
+      "answer": "1602068",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "747",
+      "source_file": "077.pdf",
+      "resolved_file": "077.pdf",
+      "model": "qwen3.8-max",
+      "answer": "3108513",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "748",
+      "source_file": "077.pdf",
+      "resolved_file": "077.pdf",
+      "model": "qwen3.8-max",
+      "answer": "3894904",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

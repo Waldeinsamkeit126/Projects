@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\070.pdf",
+  "results": [
+    {
+      "id": "669",
+      "source_file": "070.pdf",
+      "resolved_file": "070.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":9,\"col_count\":5,\"cells\":[{\"text\":\"Method\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"GPU\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"MDE/s¹\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"FPS²\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"Error³\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "670",
+      "source_file": "070.pdf",
+      "resolved_file": "070.pdf",
+      "model": "qwen3.8-max",
+      "answer": "GeForce GTX 680",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "671",
+      "source_file": "070.pdf",
+      "resolved_file": "070.pdf",
+      "model": "qwen3.8-max",
+      "answer": "5.55",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "672",
+      "source_file": "070.pdf",
+      "resolved_file": "070.pdf",
+      "model": "qwen3.8-max",
+      "answer": "46",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "673",
+      "source_file": "070.pdf",
+      "resolved_file": "070.pdf",
+      "model": "qwen3.8-max",
+      "answer": "194.8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "674",
+      "source_file": "070.pdf",
+      "resolved_file": "070.pdf",
+      "model": "qwen3.8-max",
+      "answer": "Quadro FX 5800",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "675",
+      "source_file": "070.pdf",
+      "resolved_file": "070.pdf",
+      "model": "qwen3.8-max",
+      "answer": "9.82",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "676",
+      "source_file": "070.pdf",
+      "resolved_file": "070.pdf",
+      "model": "qwen3.8-max",
+      "answer": "157.8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "677",
+      "source_file": "070.pdf",
+      "resolved_file": "070.pdf",
+      "model": "qwen3.8-max",
+      "answer": "Our Method",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "678",
+      "source_file": "070.pdf",
+      "resolved_file": "070.pdf",
+      "model": "qwen3.8-max",
+      "answer": "5.35",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\027.webp",
+  "results": [
+    {
+      "id": "259",
+      "source_file": "027.webp",
+      "resolved_file": "027.webp",
+      "model": "qwen3.8-max-0902",
+      "answer": "GLM-OCR",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "260",
+      "source_file": "027.webp",
+      "resolved_file": "027.webp",
+      "model": "qwen3.8-max-0902",
+      "answer": "中文和英文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "261",
+      "source_file": "027.webp",
+      "resolved_file": "027.webp",
+      "model": "qwen3.8-max-0902",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "262",
+      "source_file": "027.webp",
+      "resolved_file": "027.webp",
+      "model": "qwen3.8-max-0902",
+      "answer": "GLM-OCR",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "263",
+      "source_file": "027.webp",
+      "resolved_file": "027.webp",
+      "model": "qwen3.8-max-0902",
+      "answer": "GPT-5.2-2025-12-11",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "264",
+      "source_file": "027.webp",
+      "resolved_file": "027.webp",
+      "model": "qwen3.8-max-0902",
+      "answer": "94.6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "265",
+      "source_file": "027.webp",
+      "resolved_file": "027.webp",
+      "model": "qwen3.8-max-0902",
+      "answer": "94",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "266",
+      "source_file": "027.webp",
+      "resolved_file": "027.webp",
+      "model": "qwen3.8-max-0902",
+      "answer": "96.5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "267",
+      "source_file": "027.webp",
+      "resolved_file": "027.webp",
+      "model": "qwen3.8-max-0902",
+      "answer": "85.2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "268",
+      "source_file": "027.webp",
+      "resolved_file": "027.webp",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"GLM-OCR TEDS_TEST\":\"86.0\"},{\"GLM-OCR Nanonts-KIE\":\"93.7\"},{\"GLM-OCR Handwritten-Forms\":\"86.1\"},{\"突出显示模型\":\"GLM-OCR\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

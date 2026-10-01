@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "828",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "汇总行 Planned：DowDuPont 244.97 > LG Chem. 212.62 > Formosa 191.89，最大为 DowDuPont"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 177,
+    "completion_tokens_details": {
+      "reasoning_tokens": 107,
+      "text_tokens": 69
+    },
+    "prompt_tokens": 2835,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 2487,
+      "text_tokens": 348
+    },
+    "total_tokens": 3012
+  },
+  "requestId": "chatcmpl-eb1288b0-a05f-9e58-a4cd-b12170b9eaa2",
+  "model": "qwen3.8-max-0902"
+}

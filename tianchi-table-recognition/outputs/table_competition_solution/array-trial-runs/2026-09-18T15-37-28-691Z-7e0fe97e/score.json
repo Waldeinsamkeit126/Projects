@@ -1,0 +1,88 @@
+{
+  "mode": "offline-synthetic-array-smoke-evaluation",
+  "evaluatedAt": "2026-09-18T15:37:54.194Z",
+  "planDigest": "46b0cab7ed55a7f6a4d7f31488a6633bb023d14617be2146042c864a4a00c590",
+  "reportSha256": "9517f27daafe87f9ec67480cdaed4f012c443ab8366a1644d7f7a491e3b8578d",
+  "predictionSha256": "b091f8c4c4e06da811a79aea6845dbd1313501722ebee598246d36ac0de4d40b",
+  "referenceSha256": "44631eadcf7a335d2adc2dbf7a4d79e940d56d5163fe5313ee681ecbcaf924c8",
+  "evaluatorSha256": "492ba78d3873ed03ae38b72c3550aaba923ad53c8ca596db3bfb8a7886a1b1b7",
+  "score": {
+    "metric": "synthetic-value-array-strict-v1 (not official scoring)",
+    "total": 10,
+    "correct": 10,
+    "valid": 10,
+    "missing": 0,
+    "details": [
+      {
+        "id": "av-sales-codes",
+        "missing": false,
+        "valid": true,
+        "correct": true
+      },
+      {
+        "id": "av-sales-counts",
+        "missing": false,
+        "valid": true,
+        "correct": true
+      },
+      {
+        "id": "av-sales-row",
+        "missing": false,
+        "valid": true,
+        "correct": true
+      },
+      {
+        "id": "av-sales-totals",
+        "missing": false,
+        "valid": true,
+        "correct": true
+      },
+      {
+        "id": "av-sales-prices",
+        "missing": false,
+        "valid": true,
+        "correct": true
+      },
+      {
+        "id": "av-stock-counts",
+        "missing": false,
+        "valid": true,
+        "correct": true
+      },
+      {
+        "id": "av-stock-notes",
+        "missing": false,
+        "valid": true,
+        "correct": true
+      },
+      {
+        "id": "av-stock-region",
+        "missing": false,
+        "valid": true,
+        "correct": true
+      },
+      {
+        "id": "av-stock-positive",
+        "missing": false,
+        "valid": true,
+        "correct": true
+      },
+      {
+        "id": "av-stock-flags",
+        "missing": false,
+        "valid": true,
+        "correct": true
+      }
+    ]
+  },
+  "controls": {
+    "positive": 10,
+    "negative": 0,
+    "note": "Evaluator self-check, not model accuracy"
+  },
+  "apiRequestsInInference": 2,
+  "evaluationApiRequests": 0,
+  "submitted": false,
+  "leaderboardScore": null,
+  "limitation": "Ten new questions about two previously seen authored synthetic tables. Not blind validation, not paired A/B, not official accuracy. This does not prove a leaderboard gain."
+}

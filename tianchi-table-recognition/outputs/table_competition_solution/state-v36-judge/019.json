@@ -1,0 +1,40 @@
+{
+  "decisions": [
+    {
+      "id": "179",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B 的拼写 'Santechnikos' 与图片一致，A 拼写错误。"
+    },
+    {
+      "id": "182",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表头包含 'Nr' 和下方的点，'Nr.' 更完整。"
+    },
+    {
+      "id": "188",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "A 的数据（Virtuvės čiaupai, 8,0）与左上表第一行一致且自洽；B 的数据不匹配（Virtuvės čiaupai 对应 8,0 而非 6,0）。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 4917,
+    "completion_tokens": 3956,
+    "prompt_tokens": 961,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3704,
+      "text_tokens": 251
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 496,
+      "cached_tokens": 0,
+      "text_tokens": 465
+    }
+  },
+  "requestId": "chatcmpl-892d43fc-34f3-97b7-8089-aa6be63ab340"
+}

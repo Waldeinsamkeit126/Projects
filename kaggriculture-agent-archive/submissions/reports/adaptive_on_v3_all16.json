@@ -1,0 +1,352 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\v4_adaptive_crop\\main.py",
+    "games": 16,
+    "wins": 9,
+    "mean_score": 87556.875,
+    "mean_margin": 13650.875,
+    "mean_score_delta": -856.625,
+    "mean_margin_delta": -2542.6875,
+    "median_margin_delta": 0.0,
+    "max_action_seconds": 0.1930038999998942,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89487704,
+      "opponent": "Hiroyasu Okuno",
+      "seed": 322479772,
+      "position": 0,
+      "ours": 100877.0,
+      "theirs": 59154.0,
+      "margin": 41723.0,
+      "win": true,
+      "original_ours": 100877.0,
+      "original_theirs": 59154.0,
+      "original_margin": 41723.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 6.8277452000183985,
+      "max_action_seconds": 0.1930038999998942,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89487146,
+      "opponent": "starclan",
+      "seed": 1023056128,
+      "position": 1,
+      "ours": 95901.0,
+      "theirs": 78166.0,
+      "margin": 17735.0,
+      "win": true,
+      "original_ours": 94091.0,
+      "original_theirs": 76533.0,
+      "original_margin": 17558.0,
+      "score_delta": 1810.0,
+      "margin_delta": 177.0,
+      "elapsed_seconds": 8.93393840000499,
+      "max_action_seconds": 0.004810000013094395,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89486601,
+      "opponent": "Nur Srijan",
+      "seed": 1706630155,
+      "position": 0,
+      "ours": 87947.0,
+      "theirs": 87205.0,
+      "margin": 742.0,
+      "win": true,
+      "original_ours": 78539.0,
+      "original_theirs": 84350.0,
+      "original_margin": -5811.0,
+      "score_delta": 9408.0,
+      "margin_delta": 6553.0,
+      "elapsed_seconds": 7.3608707000094,
+      "max_action_seconds": 0.15579910000087693,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89486052,
+      "opponent": "Enrico Ambrosio",
+      "seed": 1805005444,
+      "position": 0,
+      "ours": 82536.0,
+      "theirs": 98548.0,
+      "margin": -16012.0,
+      "win": false,
+      "original_ours": 96256.0,
+      "original_theirs": 100048.0,
+      "original_margin": -3792.0,
+      "score_delta": -13720.0,
+      "margin_delta": -12220.0,
+      "elapsed_seconds": 6.911336999997729,
+      "max_action_seconds": 0.15203600001404993,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89485498,
+      "opponent": "omikbop",
+      "seed": 425022464,
+      "position": 0,
+      "ours": 71782.0,
+      "theirs": 77606.0,
+      "margin": -5824.0,
+      "win": false,
+      "original_ours": 71782.0,
+      "original_theirs": 77606.0,
+      "original_margin": -5824.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 6.962854899989907,
+      "max_action_seconds": 0.005539000005228445,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89485486,
+      "opponent": "motemen",
+      "seed": 1280058445,
+      "position": 1,
+      "ours": 50663.0,
+      "theirs": 62114.0,
+      "margin": -11451.0,
+      "win": false,
+      "original_ours": 57959.0,
+      "original_theirs": 55082.0,
+      "original_margin": 2877.0,
+      "score_delta": -7296.0,
+      "margin_delta": -14328.0,
+      "elapsed_seconds": 6.200883600016823,
+      "max_action_seconds": 0.0061348000017460436,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89484952,
+      "opponent": "epigene",
+      "seed": 1079635452,
+      "position": 0,
+      "ours": 102043.0,
+      "theirs": 111066.0,
+      "margin": -9023.0,
+      "win": false,
+      "original_ours": 102043.0,
+      "original_theirs": 111066.0,
+      "original_margin": -9023.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 7.451480500021717,
+      "max_action_seconds": 0.1299009000067599,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89484406,
+      "opponent": "ghostiee11",
+      "seed": 1809785243,
+      "position": 1,
+      "ours": 95319.0,
+      "theirs": 111275.0,
+      "margin": -15956.0,
+      "win": false,
+      "original_ours": 95319.0,
+      "original_theirs": 111275.0,
+      "original_margin": -15956.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 6.888077800016617,
+      "max_action_seconds": 0.1162385999923572,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89483866,
+      "opponent": "cmasch",
+      "seed": 222207795,
+      "position": 1,
+      "ours": 65433.0,
+      "theirs": 107042.0,
+      "margin": -41609.0,
+      "win": false,
+      "original_ours": 65433.0,
+      "original_theirs": 107042.0,
+      "original_margin": -41609.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 6.9409212000027765,
+      "max_action_seconds": 0.005998099979478866,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89483326,
+      "opponent": "IsaacJinyu",
+      "seed": 1562311381,
+      "position": 1,
+      "ours": 83534.0,
+      "theirs": 82134.0,
+      "margin": 1400.0,
+      "win": true,
+      "original_ours": 83534.0,
+      "original_theirs": 82134.0,
+      "original_margin": 1400.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 7.6705542000127025,
+      "max_action_seconds": 0.005114100000355393,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89482788,
+      "opponent": "MD. Nazmus Sakib Anik",
+      "seed": 54906185,
+      "position": 1,
+      "ours": 82279.0,
+      "theirs": 99584.0,
+      "margin": -17305.0,
+      "win": false,
+      "original_ours": 84850.0,
+      "original_theirs": 82365.0,
+      "original_margin": 2485.0,
+      "score_delta": -2571.0,
+      "margin_delta": -19790.0,
+      "elapsed_seconds": 8.224077499995474,
+      "max_action_seconds": 0.0062756999977864325,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89482245,
+      "opponent": "HIDEYO CHIBA",
+      "seed": 1052099803,
+      "position": 1,
+      "ours": 94735.0,
+      "theirs": 55910.0,
+      "margin": 38825.0,
+      "win": true,
+      "original_ours": 94735.0,
+      "original_theirs": 55910.0,
+      "original_margin": 38825.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 6.950914699991699,
+      "max_action_seconds": 0.005229000002145767,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89481708,
+      "opponent": "Veniamin Nelin",
+      "seed": 1696771976,
+      "position": 1,
+      "ours": 66749.0,
+      "theirs": 46902.0,
+      "margin": 19847.0,
+      "win": true,
+      "original_ours": 66749.0,
+      "original_theirs": 46902.0,
+      "original_margin": 19847.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 6.7164451999997254,
+      "max_action_seconds": 0.11268640001071617,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89481170,
+      "opponent": "Vu Tran Hoang",
+      "seed": 906097251,
+      "position": 0,
+      "ours": 100516.0,
+      "theirs": 32549.0,
+      "margin": 67967.0,
+      "win": true,
+      "original_ours": 92058.0,
+      "original_theirs": 32696.0,
+      "original_margin": 59362.0,
+      "score_delta": 8458.0,
+      "margin_delta": 8605.0,
+      "elapsed_seconds": 7.695533599995542,
+      "max_action_seconds": 0.0054589999781455845,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89480633,
+      "opponent": "Kendamarron",
+      "seed": 1779362906,
+      "position": 0,
+      "ours": 106077.0,
+      "theirs": 35085.0,
+      "margin": 70992.0,
+      "win": true,
+      "original_ours": 106077.0,
+      "original_theirs": 35085.0,
+      "original_margin": 70992.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 6.407611000002362,
+      "max_action_seconds": 0.11264640002627857,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89480102,
+      "opponent": "`",
+      "seed": 428141925,
+      "position": 0,
+      "ours": 114519.0,
+      "theirs": 38156.0,
+      "margin": 76363.0,
+      "win": true,
+      "original_ours": 124314.0,
+      "original_theirs": 38271.0,
+      "original_margin": 86043.0,
+      "score_delta": -9795.0,
+      "margin_delta": -9680.0,
+      "elapsed_seconds": 7.1197682000056375,
+      "max_action_seconds": 0.005997200001729652,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

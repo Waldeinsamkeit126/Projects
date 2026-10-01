@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\024.png",
+  "results": [
+    {
+      "id": "229",
+      "source_file": "024.png",
+      "resolved_file": "024.png",
+      "model": "qwen3.7-plus",
+      "answer": "Services Performed",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "230",
+      "source_file": "024.png",
+      "resolved_file": "024.png",
+      "model": "qwen3.7-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "232",
+      "source_file": "024.png",
+      "resolved_file": "024.png",
+      "model": "qwen3.7-plus",
+      "answer": "Services Performed",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "233",
+      "source_file": "024.png",
+      "resolved_file": "024.png",
+      "model": "qwen3.7-plus",
+      "answer": "Total",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "234",
+      "source_file": "024.png",
+      "resolved_file": "024.png",
+      "model": "qwen3.7-plus",
+      "answer": "236",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "235",
+      "source_file": "024.png",
+      "resolved_file": "024.png",
+      "model": "qwen3.7-plus",
+      "answer": "65",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "236",
+      "source_file": "024.png",
+      "resolved_file": "024.png",
+      "model": "qwen3.7-plus",
+      "answer": "51%",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "237",
+      "source_file": "024.png",
+      "resolved_file": "024.png",
+      "model": "qwen3.7-plus",
+      "answer": "51",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "238",
+      "source_file": "024.png",
+      "resolved_file": "024.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Never serviced residential inland\":\"20\",\"Don’t know/refused residential total\":\"\",\"Frequency once every two years residential inland\":\"\",\"表格主分区数量\":\"2\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\029.png",
+  "results": [
+    {
+      "id": "279",
+      "source_file": "029.png",
+      "resolved_file": "029.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Norwegian subject choices",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "280",
+      "source_file": "029.png",
+      "resolved_file": "029.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Norwegian",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "281",
+      "source_file": "029.png",
+      "resolved_file": "029.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "282",
+      "source_file": "029.png",
+      "resolved_file": "029.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Fag",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "283",
+      "source_file": "029.png",
+      "resolved_file": "029.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Antall grupper",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "284",
+      "source_file": "029.png",
+      "resolved_file": "029.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "33",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "285",
+      "source_file": "029.png",
+      "resolved_file": "029.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "60",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "286",
+      "source_file": "029.png",
+      "resolved_file": "029.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "61",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "287",
+      "source_file": "029.png",
+      "resolved_file": "029.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "10",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "288",
+      "source_file": "029.png",
+      "resolved_file": "029.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"Fransk nivå 3 endelig valg\":\"0\"},{\"Spansk 1+2 endelig valg\":\"11\"},{\"Tysk 1+2* endelig valg\":\"21\"},{\"最高 endelig valg 科目\":\"Sosiologi og sosialentr.\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

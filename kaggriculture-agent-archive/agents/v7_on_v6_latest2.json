@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v7_p0stable_p1selective\\main.py",
+    "games": 2,
+    "wins": 0,
+    "mean_score": 81770.0,
+    "mean_margin": -23115.5,
+    "mean_score_delta": 2312.5,
+    "mean_margin_delta": 3691.5,
+    "median_margin_delta": 3691.5,
+    "max_action_seconds": 0.05723590002162382,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89854099,
+      "opponent": "kreiack",
+      "seed": 154530892,
+      "position": 0,
+      "ours": 66986.0,
+      "theirs": 90117.0,
+      "margin": -23131.0,
+      "win": false,
+      "original_ours": 62361.0,
+      "original_theirs": 92875.0,
+      "original_margin": -30514.0,
+      "score_delta": 4625.0,
+      "margin_delta": 7383.0,
+      "elapsed_seconds": 4.972043499990832,
+      "max_action_seconds": 0.05723590002162382,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89838498,
+      "opponent": "Linh Le",
+      "seed": 987850291,
+      "position": 0,
+      "ours": 96554.0,
+      "theirs": 119654.0,
+      "margin": -23100.0,
+      "win": false,
+      "original_ours": 96554.0,
+      "original_theirs": 119654.0,
+      "original_margin": -23100.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 5.8954802000080235,
+      "max_action_seconds": 0.004438299976754934,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

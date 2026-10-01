@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\015.jpg",
+  "results": [
+    {
+      "id": "139",
+      "source_file": "015.jpg",
+      "resolved_file": "015.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Circular Coil and Electric Fan",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "140",
+      "source_file": "015.jpg",
+      "resolved_file": "015.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "141",
+      "source_file": "015.jpg",
+      "resolved_file": "015.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "142",
+      "source_file": "015.jpg",
+      "resolved_file": "015.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Item No:",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "143",
+      "source_file": "015.jpg",
+      "resolved_file": "015.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Component & Specification",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "144",
+      "source_file": "015.jpg",
+      "resolved_file": "015.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Circular Coil",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "145",
+      "source_file": "015.jpg",
+      "resolved_file": "015.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Conical Conductor",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "146",
+      "source_file": "015.jpg",
+      "resolved_file": "015.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Up to 12 volts",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "147",
+      "source_file": "015.jpg",
+      "resolved_file": "015.jpg",
+      "model": "qwen3.8-max",
+      "answer": "Not found",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "148",
+      "source_file": "015.jpg",
+      "resolved_file": "015.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"电风扇颜色\":\"\",\"表格所在页码\":\"37\",\"圆形线圈表包含规格区\":\"true\",\"电风扇表包含 Specifications 区\":\"true\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "runId": "2026-09-14T11-04-26-950Z-fdab32f2",
+  "pipeline": "reliable-v1",
+  "startedAt": "2026-09-14T11:04:26.950Z",
+  "testsPath": "D:\\tests.xlsx",
+  "questionsJsonPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated\\questions-development.json",
+  "noExport": true,
+  "templatePath": "D:\\submit-template.xlsx",
+  "mediaDir": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated",
+  "questionCount": 18,
+  "allQuestionCount": 18,
+  "uniqueResolvedFiles": 3,
+  "questionTypes": {
+    "extract": 9,
+    "thinking": 6,
+    "structure": 3
+  },
+  "answerFormats": {
+    "number": 8,
+    "string": 4,
+    "json": 3,
+    "json_array": 3
+  },
+  "unresolved": [],
+  "filenameCorrections": [],
+  "normalizedQuestionTypes": [],
+  "ignoredSourceAnswerColumn": true,
+  "models": {
+    "pdf": "qwen3.8-max",
+    "image": "qwen3-vl-plus"
+  },
+  "maxCompletionTokens": 8192,
+  "refreshStructure": false,
+  "enableThinking": false,
+  "includeSources": [
+    "pdf",
+    "image"
+  ],
+  "includeTypes": [
+    "structure",
+    "extract",
+    "thinking"
+  ],
+  "excludeTypes": [],
+  "maxRequests": 6,
+  "historicalAnswersImported": false,
+  "partialRun": false,
+  "validationMeaning": "格式与结构约束检查，不代表答案正确率或合规认证",
+  "sourceHash": "4bf12e0ca5e01ecf5290cd2515d68535eaf5350978b340504414ba1c4a8a8100",
+  "inputSha256": "981160449ae8f43c29a006971da358c0d8915380c5d9998ded3e19844b2f3a47",
+  "templateSha256": null,
+  "endpoint": "https://ws-zpzcvtpmb0e3zl4f.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "purpose": "synthetic-dev-baseline-20260914",
+  "status": "running",
+  "outputPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\runs\\2026-09-14T11-04-26-950Z-fdab32f2\\submission.xlsx"
+}

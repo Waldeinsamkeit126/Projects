@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\084.png",
+  "results": [
+    {
+      "id": "810",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.7-plus",
+      "answer": "Formosa",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "811",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.7-plus",
+      "answer": "4535.26",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "812",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.7-plus",
+      "answer": "250",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "813",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.7-plus",
+      "answer": "LG Chem.",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "814",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.7-plus",
+      "answer": "95.91",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "815",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.7-plus",
+      "answer": "April 25, 2017",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "816",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.7-plus",
+      "answer": "4899.3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "817",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.7-plus",
+      "answer": "Stearalkonium Chloride",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "818",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.7-plus",
+      "answer": "205",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,1621 @@
+{
+  "games": 41,
+  "v3_wins": 30,
+  "v4_wins": 30,
+  "preferred_v3": 20,
+  "preferred_v4": 21,
+  "rows": [
+    {
+      "episode_id": 89375430,
+      "opponent": "Koichi HIRAOKA",
+      "player_index": 0,
+      "crops": {
+        "MELON": 18,
+        "WHEAT": 6
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 488.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 67070.0,
+        "margin": 48362.0,
+        "win": true
+      },
+      "v4": {
+        "score": 78311.0,
+        "margin": 36698.0,
+        "win": true
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": 11241.0,
+      "margin_delta_v4_minus_v3": -11664.0
+    },
+    {
+      "episode_id": 89375954,
+      "opponent": "Chris D'Mello (ineligible)",
+      "player_index": 0,
+      "crops": {
+        "MELON": 11,
+        "STRAWBERRY": 6
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 101,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 517.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 99710.0,
+        "margin": 49087.0,
+        "win": true
+      },
+      "v4": {
+        "score": 90950.0,
+        "margin": 39521.0,
+        "win": true
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -8760.0,
+      "margin_delta_v4_minus_v3": -9566.0
+    },
+    {
+      "episode_id": 89376483,
+      "opponent": "Waffle",
+      "player_index": 0,
+      "crops": {
+        "MELON": 16,
+        "WHEAT": 29
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 332.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 97472.0,
+        "margin": 13397.0,
+        "win": true
+      },
+      "v4": {
+        "score": 92963.0,
+        "margin": -4792.0,
+        "win": false
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -4509.0,
+      "margin_delta_v4_minus_v3": -18189.0
+    },
+    {
+      "episode_id": 89376982,
+      "opponent": "UnfriendlyAI",
+      "player_index": 0,
+      "crops": {
+        "CARROT": 2,
+        "MELON": 13,
+        "STRAWBERRY": 2,
+        "WHEAT": 4
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 1673.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 89337.0,
+        "margin": -2597.0,
+        "win": false
+      },
+      "v4": {
+        "score": 70223.0,
+        "margin": -3460.0,
+        "win": false
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -19114.0,
+      "margin_delta_v4_minus_v3": -863.0
+    },
+    {
+      "episode_id": 89380685,
+      "opponent": "ayuma",
+      "player_index": 1,
+      "crops": {
+        "MELON": 14,
+        "WHEAT": 3
+      },
+      "animals": {
+        "COW": 1,
+        "SHEEP": 1
+      },
+      "animal_total": 2,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 256.0,
+      "opponent_money": 631.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 77614.0,
+        "margin": 6.0,
+        "win": true
+      },
+      "v4": {
+        "score": 99465.0,
+        "margin": 2703.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 21851.0,
+      "margin_delta_v4_minus_v3": 2697.0
+    },
+    {
+      "episode_id": 89380714,
+      "opponent": "maxingkong733",
+      "player_index": 0,
+      "crops": {
+        "MELON": 9,
+        "WHEAT": 8
+      },
+      "animals": {
+        "COW": 4
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 62.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 106151.0,
+        "margin": 20039.0,
+        "win": true
+      },
+      "v4": {
+        "score": 87548.0,
+        "margin": 46623.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": -18603.0,
+      "margin_delta_v4_minus_v3": 26584.0
+    },
+    {
+      "episode_id": 89387579,
+      "opponent": "phibkro",
+      "player_index": 1,
+      "crops": {
+        "WHEAT": 1
+      },
+      "animals": {
+        "COW": 2,
+        "GOOSE": 1,
+        "SHEEP": 1
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 247.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 110755.0,
+        "margin": 51871.0,
+        "win": true
+      },
+      "v4": {
+        "score": 111866.0,
+        "margin": 49762.0,
+        "win": true
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": 1111.0,
+      "margin_delta_v4_minus_v3": -2109.0
+    },
+    {
+      "episode_id": 89389689,
+      "opponent": "Matt Motoki",
+      "player_index": 0,
+      "crops": {
+        "MELON": 15
+      },
+      "animals": {
+        "COW": 3
+      },
+      "animal_total": 3,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 256.0,
+      "opponent_money": 290.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 87759.0,
+        "margin": 2951.0,
+        "win": true
+      },
+      "v4": {
+        "score": 80691.0,
+        "margin": 6504.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": -7068.0,
+      "margin_delta_v4_minus_v3": 3553.0
+    },
+    {
+      "episode_id": 89398609,
+      "opponent": "Rylan",
+      "player_index": 1,
+      "crops": {
+        "CARROT": 2,
+        "MELON": 11
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 2
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 256.0,
+      "opponent_money": 30.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 117445.0,
+        "margin": 84685.0,
+        "win": true
+      },
+      "v4": {
+        "score": 111510.0,
+        "margin": 27900.0,
+        "win": true
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -5935.0,
+      "margin_delta_v4_minus_v3": -56785.0
+    },
+    {
+      "episode_id": 89399155,
+      "opponent": "shreyas sangalad",
+      "player_index": 1,
+      "crops": {
+        "MELON": 24
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 1073.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 66388.0,
+        "margin": 42540.0,
+        "win": true
+      },
+      "v4": {
+        "score": 76031.0,
+        "margin": 25253.0,
+        "win": true
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": 9643.0,
+      "margin_delta_v4_minus_v3": -17287.0
+    },
+    {
+      "episode_id": 89407571,
+      "opponent": "Mr.S hanakosan",
+      "player_index": 0,
+      "crops": {
+        "WHEAT": 16
+      },
+      "animals": {
+        "COW": 3,
+        "SHEEP": 1
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 31,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 205.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 95382.0,
+        "margin": 15289.0,
+        "win": true
+      },
+      "v4": {
+        "score": 106210.0,
+        "margin": 25996.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 10828.0,
+      "margin_delta_v4_minus_v3": 10707.0
+    },
+    {
+      "episode_id": 89412858,
+      "opponent": "kitory Yeah やきとり",
+      "player_index": 1,
+      "crops": {
+        "MELON": 16,
+        "WHEAT": 9
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 542.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 104970.0,
+        "margin": 50452.0,
+        "win": true
+      },
+      "v4": {
+        "score": 112941.0,
+        "margin": 63216.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 7971.0,
+      "margin_delta_v4_minus_v3": 12764.0
+    },
+    {
+      "episode_id": 89414442,
+      "opponent": "Junichiro Morita",
+      "player_index": 0,
+      "crops": {
+        "MELON": 9
+      },
+      "animals": {
+        "COW": 2
+      },
+      "animal_total": 2,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 256.0,
+      "opponent_money": 426.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 58963.0,
+        "margin": 5095.0,
+        "win": true
+      },
+      "v4": {
+        "score": 86871.0,
+        "margin": 16525.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 27908.0,
+      "margin_delta_v4_minus_v3": 11430.0
+    },
+    {
+      "episode_id": 89422474,
+      "opponent": "yunus_bayram_kagle",
+      "player_index": 0,
+      "crops": {
+        "MELON": 6
+      },
+      "animals": {
+        "COW": 3,
+        "SHEEP": 1
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 463.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 87341.0,
+        "margin": -51778.0,
+        "win": false
+      },
+      "v4": {
+        "score": 48455.0,
+        "margin": -60954.0,
+        "win": false
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -38886.0,
+      "margin_delta_v4_minus_v3": -9176.0
+    },
+    {
+      "episode_id": 89426247,
+      "opponent": "Adil Khabibullin",
+      "player_index": 0,
+      "crops": {
+        "WHEAT": 18
+      },
+      "animals": {
+        "COW": 4
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 254.0,
+      "opponent_money": 447.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 78830.0,
+        "margin": 20439.0,
+        "win": true
+      },
+      "v4": {
+        "score": 54126.0,
+        "margin": 37087.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": -24704.0,
+      "margin_delta_v4_minus_v3": 16648.0
+    },
+    {
+      "episode_id": 89427864,
+      "opponent": "motemen",
+      "player_index": 1,
+      "crops": {
+        "CARROT": 2,
+        "MELON": 18,
+        "TOMATO": 2,
+        "WHEAT": 3
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 1370.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 60026.0,
+        "margin": -3706.0,
+        "win": false
+      },
+      "v4": {
+        "score": 80529.0,
+        "margin": 12714.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 20503.0,
+      "margin_delta_v4_minus_v3": 16420.0
+    },
+    {
+      "episode_id": 89443935,
+      "opponent": "Ryan Adams",
+      "player_index": 0,
+      "crops": {
+        "MELON": 13
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 1927.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 74433.0,
+        "margin": 37689.0,
+        "win": true
+      },
+      "v4": {
+        "score": 59746.0,
+        "margin": 42116.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": -14687.0,
+      "margin_delta_v4_minus_v3": 4427.0
+    },
+    {
+      "episode_id": 89449350,
+      "opponent": "SanggeunParrk",
+      "player_index": 0,
+      "crops": {},
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 3000.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 125740.0,
+        "margin": 122740.0,
+        "win": true
+      },
+      "v4": {
+        "score": 132878.0,
+        "margin": 129878.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 7138.0,
+      "margin_delta_v4_minus_v3": 7138.0
+    },
+    {
+      "episode_id": 89454730,
+      "opponent": "shi_koyo",
+      "player_index": 0,
+      "crops": {
+        "MELON": 5
+      },
+      "animals": {
+        "COW": 3,
+        "SHEEP": 2
+      },
+      "animal_total": 5,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 256.0,
+      "opponent_money": 23.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 119231.0,
+        "margin": 119108.0,
+        "win": true
+      },
+      "v4": {
+        "score": 118937.0,
+        "margin": 118811.0,
+        "win": true
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -294.0,
+      "margin_delta_v4_minus_v3": -297.0
+    },
+    {
+      "episode_id": 89462804,
+      "opponent": "Hira Norm",
+      "player_index": 0,
+      "crops": {
+        "CARROT": 10,
+        "MELON": 11
+      },
+      "animals": {
+        "SHEEP": 2
+      },
+      "animal_total": 2,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 627.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 122573.0,
+        "margin": 37994.0,
+        "win": true
+      },
+      "v4": {
+        "score": 99004.0,
+        "margin": 20509.0,
+        "win": true
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -23569.0,
+      "margin_delta_v4_minus_v3": -17485.0
+    },
+    {
+      "episode_id": 89465523,
+      "opponent": "Dmitry Larko",
+      "player_index": 1,
+      "crops": {
+        "MELON": 20,
+        "STRAWBERRY": 5
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 257.0,
+      "opponent_money": 880.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 69182.0,
+        "margin": 8038.0,
+        "win": true
+      },
+      "v4": {
+        "score": 106391.0,
+        "margin": 12531.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 37209.0,
+      "margin_delta_v4_minus_v3": 4493.0
+    },
+    {
+      "episode_id": 89480102,
+      "opponent": "`",
+      "player_index": 0,
+      "crops": {
+        "CARROT": 13,
+        "MELON": 6,
+        "WHEAT": 2
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 28,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 657.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 124314.0,
+        "margin": 86043.0,
+        "win": true
+      },
+      "v4": {
+        "score": 125639.0,
+        "margin": 94593.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 1325.0,
+      "margin_delta_v4_minus_v3": 8550.0
+    },
+    {
+      "episode_id": 89480633,
+      "opponent": "Kendamarron",
+      "player_index": 0,
+      "crops": {
+        "MELON": 20
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 28,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 946.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 106077.0,
+        "margin": 70992.0,
+        "win": true
+      },
+      "v4": {
+        "score": 97113.0,
+        "margin": 61375.0,
+        "win": true
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -8964.0,
+      "margin_delta_v4_minus_v3": -9617.0
+    },
+    {
+      "episode_id": 89481170,
+      "opponent": "Vu Tran Hoang",
+      "player_index": 0,
+      "crops": {
+        "MELON": 16,
+        "WHEAT": 33
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 28,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 347.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 92058.0,
+        "margin": 59362.0,
+        "win": true
+      },
+      "v4": {
+        "score": 92339.0,
+        "margin": 59131.0,
+        "win": true
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": 281.0,
+      "margin_delta_v4_minus_v3": -231.0
+    },
+    {
+      "episode_id": 89481708,
+      "opponent": "Veniamin Nelin",
+      "player_index": 1,
+      "crops": {},
+      "animals": {
+        "COW": 1,
+        "SHEEP": 3
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 982.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 66749.0,
+        "margin": 19847.0,
+        "win": true
+      },
+      "v4": {
+        "score": 78323.0,
+        "margin": 28516.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 11574.0,
+      "margin_delta_v4_minus_v3": 8669.0
+    },
+    {
+      "episode_id": 89482245,
+      "opponent": "HIDEYO CHIBA",
+      "player_index": 1,
+      "crops": {
+        "WHEAT": 8
+      },
+      "animals": {
+        "COW": 2
+      },
+      "animal_total": 2,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 113.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 94735.0,
+        "margin": 38825.0,
+        "win": true
+      },
+      "v4": {
+        "score": 96554.0,
+        "margin": 62639.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 1819.0,
+      "margin_delta_v4_minus_v3": 23814.0
+    },
+    {
+      "episode_id": 89482788,
+      "opponent": "MD. Nazmus Sakib Anik",
+      "player_index": 1,
+      "crops": {
+        "CARROT": 4,
+        "MELON": 16,
+        "WHEAT": 26
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 28,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 266.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 84850.0,
+        "margin": 2485.0,
+        "win": true
+      },
+      "v4": {
+        "score": 76662.0,
+        "margin": 8708.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": -8188.0,
+      "margin_delta_v4_minus_v3": 6223.0
+    },
+    {
+      "episode_id": 89483326,
+      "opponent": "IsaacJinyu",
+      "player_index": 1,
+      "crops": {
+        "MELON": 5,
+        "STRAWBERRY": 4,
+        "WHEAT": 11
+      },
+      "animals": {
+        "COW": 4
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 145.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 83534.0,
+        "margin": 1400.0,
+        "win": true
+      },
+      "v4": {
+        "score": 85031.0,
+        "margin": -4978.0,
+        "win": false
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": 1497.0,
+      "margin_delta_v4_minus_v3": -6378.0
+    },
+    {
+      "episode_id": 89483866,
+      "opponent": "cmasch",
+      "player_index": 1,
+      "crops": {
+        "MELON": 10
+      },
+      "animals": {
+        "COW": 3,
+        "SHEEP": 1
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 97.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 65433.0,
+        "margin": -41609.0,
+        "win": false
+      },
+      "v4": {
+        "score": 64463.0,
+        "margin": -16005.0,
+        "win": false
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": -970.0,
+      "margin_delta_v4_minus_v3": 25604.0
+    },
+    {
+      "episode_id": 89484406,
+      "opponent": "ghostiee11",
+      "player_index": 1,
+      "crops": {
+        "MELON": 9
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 2
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 78.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 95319.0,
+        "margin": -15956.0,
+        "win": false
+      },
+      "v4": {
+        "score": 92959.0,
+        "margin": -21334.0,
+        "win": false
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -2360.0,
+      "margin_delta_v4_minus_v3": -5378.0
+    },
+    {
+      "episode_id": 89484952,
+      "opponent": "epigene",
+      "player_index": 0,
+      "crops": {
+        "MELON": 15,
+        "WHEAT": 6
+      },
+      "animals": {
+        "COW": 2
+      },
+      "animal_total": 2,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 677.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 102043.0,
+        "margin": -9023.0,
+        "win": false
+      },
+      "v4": {
+        "score": 74831.0,
+        "margin": -29853.0,
+        "win": false
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -27212.0,
+      "margin_delta_v4_minus_v3": -20830.0
+    },
+    {
+      "episode_id": 89485486,
+      "opponent": "motemen",
+      "player_index": 1,
+      "crops": {
+        "CARROT": 2,
+        "MELON": 18,
+        "TOMATO": 2,
+        "WHEAT": 3
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 28,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 1370.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 57959.0,
+        "margin": 2877.0,
+        "win": true
+      },
+      "v4": {
+        "score": 79331.0,
+        "margin": -14428.0,
+        "win": false
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": 21372.0,
+      "margin_delta_v4_minus_v3": -17305.0
+    },
+    {
+      "episode_id": 89485498,
+      "opponent": "omikbop",
+      "player_index": 0,
+      "crops": {
+        "MELON": 9
+      },
+      "animals": {
+        "COW": 3,
+        "SHEEP": 1
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 32.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 71782.0,
+        "margin": -5824.0,
+        "win": false
+      },
+      "v4": {
+        "score": 96220.0,
+        "margin": 705.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 24438.0,
+      "margin_delta_v4_minus_v3": 6529.0
+    },
+    {
+      "episode_id": 89486052,
+      "opponent": "Enrico Ambrosio",
+      "player_index": 0,
+      "crops": {
+        "CARROT": 1,
+        "MELON": 11
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 2
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 37.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 96256.0,
+        "margin": -3792.0,
+        "win": false
+      },
+      "v4": {
+        "score": 108620.0,
+        "margin": 92237.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 12364.0,
+      "margin_delta_v4_minus_v3": 96029.0
+    },
+    {
+      "episode_id": 89486601,
+      "opponent": "Nur Srijan",
+      "player_index": 0,
+      "crops": {
+        "CARROT": 2,
+        "MELON": 11
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 2
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 30.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 78539.0,
+        "margin": -5811.0,
+        "win": false
+      },
+      "v4": {
+        "score": 111883.0,
+        "margin": 42081.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 33344.0,
+      "margin_delta_v4_minus_v3": 47892.0
+    },
+    {
+      "episode_id": 89487146,
+      "opponent": "starclan",
+      "player_index": 1,
+      "crops": {
+        "MELON": 20,
+        "WHEAT": 5
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 28,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 262.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 94091.0,
+        "margin": 17558.0,
+        "win": true
+      },
+      "v4": {
+        "score": 103911.0,
+        "margin": 23744.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 9820.0,
+      "margin_delta_v4_minus_v3": 6186.0
+    },
+    {
+      "episode_id": 89487704,
+      "opponent": "Hiroyasu Okuno",
+      "player_index": 0,
+      "crops": {
+        "MELON": 5,
+        "STRAWBERRY": 4,
+        "WHEAT": 3
+      },
+      "animals": {
+        "COW": 2,
+        "GOOSE": 1,
+        "SHEEP": 1
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 226.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 100877.0,
+        "margin": 41723.0,
+        "win": true
+      },
+      "v4": {
+        "score": 106648.0,
+        "margin": 84420.0,
+        "win": true
+      },
+      "preferred": "v4",
+      "score_delta_v4_minus_v3": 5771.0,
+      "margin_delta_v4_minus_v3": 42697.0
+    },
+    {
+      "episode_id": 89508364,
+      "opponent": "KO Ho Tin",
+      "player_index": 0,
+      "crops": {
+        "MELON": 20
+      },
+      "animals": {},
+      "animal_total": 0,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 265.0,
+      "opponent_money": 453.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 87765.0,
+        "margin": 40041.0,
+        "win": true
+      },
+      "v4": {
+        "score": 104289.0,
+        "margin": 22007.0,
+        "win": true
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": 16524.0,
+      "margin_delta_v4_minus_v3": -18034.0
+    },
+    {
+      "episode_id": 89508913,
+      "opponent": "op_star_platinum",
+      "player_index": 1,
+      "crops": {
+        "MELON": 6
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 1
+      },
+      "animal_total": 3,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 29,
+        "WOOL": 209
+      },
+      "player_money": 256.0,
+      "opponent_money": 98.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 79911.0,
+        "margin": -18439.0,
+        "win": false
+      },
+      "v4": {
+        "score": 61295.0,
+        "margin": -27789.0,
+        "win": false
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -18616.0,
+      "margin_delta_v4_minus_v3": -9350.0
+    },
+    {
+      "episode_id": 89509422,
+      "opponent": "Hasibul Islam Sifat",
+      "player_index": 1,
+      "crops": {
+        "MELON": 7,
+        "WHEAT": 10
+      },
+      "animals": {
+        "COW": 3,
+        "SHEEP": 1
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 255.0,
+      "opponent_money": 273.0,
+      "adaptive_pressure": false,
+      "v3": {
+        "score": 93479.0,
+        "margin": -31213.0,
+        "win": false
+      },
+      "v4": {
+        "score": 36846.0,
+        "margin": -56825.0,
+        "win": false
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -56633.0,
+      "margin_delta_v4_minus_v3": -25612.0
+    },
+    {
+      "episode_id": 89509457,
+      "opponent": "Nur Srijan",
+      "player_index": 1,
+      "crops": {
+        "CARROT": 2,
+        "MELON": 11
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 2
+      },
+      "animal_total": 4,
+      "market_prices": {
+        "CARROT": 36,
+        "EGG": 50,
+        "FERTILIZER": 100,
+        "MELON": 260,
+        "MILK": 172,
+        "STRAWBERRY": 132,
+        "TOMATO": 60,
+        "WHEAT": 30,
+        "WOOL": 209
+      },
+      "player_money": 256.0,
+      "opponent_money": 30.0,
+      "adaptive_pressure": true,
+      "v3": {
+        "score": 107520.0,
+        "margin": 9625.0,
+        "win": true
+      },
+      "v4": {
+        "score": 99718.0,
+        "margin": -422.0,
+        "win": false
+      },
+      "preferred": "v3",
+      "score_delta_v4_minus_v3": -7802.0,
+      "margin_delta_v4_minus_v3": -10047.0
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "datasetVersion": "synthetic-tables-v1",
+  "fixtureHash": "f8303b027d806f19bb9f97640c45ac49a586f33f4e238e2235f6137eeffb5131",
+  "scorerHash": "4cac2fbe7d01914b5ca797f6966f5de65c0be0ab3ad056eddd5d627c7bf1f996",
+  "split": "development",
+  "predictionsSha256": "983325e06a44a90eb31ed3e4d7018eb9b35312d1e6ccef73563be33290468ae0",
+  "evaluatedAt": "2026-09-15T04:30:55.345Z",
+  "total": 18,
+  "correct": 18,
+  "formatValid": 18,
+  "missing": 0,
+  "metric": "local-exact-match-v2 (not the official evaluator)",
+  "categories": {
+    "leading-zero": {
+      "total": 1,
+      "correct": 1,
+      "formatValid": 1
+    },
+    "numeric-extract": {
+      "total": 2,
+      "correct": 2,
+      "formatValid": 2
+    },
+    "arithmetic": {
+      "total": 4,
+      "correct": 4,
+      "formatValid": 4
+    },
+    "array-extract": {
+      "total": 2,
+      "correct": 2,
+      "formatValid": 2
+    },
+    "structure": {
+      "total": 3,
+      "correct": 3,
+      "formatValid": 3
+    },
+    "zero-vs-missing": {
+      "total": 3,
+      "correct": 3,
+      "formatValid": 3
+    },
+    "text-extract": {
+      "total": 1,
+      "correct": 1,
+      "formatValid": 1
+    },
+    "identifier": {
+      "total": 1,
+      "correct": 1,
+      "formatValid": 1
+    },
+    "comparison": {
+      "total": 1,
+      "correct": 1,
+      "formatValid": 1
+    }
+  },
+  "details": [
+    {
+      "id": "dev-sales-q1",
+      "category": "leading-zero",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-sales-q2",
+      "category": "numeric-extract",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-sales-q3",
+      "category": "arithmetic",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-sales-q4",
+      "category": "arithmetic",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-sales-q5",
+      "category": "array-extract",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-sales-q6",
+      "category": "structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-missing-q1",
+      "category": "zero-vs-missing",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-missing-q2",
+      "category": "text-extract",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-missing-q3",
+      "category": "zero-vs-missing",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-missing-q4",
+      "category": "arithmetic",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-missing-q5",
+      "category": "zero-vs-missing",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-missing-q6",
+      "category": "structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-english-q1",
+      "category": "identifier",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-english-q2",
+      "category": "numeric-extract",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-english-q3",
+      "category": "arithmetic",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-english-q4",
+      "category": "comparison",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-english-q5",
+      "category": "array-extract",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "dev-english-q6",
+      "category": "structure",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    }
+  ],
+  "missingRecords": 0,
+  "emptyAnswers": 0,
+  "answered": 18,
+  "invalidNonempty": 0,
+  "mismatchedValid": 0,
+  "answerCoverage": 1,
+  "overallExactMatch": 1,
+  "answeredExactMatch": 1,
+  "complete": true,
+  "rateNote": "answeredExactMatch 仅针对非空回答；不代表全量准确率。缺失答案不应归因于识别能力，须结合 upstreamError 和请求记录判断。",
+  "limitation": "合成表格，本地精确匹配；不能换算天池成绩。按源表划分开发与留出集，不混用同一表的题目。"
+}

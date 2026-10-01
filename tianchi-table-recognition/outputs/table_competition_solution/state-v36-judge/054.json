@@ -1,0 +1,61 @@
+{
+  "decisions": [
+    {
+      "id": "510",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "题目为中文，B选项使用中文回答语言名称，且准确对应表中的荷兰语和法语。"
+    },
+    {
+      "id": "512",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原表左侧表头为两行文字，中间无斜杠，A选项未添加多余符号，更接近原文。"
+    },
+    {
+      "id": "513",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原表包含星号（脚注标记），且通常为RI (Reference Intake)，B选项保留了星号且识别更准确。"
+    },
+    {
+      "id": "514",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原表中数值分两行显示，B选项保留换行符，结构更准确。"
+    },
+    {
+      "id": "515",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原表中数值分两行显示，B选项保留换行符，结构更准确。"
+    },
+    {
+      "id": "518",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "A选项将多个字段聚合在一个对象中，符合扁平对象数组表示一行数据的常见格式，且数值提取正确。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 6598,
+    "completion_tokens": 5798,
+    "prompt_tokens": 800,
+    "completion_tokens_details": {
+      "reasoning_tokens": 5368,
+      "text_tokens": 429
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 134,
+      "cached_tokens": 0,
+      "text_tokens": 666
+    }
+  },
+  "requestId": "chatcmpl-7aa12898-7bbd-9523-a3c8-5565e4822dda"
+}

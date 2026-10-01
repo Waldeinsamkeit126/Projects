@@ -1,0 +1,550 @@
+{
+  "provenance": {
+    "benchmark": "D:\\Codex\\2026-08-01\\k\\work\\kaggriculture_agent\\benchmark_matrix.py",
+    "closed_loop": true,
+    "episode_steps": 720,
+    "town_center_sell_interval": null,
+    "dev_seeds": [
+      4100,
+      4101,
+      4102,
+      4103
+    ],
+    "holdout_seeds": [
+      5100,
+      5101,
+      5102,
+      5103
+    ],
+    "agents": {
+      "e331": {
+        "path": "D:\\Codex\\2026-08-01\\k\\work\\kaggriculture_agent\\candidates\\seat_hybrids\\e331_wool_current_moe\\main.py",
+        "sha256": "fe882e4514b87051e13d270e200549e3b49ff0e5d590187d5f532bc15f6f7f85"
+      },
+      "e330": {
+        "path": "D:\\Codex\\2026-08-01\\k\\work\\kaggriculture_agent\\candidates\\seat_hybrids\\e330_wool_v22\\main.py",
+        "sha256": "227d87e93bc55485182b91406a8f6bd2e09a196d1483a0afe24eb622af65f09a"
+      }
+    }
+  },
+  "ranking": {
+    "dev": [
+      {
+        "agent": "e330",
+        "win_point_rate": 0.75,
+        "mean_margin": 85245.0,
+        "mean_score": 97177.875
+      },
+      {
+        "agent": "e331",
+        "win_point_rate": 0.25,
+        "mean_margin": -85245.0,
+        "mean_score": 11932.875
+      }
+    ],
+    "holdout": [
+      {
+        "agent": "e330",
+        "win_point_rate": 0.625,
+        "mean_margin": 93522.75,
+        "mean_score": 105302.625
+      },
+      {
+        "agent": "e331",
+        "win_point_rate": 0.375,
+        "mean_margin": -93522.75,
+        "mean_score": 11779.875
+      }
+    ]
+  },
+  "agents": {
+    "e331": {
+      "dev": {
+        "games": 8,
+        "wins": 2,
+        "ties": 0,
+        "losses": 6,
+        "win_point_rate": 0.25,
+        "win_point_rate_seed_bootstrap_95ci": [
+          0.0,
+          0.5
+        ],
+        "mean_score": 11932.875,
+        "mean_margin": -85245.0,
+        "median_margin": -81463.5,
+        "min_margin": -179713.0,
+        "max_action_seconds": 0.06531560001894832,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 4,
+            "win_point_rate": 0.0,
+            "mean_score": 11321.0,
+            "mean_margin": -170319.0
+          },
+          "1": {
+            "games": 4,
+            "win_point_rate": 0.5,
+            "mean_score": 12544.75,
+            "mean_margin": -171.0
+          }
+        }
+      },
+      "holdout": {
+        "games": 8,
+        "wins": 3,
+        "ties": 0,
+        "losses": 5,
+        "win_point_rate": 0.375,
+        "win_point_rate_seed_bootstrap_95ci": [
+          0.125,
+          0.5
+        ],
+        "mean_score": 11779.875,
+        "mean_margin": -93522.75,
+        "median_margin": -92464.5,
+        "min_margin": -192778.0,
+        "max_action_seconds": 0.07103830005507916,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 4,
+            "win_point_rate": 0.0,
+            "mean_score": 10702.0,
+            "mean_margin": -187156.5
+          },
+          "1": {
+            "games": 4,
+            "win_point_rate": 0.75,
+            "mean_score": 12857.75,
+            "mean_margin": 111.0
+          }
+        }
+      }
+    },
+    "e330": {
+      "dev": {
+        "games": 8,
+        "wins": 6,
+        "ties": 0,
+        "losses": 2,
+        "win_point_rate": 0.75,
+        "win_point_rate_seed_bootstrap_95ci": [
+          0.5,
+          1.0
+        ],
+        "mean_score": 97177.875,
+        "mean_margin": 85245.0,
+        "median_margin": 81463.5,
+        "min_margin": -861.0,
+        "max_action_seconds": 0.06869860005099326,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 4,
+            "win_point_rate": 0.5,
+            "mean_score": 12715.75,
+            "mean_margin": 171.0
+          },
+          "1": {
+            "games": 4,
+            "win_point_rate": 1.0,
+            "mean_score": 181640.0,
+            "mean_margin": 170319.0
+          }
+        }
+      },
+      "holdout": {
+        "games": 8,
+        "wins": 5,
+        "ties": 0,
+        "losses": 3,
+        "win_point_rate": 0.625,
+        "win_point_rate_seed_bootstrap_95ci": [
+          0.5,
+          0.875
+        ],
+        "mean_score": 105302.625,
+        "mean_margin": 93522.75,
+        "median_margin": 92464.5,
+        "min_margin": -461.0,
+        "max_action_seconds": 0.09575600002426654,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 4,
+            "win_point_rate": 0.25,
+            "mean_score": 12746.75,
+            "mean_margin": -111.0
+          },
+          "1": {
+            "games": 4,
+            "win_point_rate": 1.0,
+            "mean_score": 197858.5,
+            "mean_margin": 187156.5
+          }
+        }
+      }
+    }
+  },
+  "pairs": [
+    {
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "splits": {
+        "dev": {
+          "games": 8,
+          "wins": 2,
+          "ties": 0,
+          "losses": 6,
+          "win_point_rate": 0.25,
+          "win_point_rate_seed_bootstrap_95ci": [
+            0.0,
+            0.5
+          ],
+          "mean_score": 11932.875,
+          "mean_margin": -85245.0,
+          "median_margin": -81463.5,
+          "min_margin": -179713.0,
+          "max_action_seconds": 0.06531560001894832,
+          "all_done": true,
+          "by_position": {
+            "0": {
+              "games": 4,
+              "win_point_rate": 0.0,
+              "mean_score": 11321.0,
+              "mean_margin": -170319.0
+            },
+            "1": {
+              "games": 4,
+              "win_point_rate": 0.5,
+              "mean_score": 12544.75,
+              "mean_margin": -171.0
+            }
+          }
+        },
+        "holdout": {
+          "games": 8,
+          "wins": 3,
+          "ties": 0,
+          "losses": 5,
+          "win_point_rate": 0.375,
+          "win_point_rate_seed_bootstrap_95ci": [
+            0.125,
+            0.5
+          ],
+          "mean_score": 11779.875,
+          "mean_margin": -93522.75,
+          "median_margin": -92464.5,
+          "min_margin": -192778.0,
+          "max_action_seconds": 0.07103830005507916,
+          "all_done": true,
+          "by_position": {
+            "0": {
+              "games": 4,
+              "win_point_rate": 0.0,
+              "mean_score": 10702.0,
+              "mean_margin": -187156.5
+            },
+            "1": {
+              "games": 4,
+              "win_point_rate": 0.75,
+              "mean_score": 12857.75,
+              "mean_margin": 111.0
+            }
+          }
+        }
+      }
+    }
+  ],
+  "games": [
+    {
+      "split": "dev",
+      "seed": 4100,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 0,
+      "score_a": 13270.0,
+      "score_b": 174533.0,
+      "margin_a": -161263.0,
+      "winner": "e330",
+      "elapsed_seconds": 4.273536599939689,
+      "max_action_seconds_a": 0.0015290000010281801,
+      "max_action_seconds_b": 0.00043070001993328333,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 4100,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 1,
+      "score_a": 12382.0,
+      "score_b": 12425.0,
+      "margin_a": -43.0,
+      "winner": "e330",
+      "elapsed_seconds": 2.5842722000088543,
+      "max_action_seconds_a": 0.00049769994802773,
+      "max_action_seconds_b": 0.001392299891449511,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 4101,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 0,
+      "score_a": 13696.0,
+      "score_b": 193409.0,
+      "margin_a": -179713.0,
+      "winner": "e330",
+      "elapsed_seconds": 4.381012200028636,
+      "max_action_seconds_a": 0.001333800028078258,
+      "max_action_seconds_b": 0.0004165000282227993,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 4101,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 1,
+      "score_a": 14008.0,
+      "score_b": 13147.0,
+      "margin_a": 861.0,
+      "winner": "e331",
+      "elapsed_seconds": 2.525858699926175,
+      "max_action_seconds_a": 0.000700299977324903,
+      "max_action_seconds_b": 0.06869860005099326,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 4102,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 0,
+      "score_a": 11390.0,
+      "score_b": 180691.0,
+      "margin_a": -169301.0,
+      "winner": "e330",
+      "elapsed_seconds": 5.06895679992158,
+      "max_action_seconds_a": 0.06531560001894832,
+      "max_action_seconds_b": 0.0010289999190717936,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 4102,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 1,
+      "score_a": 10841.0,
+      "score_b": 12505.0,
+      "margin_a": -1664.0,
+      "winner": "e330",
+      "elapsed_seconds": 3.5274961999384686,
+      "max_action_seconds_a": 0.00037540006451308727,
+      "max_action_seconds_b": 0.06649950006976724,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 4103,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 0,
+      "score_a": 6928.0,
+      "score_b": 177927.0,
+      "margin_a": -170999.0,
+      "winner": "e330",
+      "elapsed_seconds": 5.055811100057326,
+      "max_action_seconds_a": 0.05549659999087453,
+      "max_action_seconds_b": 0.0005109000485390425,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 4103,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 1,
+      "score_a": 12948.0,
+      "score_b": 12786.0,
+      "margin_a": 162.0,
+      "winner": "e331",
+      "elapsed_seconds": 3.539390900055878,
+      "max_action_seconds_a": 0.0004986000712960958,
+      "max_action_seconds_b": 0.04699850000906736,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 5100,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 0,
+      "score_a": 11254.0,
+      "score_b": 195547.0,
+      "margin_a": -184293.0,
+      "winner": "e330",
+      "elapsed_seconds": 5.393307500053197,
+      "max_action_seconds_a": 0.06975150003563613,
+      "max_action_seconds_b": 0.0005486999871209264,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 5100,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 1,
+      "score_a": 12734.0,
+      "score_b": 12273.0,
+      "margin_a": 461.0,
+      "winner": "e331",
+      "elapsed_seconds": 3.816539700026624,
+      "max_action_seconds_a": 0.000529700075276196,
+      "max_action_seconds_b": 0.060166899929754436,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 5101,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 0,
+      "score_a": 11601.0,
+      "score_b": 198911.0,
+      "margin_a": -187310.0,
+      "winner": "e330",
+      "elapsed_seconds": 5.454361600102857,
+      "max_action_seconds_a": 0.05127519997768104,
+      "max_action_seconds_b": 0.0009180000051856041,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 5101,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 1,
+      "score_a": 13586.0,
+      "score_b": 14270.0,
+      "margin_a": -684.0,
+      "winner": "e330",
+      "elapsed_seconds": 4.25746460002847,
+      "max_action_seconds_a": 0.005334199988283217,
+      "max_action_seconds_b": 0.04314869991503656,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 5102,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 0,
+      "score_a": 9202.0,
+      "score_b": 193447.0,
+      "margin_a": -184245.0,
+      "winner": "e330",
+      "elapsed_seconds": 5.717922699986957,
+      "max_action_seconds_a": 0.05822719994466752,
+      "max_action_seconds_b": 0.0009343000128865242,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 5102,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 1,
+      "score_a": 12270.0,
+      "score_b": 11978.0,
+      "margin_a": 292.0,
+      "winner": "e331",
+      "elapsed_seconds": 3.9667437999742106,
+      "max_action_seconds_a": 0.000525199924595654,
+      "max_action_seconds_b": 0.05926849995739758,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 5103,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 0,
+      "score_a": 10751.0,
+      "score_b": 203529.0,
+      "margin_a": -192778.0,
+      "winner": "e330",
+      "elapsed_seconds": 5.822640300029889,
+      "max_action_seconds_a": 0.07103830005507916,
+      "max_action_seconds_b": 0.0009054000256583095,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 5103,
+      "agent_a": "e331",
+      "agent_b": "e330",
+      "position_a": 1,
+      "score_a": 12841.0,
+      "score_b": 12466.0,
+      "margin_a": 375.0,
+      "winner": "e331",
+      "elapsed_seconds": 3.9209769000299275,
+      "max_action_seconds_a": 0.0006536999717354774,
+      "max_action_seconds_b": 0.09575600002426654,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

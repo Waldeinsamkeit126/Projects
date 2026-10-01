@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\021.jpg",
+  "results": [
+    {
+      "id": "199",
+      "source_file": "021.jpg",
+      "resolved_file": "021.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Material composition limits",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "200",
+      "source_file": "021.jpg",
+      "resolved_file": "021.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "201",
+      "source_file": "021.jpg",
+      "resolved_file": "021.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "202",
+      "source_file": "021.jpg",
+      "resolved_file": "021.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Material",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "203",
+      "source_file": "021.jpg",
+      "resolved_file": "021.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Si%",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "204",
+      "source_file": "021.jpg",
+      "resolved_file": "021.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "≤0.3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "205",
+      "source_file": "021.jpg",
+      "resolved_file": "021.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "≤0.6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "206",
+      "source_file": "021.jpg",
+      "resolved_file": "021.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "≤0.08",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "207",
+      "source_file": "021.jpg",
+      "resolved_file": "021.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "0.38-0.48",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "208",
+      "source_file": "021.jpg",
+      "resolved_file": "021.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"BTM Si%\":\"\"},{\"2HM C%\":\"0.450\"},{\"红色限制单元数量\":\"8\"},{\"绿色数值单元数量\":\"16\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

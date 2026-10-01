@@ -1,0 +1,159 @@
+{
+  "mode": "read-only-coverage-audit",
+  "generatedAt": "2026-09-16T04:29:07.564Z",
+  "coverageVersion": "explicit-full-grid-v1",
+  "questionSha256": "ef97b49f44afc976795f4a54a79810f3e42333b69a609c10631d966353cad24c",
+  "predictionsSha256": "1695672f2924460fe78d60160d22e903f62922712bd2ccd63de84fd08ab7204e",
+  "sourceHash": "b9e1672f6eaba15eee711da1186c08ea3ef3c6d354b4733afed28cc348e8cd92",
+  "apiRequests": 0,
+  "predictionsModified": false,
+  "modelAccuracy": null,
+  "total": 12,
+  "fullScope": 2,
+  "newlyFlagged": 1,
+  "missingRecords": 0,
+  "details": [
+    {
+      "id": "holdout-merged-q1",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "holdout-merged-q2",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "holdout-merged-q3",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "holdout-merged-q4",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "holdout-merged-q5",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "holdout-merged-q6",
+      "scope": "full",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": false,
+      "newlyFlagged": true,
+      "error": "题目明确要求完整表格，但当前 cells 有 1 个逻辑网格未覆盖，例如 (row=1,col=0,高=1,宽=1)。请重新查看原图，核对空白单元格与纵向/横向合并边界。不得为了填满网格直接补值或扩大跨度；完整范围仍须以题目和图像为准。",
+      "coverage": {
+        "version": "explicit-full-grid-v1",
+        "totalSlots": "20",
+        "coveredSlots": "19",
+        "missingSlots": "1",
+        "complete": false,
+        "firstGaps": [
+          {
+            "row": 1,
+            "col": 0,
+            "height": 1,
+            "width": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "holdout-units-q1",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "holdout-units-q2",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "holdout-units-q3",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "holdout-units-q4",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "holdout-units-q5",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "holdout-units-q6",
+      "scope": "full",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": {
+        "version": "explicit-full-grid-v1",
+        "totalSlots": "16",
+        "coveredSlots": "16",
+        "missingSlots": "0",
+        "complete": true,
+        "firstGaps": []
+      }
+    }
+  ],
+  "limitation": "只离线检查已有答案，不生成或修正答案，不重算模型成绩。已查看样例的错误定位不是独立泛化验证。"
+}

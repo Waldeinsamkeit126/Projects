@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\079.png",
+  "results": [
+    {
+      "id": "759",
+      "source_file": "079.png",
+      "resolved_file": "079.png",
+      "model": "qwen3-vl-plus",
+      "answer": "{\"row_count\":4,\"col_count\":4,\"cells\":[{\"text\":\"AMAZON.COM, INC.\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":4},{\"text\":\"CONSOLIDATED STATEMENTS OF CASH FLOWS\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":4},{\"text\":\"(in millions)\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":4},{\"text\":\"\",\"row\":3,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Year Ended December 31,\",\"row\":3,\"col\":1,\"rowspan\":1,\"colspan\":3}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "760",
+      "source_file": "079.png",
+      "resolved_file": "079.png",
+      "model": "qwen3-vl-plus",
+      "answer": "14557",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "761",
+      "source_file": "079.png",
+      "resolved_file": "079.png",
+      "model": "qwen3-vl-plus",
+      "answer": "18434",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "762",
+      "source_file": "079.png",
+      "resolved_file": "079.png",
+      "model": "qwen3-vl-plus",
+      "answer": "-7756",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "763",
+      "source_file": "079.png",
+      "resolved_file": "079.png",
+      "model": "qwen3-vl-plus",
+      "answer": "-27819",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "764",
+      "source_file": "079.png",
+      "resolved_file": "079.png",
+      "model": "qwen3-vl-plus",
+      "answer": "9860",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "765",
+      "source_file": "079.png",
+      "resolved_file": "079.png",
+      "model": "qwen3-vl-plus",
+      "answer": "20522",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "766",
+      "source_file": "079.png",
+      "resolved_file": "079.png",
+      "model": "qwen3-vl-plus",
+      "answer": "1118",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "767",
+      "source_file": "079.png",
+      "resolved_file": "079.png",
+      "model": "qwen3-vl-plus",
+      "answer": "1172",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "768",
+      "source_file": "079.png",
+      "resolved_file": "079.png",
+      "model": "qwen3-vl-plus",
+      "answer": "-3779",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "470",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表含中文字段与英文品牌/型号词（NIKE SB COACHES、Nike SB Shield）及XS-XL尺码，属中英混合"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 225,
+    "completion_tokens_details": {
+      "reasoning_tokens": 166,
+      "text_tokens": 58
+    },
+    "prompt_tokens": 756,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 402,
+      "text_tokens": 354
+    },
+    "total_tokens": 981
+  },
+  "requestId": "chatcmpl-39020fa0-8bad-9aee-aaaa-5acfbf773991",
+  "model": "qwen3.8-max-0902"
+}

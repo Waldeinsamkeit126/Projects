@@ -1,0 +1,50 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\003.pdf",
+  "results": [
+    {
+      "id": "16",
+      "source_file": "003.pdf",
+      "resolved_file": "003.pdf",
+      "model": "qwen3.8-max",
+      "answer": "942209081.95",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "17",
+      "source_file": "003.pdf",
+      "resolved_file": "003.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"项目\":\"信用减值损失\",\"本期金额\":\"-5323072.70\",\"上期金额\":\"-9220946.25\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "18",
+      "source_file": "003.pdf",
+      "resolved_file": "003.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"项目\":\"管理费用\",\"本期金额\":\"40864603.20\",\"上期金额\":\"41567941.56\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "19",
+      "source_file": "003.pdf",
+      "resolved_file": "003.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"组成项\":\"营业总收入\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "20",
+      "source_file": "003.pdf",
+      "resolved_file": "003.pdf",
+      "model": "qwen3.8-max",
+      "answer": "223689870.83",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

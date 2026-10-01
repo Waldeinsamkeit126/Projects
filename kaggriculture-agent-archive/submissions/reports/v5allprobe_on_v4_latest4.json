@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\v5_day0_all_probe\\main.py",
+    "games": 4,
+    "wins": 3,
+    "mean_score": 82753.75,
+    "mean_margin": 3680.0,
+    "mean_score_delta": 7216.75,
+    "mean_margin_delta": 19437.25,
+    "median_margin_delta": 14046.0,
+    "max_action_seconds": 0.005857899988768622,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89509422,
+      "opponent": "Hasibul Islam Sifat",
+      "seed": 1144012221,
+      "position": 1,
+      "ours": 68384.0,
+      "theirs": 115906.0,
+      "margin": -47522.0,
+      "win": false,
+      "original_ours": 36846.0,
+      "original_theirs": 93671.0,
+      "original_margin": -56825.0,
+      "score_delta": 31538.0,
+      "margin_delta": 9303.0,
+      "elapsed_seconds": 7.509065099991858,
+      "max_action_seconds": 0.005857899988768622,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89509457,
+      "opponent": "Nur Srijan",
+      "seed": 1779725631,
+      "position": 1,
+      "ours": 102408.0,
+      "theirs": 93478.0,
+      "margin": 8930.0,
+      "win": true,
+      "original_ours": 99718.0,
+      "original_theirs": 100140.0,
+      "original_margin": -422.0,
+      "score_delta": 2690.0,
+      "margin_delta": 9352.0,
+      "elapsed_seconds": 7.315740100020776,
+      "max_action_seconds": 0.0040886000206228346,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89508913,
+      "opponent": "op_star_platinum",
+      "seed": 1694635941,
+      "position": 1,
+      "ours": 71264.0,
+      "theirs": 58699.0,
+      "margin": 12565.0,
+      "win": true,
+      "original_ours": 61295.0,
+      "original_theirs": 89084.0,
+      "original_margin": -27789.0,
+      "score_delta": 9969.0,
+      "margin_delta": 40354.0,
+      "elapsed_seconds": 7.964238199987449,
+      "max_action_seconds": 0.005092200008220971,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89508364,
+      "opponent": "KO Ho Tin",
+      "seed": 812554986,
+      "position": 0,
+      "ours": 88959.0,
+      "theirs": 48212.0,
+      "margin": 40747.0,
+      "win": true,
+      "original_ours": 104289.0,
+      "original_theirs": 82282.0,
+      "original_margin": 22007.0,
+      "score_delta": -15330.0,
+      "margin_delta": 18740.0,
+      "elapsed_seconds": 6.790241600014269,
+      "max_action_seconds": 0.004752100008772686,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\082.png",
+  "results": [
+    {
+      "id": "790",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3.7-plus",
+      "answer": "表1-2 分部分项工程量清单及计价表（ 号清单）",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "791",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3.7-plus",
+      "answer": "第 7 页 共 10 页",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "792",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3.7-plus",
+      "answer": "现浇构件钢筋",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "793",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3.7-plus",
+      "answer": "2.238",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "794",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3.7-plus",
+      "answer": "塑料管",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "795",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3.7-plus",
+      "answer": "82809",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "796",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3.7-plus",
+      "answer": "12774",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "797",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3.7-plus",
+      "answer": "16236",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "798",
+      "source_file": "082.png",
+      "resolved_file": "082.png",
+      "model": "qwen3.7-plus",
+      "answer": "污水",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

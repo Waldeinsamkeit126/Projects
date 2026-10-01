@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "737",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表中三项费用以括号负数列示(-300,-250,-150)，代数和为-700，与Total Operating Expenses (700)一致"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2001,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1934,
+      "text_tokens": 66
+    },
+    "prompt_tokens": 1767,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 1410,
+      "text_tokens": 357
+    },
+    "total_tokens": 3768
+  },
+  "requestId": "chatcmpl-2c33c5a6-7635-9cbd-ad85-4b5088023762",
+  "model": "qwen3.8-max-0902"
+}

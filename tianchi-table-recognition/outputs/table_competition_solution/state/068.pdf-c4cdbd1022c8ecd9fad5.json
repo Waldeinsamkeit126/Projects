@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\068.pdf",
+  "results": [
+    {
+      "id": "649",
+      "source_file": "068.pdf",
+      "resolved_file": "068.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":12,\"col_count\":10,\"cells\":[{\"text\":\"\",\"row\":0,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"Before Perturb\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":5},{\"text\":\"After Perturb\",\"row\":0,\"col\":6,\"rowspan\":1,\"colspan\":4},{\"text\":\"dev\",\"row\":1,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"test\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"testsimple\",\"row\":1,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"testcomplex\",\"row\":1,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"testsmall\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"test\",\"row\":1,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"testsimple\",\"row\":1,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"testcomplex\",\"row\":1,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"testsmall\",\"row\":1,\"col\":9,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "650",
+      "source_file": "068.pdf",
+      "resolved_file": "068.pdf",
+      "model": "qwen3.8-max",
+      "answer": "81.6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "651",
+      "source_file": "068.pdf",
+      "resolved_file": "068.pdf",
+      "model": "qwen3.8-max",
+      "answer": "71.2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "652",
+      "source_file": "068.pdf",
+      "resolved_file": "068.pdf",
+      "model": "qwen3.8-max",
+      "answer": "92.3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "653",
+      "source_file": "068.pdf",
+      "resolved_file": "068.pdf",
+      "model": "qwen3.8-max",
+      "answer": "52.6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "654",
+      "source_file": "068.pdf",
+      "resolved_file": "068.pdf",
+      "model": "qwen3.8-max",
+      "answer": "49.9",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "655",
+      "source_file": "068.pdf",
+      "resolved_file": "068.pdf",
+      "model": "qwen3.8-max",
+      "answer": "73.1",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "656",
+      "source_file": "068.pdf",
+      "resolved_file": "068.pdf",
+      "model": "qwen3.8-max",
+      "answer": "1.4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "657",
+      "source_file": "068.pdf",
+      "resolved_file": "068.pdf",
+      "model": "qwen3.8-max",
+      "answer": "TABLEFORMERLARGE inter-sqa",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "658",
+      "source_file": "068.pdf",
+      "resolved_file": "068.pdf",
+      "model": "qwen3.8-max",
+      "answer": "17.4",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "828",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "DowDuPont的Planned值为244.97，是可见汇总行中最大的。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 3229,
+    "completion_tokens": 488,
+    "prompt_tokens": 2741,
+    "completion_tokens_details": {
+      "reasoning_tokens": 438,
+      "text_tokens": 49
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 2487,
+      "cached_tokens": 0,
+      "text_tokens": 254
+    }
+  },
+  "requestId": "chatcmpl-57d0ed43-b58d-9ebf-ae85-a398e2aa535a"
+}

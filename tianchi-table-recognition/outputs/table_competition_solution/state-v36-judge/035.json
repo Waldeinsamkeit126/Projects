@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "344",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Concise and readable 行中有4个绿色对勾（Quarkdown, Typst, AsciiDoc, MDX），LaTeX 是红色叉。"
+    },
+    {
+      "id": "348",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A 的键名直接对应题目要求的字段，没有引入多余的 'Field'/'Value' 键，且数值提取正确。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 3904,
+    "completion_tokens": 2655,
+    "prompt_tokens": 1249,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2480,
+      "text_tokens": 174
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 842,
+      "cached_tokens": 0,
+      "text_tokens": 407
+    }
+  },
+  "requestId": "chatcmpl-e0163ff8-2165-9293-ac92-e11bd515015b"
+}

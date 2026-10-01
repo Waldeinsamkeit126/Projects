@@ -1,0 +1,1979 @@
+{
+  "baseline": "indar",
+  "seeds": {
+    "dev": [
+      2300,
+      2301,
+      2302,
+      2303,
+      2304,
+      2305,
+      2306,
+      2307
+    ],
+    "holdout": [
+      3300,
+      3301,
+      3302,
+      3303,
+      3304,
+      3305,
+      3306,
+      3307
+    ]
+  },
+  "summaries": {
+    "wool_exact": {
+      "all": {
+        "games": 32,
+        "wins": 23,
+        "ties": 6,
+        "losses": 3,
+        "point_rate": 0.8125,
+        "mean_margin": 64.0,
+        "median_margin": 18.0,
+        "mean_score": 12848.90625,
+        "max_action_seconds": 0.1164610999985598,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 16,
+            "point_rate": 0.71875,
+            "mean_margin": -422.8125
+          },
+          "1": {
+            "games": 16,
+            "point_rate": 0.90625,
+            "mean_margin": 550.8125
+          }
+        }
+      },
+      "dev": {
+        "games": 16,
+        "wins": 9,
+        "ties": 4,
+        "losses": 3,
+        "point_rate": 0.6875,
+        "mean_margin": 48.125,
+        "median_margin": 15.0,
+        "mean_score": 12839.9375,
+        "max_action_seconds": 0.09508930000083637,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 8,
+            "point_rate": 0.5,
+            "mean_margin": -925.5
+          },
+          "1": {
+            "games": 8,
+            "point_rate": 0.875,
+            "mean_margin": 1021.75
+          }
+        }
+      },
+      "holdout": {
+        "games": 16,
+        "wins": 14,
+        "ties": 2,
+        "losses": 0,
+        "point_rate": 0.9375,
+        "mean_margin": 79.875,
+        "median_margin": 66.0,
+        "mean_score": 12857.875,
+        "max_action_seconds": 0.1164610999985598,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 8,
+            "point_rate": 0.9375,
+            "mean_margin": 79.875
+          },
+          "1": {
+            "games": 8,
+            "point_rate": 0.9375,
+            "mean_margin": 79.875
+          }
+        }
+      }
+    },
+    "milk_wool_exact": {
+      "all": {
+        "games": 32,
+        "wins": 23,
+        "ties": 6,
+        "losses": 3,
+        "point_rate": 0.8125,
+        "mean_margin": 64.875,
+        "median_margin": 19.0,
+        "mean_score": 12848.21875,
+        "max_action_seconds": 0.11429429999770946,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 16,
+            "point_rate": 0.71875,
+            "mean_margin": -421.9375
+          },
+          "1": {
+            "games": 16,
+            "point_rate": 0.90625,
+            "mean_margin": 551.6875
+          }
+        }
+      },
+      "dev": {
+        "games": 16,
+        "wins": 9,
+        "ties": 4,
+        "losses": 3,
+        "point_rate": 0.6875,
+        "mean_margin": 48.75,
+        "median_margin": 16.0,
+        "mean_score": 12839.5625,
+        "max_action_seconds": 0.10945559999890975,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 8,
+            "point_rate": 0.5,
+            "mean_margin": -924.875
+          },
+          "1": {
+            "games": 8,
+            "point_rate": 0.875,
+            "mean_margin": 1022.375
+          }
+        }
+      },
+      "holdout": {
+        "games": 16,
+        "wins": 14,
+        "ties": 2,
+        "losses": 0,
+        "point_rate": 0.9375,
+        "mean_margin": 81.0,
+        "median_margin": 67.0,
+        "mean_score": 12856.875,
+        "max_action_seconds": 0.11429429999770946,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 8,
+            "point_rate": 0.9375,
+            "mean_margin": 81.0
+          },
+          "1": {
+            "games": 8,
+            "point_rate": 0.9375,
+            "mean_margin": 81.0
+          }
+        }
+      }
+    },
+    "wool_near": {
+      "all": {
+        "games": 32,
+        "wins": 23,
+        "ties": 6,
+        "losses": 3,
+        "point_rate": 0.8125,
+        "mean_margin": 71.25,
+        "median_margin": 84.0,
+        "mean_score": 12852.03125,
+        "max_action_seconds": 0.11320429999977932,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 16,
+            "point_rate": 0.71875,
+            "mean_margin": -415.5625
+          },
+          "1": {
+            "games": 16,
+            "point_rate": 0.90625,
+            "mean_margin": 558.0625
+          }
+        }
+      },
+      "dev": {
+        "games": 16,
+        "wins": 9,
+        "ties": 4,
+        "losses": 3,
+        "point_rate": 0.6875,
+        "mean_margin": 55.875,
+        "median_margin": 83.0,
+        "mean_score": 12843.3125,
+        "max_action_seconds": 0.11320429999977932,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 8,
+            "point_rate": 0.5,
+            "mean_margin": -917.75
+          },
+          "1": {
+            "games": 8,
+            "point_rate": 0.875,
+            "mean_margin": 1029.5
+          }
+        }
+      },
+      "holdout": {
+        "games": 16,
+        "wins": 14,
+        "ties": 2,
+        "losses": 0,
+        "point_rate": 0.9375,
+        "mean_margin": 86.625,
+        "median_margin": 99.0,
+        "mean_score": 12860.75,
+        "max_action_seconds": 0.10598079999908805,
+        "all_done": true,
+        "by_position": {
+          "0": {
+            "games": 8,
+            "point_rate": 0.9375,
+            "mean_margin": 86.625
+          },
+          "1": {
+            "games": 8,
+            "point_rate": 0.9375,
+            "mean_margin": 86.625
+          }
+        }
+      }
+    }
+  },
+  "games": [
+    {
+      "split": "dev",
+      "seed": 2300,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12595.0,
+      "score_b": 12580.0,
+      "margin_a": 15.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 4.814476499999728,
+      "max_action_seconds_a": 0.0010866000011446886,
+      "max_action_seconds_b": 0.036276599999837345,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2300,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12595.0,
+      "score_b": 12580.0,
+      "margin_a": 15.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 4.818104999998468,
+      "max_action_seconds_a": 0.03731519999928423,
+      "max_action_seconds_b": 0.0010211000007984694,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2301,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12569.0,
+      "score_b": 12384.0,
+      "margin_a": 185.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 4.835782199999812,
+      "max_action_seconds_a": 0.0262202999983856,
+      "max_action_seconds_b": 0.001495799999247538,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2301,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12569.0,
+      "score_b": 12384.0,
+      "margin_a": 185.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 4.9253393999970285,
+      "max_action_seconds_a": 0.0011331999994581565,
+      "max_action_seconds_b": 0.03129180000178167,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2302,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13576.0,
+      "score_b": 7318.0,
+      "margin_a": 6258.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.4800160999984655,
+      "max_action_seconds_a": 0.0011121999996248633,
+      "max_action_seconds_b": 0.05674129999897559,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2302,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 7318.0,
+      "score_b": 13576.0,
+      "margin_a": -6258.0,
+      "winner": "indar",
+      "elapsed_seconds": 5.53699929999857,
+      "max_action_seconds_a": 0.0594755999991321,
+      "max_action_seconds_b": 0.0009964000018953811,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2303,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13683.0,
+      "score_b": 13683.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 6.039776000001439,
+      "max_action_seconds_a": 0.05528489999778685,
+      "max_action_seconds_b": 0.0011138999980175868,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2303,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13683.0,
+      "score_b": 13683.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 6.099039900000207,
+      "max_action_seconds_a": 0.0011207999996258877,
+      "max_action_seconds_b": 0.05392809999830206,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2304,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13681.0,
+      "score_b": 13681.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.845939300001191,
+      "max_action_seconds_a": 0.0921881000031135,
+      "max_action_seconds_b": 0.0009853999981714878,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2304,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13681.0,
+      "score_b": 13681.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.8925784999992175,
+      "max_action_seconds_a": 0.0010916000028373674,
+      "max_action_seconds_b": 0.08971899999960442,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2305,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12539.0,
+      "score_b": 12354.0,
+      "margin_a": 185.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.299345399998856,
+      "max_action_seconds_a": 0.049677899998641806,
+      "max_action_seconds_b": 0.0009275999982492067,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2305,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12539.0,
+      "score_b": 12354.0,
+      "margin_a": 185.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.340904500000761,
+      "max_action_seconds_a": 0.0009740999994392041,
+      "max_action_seconds_b": 0.051282099997479236,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2306,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12910.0,
+      "score_b": 13224.0,
+      "margin_a": -314.0,
+      "winner": "indar",
+      "elapsed_seconds": 6.05111389999729,
+      "max_action_seconds_a": 0.0656593999992765,
+      "max_action_seconds_b": 0.0009453000020585023,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2306,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13224.0,
+      "score_b": 12910.0,
+      "margin_a": 314.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 6.146938099998806,
+      "max_action_seconds_a": 0.0014407000016944949,
+      "max_action_seconds_b": 0.06857099999979255,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2307,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13530.0,
+      "score_b": 14747.0,
+      "margin_a": -1217.0,
+      "winner": "indar",
+      "elapsed_seconds": 6.203077800000756,
+      "max_action_seconds_a": 0.09508930000083637,
+      "max_action_seconds_b": 0.000823300000774907,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2307,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 14747.0,
+      "score_b": 13530.0,
+      "margin_a": 1217.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 6.270714900001622,
+      "max_action_seconds_a": 0.001213100000313716,
+      "max_action_seconds_b": 0.09574979999888455,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3300,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12540.0,
+      "score_b": 12353.0,
+      "margin_a": 187.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.543411500002549,
+      "max_action_seconds_a": 0.004386100001283921,
+      "max_action_seconds_b": 0.001190799997857539,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3301,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13100.0,
+      "score_b": 13082.0,
+      "margin_a": 18.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.459309900001244,
+      "max_action_seconds_a": 0.0767543999972986,
+      "max_action_seconds_b": 0.0008013000006030779,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3300,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12540.0,
+      "score_b": 12353.0,
+      "margin_a": 187.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.611081900002318,
+      "max_action_seconds_a": 0.0010284999989380594,
+      "max_action_seconds_b": 0.00704099999711616,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3301,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13100.0,
+      "score_b": 13082.0,
+      "margin_a": 18.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.504344400000264,
+      "max_action_seconds_a": 0.0012284000004001427,
+      "max_action_seconds_b": 0.06578999999692314,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3303,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12512.0,
+      "score_b": 12327.0,
+      "margin_a": 185.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.316705699999147,
+      "max_action_seconds_a": 0.0936610999997356,
+      "max_action_seconds_b": 0.0009024000028148293,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3303,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12512.0,
+      "score_b": 12327.0,
+      "margin_a": 185.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.4526200000000244,
+      "max_action_seconds_a": 0.001284400001168251,
+      "max_action_seconds_b": 0.06854419999945094,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3302,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 14204.0,
+      "score_b": 14204.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.908468900001026,
+      "max_action_seconds_a": 0.1164610999985598,
+      "max_action_seconds_b": 0.0008950000010372605,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3302,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 14204.0,
+      "score_b": 14204.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.960373499998241,
+      "max_action_seconds_a": 0.0011888999979419168,
+      "max_action_seconds_b": 0.06715550000080839,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3304,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13038.0,
+      "score_b": 13028.0,
+      "margin_a": 10.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.5444414999983564,
+      "max_action_seconds_a": 0.05082359999869368,
+      "max_action_seconds_b": 0.001193500000226777,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3305,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13051.0,
+      "score_b": 12933.0,
+      "margin_a": 118.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.644057399997109,
+      "max_action_seconds_a": 0.059138200002053054,
+      "max_action_seconds_b": 0.0010102999985974748,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3304,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13038.0,
+      "score_b": 13028.0,
+      "margin_a": 10.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.6403296000025875,
+      "max_action_seconds_a": 0.0011255000026721973,
+      "max_action_seconds_b": 0.05305919999955222,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3305,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13051.0,
+      "score_b": 12933.0,
+      "margin_a": 118.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.551668799998879,
+      "max_action_seconds_a": 0.0018404000002192333,
+      "max_action_seconds_b": 0.07208950000131154,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3306,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 11755.0,
+      "score_b": 11748.0,
+      "margin_a": 7.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.586735100001533,
+      "max_action_seconds_a": 0.0679152000011527,
+      "max_action_seconds_b": 0.0009051000015460886,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3306,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 11755.0,
+      "score_b": 11748.0,
+      "margin_a": 7.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.662583299999824,
+      "max_action_seconds_a": 0.0010902999965765048,
+      "max_action_seconds_b": 0.11912170000141487,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3307,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12663.0,
+      "score_b": 12549.0,
+      "margin_a": 114.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.745875600001455,
+      "max_action_seconds_a": 0.057129699998768046,
+      "max_action_seconds_b": 0.0008152999980666209,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3307,
+      "agent_a": "wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12663.0,
+      "score_b": 12549.0,
+      "margin_a": 114.0,
+      "winner": "wool_exact",
+      "elapsed_seconds": 5.690362800000003,
+      "max_action_seconds_a": 0.0008988000008685049,
+      "max_action_seconds_b": 0.05291399999987334,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2300,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12593.0,
+      "score_b": 12577.0,
+      "margin_a": 16.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.572486099998059,
+      "max_action_seconds_a": 0.05217179999817745,
+      "max_action_seconds_b": 0.0009087999969779048,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2300,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12593.0,
+      "score_b": 12577.0,
+      "margin_a": 16.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.557162400000379,
+      "max_action_seconds_a": 0.0010050999990198761,
+      "max_action_seconds_b": 0.0014885000018693972,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2301,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12569.0,
+      "score_b": 12382.0,
+      "margin_a": 187.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.5070833999998285,
+      "max_action_seconds_a": 0.0012099999985366594,
+      "max_action_seconds_b": 0.05810419999761507,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2301,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12569.0,
+      "score_b": 12382.0,
+      "margin_a": 187.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.589257100000395,
+      "max_action_seconds_a": 0.057388500001252396,
+      "max_action_seconds_b": 0.000910999999177875,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2302,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 7318.0,
+      "score_b": 13576.0,
+      "margin_a": -6258.0,
+      "winner": "indar",
+      "elapsed_seconds": 5.279869600002712,
+      "max_action_seconds_a": 0.050217700001667254,
+      "max_action_seconds_b": 0.0008732000023883302,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2302,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13576.0,
+      "score_b": 7318.0,
+      "margin_a": 6258.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.376638000001549,
+      "max_action_seconds_a": 0.001348000001598848,
+      "max_action_seconds_b": 0.006740299999364652,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2303,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13683.0,
+      "score_b": 13683.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.927917900000466,
+      "max_action_seconds_a": 0.05714789999910863,
+      "max_action_seconds_b": 0.0013123999997333158,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2303,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13683.0,
+      "score_b": 13683.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.983507799999643,
+      "max_action_seconds_a": 0.0010839000024134293,
+      "max_action_seconds_b": 0.05127419999917038,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2304,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13681.0,
+      "score_b": 13681.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.986417500000243,
+      "max_action_seconds_a": 0.05216460000156076,
+      "max_action_seconds_b": 0.0008051000004343223,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2304,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13681.0,
+      "score_b": 13681.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.975028900000325,
+      "max_action_seconds_a": 0.09495560000141268,
+      "max_action_seconds_b": 0.10980190000191214,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2305,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12538.0,
+      "score_b": 12351.0,
+      "margin_a": 187.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.456769899999927,
+      "max_action_seconds_a": 0.06505770000148914,
+      "max_action_seconds_b": 0.0009542000007058959,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2305,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12538.0,
+      "score_b": 12351.0,
+      "margin_a": 187.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.5253918999987945,
+      "max_action_seconds_a": 0.0016797999996924773,
+      "max_action_seconds_b": 0.0676406999991741,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2306,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12910.0,
+      "score_b": 13224.0,
+      "margin_a": -314.0,
+      "winner": "indar",
+      "elapsed_seconds": 6.164574599999469,
+      "max_action_seconds_a": 0.10161950000110664,
+      "max_action_seconds_b": 0.0009446999974898063,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2306,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13224.0,
+      "score_b": 12910.0,
+      "margin_a": 314.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 6.171146900000167,
+      "max_action_seconds_a": 0.0011956999987887684,
+      "max_action_seconds_b": 0.056861600001866464,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2307,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13530.0,
+      "score_b": 14747.0,
+      "margin_a": -1217.0,
+      "winner": "indar",
+      "elapsed_seconds": 6.179732700002205,
+      "max_action_seconds_a": 0.10945559999890975,
+      "max_action_seconds_b": 0.00203959999998915,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2307,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 14747.0,
+      "score_b": 13530.0,
+      "margin_a": 1217.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 6.246908500001155,
+      "max_action_seconds_a": 0.0013152999999874737,
+      "max_action_seconds_b": 0.10163850000026287,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3300,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12540.0,
+      "score_b": 12351.0,
+      "margin_a": 189.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.357552900000883,
+      "max_action_seconds_a": 0.11006059999999707,
+      "max_action_seconds_b": 0.000790699999924982,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3300,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12540.0,
+      "score_b": 12351.0,
+      "margin_a": 189.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.305528299999423,
+      "max_action_seconds_a": 0.0010260000017296989,
+      "max_action_seconds_b": 0.09507079999821144,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3301,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13099.0,
+      "score_b": 13080.0,
+      "margin_a": 19.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.275619999996707,
+      "max_action_seconds_a": 0.07193390000247746,
+      "max_action_seconds_b": 0.0009413999978278298,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3301,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13099.0,
+      "score_b": 13080.0,
+      "margin_a": 19.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.304266400002234,
+      "max_action_seconds_a": 0.0011930000000575092,
+      "max_action_seconds_b": 0.06707169999936013,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3302,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 14204.0,
+      "score_b": 14204.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.9383350999996765,
+      "max_action_seconds_a": 0.0015998000017134473,
+      "max_action_seconds_b": 0.10984139999709441,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3303,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12511.0,
+      "score_b": 12324.0,
+      "margin_a": 187.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.507099300000846,
+      "max_action_seconds_a": 0.07165259999965201,
+      "max_action_seconds_b": 0.0009023999991768505,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3302,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 14204.0,
+      "score_b": 14204.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.945807599997352,
+      "max_action_seconds_a": 0.0011173000020789914,
+      "max_action_seconds_b": 0.06668700000227545,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3303,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12511.0,
+      "score_b": 12324.0,
+      "margin_a": 187.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.539888999999675,
+      "max_action_seconds_a": 0.0010636000006343238,
+      "max_action_seconds_b": 0.07249720000254456,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3304,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13036.0,
+      "score_b": 13025.0,
+      "margin_a": 11.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.335203800001182,
+      "max_action_seconds_a": 0.054325700002664234,
+      "max_action_seconds_b": 0.0008071999982348643,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3304,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13036.0,
+      "score_b": 13025.0,
+      "margin_a": 11.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.314903000002232,
+      "max_action_seconds_a": 0.0010689999980968423,
+      "max_action_seconds_b": 0.05904200000077253,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3305,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13050.0,
+      "score_b": 12931.0,
+      "margin_a": 119.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.401305700001103,
+      "max_action_seconds_a": 0.11429429999770946,
+      "max_action_seconds_b": 0.001014900000882335,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3305,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13050.0,
+      "score_b": 12931.0,
+      "margin_a": 119.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.387418099999195,
+      "max_action_seconds_a": 0.0013002000014239457,
+      "max_action_seconds_b": 0.057040400002733804,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3306,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 11754.0,
+      "score_b": 11746.0,
+      "margin_a": 8.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.369286500001181,
+      "max_action_seconds_a": 0.06463420000000042,
+      "max_action_seconds_b": 0.0007909999985713512,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3306,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 11754.0,
+      "score_b": 11746.0,
+      "margin_a": 8.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.489214400000492,
+      "max_action_seconds_a": 0.0009210000025632326,
+      "max_action_seconds_b": 0.06549679999807267,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3307,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12661.0,
+      "score_b": 12546.0,
+      "margin_a": 115.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.360909999999421,
+      "max_action_seconds_a": 0.06456659999821568,
+      "max_action_seconds_b": 0.0008800999967206735,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3307,
+      "agent_a": "milk_wool_exact",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12661.0,
+      "score_b": 12546.0,
+      "margin_a": 115.0,
+      "winner": "milk_wool_exact",
+      "elapsed_seconds": 5.53848939999807,
+      "max_action_seconds_a": 0.0010380999992776196,
+      "max_action_seconds_b": 0.054991400000290014,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2300,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12624.0,
+      "score_b": 12541.0,
+      "margin_a": 83.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.515194999999949,
+      "max_action_seconds_a": 0.06591349999871454,
+      "max_action_seconds_b": 0.0008454999988316558,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2300,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12624.0,
+      "score_b": 12541.0,
+      "margin_a": 83.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.538737099999707,
+      "max_action_seconds_a": 0.0009153999999398366,
+      "max_action_seconds_b": 0.04931320000105188,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2301,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12568.0,
+      "score_b": 12386.0,
+      "margin_a": 182.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.44545830000061,
+      "max_action_seconds_a": 0.043305200000759214,
+      "max_action_seconds_b": 0.001010399999358924,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2301,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12568.0,
+      "score_b": 12386.0,
+      "margin_a": 182.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.5750315000004775,
+      "max_action_seconds_a": 0.0010306000003765803,
+      "max_action_seconds_b": 0.05158850000225357,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2302,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 7318.0,
+      "score_b": 13576.0,
+      "margin_a": -6258.0,
+      "winner": "indar",
+      "elapsed_seconds": 5.454200600001059,
+      "max_action_seconds_a": 0.002433599998767022,
+      "max_action_seconds_b": 0.001187099998787744,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2302,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13576.0,
+      "score_b": 7318.0,
+      "margin_a": 6258.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.443974000001617,
+      "max_action_seconds_a": 0.0009731999998621177,
+      "max_action_seconds_b": 0.05652050000207964,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2303,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13683.0,
+      "score_b": 13683.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 6.129402499998832,
+      "max_action_seconds_a": 0.10257499999715947,
+      "max_action_seconds_b": 0.0008406000015384052,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2303,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13683.0,
+      "score_b": 13683.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 6.173119299997779,
+      "max_action_seconds_a": 0.0009893000024021603,
+      "max_action_seconds_b": 0.05614439999772003,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2304,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13681.0,
+      "score_b": 13681.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 6.248287700000219,
+      "max_action_seconds_a": 0.04806019999887212,
+      "max_action_seconds_b": 0.0011166000003868248,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2304,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13681.0,
+      "score_b": 13681.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 6.257141300000512,
+      "max_action_seconds_a": 0.0012753000009979587,
+      "max_action_seconds_b": 0.09888900000078138,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2305,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12538.0,
+      "score_b": 12356.0,
+      "margin_a": 182.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.609472600001027,
+      "max_action_seconds_a": 0.07121270000061486,
+      "max_action_seconds_b": 0.00101379999978235,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2305,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12538.0,
+      "score_b": 12356.0,
+      "margin_a": 182.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.6949858000007225,
+      "max_action_seconds_a": 0.0009672999985923525,
+      "max_action_seconds_b": 0.08017409999956726,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2306,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12910.0,
+      "score_b": 13224.0,
+      "margin_a": -314.0,
+      "winner": "indar",
+      "elapsed_seconds": 5.871063799997501,
+      "max_action_seconds_a": 0.11320429999977932,
+      "max_action_seconds_b": 0.0009774000027391594,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2306,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13224.0,
+      "score_b": 12910.0,
+      "margin_a": 314.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.8297256999976526,
+      "max_action_seconds_a": 0.001179200000478886,
+      "max_action_seconds_b": 0.10250509999968926,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2307,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13530.0,
+      "score_b": 14747.0,
+      "margin_a": -1217.0,
+      "winner": "indar",
+      "elapsed_seconds": 5.867896199997631,
+      "max_action_seconds_a": 0.05411109999840846,
+      "max_action_seconds_b": 0.0009519000013824552,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "dev",
+      "seed": 2307,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 14747.0,
+      "score_b": 13530.0,
+      "margin_a": 1217.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.964058300000033,
+      "max_action_seconds_a": 0.001216799999383511,
+      "max_action_seconds_b": 0.10583369999949355,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3300,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12538.0,
+      "score_b": 12356.0,
+      "margin_a": 182.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.601586500000849,
+      "max_action_seconds_a": 0.0020920000024489127,
+      "max_action_seconds_b": 0.0009246000008715782,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3300,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12538.0,
+      "score_b": 12356.0,
+      "margin_a": 182.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.698344699998415,
+      "max_action_seconds_a": 0.000876300000527408,
+      "max_action_seconds_b": 0.06992820000232314,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3301,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13096.0,
+      "score_b": 13086.0,
+      "margin_a": 10.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.608885199999349,
+      "max_action_seconds_a": 0.0022935999986657407,
+      "max_action_seconds_b": 0.0009339999996882398,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3301,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13096.0,
+      "score_b": 13086.0,
+      "margin_a": 10.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.62440720000086,
+      "max_action_seconds_a": 0.0010694999982661102,
+      "max_action_seconds_b": 0.06478559999959543,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3303,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12511.0,
+      "score_b": 12329.0,
+      "margin_a": 182.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.426847700000508,
+      "max_action_seconds_a": 0.061751100001856685,
+      "max_action_seconds_b": 0.0010724999992817175,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3302,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 14204.0,
+      "score_b": 14204.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.998279499999626,
+      "max_action_seconds_a": 0.07197159999850555,
+      "max_action_seconds_b": 0.0008631000018795021,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3302,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 14204.0,
+      "score_b": 14204.0,
+      "margin_a": 0.0,
+      "winner": null,
+      "elapsed_seconds": 5.863881299999775,
+      "max_action_seconds_a": 0.0012459999998100102,
+      "max_action_seconds_b": 0.0017262000001210254,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3303,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12511.0,
+      "score_b": 12329.0,
+      "margin_a": 182.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.47807770000145,
+      "max_action_seconds_a": 0.00160419999883743,
+      "max_action_seconds_b": 0.06583649999811314,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3304,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13070.0,
+      "score_b": 12986.0,
+      "margin_a": 84.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.323004000001674,
+      "max_action_seconds_a": 0.07204659999842988,
+      "max_action_seconds_b": 0.0008052000011957716,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3304,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13070.0,
+      "score_b": 12986.0,
+      "margin_a": 84.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.387535999998363,
+      "max_action_seconds_a": 0.0011644000005617272,
+      "max_action_seconds_b": 0.0714944999999716,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3305,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 13051.0,
+      "score_b": 12933.0,
+      "margin_a": 118.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.4064306000000215,
+      "max_action_seconds_a": 0.10598079999908805,
+      "max_action_seconds_b": 0.0008464999991701916,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3305,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 13051.0,
+      "score_b": 12933.0,
+      "margin_a": 118.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.440748400000302,
+      "max_action_seconds_a": 0.0009724999981699511,
+      "max_action_seconds_b": 0.04993590000231052,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3306,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 11753.0,
+      "score_b": 11750.0,
+      "margin_a": 3.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.439363500001491,
+      "max_action_seconds_a": 0.0691106000012951,
+      "max_action_seconds_b": 0.0008325999988301191,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3306,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 11753.0,
+      "score_b": 11750.0,
+      "margin_a": 3.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.394277499999589,
+      "max_action_seconds_a": 0.001104700000723824,
+      "max_action_seconds_b": 0.06754189999992377,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3307,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 0,
+      "score_a": 12663.0,
+      "score_b": 12549.0,
+      "margin_a": 114.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.343438600000809,
+      "max_action_seconds_a": 0.05077320000054897,
+      "max_action_seconds_b": 0.0008396000011998694,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "split": "holdout",
+      "seed": 3307,
+      "agent_a": "wool_near",
+      "agent_b": "indar",
+      "position_a": 1,
+      "score_a": 12663.0,
+      "score_b": 12549.0,
+      "margin_a": 114.0,
+      "winner": "wool_near",
+      "elapsed_seconds": 5.367213100002118,
+      "max_action_seconds_a": 0.0010868999997910578,
+      "max_action_seconds_b": 0.0520146000017121,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

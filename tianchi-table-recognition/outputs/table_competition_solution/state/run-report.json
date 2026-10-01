@@ -1,0 +1,52 @@
+{
+  "testsPath": "D:\\tests.xlsx",
+  "templatePath": "D:\\submit-template.xlsx",
+  "mediaDir": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files",
+  "questionCount": 908,
+  "allQuestionCount": 908,
+  "uniqueResolvedFiles": 89,
+  "questionTypes": {
+    "extract": 618,
+    "thinking": 204,
+    "structure": 86
+  },
+  "answerFormats": {
+    "string": 409,
+    "number": 360,
+    "json_array": 99,
+    "json": 40
+  },
+  "unresolved": [],
+  "filenameCorrections": [
+    {
+      "requested": "58.pdf",
+      "actual": "058.pdf"
+    },
+    {
+      "requested": "59.pdf",
+      "actual": "059.pdf"
+    },
+    {
+      "requested": "0060.pdf",
+      "actual": "060.pdf"
+    }
+  ],
+  "normalizedQuestionTypes": [
+    {
+      "id": "63",
+      "from": "关键管理人员薪酬本期发生额和上期发生额分别是多少？",
+      "to": "extract"
+    }
+  ],
+  "ignoredSourceAnswerColumn": true,
+  "models": {
+    "pdf": "qwen3.8-max",
+    "image": "qwen3-vl-plus"
+  },
+  "refreshStructure": false,
+  "completed": 908,
+  "valid": 908,
+  "invalid": 0,
+  "invalidItems": [],
+  "outputPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-full-dimensions-v2.xlsx"
+}

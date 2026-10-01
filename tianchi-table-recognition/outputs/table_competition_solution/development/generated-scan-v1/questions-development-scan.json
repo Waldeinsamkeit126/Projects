@@ -1,0 +1,134 @@
+{
+  "datasetVersion": "scan-stress-v1",
+  "provenance": "newly-authored-synthetic-paired",
+  "split": "development",
+  "variant": "scan",
+  "questions": [
+    {
+      "id": "ss-budget-scan-q1",
+      "file_name": "ss-budget-scan.png",
+      "table_hint": "季度经费登记（单位：元）",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《季度经费登记（单位：元）》。恢复完整表格结构；标题和表外说明不计入表内，cells须包含所有单元格（含空白），坐标从0开始，合并单元格仅记录一次。",
+      "structure_scope": "full"
+    },
+    {
+      "id": "ss-budget-scan-q2",
+      "file_name": "ss-budget-scan.png",
+      "table_hint": "季度经费登记（单位：元）",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《季度经费登记（单位：元）》。仅恢复表头行结构；cells只输出表头，row_count和col_count仍填写整张目标表的逻辑尺寸。",
+      "structure_scope": "partial"
+    },
+    {
+      "id": "ss-budget-scan-q3",
+      "file_name": "ss-budget-scan.png",
+      "table_hint": "季度经费登记（单位：元）",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "只依据《季度经费登记（单位：元）》。场地项目第二季度的实支是多少元？只输出数值，不保留多余的小数末尾零。"
+    },
+    {
+      "id": "ss-budget-scan-q4",
+      "file_name": "ss-budget-scan.png",
+      "table_hint": "季度经费登记（单位：元）",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "只依据《季度经费登记（单位：元）》。设备项目的编号是什么？保留前导零。"
+    },
+    {
+      "id": "ss-budget-scan-q5",
+      "file_name": "ss-budget-scan.png",
+      "table_hint": "季度经费登记（单位：元）",
+      "question_type": "thinking",
+      "answer_format": "number",
+      "question": "只依据《季度经费登记（单位：元）》。设备项目第二季度实支减去第一季度实支是多少元？只输出数值，不保留多余的小数末尾零。"
+    },
+    {
+      "id": "ss-assembly-scan-q1",
+      "file_name": "ss-assembly-scan.png",
+      "table_hint": "装配班次记录",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《装配班次记录》。恢复完整表格结构；标题和表外说明不计入表内，cells须包含所有单元格（含空白），坐标从0开始，合并单元格仅记录一次。",
+      "structure_scope": "full"
+    },
+    {
+      "id": "ss-assembly-scan-q2",
+      "file_name": "ss-assembly-scan.png",
+      "table_hint": "装配班次记录",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《装配班次记录》。仅恢复表头行结构；cells只输出表头，row_count和col_count仍填写整张目标表的逻辑尺寸。",
+      "structure_scope": "partial"
+    },
+    {
+      "id": "ss-assembly-scan-q3",
+      "file_name": "ss-assembly-scan.png",
+      "table_hint": "装配班次记录",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "只依据《装配班次记录》。机器0019的计划数量是多少？只输出数值，不保留多余的小数末尾零。"
+    },
+    {
+      "id": "ss-assembly-scan-q4",
+      "file_name": "ss-assembly-scan.png",
+      "table_hint": "装配班次记录",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "只依据《装配班次记录》。机器0018的备注是什么？"
+    },
+    {
+      "id": "ss-assembly-scan-q5",
+      "file_name": "ss-assembly-scan.png",
+      "table_hint": "装配班次记录",
+      "question_type": "thinking",
+      "answer_format": "number",
+      "question": "只依据《装配班次记录》。机器0017和0020的完成数量合计是多少？只输出数值，不保留多余的小数末尾零。"
+    },
+    {
+      "id": "ss-warehouse-scan-q1",
+      "file_name": "ss-warehouse-scan.png",
+      "table_hint": "出库登记",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《出库登记》。恢复完整表格结构；标题和表外说明不计入表内，cells须包含所有单元格（含空白），坐标从0开始，合并单元格仅记录一次。",
+      "structure_scope": "full"
+    },
+    {
+      "id": "ss-warehouse-scan-q2",
+      "file_name": "ss-warehouse-scan.png",
+      "table_hint": "出库登记",
+      "question_type": "structure",
+      "answer_format": "json",
+      "question": "只依据《出库登记》。仅恢复表头行结构；cells只输出表头，row_count和col_count仍填写整张目标表的逻辑尺寸。",
+      "structure_scope": "partial"
+    },
+    {
+      "id": "ss-warehouse-scan-q3",
+      "file_name": "ss-warehouse-scan.png",
+      "table_hint": "出库登记",
+      "question_type": "extract",
+      "answer_format": "number",
+      "question": "只依据《出库登记》。轴套的数量是多少？只输出数值，不保留多余的小数末尾零。"
+    },
+    {
+      "id": "ss-warehouse-scan-q4",
+      "file_name": "ss-warehouse-scan.png",
+      "table_hint": "出库登记",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "只依据《出库登记》。销钉的批号是什么？保留前导零。"
+    },
+    {
+      "id": "ss-warehouse-scan-q5",
+      "file_name": "ss-warehouse-scan.png",
+      "table_hint": "出库登记",
+      "question_type": "thinking",
+      "answer_format": "number",
+      "question": "只依据《出库登记》。四种部件的数量合计是多少？只输出数值，不保留多余的小数末尾零。"
+    }
+  ]
+}

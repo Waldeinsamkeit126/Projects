@@ -1,0 +1,604 @@
+{"id":"71","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"晚间休息","valid":true,"error":""}
+{"id":"72","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"机会发现","valid":true,"error":""}
+{"id":"73","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"产品开发推进","valid":true,"error":""}
+{"id":"74","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"30","valid":true,"error":""}
+{"id":"75","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"[{\"事项\":\"发布成果与成长\",\"描述\":\"颁发证书与荣誉奖项\",\"标签\":\"结营证书+项目档案\"},{\"事项\":\"家长结营交接\",\"描述\":\"有序返程\",\"标签\":\"\"}]","valid":true,"error":""}
+{"id":"76","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"产品原型v1.0","valid":true,"error":""}
+{"id":"77","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"Day 6","valid":true,"error":""}
+{"id":"78","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"120","valid":true,"error":""}
+{"id":"79","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"0.5","valid":true,"error":""}
+{"id":"80","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"晚间休息","valid":true,"error":""}
+{"id":"81","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"3","valid":true,"error":""}
+{"id":"82","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"[{\"Day\":\"Day 2\",\"Content\":\"评审记录\"},{\"Day\":\"Day 4\",\"Content\":\"评审记录\"},{\"Day\":\"Day 5\",\"Content\":\"评审记录\"}]","valid":true,"error":""}
+{"id":"83","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"[{\"Day\":\"Day 4\",\"Content\":\"产品开发推进\"},{\"Day\":\"Day 5\",\"Content\":\"基于价值分析\"}]","valid":true,"error":""}
+{"id":"84","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"6","valid":true,"error":""}
+{"id":"85","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"迭代与表达","valid":true,"error":""}
+{"id":"86","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"路演与成果","valid":true,"error":""}
+{"id":"87","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"AI应用商业探索","valid":true,"error":""}
+{"id":"88","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"Business","valid":true,"error":""}
+{"id":"89","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"[{\"任务名称\":\"用户验证实验\",\"任务描述\":\"验证有效性并收集数据反馈\",\"成果/模块\":\"成果：测试数据\"},{\"任务名称\":\"基于数据分析\",\"任务描述\":\"完成产品迭代\",\"成果/模块\":\"成果：原型v3.0\"}]","valid":true,"error":""}
+{"id":"90","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"[{\"事项\":\"发布成果与成长\",\"描述\":\"颁发证书与荣誉奖项\",\"标签\":\"结营证书+项目档案\"},{\"事项\":\"家长结营交接\",\"描述\":\"有序返程\",\"标签\":\"\"}]","valid":true,"error":""}
+{"id":"91","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"120","valid":true,"error":""}
+{"id":"92","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"90","valid":true,"error":""}
+{"id":"93","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"[{\"Day\":\"Day 2\",\"Time\":\"19:00-21:00\",\"Content\":\"导师评审项目方向\",\"Output\":\"评审记录\"},{\"Day\":\"Day 4\",\"Time\":\"19:00-21:00\",\"Content\":\"产品评审\",\"Output\":\"评审记录\"},{\"Day\":\"Day 5\",\"Time\":\"19:00-21:00\",\"Content\":\"路演演练\",\"Output\":\"评审记录\"}]","valid":true,"error":""}
+{"id":"94","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"[{\"Day\":\"Day 1\",\"Content\":\"营地集结与入场\\n进行科学团队破冰与角色赋能\\n成果启动：项目立项\"},{\"Day\":\"Day 3\",\"Content\":\"功能与流程设计\\n明确产品逻辑\\n成果：产品逻辑图\"},{\"Day\":\"Day 4\",\"Content\":\"用户验证实验\\n验证有效性并收集数据反馈\\n成果：测试数据\"},{\"Day\":\"Day 5\",\"Content\":\"基于价值分析\\n完成产品终版调优\\n成果：原型v4.0\"},{\"Day\":\"Day 6\",\"Content\":\"发布成果与成长\\n颁发证书与荣誉奖项\\n结营证书+项目档案\"}]","valid":true,"error":""}
+{"id":"95","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"开发方案+技术路径","valid":true,"error":""}
+{"id":"96","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"成果：产品原型v2.0","valid":true,"error":""}
+{"id":"97","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"3","valid":true,"error":""}
+{"id":"98","source_file":"010.png","resolved_file":"010.png","model":"qwen3.7-plus","answer":"[{\"Day\":\"Day 2\",\"BP模块标签\":\"BP模块：Problem\"},{\"Day\":\"Day 3\",\"BP模块标签\":\"BP模块：Product\"},{\"Day\":\"Day 5\",\"BP模块标签\":\"BP模块：Business\"}]","valid":true,"error":""}
+{"id":"99","source_file":"011.jpg","resolved_file":"011.jpg","model":"qwen3.7-plus","answer":"Course Outline","valid":true,"error":""}
+{"id":"100","source_file":"011.jpg","resolved_file":"011.jpg","model":"qwen3.7-plus","answer":"中英文双语","valid":true,"error":""}
+{"id":"102","source_file":"011.jpg","resolved_file":"011.jpg","model":"qwen3.7-plus","answer":"课程基本信息/Course Information","valid":true,"error":""}
+{"id":"103","source_file":"011.jpg","resolved_file":"011.jpg","model":"qwen3.7-plus","answer":"学分/Credits","valid":true,"error":""}
+{"id":"104","source_file":"011.jpg","resolved_file":"011.jpg","model":"qwen3.7-plus","answer":"trial","valid":true,"error":""}
+{"id":"105","source_file":"011.jpg","resolved_file":"011.jpg","model":"qwen3.7-plus","answer":"3","valid":true,"error":""}
+{"id":"106","source_file":"011.jpg","resolved_file":"011.jpg","model":"qwen3.7-plus","answer":"中文:生物信息学算法原理\n英文:Algorithms in computational biology","valid":true,"error":""}
+{"id":"107","source_file":"011.jpg","resolved_file":"011.jpg","model":"qwen3.7-plus","answer":"培养计划课程","valid":true,"error":""}
+{"id":"108","source_file":"011.jpg","resolved_file":"011.jpg","model":"qwen3.7-plus","answer":"[{\"授课语言/Language of Instruction\":\"双语/全英文Chinese or English\"},{\"开课院系/School\":\"生命科学技术学院School of Life Sciences and Biotechnology\"},{\"先修课程/Prerequisite\":\"概率统计Probability and Statistics\"},{\"授课教师/Teacher\":\"韦朝春\"}]","valid":true,"error":""}
+{"id":"109","source_file":"012.jpg","resolved_file":"012.jpg","model":"qwen3.7-plus","answer":"(B) Co- Scholastic Achievement :","valid":true,"error":""}
+{"id":"110","source_file":"012.jpg","resolved_file":"012.jpg","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"112","source_file":"012.jpg","resolved_file":"012.jpg","model":"qwen3.7-plus","answer":"Course of Study","valid":true,"error":""}
+{"id":"113","source_file":"012.jpg","resolved_file":"012.jpg","model":"qwen3.7-plus","answer":"Remarks","valid":true,"error":""}
+{"id":"114","source_file":"012.jpg","resolved_file":"012.jpg","model":"qwen3.7-plus","answer":"Representing National/SGFI in Sports and Games","valid":true,"error":""}
+{"id":"115","source_file":"012.jpg","resolved_file":"012.jpg","model":"qwen3.7-plus","answer":"Attach copy of certificate","valid":true,"error":""}
+{"id":"116","source_file":"012.jpg","resolved_file":"012.jpg","model":"qwen3.7-plus","answer":"NCC 'C' / 'B' / 'A' Certificate","valid":true,"error":""}
+{"id":"117","source_file":"012.jpg","resolved_file":"012.jpg","model":"qwen3.7-plus","answer":"Certificate of performance awarded by Govt. Institution in Art/Music/Literature at \"National level\"","valid":true,"error":""}
+{"id":"118","source_file":"012.jpg","resolved_file":"012.jpg","model":"qwen3.7-plus","answer":"[{\"数学表的阶段数\":\"3\",\"科学表包含科目\":\"Chemistry, Biology, Zoology\",\"社会科学表包含科目\":\"History, Geography\",\"是否多级表头\":\"Yes\"}]","valid":true,"error":""}
+{"id":"119","source_file":"013.jpg","resolved_file":"013.jpg","model":"qwen3.7-plus","answer":"Component & Specification","valid":true,"error":""}
+{"id":"120","source_file":"013.jpg","resolved_file":"013.jpg","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"122","source_file":"013.jpg","resolved_file":"013.jpg","model":"qwen3.7-plus","answer":"Item No","valid":true,"error":""}
+{"id":"123","source_file":"013.jpg","resolved_file":"013.jpg","model":"qwen3.7-plus","answer":"Each","valid":true,"error":""}
+{"id":"124","source_file":"013.jpg","resolved_file":"013.jpg","model":"qwen3.7-plus","answer":"Air condition 2 ton","valid":true,"error":""}
+{"id":"125","source_file":"013.jpg","resolved_file":"013.jpg","model":"qwen3.7-plus","answer":"Each","valid":true,"error":""}
+{"id":"126","source_file":"013.jpg","resolved_file":"013.jpg","model":"qwen3.7-plus","answer":"","valid":false,"error":"答案为空"}
+{"id":"127","source_file":"013.jpg","resolved_file":"013.jpg","model":"qwen3.7-plus","answer":"Rotary","valid":true,"error":""}
+{"id":"128","source_file":"013.jpg","resolved_file":"013.jpg","model":"qwen3.7-plus","answer":"[{\"电源\":\"AC≥ (220)V/(50)Hz\"},{\"过滤网\":\"Available\"},{\"室内机颜色\":\"\"},{\"保修\":\"Compressor (5) Year. Other parts: ≥ (2) Year\"}]","valid":true,"error":""}
+{"id":"129","source_file":"014.jpg","resolved_file":"014.jpg","model":"qwen3.7-plus","answer":"Lot No.1","valid":true,"error":""}
+{"id":"130","source_file":"014.jpg","resolved_file":"014.jpg","model":"qwen3.7-plus","answer":"English and Arabic","valid":true,"error":""}
+{"id":"132","source_file":"014.jpg","resolved_file":"014.jpg","model":"qwen3.7-plus","answer":"Stitch type","valid":true,"error":""}
+{"id":"133","source_file":"014.jpg","resolved_file":"014.jpg","model":"qwen3.7-plus","answer":"Each","valid":true,"error":""}
+{"id":"134","source_file":"014.jpg","resolved_file":"014.jpg","model":"qwen3.7-plus","answer":"200","valid":true,"error":""}
+{"id":"135","source_file":"014.jpg","resolved_file":"014.jpg","model":"qwen3.7-plus","answer":"150","valid":true,"error":""}
+{"id":"136","source_file":"014.jpg","resolved_file":"014.jpg","model":"qwen3.7-plus","answer":"50","valid":true,"error":""}
+{"id":"137","source_file":"014.jpg","resolved_file":"014.jpg","model":"qwen3.7-plus","answer":"100","valid":true,"error":""}
+{"id":"138","source_file":"014.jpg","resolved_file":"014.jpg","model":"qwen3.7-plus","answer":"[{\"直缝纫机送料机构\":\"Drop feed\"},{\"直缝纫机针距\":\"≥ 5 mm\"},{\"直缝纫机保修\":\"2 year\"},{\"之字形缝纫机最大速度\":\"≥ 2500 spm\"}]","valid":true,"error":""}
+{"id":"139","source_file":"015.jpg","resolved_file":"015.jpg","model":"qwen3.7-plus","answer":"Component & Specification","valid":true,"error":""}
+{"id":"140","source_file":"015.jpg","resolved_file":"015.jpg","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"142","source_file":"015.jpg","resolved_file":"015.jpg","model":"qwen3.7-plus","answer":"Item No:","valid":true,"error":""}
+{"id":"143","source_file":"015.jpg","resolved_file":"015.jpg","model":"qwen3.7-plus","answer":"Item Name:","valid":true,"error":""}
+{"id":"144","source_file":"015.jpg","resolved_file":"015.jpg","model":"qwen3.7-plus","answer":"Circular Coil","valid":true,"error":""}
+{"id":"145","source_file":"015.jpg","resolved_file":"015.jpg","model":"qwen3.7-plus","answer":"Conical Conductor","valid":true,"error":""}
+{"id":"146","source_file":"015.jpg","resolved_file":"015.jpg","model":"qwen3.8-max","answer":"Up to 12 volts","valid":true,"error":""}
+{"id":"147","source_file":"015.jpg","resolved_file":"015.jpg","model":"qwen3.7-plus","answer":"","valid":false,"error":"答案为空"}
+{"id":"148","source_file":"015.jpg","resolved_file":"015.jpg","model":"qwen3.8-max","answer":"[{\"电风扇颜色\":\"\",\"表格所在页码\":\"Page 37 of 81\",\"圆形线圈表包含规格区\":\"Yes\",\"电风扇表包含 Specifications 区\":\"Yes\"}]","valid":true,"error":""}
+{"id":"149","source_file":"016.jpg","resolved_file":"016.jpg","model":"qwen3.7-plus","answer":"Photoelectric effect apparatus with solar cell","valid":true,"error":""}
+{"id":"150","source_file":"016.jpg","resolved_file":"016.jpg","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"152","source_file":"016.jpg","resolved_file":"016.jpg","model":"qwen3.7-plus","answer":"Socket","valid":true,"error":""}
+{"id":"153","source_file":"016.jpg","resolved_file":"016.jpg","model":"qwen3.7-plus","answer":"(4) mm socket with working values.","valid":true,"error":""}
+{"id":"154","source_file":"016.jpg","resolved_file":"016.jpg","model":"qwen3.7-plus","answer":"The Box","valid":true,"error":""}
+{"id":"155","source_file":"016.jpg","resolved_file":"016.jpg","model":"qwen3.7-plus","answer":"Leads Set","valid":true,"error":""}
+{"id":"156","source_file":"016.jpg","resolved_file":"016.jpg","model":"qwen3.7-plus","answer":"Banana plugs, Flexible leads, Double (PVC) covered.","valid":true,"error":""}
+{"id":"157","source_file":"016.jpg","resolved_file":"016.jpg","model":"qwen3.7-plus","answer":"Copper.","valid":true,"error":""}
+{"id":"158","source_file":"016.jpg","resolved_file":"016.jpg","model":"qwen3.7-plus","answer":"[{\"Lunch Set 数量单位\":\"set of (9) pieces consist of\",\"第一页脚注格式\":\"11EU/2016 R1 Page 45 of 81\",\"Photocell 是否带红字标题\":\"Yes\",\"Lunch Set 是否含图片/示意表\":\"No\"}]","valid":true,"error":""}
+{"id":"159","source_file":"017.jpg","resolved_file":"017.jpg","model":"qwen3.7-plus","answer":"Overall Rankings by District","valid":true,"error":""}
+{"id":"160","source_file":"017.jpg","resolved_file":"017.jpg","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"162","source_file":"017.jpg","resolved_file":"017.jpg","model":"qwen3.7-plus","answer":"Ranking","valid":true,"error":""}
+{"id":"163","source_file":"017.jpg","resolved_file":"017.jpg","model":"qwen3.7-plus","answer":"CC?","valid":true,"error":""}
+{"id":"164","source_file":"017.jpg","resolved_file":"017.jpg","model":"qwen3.7-plus","answer":"Cal State Fullerton","valid":true,"error":""}
+{"id":"165","source_file":"017.jpg","resolved_file":"017.jpg","model":"qwen3.7-plus","answer":"University of Nevada Las Vegas","valid":true,"error":""}
+{"id":"166","source_file":"017.jpg","resolved_file":"017.jpg","model":"qwen3.7-plus","answer":"CSU Chico","valid":true,"error":""}
+{"id":"167","source_file":"017.jpg","resolved_file":"017.jpg","model":"qwen3.7-plus","answer":"Weber State University","valid":true,"error":""}
+{"id":"168","source_file":"017.jpg","resolved_file":"017.jpg","model":"qwen3.7-plus","answer":"[{\"District 2 第二名学校\":\"Idaho State University\",\"District 1 第一名分数\":\"313\",\"District 2 第一名分数\":\"250\",\"页脚\":\"Fall 2012 NDT Ranking Report Page 13\"}]","valid":true,"error":""}
+{"id":"169","source_file":"018.jpg","resolved_file":"018.jpg","model":"qwen3.7-plus","answer":"ART. 03.- DATOS DE CONSUMO ESTIMADOS","valid":true,"error":""}
+{"id":"170","source_file":"018.jpg","resolved_file":"018.jpg","model":"qwen3.7-plus","answer":"西班牙语","valid":true,"error":""}
+{"id":"172","source_file":"018.jpg","resolved_file":"018.jpg","model":"qwen3.7-plus","answer":"Partida","valid":true,"error":""}
+{"id":"173","source_file":"018.jpg","resolved_file":"018.jpg","model":"qwen3.7-plus","answer":"Consumo","valid":true,"error":""}
+{"id":"174","source_file":"018.jpg","resolved_file":"018.jpg","model":"qwen3.7-plus","answer":"10200","valid":true,"error":""}
+{"id":"175","source_file":"018.jpg","resolved_file":"018.jpg","model":"qwen3.7-plus","answer":"16000","valid":true,"error":""}
+{"id":"176","source_file":"018.jpg","resolved_file":"018.jpg","model":"qwen3.7-plus","answer":"10000","valid":true,"error":""}
+{"id":"177","source_file":"018.jpg","resolved_file":"018.jpg","model":"qwen3.7-plus","answer":"2","valid":true,"error":""}
+{"id":"178","source_file":"018.jpg","resolved_file":"018.jpg","model":"qwen3.7-plus","answer":"[{\"标黄服务\":\"Teatro Principal\",\"标蓝分组\":\"Servicios generales\",\"表格页码\":\"Página 5 de 14\",\"文件主题\":\"PCT gasóleo C\"}]","valid":true,"error":""}
+{"id":"179","source_file":"019.jpg","resolved_file":"019.jpg","model":"qwen3.7-plus","answer":"2.1. Santechnikos įtaisai","valid":true,"error":""}
+{"id":"180","source_file":"019.jpg","resolved_file":"019.jpg","model":"qwen3.7-plus","answer":"立陶宛语","valid":true,"error":""}
+{"id":"182","source_file":"019.jpg","resolved_file":"019.jpg","model":"qwen3.7-plus","answer":"Nr.","valid":true,"error":""}
+{"id":"183","source_file":"019.jpg","resolved_file":"019.jpg","model":"qwen3.7-plus","answer":"Vandens srautas [l/min.]","valid":true,"error":""}
+{"id":"184","source_file":"019.jpg","resolved_file":"019.jpg","model":"qwen3.7-plus","answer":"Virtuvės čiaupai","valid":true,"error":""}
+{"id":"185","source_file":"019.jpg","resolved_file":"019.jpg","model":"qwen3.7-plus","answer":"8","valid":true,"error":""}
+{"id":"186","source_file":"019.jpg","resolved_file":"019.jpg","model":"qwen3.7-plus","answer":"Virtuvės kriauklės čiaupai","valid":true,"error":""}
+{"id":"187","source_file":"019.jpg","resolved_file":"019.jpg","model":"qwen3.7-plus","answer":"2","valid":true,"error":""}
+{"id":"188","source_file":"019.jpg","resolved_file":"019.jpg","model":"qwen3.7-plus","answer":"[{\"1.3 表第一个 gaminių pogrupis\":\"Virtuvės čiaupai\",\"1.3 表第一个水流值\":\"6,0\",\"主要单位\":\"[l/min.]\",\"表格数量\":\"2\"}]","valid":true,"error":""}
+{"id":"189","source_file":"020.png","resolved_file":"020.png","model":"qwen3.7-plus","answer":"Program 1.1: Food regulatory activity and services to the Minister and Parliament","valid":true,"error":""}
+{"id":"190","source_file":"020.png","resolved_file":"020.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"192","source_file":"020.png","resolved_file":"020.png","model":"qwen3.7-plus","answer":"Program 1.1: Food regulatory activity and services to the Minister and Parliament","valid":true,"error":""}
+{"id":"193","source_file":"020.png","resolved_file":"020.png","model":"qwen3.7-plus","answer":"2015-16 Forward year 3","valid":true,"error":""}
+{"id":"194","source_file":"020.png","resolved_file":"020.png","model":"qwen3.7-plus","answer":"22429","valid":true,"error":""}
+{"id":"195","source_file":"020.png","resolved_file":"020.png","model":"qwen3.7-plus","answer":"21572","valid":true,"error":""}
+{"id":"196","source_file":"020.png","resolved_file":"020.png","model":"qwen3.7-plus","answer":"0","valid":true,"error":""}
+{"id":"197","source_file":"020.png","resolved_file":"020.png","model":"qwen3.7-plus","answer":"2169","valid":true,"error":""}
+{"id":"198","source_file":"020.png","resolved_file":"020.png","model":"qwen3.7-plus","answer":"[{\"2011-12 Average staffing level\":\"129\",\"2012-13 Average staffing level\":\"129\",\"列单位\":\"$'000\",\"年度列数\":\"5\"}]","valid":true,"error":""}
+{"id":"199","source_file":"021.jpg","resolved_file":"021.jpg","model":"qwen3.7-plus","answer":"Material composition limits","valid":true,"error":""}
+{"id":"200","source_file":"021.jpg","resolved_file":"021.jpg","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"202","source_file":"021.jpg","resolved_file":"021.jpg","model":"qwen3.7-plus","answer":"Material","valid":true,"error":""}
+{"id":"203","source_file":"021.jpg","resolved_file":"021.jpg","model":"qwen3.7-plus","answer":"Si%","valid":true,"error":""}
+{"id":"204","source_file":"021.jpg","resolved_file":"021.jpg","model":"qwen3.7-plus","answer":"≤0.3","valid":true,"error":""}
+{"id":"205","source_file":"021.jpg","resolved_file":"021.jpg","model":"qwen3.7-plus","answer":"≤0.6","valid":true,"error":""}
+{"id":"206","source_file":"021.jpg","resolved_file":"021.jpg","model":"qwen3.7-plus","answer":"≤0.08","valid":true,"error":""}
+{"id":"207","source_file":"021.jpg","resolved_file":"021.jpg","model":"qwen3.7-plus","answer":"0.38-0.48","valid":true,"error":""}
+{"id":"208","source_file":"021.jpg","resolved_file":"021.jpg","model":"qwen3.7-plus","answer":"[{\"BTM Si%\":\"0.220\",\"2HM C%\":\"≥0.40\",\"红色限制单元数量\":\"8\",\"绿色数值单元数量\":\"18\"}]","valid":true,"error":""}
+{"id":"209","source_file":"022.png","resolved_file":"022.png","model":"qwen3.7-plus","answer":"Statement of financial position","valid":true,"error":""}
+{"id":"210","source_file":"022.png","resolved_file":"022.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"212","source_file":"022.png","resolved_file":"022.png","model":"qwen3.7-plus","answer":"Estimated actual 2011-12","valid":true,"error":""}
+{"id":"213","source_file":"022.png","resolved_file":"022.png","model":"qwen3.7-plus","answer":"Forward estimate 2015-16","valid":true,"error":""}
+{"id":"214","source_file":"022.png","resolved_file":"022.png","model":"qwen3.7-plus","answer":"12884","valid":true,"error":""}
+{"id":"215","source_file":"022.png","resolved_file":"022.png","model":"qwen3.7-plus","answer":"13178","valid":true,"error":""}
+{"id":"216","source_file":"022.png","resolved_file":"022.png","model":"qwen3.7-plus","answer":"7615","valid":true,"error":""}
+{"id":"217","source_file":"022.png","resolved_file":"022.png","model":"qwen3.7-plus","answer":"5563","valid":true,"error":""}
+{"id":"218","source_file":"022.png","resolved_file":"022.png","model":"qwen3.7-plus","answer":"[{\"2011-12 Cash and cash equivalents\":\"2,806\",\"2012-13 Receivables\":\"6,485\",\"2014-15 Employee provisions\":\"5,735\",\"估算年度列数\":\"5\"}]","valid":true,"error":""}
+{"id":"219","source_file":"023.png","resolved_file":"023.png","model":"qwen3.7-plus","answer":"Malaria indicators by area","valid":true,"error":""}
+{"id":"220","source_file":"023.png","resolved_file":"023.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"222","source_file":"023.png","resolved_file":"023.png","model":"qwen3.7-plus","answer":"Areas","valid":true,"error":""}
+{"id":"223","source_file":"023.png","resolved_file":"023.png","model":"qwen3.7-plus","answer":"aOR (95% CI)‡","valid":true,"error":""}
+{"id":"224","source_file":"023.png","resolved_file":"023.png","model":"qwen3.7-plus","answer":"4992","valid":true,"error":""}
+{"id":"225","source_file":"023.png","resolved_file":"023.png","model":"qwen3.7-plus","answer":"20827","valid":true,"error":""}
+{"id":"226","source_file":"023.png","resolved_file":"023.png","model":"qwen3.7-plus","answer":"5045","valid":true,"error":""}
+{"id":"227","source_file":"023.png","resolved_file":"023.png","model":"qwen3.7-plus","answer":"10189","valid":true,"error":""}
+{"id":"228","source_file":"023.png","resolved_file":"023.png","model":"qwen3.7-plus","answer":"[{\"Total Malaria visit non-user\":\"2175\"},{\"Total Non-malaria visit non-user\":\"3418\"},{\"Total Malaria prevalence\":\"34.7\"},{\"Area 数量\":\"21\"}]","valid":true,"error":""}
+{"id":"229","source_file":"024.png","resolved_file":"024.png","model":"qwen3.7-plus","answer":"Services Performed","valid":true,"error":""}
+{"id":"230","source_file":"024.png","resolved_file":"024.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"232","source_file":"024.png","resolved_file":"024.png","model":"qwen3.7-plus","answer":"Services Performed","valid":true,"error":""}
+{"id":"233","source_file":"024.png","resolved_file":"024.png","model":"qwen3.7-plus","answer":"Total","valid":true,"error":""}
+{"id":"234","source_file":"024.png","resolved_file":"024.png","model":"qwen3.7-plus","answer":"236","valid":true,"error":""}
+{"id":"235","source_file":"024.png","resolved_file":"024.png","model":"qwen3.7-plus","answer":"65","valid":true,"error":""}
+{"id":"236","source_file":"024.png","resolved_file":"024.png","model":"qwen3.7-plus","answer":"51%","valid":true,"error":""}
+{"id":"237","source_file":"024.png","resolved_file":"024.png","model":"qwen3.7-plus","answer":"51","valid":true,"error":""}
+{"id":"238","source_file":"024.png","resolved_file":"024.png","model":"qwen3.7-plus","answer":"[{\"Never serviced residential inland\":\"20\",\"Don’t know/refused residential total\":\"\",\"Frequency once every two years residential inland\":\"\",\"表格主分区数量\":\"2\"}]","valid":true,"error":""}
+{"id":"239","source_file":"025.png","resolved_file":"025.png","model":"qwen3.7-plus","answer":"Frequency","valid":true,"error":""}
+{"id":"240","source_file":"025.png","resolved_file":"025.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"242","source_file":"025.png","resolved_file":"025.png","model":"qwen3.7-plus","answer":"Frequency","valid":true,"error":""}
+{"id":"243","source_file":"025.png","resolved_file":"025.png","model":"qwen3.7-plus","answer":"Total","valid":true,"error":""}
+{"id":"244","source_file":"025.png","resolved_file":"025.png","model":"qwen3.7-plus","answer":"1","valid":true,"error":""}
+{"id":"245","source_file":"025.png","resolved_file":"025.png","model":"qwen3.7-plus","answer":"Yes","valid":true,"error":""}
+{"id":"246","source_file":"025.png","resolved_file":"025.png","model":"qwen3.7-plus","answer":"Yes","valid":true,"error":""}
+{"id":"247","source_file":"025.png","resolved_file":"025.png","model":"qwen3.7-plus","answer":"White","valid":true,"error":""}
+{"id":"248","source_file":"025.png","resolved_file":"025.png","model":"qwen3.7-plus","answer":"[{\"文件内容类型\":\"Table\",\"是否适合内容提取\":\"Yes\",\"是否有跨页表\":\"No\",\"是否有表头\":\"Yes\"}]","valid":true,"error":""}
+{"id":"249","source_file":"026.png","resolved_file":"026.png","model":"qwen3.7-plus","answer":"Medication error targets","valid":true,"error":""}
+{"id":"250","source_file":"026.png","resolved_file":"026.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"252","source_file":"026.png","resolved_file":"026.png","model":"qwen3.7-plus","answer":"Target","valid":true,"error":""}
+{"id":"253","source_file":"026.png","resolved_file":"026.png","model":"qwen3.7-plus","answer":"YTD","valid":true,"error":""}
+{"id":"254","source_file":"026.png","resolved_file":"026.png","model":"qwen3.7-plus","answer":"11","valid":true,"error":""}
+{"id":"255","source_file":"026.png","resolved_file":"026.png","model":"qwen3.7-plus","answer":"30","valid":true,"error":""}
+{"id":"256","source_file":"026.png","resolved_file":"026.png","model":"qwen3.7-plus","answer":"12","valid":true,"error":""}
+{"id":"257","source_file":"026.png","resolved_file":"026.png","model":"qwen3.7-plus","answer":"8","valid":true,"error":""}
+{"id":"258","source_file":"026.png","resolved_file":"026.png","model":"qwen3.7-plus","answer":"[{\"Total 4Q2017\":\"1\",\"Total YTD\":\"51\",\"Wrong Patient YTD\":\"4\",\"Procedure Not Followed YTD\":\"14\"}]","valid":true,"error":""}
+{"id":"259","source_file":"027.webp","resolved_file":"027.webp","model":"qwen3.7-plus","answer":"GLM-OCR","valid":true,"error":""}
+{"id":"260","source_file":"027.webp","resolved_file":"027.webp","model":"qwen3.7-plus","answer":"中文和英文","valid":true,"error":""}
+{"id":"262","source_file":"027.webp","resolved_file":"027.webp","model":"qwen3.7-plus","answer":"文档解析","valid":true,"error":""}
+{"id":"263","source_file":"027.webp","resolved_file":"027.webp","model":"qwen3.7-plus","answer":"GPT-5.2-20 25-12-11","valid":true,"error":""}
+{"id":"264","source_file":"027.webp","resolved_file":"027.webp","model":"qwen3.7-plus","answer":"94.6","valid":true,"error":""}
+{"id":"265","source_file":"027.webp","resolved_file":"027.webp","model":"qwen3.7-plus","answer":"94","valid":true,"error":""}
+{"id":"266","source_file":"027.webp","resolved_file":"027.webp","model":"qwen3.7-plus","answer":"96.5","valid":true,"error":""}
+{"id":"267","source_file":"027.webp","resolved_file":"027.webp","model":"qwen3.7-plus","answer":"85.2","valid":true,"error":""}
+{"id":"268","source_file":"027.webp","resolved_file":"027.webp","model":"qwen3.7-plus","answer":"[{\"GLM-OCR TEDs_TEST\":\"86.0\",\"GLM-OCR Nanonts-KIE\":\"93.7\",\"GLM-OCR Handwritten-Forms\":\"86.1\",\"突出显示模型\":\"GLM-OCR\"}]","valid":true,"error":""}
+{"id":"269","source_file":"028.jpg","resolved_file":"028.jpg","model":"qwen3.7-plus","answer":"20 -20 学期第 学期课程表","valid":true,"error":""}
+{"id":"270","source_file":"028.jpg","resolved_file":"028.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"272","source_file":"028.jpg","resolved_file":"028.jpg","model":"qwen3.7-plus","answer":"时间","valid":true,"error":""}
+{"id":"273","source_file":"028.jpg","resolved_file":"028.jpg","model":"qwen3.7-plus","answer":"星期五","valid":true,"error":""}
+{"id":"274","source_file":"028.jpg","resolved_file":"028.jpg","model":"qwen3.7-plus","answer":"计算机网络工程","valid":true,"error":""}
+{"id":"275","source_file":"028.jpg","resolved_file":"028.jpg","model":"qwen3.7-plus","answer":"计算机网络技术","valid":true,"error":""}
+{"id":"276","source_file":"028.jpg","resolved_file":"028.jpg","model":"qwen3.7-plus","answer":"XX网络1班","valid":true,"error":""}
+{"id":"277","source_file":"028.jpg","resolved_file":"028.jpg","model":"qwen3.7-plus","answer":"windows网络服务搭建配置与管理(1-15周)","valid":true,"error":""}
+{"id":"278","source_file":"028.jpg","resolved_file":"028.jpg","model":"qwen3.7-plus","answer":"[{\"星期三第一二节\":\"大学生心理健康教育(1-4周)\",\"星期五第九十节\":\"网络设备及应用(1-16周)\",\"午休行文本\":\"\",\"每周列数\":\"5\"}]","valid":true,"error":""}
+{"id":"279","source_file":"029.png","resolved_file":"029.png","model":"qwen3.7-plus","answer":"Fag","valid":true,"error":""}
+{"id":"280","source_file":"029.png","resolved_file":"029.png","model":"qwen3.7-plus","answer":"Norwegian","valid":true,"error":""}
+{"id":"282","source_file":"029.png","resolved_file":"029.png","model":"qwen3.7-plus","answer":"Fag","valid":true,"error":""}
+{"id":"283","source_file":"029.png","resolved_file":"029.png","model":"qwen3.7-plus","answer":"Antall grupper","valid":true,"error":""}
+{"id":"284","source_file":"029.png","resolved_file":"029.png","model":"qwen3.7-plus","answer":"33","valid":true,"error":""}
+{"id":"285","source_file":"029.png","resolved_file":"029.png","model":"qwen3.7-plus","answer":"60","valid":true,"error":""}
+{"id":"286","source_file":"029.png","resolved_file":"029.png","model":"qwen3.7-plus","answer":"61","valid":true,"error":""}
+{"id":"287","source_file":"029.png","resolved_file":"029.png","model":"qwen3.7-plus","answer":"10","valid":true,"error":""}
+{"id":"288","source_file":"029.png","resolved_file":"029.png","model":"qwen3.7-plus","answer":"[{\"Fransk nivå 3 endelig valg\":\"0\",\"Spansk 1+2 endelig valg\":\"11\",\"Tysk 1+2* endelig valg\":\"21\",\"Høyest endelig valg fag\":\"Sosiologi og sosialentr.\"}]","valid":true,"error":""}
+{"id":"289","source_file":"030.png","resolved_file":"030.png","model":"qwen3.7-plus","answer":"Povinnosti výrobcu","valid":true,"error":""}
+{"id":"290","source_file":"030.png","resolved_file":"030.png","model":"qwen3.7-plus","answer":"斯洛伐克语","valid":true,"error":""}
+{"id":"292","source_file":"030.png","resolved_file":"030.png","model":"qwen3.7-plus","answer":"Povinnosti výrobcu","valid":true,"error":""}
+{"id":"293","source_file":"030.png","resolved_file":"030.png","model":"qwen3.7-plus","answer":"Komentár","valid":true,"error":""}
+{"id":"294","source_file":"030.png","resolved_file":"030.png","model":"qwen3.7-plus","answer":"8","valid":true,"error":""}
+{"id":"295","source_file":"030.png","resolved_file":"030.png","model":"qwen3.7-plus","answer":"vrátiť prevádzkovateľovi regionálnej distribučnej sústavy doplatok","valid":true,"error":""}
+{"id":"296","source_file":"030.png","resolved_file":"030.png","model":"qwen3.7-plus","answer":"predložiť PDS potvrdenie o pôvode vyrobenej elektriny za predchádzajúci kalendárny rok","valid":true,"error":""}
+{"id":"297","source_file":"030.png","resolved_file":"030.png","model":"qwen3.7-plus","answer":"15. auguste","valid":true,"error":""}
+{"id":"298","source_file":"030.png","resolved_file":"030.png","model":"qwen3.7-plus","answer":"[{\"第五条日期\":\"15. apríla\",\"第六条日期\":\"15. augusta\",\"第八条日期\":\"31.12.\",\"法律依据列名\":\"Prislúchajúci právny predpis\"}]","valid":true,"error":""}
+{"id":"299","source_file":"031.png","resolved_file":"031.png","model":"qwen3.7-plus","answer":"Grupo Especial – Carnaval 2016.2 - Sábado","valid":true,"error":""}
+{"id":"300","source_file":"031.png","resolved_file":"031.png","model":"qwen3.7-plus","answer":"Português","valid":true,"error":""}
+{"id":"302","source_file":"031.png","resolved_file":"031.png","model":"qwen3.7-plus","answer":"Agremiação","valid":true,"error":""}
+{"id":"303","source_file":"031.png","resolved_file":"031.png","model":"qwen3.7-plus","answer":"Notas por Extenso","valid":true,"error":""}
+{"id":"304","source_file":"031.png","resolved_file":"031.png","model":"qwen3.7-plus","answer":"9.3","valid":true,"error":""}
+{"id":"305","source_file":"031.png","resolved_file":"031.png","model":"qwen3.7-plus","answer":"9.4","valid":true,"error":""}
+{"id":"306","source_file":"031.png","resolved_file":"031.png","model":"qwen3.7-plus","answer":"10","valid":true,"error":""}
+{"id":"307","source_file":"031.png","resolved_file":"031.png","model":"qwen3.7-plus","answer":"10","valid":true,"error":""}
+{"id":"308","source_file":"031.png","resolved_file":"031.png","model":"qwen3.7-plus","answer":"[{\"Borboleta Transgênero nota\":\"10\",\"满分队伍数量\":\"3\",\"最高分\":\"10\",\"最低分\":\"9.3\"}]","valid":true,"error":""}
+{"id":"309","source_file":"032.jpg","resolved_file":"032.jpg","model":"qwen3.7-plus","answer":"Excel测试成绩单","valid":true,"error":""}
+{"id":"310","source_file":"032.jpg","resolved_file":"032.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"312","source_file":"032.jpg","resolved_file":"032.jpg","model":"qwen3.7-plus","answer":"编号","valid":true,"error":""}
+{"id":"313","source_file":"032.jpg","resolved_file":"032.jpg","model":"qwen3.7-plus","answer":"分数","valid":true,"error":""}
+{"id":"314","source_file":"032.jpg","resolved_file":"032.jpg","model":"qwen3.7-plus","answer":"张明","valid":true,"error":""}
+{"id":"315","source_file":"032.jpg","resolved_file":"032.jpg","model":"qwen3.7-plus","answer":"91","valid":true,"error":""}
+{"id":"316","source_file":"032.jpg","resolved_file":"032.jpg","model":"qwen3.7-plus","answer":"93","valid":true,"error":""}
+{"id":"317","source_file":"032.jpg","resolved_file":"032.jpg","model":"qwen3.7-plus","answer":"江风","valid":true,"error":""}
+{"id":"318","source_file":"032.jpg","resolved_file":"032.jpg","model":"qwen3.7-plus","answer":"[{\"最低分\":\"70\",\"最低分姓名\":\"黄小云\",\"计应10班分数\":\"82\",\"记录人数\":\"11\"}]","valid":true,"error":""}
+{"id":"319","source_file":"033.jpg","resolved_file":"033.jpg","model":"qwen3.7-plus","answer":"不动产权信息表","valid":true,"error":""}
+{"id":"320","source_file":"033.jpg","resolved_file":"033.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"322","source_file":"033.jpg","resolved_file":"033.jpg","model":"qwen3.7-plus","answer":"权利人","valid":true,"error":""}
+{"id":"323","source_file":"033.jpg","resolved_file":"033.jpg","model":"qwen3.7-plus","answer":"权利其他状况","valid":true,"error":""}
+{"id":"324","source_file":"033.jpg","resolved_file":"033.jpg","model":"qwen3.7-plus","answer":"共同共有","valid":true,"error":""}
+{"id":"325","source_file":"033.jpg","resolved_file":"033.jpg","model":"qwen3.7-plus","answer":"国有建设用地使用权/房屋所有权","valid":true,"error":""}
+{"id":"326","source_file":"033.jpg","resolved_file":"033.jpg","model":"qwen3.7-plus","answer":"出让/商品房","valid":true,"error":""}
+{"id":"327","source_file":"033.jpg","resolved_file":"033.jpg","model":"qwen3.7-plus","answer":"城镇住宅用地/成套住宅","valid":true,"error":""}
+{"id":"328","source_file":"033.jpg","resolved_file":"033.jpg","model":"qwen3.7-plus","answer":"[{\"共有宗地面积\":\"46768.6m²\",\"房屋建筑面积\":\"116.03m²\",\"使用期限\":\"2077年08月31日止\",\"表格方向\":\"纵向\"}]","valid":true,"error":""}
+{"id":"329","source_file":"034.png","resolved_file":"034.png","model":"qwen3.7-plus","answer":"员工信息表","valid":true,"error":""}
+{"id":"330","source_file":"034.png","resolved_file":"034.png","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"332","source_file":"034.png","resolved_file":"034.png","model":"qwen3.7-plus","answer":"姓名","valid":true,"error":""}
+{"id":"333","source_file":"034.png","resolved_file":"034.png","model":"qwen3.7-plus","answer":"WS WANG SONG","valid":true,"error":""}
+{"id":"334","source_file":"034.png","resolved_file":"034.png","model":"qwen3.7-plus","answer":"王嵩","valid":true,"error":""}
+{"id":"335","source_file":"034.png","resolved_file":"034.png","model":"qwen3.7-plus","answer":"WS WANG SONG","valid":true,"error":""}
+{"id":"336","source_file":"034.png","resolved_file":"034.png","model":"qwen3.7-plus","answer":"男","valid":true,"error":""}
+{"id":"337","source_file":"034.png","resolved_file":"034.png","model":"qwen3.7-plus","answer":"2000-04-03","valid":true,"error":""}
+{"id":"338","source_file":"034.png","resolved_file":"034.png","model":"qwen3.7-plus","answer":"[{\"手机\":\"13902167523\",\"电子邮件\":\"wangsong@wuyuan.com\",\"入职公司\":\"重庆因瀚信息技术有限公司\",\"职级\":\"5\"}]","valid":true,"error":""}
+{"id":"339","source_file":"035.png","resolved_file":"035.png","model":"qwen3.7-plus","answer":"Markup format comparison","valid":true,"error":""}
+{"id":"340","source_file":"035.png","resolved_file":"035.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"342","source_file":"035.png","resolved_file":"035.png","model":"qwen3.7-plus","answer":"Concise and readable","valid":true,"error":""}
+{"id":"343","source_file":"035.png","resolved_file":"035.png","model":"qwen3.7-plus","answer":"MDX","valid":true,"error":""}
+{"id":"344","source_file":"035.png","resolved_file":"035.png","model":"qwen3.7-plus","answer":"5","valid":true,"error":""}
+{"id":"345","source_file":"035.png","resolved_file":"035.png","model":"qwen3.7-plus","answer":"AsciiDoc, MDX","valid":true,"error":""}
+{"id":"346","source_file":"035.png","resolved_file":"035.png","model":"qwen3.7-plus","answer":"Partial","valid":true,"error":""}
+{"id":"347","source_file":"035.png","resolved_file":"035.png","model":"qwen3.7-plus","answer":"Experimental","valid":true,"error":""}
+{"id":"348","source_file":"035.png","resolved_file":"035.png","model":"qwen3.7-plus","answer":"[{\"Field\":\"MDX Book/article export\",\"Value\":\"Third-party\"},{\"Field\":\"Quarkdown Targets\",\"Value\":\"HTML, PDF, TXT\"},{\"Field\":\"AsciiDoc Targets\",\"Value\":\"HTML, PDF, ePub\"},{\"Field\":\"MDX Targets\",\"Value\":\"HTML\"}]","valid":true,"error":""}
+{"id":"349","source_file":"036.jpg","resolved_file":"036.jpg","model":"qwen3.8-max","answer":"中华人民共和国海关出口货物报关单","valid":true,"error":""}
+{"id":"350","source_file":"036.jpg","resolved_file":"036.jpg","model":"qwen3.8-max","answer":"中文","valid":true,"error":""}
+{"id":"352","source_file":"036.jpg","resolved_file":"036.jpg","model":"qwen3.8-max","answer":"境内发货人","valid":true,"error":""}
+{"id":"353","source_file":"036.jpg","resolved_file":"036.jpg","model":"qwen3.8-max","answer":"备案号","valid":true,"error":""}
+{"id":"354","source_file":"036.jpg","resolved_file":"036.jpg","model":"qwen3.8-max","answer":"2","valid":true,"error":""}
+{"id":"355","source_file":"036.jpg","resolved_file":"036.jpg","model":"qwen3.8-max","answer":"是","valid":true,"error":""}
+{"id":"356","source_file":"036.jpg","resolved_file":"036.jpg","model":"qwen3.8-max","answer":"否","valid":true,"error":""}
+{"id":"357","source_file":"036.jpg","resolved_file":"036.jpg","model":"qwen3.8-max","answer":"黑白","valid":true,"error":""}
+{"id":"358","source_file":"036.jpg","resolved_file":"036.jpg","model":"qwen3.8-max","answer":"[{\"是否横向拍摄\":\"否\",\"是否含金额列\":\"是\",\"是否含订单号字段\":\"否\",\"是否含明细行\":\"是\"}]","valid":true,"error":""}
+{"id":"359","source_file":"037.jpg","resolved_file":"037.jpg","model":"qwen3.7-plus","answer":"课程表","valid":true,"error":""}
+{"id":"360","source_file":"037.jpg","resolved_file":"037.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"362","source_file":"037.jpg","resolved_file":"037.jpg","model":"qwen3.7-plus","answer":"上午","valid":true,"error":""}
+{"id":"363","source_file":"037.jpg","resolved_file":"037.jpg","model":"qwen3.7-plus","answer":"星期五","valid":true,"error":""}
+{"id":"364","source_file":"037.jpg","resolved_file":"037.jpg","model":"qwen3.7-plus","answer":"班会","valid":true,"error":""}
+{"id":"365","source_file":"037.jpg","resolved_file":"037.jpg","model":"qwen3.7-plus","answer":"语文","valid":true,"error":""}
+{"id":"366","source_file":"037.jpg","resolved_file":"037.jpg","model":"qwen3.7-plus","answer":"数学","valid":true,"error":""}
+{"id":"367","source_file":"037.jpg","resolved_file":"037.jpg","model":"qwen3.7-plus","answer":"体育","valid":true,"error":""}
+{"id":"368","source_file":"037.jpg","resolved_file":"037.jpg","model":"qwen3.7-plus","answer":"[{\"周三第三节\":\"数学\",\"周四第六节\":\"音乐\",\"上午节数\":\"5\",\"下午节数\":\"2\"}]","valid":true,"error":""}
+{"id":"369","source_file":"038.png","resolved_file":"038.png","model":"qwen3.7-plus","answer":"Factor","valid":true,"error":""}
+{"id":"370","source_file":"038.png","resolved_file":"038.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"372","source_file":"038.png","resolved_file":"038.png","model":"qwen3.7-plus","answer":"Factor","valid":true,"error":""}
+{"id":"373","source_file":"038.png","resolved_file":"038.png","model":"qwen3.7-plus","answer":"1","valid":true,"error":""}
+{"id":"374","source_file":"038.png","resolved_file":"038.png","model":"qwen3.7-plus","answer":"25, 30, 35","valid":true,"error":""}
+{"id":"375","source_file":"038.png","resolved_file":"038.png","model":"qwen3.7-plus","answer":"4, 6, 8","valid":true,"error":""}
+{"id":"376","source_file":"038.png","resolved_file":"038.png","model":"qwen3.7-plus","answer":"4, 6, 8","valid":true,"error":""}
+{"id":"377","source_file":"038.png","resolved_file":"038.png","model":"qwen3.7-plus","answer":"50, 100, 150","valid":true,"error":""}
+{"id":"378","source_file":"038.png","resolved_file":"038.png","model":"qwen3.7-plus","answer":"[{\"HCMRM total pore volume\":\"8.635\",\"HCMRM average particle size\":\"84.172\",\"编码列名\":\"Coded name\",\"设计因素数量\":\"4\"}]","valid":true,"error":""}
+{"id":"379","source_file":"039.png","resolved_file":"039.png","model":"qwen3.7-plus","answer":"EQ-5D health utility score self-assessed current health state","valid":true,"error":""}
+{"id":"380","source_file":"039.png","resolved_file":"039.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"382","source_file":"039.png","resolved_file":"039.png","model":"qwen3.7-plus","answer":"Variable","valid":true,"error":""}
+{"id":"383","source_file":"039.png","resolved_file":"039.png","model":"qwen3.7-plus","answer":"Bootstrap SE*","valid":true,"error":""}
+{"id":"384","source_file":"039.png","resolved_file":"039.png","model":"qwen3.7-plus","answer":"-0.0014","valid":true,"error":""}
+{"id":"385","source_file":"039.png","resolved_file":"039.png","model":"qwen3.7-plus","answer":"0.017","valid":true,"error":""}
+{"id":"386","source_file":"039.png","resolved_file":"039.png","model":"qwen3.7-plus","answer":"0.0999","valid":true,"error":""}
+{"id":"387","source_file":"039.png","resolved_file":"039.png","model":"qwen3.8-max","answer":"0.0107","valid":true,"error":""}
+{"id":"388","source_file":"039.png","resolved_file":"039.png","model":"qwen3.8-max","answer":"[{\"Multiple R-squared\":\"0.1028\",\"Adjusted R-squared\":\"0.0877\",\"模型结果列数\":\"4\",\"变量类别之一\":\"Intercept\"}]","valid":true,"error":""}
+{"id":"389","source_file":"040.png","resolved_file":"040.png","model":"qwen3.7-plus","answer":"Control versus case characteristics","valid":true,"error":""}
+{"id":"390","source_file":"040.png","resolved_file":"040.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"392","source_file":"040.png","resolved_file":"040.png","model":"qwen3.7-plus","answer":"Gender","valid":true,"error":""}
+{"id":"393","source_file":"040.png","resolved_file":"040.png","model":"qwen3.7-plus","answer":"P","valid":true,"error":""}
+{"id":"394","source_file":"040.png","resolved_file":"040.png","model":"qwen3.7-plus","answer":"938","valid":true,"error":""}
+{"id":"395","source_file":"040.png","resolved_file":"040.png","model":"qwen3.7-plus","answer":"962","valid":true,"error":""}
+{"id":"396","source_file":"040.png","resolved_file":"040.png","model":"qwen3.7-plus","answer":"343","valid":true,"error":""}
+{"id":"397","source_file":"040.png","resolved_file":"040.png","model":"qwen3.7-plus","answer":"363","valid":true,"error":""}
+{"id":"398","source_file":"040.png","resolved_file":"040.png","model":"qwen3.7-plus","answer":"[{\"Current smoker control percent\":\"14.1\",\"Current smoker case percent\":\"18.0\",\"Age mean control\":\"54.5\",\"Age mean case\":\"55.1\"}]","valid":true,"error":""}
+{"id":"399","source_file":"041.png","resolved_file":"041.png","model":"qwen3.7-plus","answer":"Contact/pressure measurements","valid":true,"error":""}
+{"id":"400","source_file":"041.png","resolved_file":"041.png","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"402","source_file":"041.png","resolved_file":"041.png","model":"qwen3.7-plus","answer":"Subjects","valid":true,"error":""}
+{"id":"403","source_file":"041.png","resolved_file":"041.png","model":"qwen3.7-plus","answer":"Maximum mean pressure (kPa)","valid":true,"error":""}
+{"id":"404","source_file":"041.png","resolved_file":"041.png","model":"qwen3.7-plus","answer":"142.87±68.584","valid":true,"error":""}
+{"id":"405","source_file":"041.png","resolved_file":"041.png","model":"qwen3.7-plus","answer":"313.85±210.934","valid":true,"error":""}
+{"id":"406","source_file":"041.png","resolved_file":"041.png","model":"qwen3.7-plus","answer":"605.047±81.495","valid":true,"error":""}
+{"id":"407","source_file":"041.png","resolved_file":"041.png","model":"qwen3.7-plus","answer":"270.869±70.940","valid":true,"error":""}
+{"id":"408","source_file":"041.png","resolved_file":"041.png","model":"qwen3.7-plus","answer":"[{\"Elderly total peak pressure C\":\"77.778±7.078\",\"分组数量\":\"2\",\"面罩类别数量\":\"4\",\"指标区块数量\":\"3\"}]","valid":true,"error":""}
+{"id":"409","source_file":"043.jpg","resolved_file":"043.jpg","model":"qwen3.7-plus","answer":"能力分类表","valid":true,"error":""}
+{"id":"410","source_file":"043.jpg","resolved_file":"043.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"412","source_file":"043.jpg","resolved_file":"043.jpg","model":"qwen3.7-plus","answer":"分类","valid":true,"error":""}
+{"id":"413","source_file":"043.jpg","resolved_file":"043.jpg","model":"qwen3.7-plus","answer":"二级","valid":true,"error":""}
+{"id":"414","source_file":"043.jpg","resolved_file":"043.jpg","model":"qwen3.7-plus","answer":"6","valid":true,"error":""}
+{"id":"415","source_file":"043.jpg","resolved_file":"043.jpg","model":"qwen3.7-plus","answer":"模型能力,工具平台能力,开放性","valid":true,"error":""}
+{"id":"416","source_file":"043.jpg","resolved_file":"043.jpg","model":"qwen3.7-plus","answer":"应用广度","valid":true,"error":""}
+{"id":"417","source_file":"043.jpg","resolved_file":"043.jpg","model":"qwen3.7-plus","answer":"应用生态","valid":true,"error":""}
+{"id":"418","source_file":"043.jpg","resolved_file":"043.jpg","model":"qwen3.7-plus","answer":"[{\"工具平台能力二级之一\":\"功能丰富度\",\"开发性二级说明\":\"开放可体验的能力数\",\"应用广度说明\":\"已覆盖的行业数\",\"主色\":\"蓝色\"}]","valid":true,"error":""}
+{"id":"419","source_file":"044.jpg","resolved_file":"044.jpg","model":"qwen3.7-plus","answer":"中标项目表","valid":true,"error":""}
+{"id":"420","source_file":"044.jpg","resolved_file":"044.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"422","source_file":"044.jpg","resolved_file":"044.jpg","model":"qwen3.7-plus","answer":"标段（包）编号","valid":true,"error":""}
+{"id":"423","source_file":"044.jpg","resolved_file":"044.jpg","model":"qwen3.7-plus","answer":"合同签订时间","valid":true,"error":""}
+{"id":"424","source_file":"044.jpg","resolved_file":"044.jpg","model":"qwen3.7-plus","answer":"A3304810620000488001001","valid":true,"error":""}
+{"id":"425","source_file":"044.jpg","resolved_file":"044.jpg","model":"qwen3.7-plus","answer":"新昌县水利水电局2023-2024年度小额（水利）工程","valid":true,"error":""}
+{"id":"426","source_file":"044.jpg","resolved_file":"044.jpg","model":"qwen3.7-plus","answer":"浙江前卫建设有限公司","valid":true,"error":""}
+{"id":"427","source_file":"044.jpg","resolved_file":"044.jpg","model":"qwen3.7-plus","answer":"新昌县佳泰市政园林建设有限公司","valid":true,"error":""}
+{"id":"428","source_file":"044.jpg","resolved_file":"044.jpg","model":"qwen3.7-plus","answer":"[{\"中标价\":\"10.41%\",\"工期\":\"合同签订之日起至2024年12月31日，具体项目及工期按每个项目施工合同中确定\",\"项目经理\":\"王永平\",\"合同签订时间\":\"2023年4月12日\"},{\"中标价\":\"10.41%\",\"工期\":\"合同签订之日起至2024年12月31日，具体项目及工期按每个项目施工合同中确定\",\"项目经理\":\"梁卫凤\",\"合同签订时间\":\"2023年4月12日\"},{\"中标价\":\"10.41%\",\"工期\":\"合同签订之日起至2024年12月31日，具体项目及工期按每个项目施工合同中确定\",\"项目经理\":\"胡浙明\",\"合同签订时间\":\"2023年4月12日\"}]","valid":true,"error":""}
+{"id":"429","source_file":"045.jpg","resolved_file":"045.jpg","model":"qwen3.7-plus","answer":"FinTabNet and PubTabNet results","valid":true,"error":""}
+{"id":"430","source_file":"045.jpg","resolved_file":"045.jpg","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"432","source_file":"045.jpg","resolved_file":"045.jpg","model":"qwen3.7-plus","answer":"Methods","valid":true,"error":""}
+{"id":"433","source_file":"045.jpg","resolved_file":"045.jpg","model":"qwen3.7-plus","answer":"TEDS","valid":true,"error":""}
+{"id":"434","source_file":"045.jpg","resolved_file":"045.jpg","model":"qwen3.7-plus","answer":"98.63","valid":true,"error":""}
+{"id":"435","source_file":"045.jpg","resolved_file":"045.jpg","model":"qwen3.7-plus","answer":"98.21","valid":true,"error":""}
+{"id":"436","source_file":"045.jpg","resolved_file":"045.jpg","model":"qwen3.7-plus","answer":"90.1","valid":true,"error":""}
+{"id":"437","source_file":"045.jpg","resolved_file":"045.jpg","model":"qwen3.7-plus","answer":"95.1","valid":true,"error":""}
+{"id":"438","source_file":"045.jpg","resolved_file":"045.jpg","model":"qwen3.7-plus","answer":"[{\"PubTabNet VAST TEDS\":\"96.31\",\"PubTabNet TSRFormer S-TEDS\":\"97.50\",\"Training Dataset Type\":\"PTN\",\"Group Count\":\"2\"}]","valid":true,"error":""}
+{"id":"439","source_file":"046.jpg","resolved_file":"046.jpg","model":"qwen3.7-plus","answer":"Vehicle department information","valid":true,"error":""}
+{"id":"440","source_file":"046.jpg","resolved_file":"046.jpg","model":"qwen3.7-plus","answer":"Chinese and English","valid":true,"error":""}
+{"id":"442","source_file":"046.jpg","resolved_file":"046.jpg","model":"qwen3.7-plus","answer":"Vehicle department\n用车部门","valid":true,"error":""}
+{"id":"443","source_file":"046.jpg","resolved_file":"046.jpg","model":"qwen3.7-plus","answer":"Number of passengers\n乘车人数","valid":true,"error":""}
+{"id":"444","source_file":"046.jpg","resolved_file":"046.jpg","model":"qwen3.7-plus","answer":"合合信息","valid":true,"error":""}
+{"id":"445","source_file":"046.jpg","resolved_file":"046.jpg","model":"qwen3.7-plus","answer":"2020年5月20日","valid":true,"error":""}
+{"id":"446","source_file":"046.jpg","resolved_file":"046.jpg","model":"qwen3.7-plus","answer":"14人","valid":true,"error":""}
+{"id":"447","source_file":"046.jpg","resolved_file":"046.jpg","model":"qwen3.7-plus","answer":"上海静安区市北·云立方A座","valid":true,"error":""}
+{"id":"448","source_file":"046.jpg","resolved_file":"046.jpg","model":"qwen3.7-plus","answer":"[{\"Driver contact number\":\"18888888888\",\"Car reason\":\"公务出行\",\"License plate number\":\"沪M888888\",\"Driver name\":\"合小安\"}]","valid":true,"error":""}
+{"id":"449","source_file":"047.jpg","resolved_file":"047.jpg","model":"qwen3.7-plus","answer":"园林设计师简历表","valid":true,"error":""}
+{"id":"450","source_file":"047.jpg","resolved_file":"047.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"452","source_file":"047.jpg","resolved_file":"047.jpg","model":"qwen3.7-plus","answer":"姓名","valid":true,"error":""}
+{"id":"453","source_file":"047.jpg","resolved_file":"047.jpg","model":"qwen3.7-plus","answer":"1992.5","valid":true,"error":""}
+{"id":"454","source_file":"047.jpg","resolved_file":"047.jpg","model":"qwen3.7-plus","answer":"雅资","valid":true,"error":""}
+{"id":"455","source_file":"047.jpg","resolved_file":"047.jpg","model":"qwen3.7-plus","answer":"男","valid":true,"error":""}
+{"id":"456","source_file":"047.jpg","resolved_file":"047.jpg","model":"qwen3.8-max","answer":"1992.5","valid":true,"error":""}
+{"id":"457","source_file":"047.jpg","resolved_file":"047.jpg","model":"qwen3.8-max","answer":"湖北","valid":true,"error":""}
+{"id":"458","source_file":"047.jpg","resolved_file":"047.jpg","model":"qwen3.8-max","answer":"[{\"学历\":\"专科\",\"毕业院校\":\"三峡大学\",\"联系电话\":\"1534914xxxx\",\"求职意向\":\"园林设计师\"}]","valid":true,"error":""}
+{"id":"459","source_file":"048.jpg","resolved_file":"048.jpg","model":"qwen3.7-plus","answer":"项目","valid":true,"error":""}
+{"id":"460","source_file":"048.jpg","resolved_file":"048.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"462","source_file":"048.jpg","resolved_file":"048.jpg","model":"qwen3.7-plus","answer":"项目","valid":true,"error":""}
+{"id":"463","source_file":"048.jpg","resolved_file":"048.jpg","model":"qwen3.7-plus","answer":"年初余额","valid":true,"error":""}
+{"id":"464","source_file":"048.jpg","resolved_file":"048.jpg","model":"qwen3.7-plus","answer":"5288011738.39","valid":true,"error":""}
+{"id":"465","source_file":"048.jpg","resolved_file":"048.jpg","model":"qwen3.7-plus","answer":"2629981089.49","valid":true,"error":""}
+{"id":"466","source_file":"048.jpg","resolved_file":"048.jpg","model":"qwen3.7-plus","answer":"389409537.65","valid":true,"error":""}
+{"id":"467","source_file":"048.jpg","resolved_file":"048.jpg","model":"qwen3.7-plus","answer":"509510514.92","valid":true,"error":""}
+{"id":"468","source_file":"048.jpg","resolved_file":"048.jpg","model":"qwen3.7-plus","answer":"[{\"流动资产合计期末余额\":\"7,059,703,916.00\"},{\"流动资产合计年初余额\":\"4,428,852,485.11\"},{\"固定资产期末余额\":\"11,211,345,599.37\"},{\"在建工程期末余额\":\"344,034,065.45\"}]","valid":true,"error":""}
+{"id":"469","source_file":"049.jpg","resolved_file":"049.jpg","model":"qwen3.7-plus","answer":"NIKE SB COACHES 樱花粉 男女教练夹克","valid":true,"error":""}
+{"id":"470","source_file":"049.jpg","resolved_file":"049.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"472","source_file":"049.jpg","resolved_file":"049.jpg","model":"qwen3.7-plus","answer":"商品名称","valid":true,"error":""}
+{"id":"473","source_file":"049.jpg","resolved_file":"049.jpg","model":"qwen3.7-plus","answer":"XL","valid":true,"error":""}
+{"id":"474","source_file":"049.jpg","resolved_file":"049.jpg","model":"qwen3.7-plus","answer":"耐克","valid":true,"error":""}
+{"id":"475","source_file":"049.jpg","resolved_file":"049.jpg","model":"qwen3.7-plus","answer":"聚酯纤维","valid":true,"error":""}
+{"id":"476","source_file":"049.jpg","resolved_file":"049.jpg","model":"qwen3.7-plus","answer":"中国 829510 -678","valid":true,"error":""}
+{"id":"477","source_file":"049.jpg","resolved_file":"049.jpg","model":"qwen3.7-plus","answer":"印尼 829509 -678","valid":true,"error":""}
+{"id":"478","source_file":"049.jpg","resolved_file":"049.jpg","model":"qwen3.7-plus","answer":"[{\"洗涤建议\":\"冷水机洗\",\"尺码 XL 衣长\":\"77\",\"尺码 M 胸围\":\"95\",\"XL 适合身高\":\"175-185\"}]","valid":true,"error":""}
+{"id":"479","source_file":"051.jpg","resolved_file":"051.jpg","model":"qwen3.7-plus","answer":"中华人民共和国海关出口货物报关单","valid":true,"error":""}
+{"id":"480","source_file":"051.jpg","resolved_file":"051.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"482","source_file":"051.jpg","resolved_file":"051.jpg","model":"qwen3.7-plus","answer":"境外收货人","valid":true,"error":""}
+{"id":"483","source_file":"051.jpg","resolved_file":"051.jpg","model":"qwen3.7-plus","answer":"备案号","valid":true,"error":""}
+{"id":"484","source_file":"051.jpg","resolved_file":"051.jpg","model":"qwen3.7-plus","answer":"否","valid":true,"error":""}
+{"id":"485","source_file":"051.jpg","resolved_file":"051.jpg","model":"qwen3.7-plus","answer":"是","valid":true,"error":""}
+{"id":"486","source_file":"051.jpg","resolved_file":"051.jpg","model":"qwen3.7-plus","answer":"否","valid":true,"error":""}
+{"id":"487","source_file":"051.jpg","resolved_file":"051.jpg","model":"qwen3.7-plus","answer":"否","valid":true,"error":""}
+{"id":"488","source_file":"051.jpg","resolved_file":"051.jpg","model":"qwen3.7-plus","answer":"[{\"表格主色\":\"黑白\",\"是否含税率列\":\"否\",\"是否含日期字段\":\"是\",\"是否含签字栏\":\"是\"}]","valid":true,"error":""}
+{"id":"489","source_file":"052.jpg","resolved_file":"052.jpg","model":"qwen3.8-max","answer":"中华人民共和国海关出口货物报关单","valid":true,"error":""}
+{"id":"490","source_file":"052.jpg","resolved_file":"052.jpg","model":"qwen3.8-max","answer":"中文","valid":true,"error":""}
+{"id":"492","source_file":"052.jpg","resolved_file":"052.jpg","model":"qwen3.8-max","answer":"境内发货人","valid":true,"error":""}
+{"id":"493","source_file":"052.jpg","resolved_file":"052.jpg","model":"qwen3.8-max","answer":"征免","valid":true,"error":""}
+{"id":"494","source_file":"052.jpg","resolved_file":"052.jpg","model":"qwen3.8-max","answer":"是","valid":true,"error":""}
+{"id":"495","source_file":"052.jpg","resolved_file":"052.jpg","model":"qwen3.8-max","answer":"是","valid":true,"error":""}
+{"id":"496","source_file":"052.jpg","resolved_file":"052.jpg","model":"qwen3.8-max","answer":"是","valid":true,"error":""}
+{"id":"497","source_file":"052.jpg","resolved_file":"052.jpg","model":"qwen3.8-max","answer":"是","valid":true,"error":""}
+{"id":"498","source_file":"052.jpg","resolved_file":"052.jpg","model":"qwen3.8-max","answer":"[{\"是否含单价列\":\"是\",\"是否含金额列\":\"是\",\"是否含多行明细\":\"是\",\"是否横向拍摄\":\"否\"}]","valid":true,"error":""}
+{"id":"499","source_file":"053.jpg","resolved_file":"053.jpg","model":"qwen3.7-plus","answer":"Nutrition Facts","valid":true,"error":""}
+{"id":"500","source_file":"053.jpg","resolved_file":"053.jpg","model":"qwen3.7-plus","answer":"English","valid":true,"error":""}
+{"id":"502","source_file":"053.jpg","resolved_file":"053.jpg","model":"qwen3.7-plus","answer":"Nutrient","valid":true,"error":""}
+{"id":"503","source_file":"053.jpg","resolved_file":"053.jpg","model":"qwen3.7-plus","answer":"Amount Per Serving","valid":true,"error":""}
+{"id":"504","source_file":"053.jpg","resolved_file":"053.jpg","model":"qwen3.7-plus","answer":"About 1/4 cup (7g)","valid":true,"error":""}
+{"id":"505","source_file":"053.jpg","resolved_file":"053.jpg","model":"qwen3.7-plus","answer":"About 4","valid":true,"error":""}
+{"id":"506","source_file":"053.jpg","resolved_file":"053.jpg","model":"qwen3.7-plus","answer":"25","valid":true,"error":""}
+{"id":"507","source_file":"053.jpg","resolved_file":"053.jpg","model":"qwen3.7-plus","answer":"0g","valid":true,"error":""}
+{"id":"508","source_file":"053.jpg","resolved_file":"053.jpg","model":"qwen3.7-plus","answer":"[{\"Sodium\":\"0mg\"},{\"Total Carbohydrate\":\"6g\"},{\"Sugars\":\"4g\"},{\"Protein\":\"0g\"}]","valid":true,"error":""}
+{"id":"509","source_file":"054.jpg","resolved_file":"054.jpg","model":"qwen3.7-plus","answer":"Voeding / Nutrition","valid":true,"error":""}
+{"id":"510","source_file":"054.jpg","resolved_file":"054.jpg","model":"qwen3.7-plus","answer":"荷兰语 / 法语","valid":true,"error":""}
+{"id":"512","source_file":"054.jpg","resolved_file":"054.jpg","model":"qwen3.7-plus","answer":"Gemiddelde waarden per: / Valeurs moyennes pour :","valid":true,"error":""}
+{"id":"513","source_file":"054.jpg","resolved_file":"054.jpg","model":"qwen3.7-plus","answer":"% RI* / % AR*","valid":true,"error":""}
+{"id":"514","source_file":"054.jpg","resolved_file":"054.jpg","model":"qwen3.7-plus","answer":"255 kJ\n60 kcal","valid":true,"error":""}
+{"id":"515","source_file":"054.jpg","resolved_file":"054.jpg","model":"qwen3.7-plus","answer":"319 kJ\n75 kcal","valid":true,"error":""}
+{"id":"516","source_file":"054.jpg","resolved_file":"054.jpg","model":"qwen3.7-plus","answer":"0 g","valid":true,"error":""}
+{"id":"517","source_file":"054.jpg","resolved_file":"054.jpg","model":"qwen3.7-plus","answer":"3,5 g","valid":true,"error":""}
+{"id":"518","source_file":"054.jpg","resolved_file":"054.jpg","model":"qwen3.7-plus","answer":"[{\"Carbohydrates 125g\":\"4,4 g\"},{\"Proteins 100g\":\"12 g\"},{\"Proteins 125g\":\"14 g\"},{\"Salt 100g\":\"0,11 g\"}]","valid":true,"error":""}
+{"id":"519","source_file":"055.jpg","resolved_file":"055.jpg","model":"qwen3.7-plus","answer":"套餐表","valid":true,"error":""}
+{"id":"520","source_file":"055.jpg","resolved_file":"055.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"522","source_file":"055.jpg","resolved_file":"055.jpg","model":"qwen3.7-plus","answer":"套餐","valid":true,"error":""}
+{"id":"523","source_file":"055.jpg","resolved_file":"055.jpg","model":"qwen3.7-plus","answer":"活动价","valid":true,"error":""}
+{"id":"524","source_file":"055.jpg","resolved_file":"055.jpg","model":"qwen3.7-plus","answer":"官方标配(原封)","valid":true,"error":""}
+{"id":"525","source_file":"055.jpg","resolved_file":"055.jpg","model":"qwen3.7-plus","answer":"是","valid":true,"error":""}
+{"id":"526","source_file":"055.jpg","resolved_file":"055.jpg","model":"qwen3.7-plus","answer":"是","valid":true,"error":""}
+{"id":"527","source_file":"055.jpg","resolved_file":"055.jpg","model":"qwen3.7-plus","answer":"是","valid":true,"error":""}
+{"id":"528","source_file":"055.jpg","resolved_file":"055.jpg","model":"qwen3.7-plus","answer":"[{\"最低活动价\":\"20299\",\"最高活动价\":\"79999\",\"备注中含退换规则\":\"3年内非人为原因质量问题硬件免费换新\",\"表格下方说明条数\":\"3\"}]","valid":true,"error":""}
+{"id":"529","source_file":"056.png","resolved_file":"056.png","model":"qwen3.7-plus","answer":"Day 1, Day 2, Day 3, Day 4, Day 5, Day 6","valid":true,"error":""}
+{"id":"530","source_file":"056.png","resolved_file":"056.png","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"532","source_file":"056.png","resolved_file":"056.png","model":"qwen3.7-plus","answer":"时间段","valid":true,"error":""}
+{"id":"533","source_file":"056.png","resolved_file":"056.png","model":"qwen3.7-plus","answer":"Day 6","valid":true,"error":""}
+{"id":"534","source_file":"056.png","resolved_file":"056.png","model":"qwen3.7-plus","answer":"6","valid":true,"error":""}
+{"id":"535","source_file":"056.png","resolved_file":"056.png","model":"qwen3.7-plus","answer":"是","valid":true,"error":""}
+{"id":"536","source_file":"056.png","resolved_file":"056.png","model":"qwen3.7-plus","answer":"是","valid":true,"error":""}
+{"id":"537","source_file":"056.png","resolved_file":"056.png","model":"qwen3.7-plus","answer":"是","valid":true,"error":""}
+{"id":"538","source_file":"056.png","resolved_file":"056.png","model":"qwen3.7-plus","answer":"[{\"是否包含自由调整\":\"是\",\"是否包含评审记录\":\"是\",\"是否包含复盘\":\"是\",\"最后时间段\":\"22:00\"}]","valid":true,"error":""}
+{"id":"539","source_file":"057.jpg","resolved_file":"057.jpg","model":"qwen3.7-plus","answer":"芯片公司这么挣钱，员工能拿到多少？","valid":true,"error":""}
+{"id":"540","source_file":"057.jpg","resolved_file":"057.jpg","model":"qwen3.7-plus","answer":"中文","valid":true,"error":""}
+{"id":"542","source_file":"057.jpg","resolved_file":"057.jpg","model":"qwen3.7-plus","answer":"公司名称","valid":true,"error":""}
+{"id":"543","source_file":"057.jpg","resolved_file":"057.jpg","model":"qwen3.7-plus","answer":"人均奖金","valid":true,"error":""}
+{"id":"544","source_file":"057.jpg","resolved_file":"057.jpg","model":"qwen3.7-plus","answer":"万美元","valid":true,"error":""}
+{"id":"545","source_file":"057.jpg","resolved_file":"057.jpg","model":"qwen3.7-plus","answer":"30.1","valid":true,"error":""}
+{"id":"546","source_file":"057.jpg","resolved_file":"057.jpg","model":"qwen3.7-plus","answer":"4986.6","valid":true,"error":""}
+{"id":"547","source_file":"057.jpg","resolved_file":"057.jpg","model":"qwen3.7-plus","answer":"1.8","valid":true,"error":""}
+{"id":"548","source_file":"057.jpg","resolved_file":"057.jpg","model":"qwen3.7-plus","answer":"[{\"台积电人均奖金2025\":\"3.6\",\"SK海力士人均奖金2026E\":\"47.7\",\"三星电子人均奖金2026E\":\"39.3\",\"公司数量\":\"5\"}]","valid":true,"error":""}
+{"id":"710","source_file":"074.jpg","resolved_file":"074.jpg","model":"qwen3.7-plus","answer":"#123456789","valid":true,"error":""}
+{"id":"711","source_file":"074.jpg","resolved_file":"074.jpg","model":"qwen3.7-plus","answer":"14 January 2025","valid":true,"error":""}
+{"id":"712","source_file":"074.jpg","resolved_file":"074.jpg","model":"qwen3.7-plus","answer":"Acme Billing Co.","valid":true,"error":""}
+{"id":"713","source_file":"074.jpg","resolved_file":"074.jpg","model":"qwen3.7-plus","answer":"John Smith","valid":true,"error":""}
+{"id":"714","source_file":"074.jpg","resolved_file":"074.jpg","model":"qwen3.7-plus","answer":"[{\"Name / Description\":\"Paperclips\",\"Qty.\":\"1000\",\"@\":\"0.01\",\"Cost\":\"10.00\"}]","valid":true,"error":""}
+{"id":"715","source_file":"074.jpg","resolved_file":"074.jpg","model":"qwen3.7-plus","answer":"$ 118.80","valid":true,"error":""}
+{"id":"716","source_file":"074.jpg","resolved_file":"074.jpg","model":"qwen3.7-plus","answer":"110","valid":true,"error":""}
+{"id":"717","source_file":"074.jpg","resolved_file":"074.jpg","model":"qwen3.7-plus","answer":"110","valid":true,"error":""}
+{"id":"718","source_file":"074.jpg","resolved_file":"074.jpg","model":"qwen3.7-plus","answer":"118.8","valid":true,"error":""}
+{"id":"720","source_file":"075.jpg","resolved_file":"075.jpg","model":"qwen3.7-plus","answer":"100000","valid":true,"error":""}
+{"id":"721","source_file":"075.jpg","resolved_file":"075.jpg","model":"qwen3.7-plus","answer":"$750,000","valid":true,"error":""}
+{"id":"722","source_file":"075.jpg","resolved_file":"075.jpg","model":"qwen3.7-plus","answer":"$250,000","valid":true,"error":""}
+{"id":"723","source_file":"075.jpg","resolved_file":"075.jpg","model":"qwen3.7-plus","answer":"$3,000,000","valid":true,"error":""}
+{"id":"724","source_file":"075.jpg","resolved_file":"075.jpg","model":"qwen3.7-plus","answer":"$1,000,000","valid":true,"error":""}
+{"id":"725","source_file":"075.jpg","resolved_file":"075.jpg","model":"qwen3.7-plus","answer":"888889","valid":true,"error":""}
+{"id":"726","source_file":"075.jpg","resolved_file":"075.jpg","model":"qwen3.7-plus","answer":"1000000","valid":true,"error":""}
+{"id":"727","source_file":"075.jpg","resolved_file":"075.jpg","model":"qwen3.7-plus","answer":"9000000","valid":true,"error":""}
+{"id":"728","source_file":"075.jpg","resolved_file":"075.jpg","model":"qwen3.7-plus","answer":"20000000","valid":true,"error":""}
+{"id":"730","source_file":"076.jpg","resolved_file":"076.jpg","model":"qwen3.7-plus","answer":"900","valid":true,"error":""}
+{"id":"731","source_file":"076.jpg","resolved_file":"076.jpg","model":"qwen3.7-plus","answer":"100","valid":true,"error":""}
+{"id":"732","source_file":"076.jpg","resolved_file":"076.jpg","model":"qwen3.7-plus","answer":"1000","valid":true,"error":""}
+{"id":"733","source_file":"076.jpg","resolved_file":"076.jpg","model":"qwen3.7-plus","answer":"-100","valid":true,"error":""}
+{"id":"734","source_file":"076.jpg","resolved_file":"076.jpg","model":"qwen3.7-plus","answer":"200","valid":true,"error":""}
+{"id":"735","source_file":"076.jpg","resolved_file":"076.jpg","model":"qwen3.7-plus","answer":"15.0%","valid":true,"error":""}
+{"id":"736","source_file":"076.jpg","resolved_file":"076.jpg","model":"qwen3.7-plus","answer":"900","valid":true,"error":""}
+{"id":"737","source_file":"076.jpg","resolved_file":"076.jpg","model":"qwen3.7-plus","answer":"700","valid":true,"error":""}
+{"id":"738","source_file":"076.jpg","resolved_file":"076.jpg","model":"qwen3.7-plus","answer":"15.0%","valid":true,"error":""}
+{"id":"750","source_file":"078.png","resolved_file":"078.png","model":"qwen3.7-plus","answer":"118573","valid":true,"error":""}
+{"id":"751","source_file":"078.png","resolved_file":"078.png","model":"qwen3.7-plus","answer":"41322","valid":true,"error":""}
+{"id":"752","source_file":"078.png","resolved_file":"078.png","model":"qwen3.7-plus","answer":"107006","valid":true,"error":""}
+{"id":"753","source_file":"078.png","resolved_file":"078.png","model":"qwen3.7-plus","answer":"111934","valid":true,"error":""}
+{"id":"754","source_file":"078.png","resolved_file":"078.png","model":"qwen3.7-plus","answer":"2371","valid":true,"error":""}
+{"id":"755","source_file":"078.png","resolved_file":"078.png","model":"qwen3.7-plus","answer":"6.15","valid":true,"error":""}
+{"id":"756","source_file":"078.png","resolved_file":"078.png","model":"qwen3.7-plus","answer":"4106","valid":true,"error":""}
+{"id":"757","source_file":"078.png","resolved_file":"078.png","model":"qwen3.7-plus","answer":"6000","valid":true,"error":""}
+{"id":"758","source_file":"078.png","resolved_file":"078.png","model":"qwen3.7-plus","answer":"59280","valid":true,"error":""}
+{"id":"760","source_file":"079.png","resolved_file":"079.png","model":"qwen3.7-plus","answer":"14557","valid":true,"error":""}
+{"id":"761","source_file":"079.png","resolved_file":"079.png","model":"qwen3.7-plus","answer":"18434","valid":true,"error":""}
+{"id":"762","source_file":"079.png","resolved_file":"079.png","model":"qwen3.7-plus","answer":"-7756","valid":true,"error":""}
+{"id":"763","source_file":"079.png","resolved_file":"079.png","model":"qwen3.7-plus","answer":"-27819","valid":true,"error":""}
+{"id":"764","source_file":"079.png","resolved_file":"079.png","model":"qwen3.7-plus","answer":"9860","valid":true,"error":""}
+{"id":"765","source_file":"079.png","resolved_file":"079.png","model":"qwen3.7-plus","answer":"20522","valid":true,"error":""}
+{"id":"766","source_file":"079.png","resolved_file":"079.png","model":"qwen3.7-plus","answer":"1188","valid":true,"error":""}
+{"id":"767","source_file":"079.png","resolved_file":"079.png","model":"qwen3.7-plus","answer":"1642","valid":true,"error":""}
+{"id":"768","source_file":"079.png","resolved_file":"079.png","model":"qwen3.7-plus","answer":"-3789","valid":true,"error":""}
+{"id":"770","source_file":"080.png","resolved_file":"080.png","model":"qwen3.7-plus","answer":"181210","valid":true,"error":""}
+{"id":"771","source_file":"080.png","resolved_file":"080.png","model":"qwen3.7-plus","answer":"158311","valid":true,"error":""}
+{"id":"772","source_file":"080.png","resolved_file":"080.png","model":"qwen3.7-plus","answer":"2474","valid":true,"error":""}
+{"id":"773","source_file":"080.png","resolved_file":"080.png","model":"qwen3.7-plus","answer":"295351","valid":true,"error":""}
+{"id":"774","source_file":"080.png","resolved_file":"080.png","model":"qwen3.7-plus","answer":"37505","valid":true,"error":""}
+{"id":"775","source_file":"080.png","resolved_file":"080.png","model":"qwen3.7-plus","answer":"293627","valid":true,"error":""}
+{"id":"776","source_file":"080.png","resolved_file":"080.png","model":"qwen3.7-plus","answer":"99534","valid":true,"error":""}
+{"id":"777","source_file":"080.png","resolved_file":"080.png","model":"qwen3.7-plus","answer":"13839","valid":true,"error":""}
+{"id":"778","source_file":"080.png","resolved_file":"080.png","model":"qwen3.7-plus","answer":"2017","valid":true,"error":""}
+{"id":"780","source_file":"081.png","resolved_file":"081.png","model":"qwen3.7-plus","answer":"CBSE","valid":true,"error":""}
+{"id":"781","source_file":"081.png","resolved_file":"081.png","model":"qwen3.7-plus","answer":"65","valid":true,"error":""}
+{"id":"782","source_file":"081.png","resolved_file":"081.png","model":"qwen3.7-plus","answer":"Sports facility is not available for this class","valid":true,"error":""}
+{"id":"783","source_file":"081.png","resolved_file":"081.png","model":"qwen3.7-plus","answer":"45","valid":true,"error":""}
+{"id":"784","source_file":"081.png","resolved_file":"081.png","model":"qwen3.7-plus","answer":"82","valid":true,"error":""}
+{"id":"785","source_file":"081.png","resolved_file":"081.png","model":"qwen3.7-plus","answer":"Sports facility is available for this class","valid":true,"error":""}
+{"id":"786","source_file":"081.png","resolved_file":"081.png","model":"qwen3.7-plus","answer":"105","valid":true,"error":""}
+{"id":"787","source_file":"081.png","resolved_file":"081.png","model":"qwen3.7-plus","answer":"165","valid":true,"error":""}
+{"id":"788","source_file":"081.png","resolved_file":"081.png","model":"qwen3.7-plus","answer":"XYZ Public School XII","valid":true,"error":""}
+{"id":"790","source_file":"082.png","resolved_file":"082.png","model":"qwen3.7-plus","answer":"表1-2 分部分项工程量清单及计价表（ 号清单）","valid":true,"error":""}
+{"id":"791","source_file":"082.png","resolved_file":"082.png","model":"qwen3.7-plus","answer":"第 7 页 共 10 页","valid":true,"error":""}
+{"id":"792","source_file":"082.png","resolved_file":"082.png","model":"qwen3.7-plus","answer":"现浇构件钢筋","valid":true,"error":""}
+{"id":"793","source_file":"082.png","resolved_file":"082.png","model":"qwen3.7-plus","answer":"2.238","valid":true,"error":""}
+{"id":"794","source_file":"082.png","resolved_file":"082.png","model":"qwen3.7-plus","answer":"塑料管","valid":true,"error":""}
+{"id":"795","source_file":"082.png","resolved_file":"082.png","model":"qwen3.7-plus","answer":"82809","valid":true,"error":""}
+{"id":"796","source_file":"082.png","resolved_file":"082.png","model":"qwen3.7-plus","answer":"12774","valid":true,"error":""}
+{"id":"797","source_file":"082.png","resolved_file":"082.png","model":"qwen3.7-plus","answer":"16236","valid":true,"error":""}
+{"id":"798","source_file":"082.png","resolved_file":"082.png","model":"qwen3.7-plus","answer":"污水","valid":true,"error":""}
+{"id":"800","source_file":"083.png","resolved_file":"083.png","model":"qwen3.7-plus","answer":"35184","valid":true,"error":""}
+{"id":"801","source_file":"083.png","resolved_file":"083.png","model":"qwen3.7-plus","answer":"2","valid":true,"error":""}
+{"id":"802","source_file":"083.png","resolved_file":"083.png","model":"qwen3.7-plus","answer":"0.26","valid":true,"error":""}
+{"id":"803","source_file":"083.png","resolved_file":"083.png","model":"qwen3.7-plus","answer":"20","valid":true,"error":""}
+{"id":"804","source_file":"083.png","resolved_file":"083.png","model":"qwen3.7-plus","answer":"63","valid":true,"error":""}
+{"id":"805","source_file":"083.png","resolved_file":"083.png","model":"qwen3.7-plus","answer":"81714","valid":true,"error":""}
+{"id":"806","source_file":"083.png","resolved_file":"083.png","model":"qwen3.7-plus","answer":"201","valid":true,"error":""}
+{"id":"807","source_file":"083.png","resolved_file":"083.png","model":"qwen3.7-plus","answer":"25636","valid":true,"error":""}
+{"id":"808","source_file":"083.png","resolved_file":"083.png","model":"qwen3.7-plus","answer":"Breast pathology","valid":true,"error":""}
+{"id":"810","source_file":"084.png","resolved_file":"084.png","model":"qwen3.7-plus","answer":"Formosa","valid":true,"error":""}
+{"id":"811","source_file":"084.png","resolved_file":"084.png","model":"qwen3.7-plus","answer":"4535.26","valid":true,"error":""}
+{"id":"812","source_file":"084.png","resolved_file":"084.png","model":"qwen3.7-plus","answer":"250","valid":true,"error":""}
+{"id":"813","source_file":"084.png","resolved_file":"084.png","model":"qwen3.7-plus","answer":"LG Chem.","valid":true,"error":""}
+{"id":"814","source_file":"084.png","resolved_file":"084.png","model":"qwen3.7-plus","answer":"95.91","valid":true,"error":""}
+{"id":"815","source_file":"084.png","resolved_file":"084.png","model":"qwen3.7-plus","answer":"April 25, 2017","valid":true,"error":""}
+{"id":"816","source_file":"084.png","resolved_file":"084.png","model":"qwen3.7-plus","answer":"4899.3","valid":true,"error":""}
+{"id":"817","source_file":"084.png","resolved_file":"084.png","model":"qwen3.7-plus","answer":"Stearalkonium Chloride","valid":true,"error":""}
+{"id":"818","source_file":"084.png","resolved_file":"084.png","model":"qwen3.7-plus","answer":"205","valid":true,"error":""}
+{"id":"820","source_file":"085.png","resolved_file":"085.png","model":"qwen3.7-plus","answer":"Warning","valid":true,"error":""}
+{"id":"821","source_file":"085.png","resolved_file":"085.png","model":"qwen3.7-plus","answer":"244.97","valid":true,"error":""}
+{"id":"822","source_file":"085.png","resolved_file":"085.png","model":"qwen3.7-plus","answer":"61.67","valid":true,"error":""}
+{"id":"823","source_file":"085.png","resolved_file":"085.png","model":"qwen3.7-plus","answer":"Warning","valid":true,"error":""}
+{"id":"824","source_file":"085.png","resolved_file":"085.png","model":"qwen3.7-plus","answer":"11026.43","valid":true,"error":""}
+{"id":"825","source_file":"085.png","resolved_file":"085.png","model":"qwen3.7-plus","answer":"Risk","valid":true,"error":""}
+{"id":"826","source_file":"085.png","resolved_file":"085.png","model":"qwen3.7-plus","answer":"36.49","valid":true,"error":""}
+{"id":"827","source_file":"085.png","resolved_file":"085.png","model":"qwen3.7-plus","answer":"33761.56","valid":true,"error":""}
+{"id":"828","source_file":"085.png","resolved_file":"085.png","model":"qwen3.7-plus","answer":"LG Chem.","valid":true,"error":""}
+{"id":"830","source_file":"086.png","resolved_file":"086.png","model":"qwen3.7-plus","answer":"Sandeep","valid":true,"error":""}
+{"id":"831","source_file":"086.png","resolved_file":"086.png","model":"qwen3.7-plus","answer":"Singh","valid":true,"error":""}
+{"id":"832","source_file":"086.png","resolved_file":"086.png","model":"qwen3.7-plus","answer":"kamboj@yahoo.com","valid":true,"error":""}
+{"id":"833","source_file":"086.png","resolved_file":"086.png","model":"qwen3.7-plus","answer":"India","valid":true,"error":""}
+{"id":"834","source_file":"086.png","resolved_file":"086.png","model":"qwen3.7-plus","answer":"Nitin","valid":true,"error":""}
+{"id":"835","source_file":"086.png","resolved_file":"086.png","model":"qwen3.7-plus","answer":"343242423432","valid":true,"error":""}
+{"id":"836","source_file":"086.png","resolved_file":"086.png","model":"qwen3.7-plus","answer":"Sandeep Singh","valid":true,"error":""}
+{"id":"837","source_file":"086.png","resolved_file":"086.png","model":"qwen3.7-plus","answer":"10","valid":true,"error":""}
+{"id":"838","source_file":"086.png","resolved_file":"086.png","model":"qwen3.7-plus","answer":"example@gmail.com","valid":true,"error":""}
+{"id":"840","source_file":"087.png","resolved_file":"087.png","model":"qwen3.7-plus","answer":"0.91","valid":true,"error":""}
+{"id":"841","source_file":"087.png","resolved_file":"087.png","model":"qwen3.7-plus","answer":"0.86","valid":true,"error":""}
+{"id":"842","source_file":"087.png","resolved_file":"087.png","model":"qwen3.7-plus","answer":"0.28","valid":true,"error":""}
+{"id":"843","source_file":"087.png","resolved_file":"087.png","model":"qwen3.7-plus","answer":"0.87","valid":true,"error":""}
+{"id":"844","source_file":"087.png","resolved_file":"087.png","model":"qwen3.7-plus","answer":"0.18","valid":true,"error":""}
+{"id":"845","source_file":"087.png","resolved_file":"087.png","model":"qwen3.7-plus","answer":"0.87","valid":true,"error":""}
+{"id":"846","source_file":"087.png","resolved_file":"087.png","model":"qwen3.7-plus","answer":"0.76","valid":true,"error":""}
+{"id":"847","source_file":"087.png","resolved_file":"087.png","model":"qwen3.7-plus","answer":"Orange","valid":true,"error":""}
+{"id":"848","source_file":"087.png","resolved_file":"087.png","model":"qwen3.7-plus","answer":"0.67","valid":true,"error":""}
+{"id":"850","source_file":"088.png","resolved_file":"088.png","model":"qwen3.7-plus","answer":"Oceania","valid":true,"error":""}
+{"id":"851","source_file":"088.png","resolved_file":"088.png","model":"qwen3.7-plus","answer":"Melbourne","valid":true,"error":""}
+{"id":"852","source_file":"088.png","resolved_file":"088.png","model":"qwen3.7-plus","answer":"Australia","valid":true,"error":""}
+{"id":"853","source_file":"088.png","resolved_file":"088.png","model":"qwen3.7-plus","answer":"22 November","valid":true,"error":""}
+{"id":"854","source_file":"088.png","resolved_file":"088.png","model":"qwen3.7-plus","answer":"Sydney","valid":true,"error":""}
+{"id":"855","source_file":"088.png","resolved_file":"088.png","model":"qwen3.7-plus","answer":"1 October","valid":true,"error":""}
+{"id":"856","source_file":"088.png","resolved_file":"088.png","model":"qwen3.7-plus","answer":"2","valid":true,"error":""}
+{"id":"857","source_file":"088.png","resolved_file":"088.png","model":"qwen3.7-plus","answer":"44","valid":true,"error":""}
+{"id":"858","source_file":"088.png","resolved_file":"088.png","model":"qwen3.7-plus","answer":"27","valid":true,"error":""}
+{"id":"860","source_file":"089.png","resolved_file":"089.png","model":"qwen3.7-plus","answer":"1","valid":true,"error":""}
+{"id":"861","source_file":"089.png","resolved_file":"089.png","model":"qwen3.7-plus","answer":"2","valid":true,"error":""}
+{"id":"862","source_file":"089.png","resolved_file":"089.png","model":"qwen3.7-plus","answer":"[{\"编号\":\"9\"},{\"编号\":\"10\"}]","valid":true,"error":""}
+{"id":"863","source_file":"089.png","resolved_file":"089.png","model":"qwen3.7-plus","answer":"18","valid":true,"error":""}
+{"id":"864","source_file":"089.png","resolved_file":"089.png","model":"qwen3.7-plus","answer":"8","valid":true,"error":""}
+{"id":"865","source_file":"089.png","resolved_file":"089.png","model":"qwen3.7-plus","answer":"13","valid":true,"error":""}
+{"id":"866","source_file":"089.png","resolved_file":"089.png","model":"qwen3.7-plus","answer":"19","valid":true,"error":""}
+{"id":"867","source_file":"089.png","resolved_file":"089.png","model":"qwen3.7-plus","answer":"33","valid":true,"error":""}
+{"id":"868","source_file":"089.png","resolved_file":"089.png","model":"qwen3.7-plus","answer":"[{\"编号\":\"1\"},{\"编号\":\"4\"},{\"编号\":\"5\"},{\"编号\":\"6\"},{\"编号\":\"7\"},{\"编号\":\"11\"},{\"编号\":\"12\"},{\"编号\":\"13\"},{\"编号\":\"17\"},{\"编号\":\"18\"}]","valid":true,"error":""}
+{"id":"870","source_file":"090.png","resolved_file":"090.png","model":"qwen3.7-plus","answer":"ColumnSpan=\"2\"","valid":true,"error":""}
+{"id":"871","source_file":"090.png","resolved_file":"090.png","model":"qwen3.7-plus","answer":"RowSpan=\"3\" ColumnSpan=\"2\"","valid":true,"error":""}
+{"id":"872","source_file":"090.png","resolved_file":"090.png","model":"qwen3.7-plus","answer":"RowSpan=\"5\"","valid":true,"error":""}
+{"id":"873","source_file":"090.png","resolved_file":"090.png","model":"qwen3.7-plus","answer":"ColumnSpan=\"2\"","valid":true,"error":""}
+{"id":"874","source_file":"090.png","resolved_file":"090.png","model":"qwen3.7-plus","answer":"ColumnSpan=\"2\"","valid":true,"error":""}
+{"id":"875","source_file":"090.png","resolved_file":"090.png","model":"qwen3.7-plus","answer":"8","valid":true,"error":""}
+{"id":"876","source_file":"090.png","resolved_file":"090.png","model":"qwen3.7-plus","answer":"8","valid":true,"error":""}
+{"id":"877","source_file":"090.png","resolved_file":"090.png","model":"qwen3.7-plus","answer":"是","valid":true,"error":""}
+{"id":"878","source_file":"090.png","resolved_file":"090.png","model":"qwen3.7-plus","answer":"4","valid":true,"error":""}
+{"id":"880","source_file":"091.png","resolved_file":"091.png","model":"qwen3.7-plus","answer":"34","valid":true,"error":""}
+{"id":"881","source_file":"091.png","resolved_file":"091.png","model":"qwen3.7-plus","answer":"9","valid":true,"error":""}
+{"id":"882","source_file":"091.png","resolved_file":"091.png","model":"qwen3.7-plus","answer":"6","valid":true,"error":""}
+{"id":"883","source_file":"091.png","resolved_file":"091.png","model":"qwen3.7-plus","answer":"35","valid":true,"error":""}
+{"id":"884","source_file":"091.png","resolved_file":"091.png","model":"qwen3.7-plus","answer":"85.4","valid":true,"error":""}
+{"id":"885","source_file":"091.png","resolved_file":"091.png","model":"qwen3.7-plus","answer":"85","valid":true,"error":""}
+{"id":"886","source_file":"091.png","resolved_file":"091.png","model":"qwen3.7-plus","answer":"84","valid":true,"error":""}
+{"id":"887","source_file":"091.png","resolved_file":"091.png","model":"qwen3.7-plus","answer":"69","valid":true,"error":""}
+{"id":"888","source_file":"091.png","resolved_file":"091.png","model":"qwen3.7-plus","answer":"20.9%","valid":true,"error":""}
+{"id":"890","source_file":"092.jpg","resolved_file":"092.jpg","model":"qwen3.7-plus","answer":"Debjit Mukherjee","valid":true,"error":""}
+{"id":"891","source_file":"092.jpg","resolved_file":"092.jpg","model":"qwen3.7-plus","answer":"1600000","valid":true,"error":""}
+{"id":"892","source_file":"092.jpg","resolved_file":"092.jpg","model":"qwen3.7-plus","answer":"50000","valid":true,"error":""}
+{"id":"893","source_file":"092.jpg","resolved_file":"092.jpg","model":"qwen3.7-plus","answer":"32","valid":true,"error":""}
+{"id":"894","source_file":"092.jpg","resolved_file":"092.jpg","model":"qwen3.7-plus","answer":"-1108907","valid":true,"error":""}
+{"id":"895","source_file":"092.jpg","resolved_file":"092.jpg","model":"qwen3.7-plus","answer":"84%","valid":true,"error":""}
+{"id":"896","source_file":"092.jpg","resolved_file":"092.jpg","model":"qwen3.7-plus","answer":"8775000","valid":true,"error":""}
+{"id":"897","source_file":"092.jpg","resolved_file":"092.jpg","model":"qwen3.7-plus","answer":"3149574","valid":true,"error":""}
+{"id":"898","source_file":"092.jpg","resolved_file":"092.jpg","model":"qwen3.7-plus","answer":"Yes","valid":true,"error":""}
+{"id":"900","source_file":"093.jpg","resolved_file":"093.jpg","model":"qwen3.7-plus","answer":"XXX","valid":true,"error":""}
+{"id":"901","source_file":"093.jpg","resolved_file":"093.jpg","model":"qwen3.7-plus","answer":"Summary","valid":true,"error":""}
+{"id":"902","source_file":"093.jpg","resolved_file":"093.jpg","model":"qwen3.7-plus","answer":"Note: The following records relate to first pass","valid":true,"error":""}
+{"id":"903","source_file":"093.jpg","resolved_file":"093.jpg","model":"qwen3.7-plus","answer":"NNN, NNN1, NNN2, NNNNNN2, XYZDDD, SOURCE, TARGET","valid":true,"error":""}
+{"id":"904","source_file":"093.jpg","resolved_file":"093.jpg","model":"qwen3.7-plus","answer":"REDS, XXX, NNN, LLL, LLLL","valid":true,"error":""}
+{"id":"905","source_file":"093.jpg","resolved_file":"093.jpg","model":"qwen3.7-plus","answer":"[{\"Description\":\"basic structure\"},{\"Description\":\"local structure perturbations\"}]","valid":true,"error":""}
+{"id":"906","source_file":"093.jpg","resolved_file":"093.jpg","model":"qwen3.7-plus","answer":"7","valid":true,"error":""}
+{"id":"907","source_file":"093.jpg","resolved_file":"093.jpg","model":"qwen3.7-plus","answer":"5","valid":true,"error":""}
+{"id":"908","source_file":"093.jpg","resolved_file":"093.jpg","model":"qwen3.7-plus","answer":"Yes","valid":true,"error":""}

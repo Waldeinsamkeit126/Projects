@@ -1,0 +1,142 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\v4_melon90\\main.py",
+    "games": 6,
+    "wins": 2,
+    "mean_score": 84616.0,
+    "mean_margin": -9247.833333333334,
+    "mean_score_delta": -279.3333333333333,
+    "mean_margin_delta": 4421.333333333333,
+    "median_margin_delta": -181.5,
+    "max_action_seconds": 0.1046619999979157,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89486601,
+      "opponent": "Nur Srijan",
+      "seed": 1706630155,
+      "position": 0,
+      "ours": 83207.0,
+      "theirs": 56403.0,
+      "margin": 26804.0,
+      "win": true,
+      "original_ours": 78539.0,
+      "original_theirs": 84350.0,
+      "original_margin": -5811.0,
+      "score_delta": 4668.0,
+      "margin_delta": 32615.0,
+      "elapsed_seconds": 3.474582199996803,
+      "max_action_seconds": 0.07245459998375736,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89486052,
+      "opponent": "Enrico Ambrosio",
+      "seed": 1805005444,
+      "position": 0,
+      "ours": 88570.0,
+      "theirs": 92732.0,
+      "margin": -4162.0,
+      "win": false,
+      "original_ours": 96256.0,
+      "original_theirs": 100048.0,
+      "original_margin": -3792.0,
+      "score_delta": -7686.0,
+      "margin_delta": -370.0,
+      "elapsed_seconds": 3.6889387000119314,
+      "max_action_seconds": 0.0025931000127457082,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89485498,
+      "opponent": "omikbop",
+      "seed": 425022464,
+      "position": 0,
+      "ours": 88806.0,
+      "theirs": 87670.0,
+      "margin": 1136.0,
+      "win": true,
+      "original_ours": 71782.0,
+      "original_theirs": 77606.0,
+      "original_margin": -5824.0,
+      "score_delta": 17024.0,
+      "margin_delta": 6960.0,
+      "elapsed_seconds": 3.8113886000064667,
+      "max_action_seconds": 0.0025941000203602016,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89484952,
+      "opponent": "epigene",
+      "seed": 1079635452,
+      "position": 0,
+      "ours": 98646.0,
+      "theirs": 110895.0,
+      "margin": -12249.0,
+      "win": false,
+      "original_ours": 102043.0,
+      "original_theirs": 111066.0,
+      "original_margin": -9023.0,
+      "score_delta": -3397.0,
+      "margin_delta": -3226.0,
+      "elapsed_seconds": 4.082050099998014,
+      "max_action_seconds": 0.10099529998842627,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89484406,
+      "opponent": "ghostiee11",
+      "seed": 1809785243,
+      "position": 1,
+      "ours": 80642.0,
+      "theirs": 106056.0,
+      "margin": -25414.0,
+      "win": false,
+      "original_ours": 95319.0,
+      "original_theirs": 111275.0,
+      "original_margin": -15956.0,
+      "score_delta": -14677.0,
+      "margin_delta": -9458.0,
+      "elapsed_seconds": 4.181386299984297,
+      "max_action_seconds": 0.0035109000164084136,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89483866,
+      "opponent": "cmasch",
+      "seed": 222207795,
+      "position": 1,
+      "ours": 67825.0,
+      "theirs": 109427.0,
+      "margin": -41602.0,
+      "win": false,
+      "original_ours": 65433.0,
+      "original_theirs": 107042.0,
+      "original_margin": -41609.0,
+      "score_delta": 2392.0,
+      "margin_delta": 7.0,
+      "elapsed_seconds": 4.157736399996793,
+      "max_action_seconds": 0.1046619999979157,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

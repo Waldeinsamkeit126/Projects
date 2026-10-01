@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "848",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Banana 的 Data2-Orig-Precision/Recall/F1 为 0.86、0.81、0.53，平均 2.20/3≈0.73"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 188,
+    "completion_tokens_details": {
+      "reasoning_tokens": 115,
+      "text_tokens": 72
+    },
+    "prompt_tokens": 2896,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 2537,
+      "text_tokens": 359
+    },
+    "total_tokens": 3084
+  },
+  "requestId": "chatcmpl-8fd7813c-e3ba-9917-86ee-ff14fc7d8d19",
+  "model": "qwen3.8-max-0902"
+}

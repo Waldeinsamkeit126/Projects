@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\v4_melon88_sheep\\main.py",
+    "games": 3,
+    "wins": 1,
+    "mean_score": 100478.33333333333,
+    "mean_margin": 10887.333333333334,
+    "mean_score_delta": 28712.0,
+    "mean_margin_delta": 51524.0,
+    "median_margin_delta": 7048.0,
+    "max_action_seconds": 0.005078499962110072,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 90106875,
+      "opponent": "Tristan Peng",
+      "seed": 1342579433,
+      "position": 0,
+      "ours": 85637.0,
+      "theirs": 99481.0,
+      "margin": -13844.0,
+      "win": false,
+      "original_ours": 70309.0,
+      "original_theirs": 91201.0,
+      "original_margin": -20892.0,
+      "score_delta": 15328.0,
+      "margin_delta": 7048.0,
+      "elapsed_seconds": 6.129289499949664,
+      "max_action_seconds": 0.0036813999759033322,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90108951,
+      "opponent": "Mr.S hanakosan",
+      "seed": 948979181,
+      "position": 1,
+      "ours": 119117.0,
+      "theirs": 2099.0,
+      "margin": 117018.0,
+      "win": true,
+      "original_ours": 73418.0,
+      "original_theirs": 114668.0,
+      "original_margin": -41250.0,
+      "score_delta": 45699.0,
+      "margin_delta": 158268.0,
+      "elapsed_seconds": 5.757139199995436,
+      "max_action_seconds": 0.0035232999944128096,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90109651,
+      "opponent": "今日洗头明日香",
+      "seed": 1137041523,
+      "position": 0,
+      "ours": 96681.0,
+      "theirs": 167193.0,
+      "margin": -70512.0,
+      "win": false,
+      "original_ours": 71572.0,
+      "original_theirs": 131340.0,
+      "original_margin": -59768.0,
+      "score_delta": 25109.0,
+      "margin_delta": -10744.0,
+      "elapsed_seconds": 8.752211200015154,
+      "max_action_seconds": 0.005078499962110072,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

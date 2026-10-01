@@ -1,0 +1,47 @@
+{
+  "decisions": [
+    {
+      "id": "154",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "题目问对应的值，A为右侧内容，B为左侧字段名。"
+    },
+    {
+      "id": "155",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "题目问对应的值，A为右侧描述内容，B为左侧字段名。"
+    },
+    {
+      "id": "156",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "题目问consist of对应的值，A为右侧长度描述，B为上方Leads Set的描述。"
+    },
+    {
+      "id": "158",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "B更完整保留了原表文本（如脚注含页码，行头含consist of）。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 5335,
+    "completion_tokens": 4257,
+    "prompt_tokens": 1078,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3978,
+      "text_tokens": 278
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 496,
+      "cached_tokens": 0,
+      "text_tokens": 582
+    }
+  },
+  "requestId": "chatcmpl-8cf6ef40-6be5-9cc7-8c81-7b0438a86b7d"
+}

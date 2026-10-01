@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\084.png",
+  "results": [
+    {
+      "id": "809",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "{\"row_count\":16,\"col_count\":13,\"cells\":[{\"text\":\"\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Chemical name\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"International number\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Vendor\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"Resistance index\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"Density g/m³\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"Viscosity m²/s\",\"row\":0,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"Freezing point °C\",\"row\":0,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"Packaging\",\"row\":0,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"Pack size\",\"row\":0,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"Unit\",\"row\":0,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"Price $\",\"row\":0,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"Last update\",\"row\":0,\"col\":12,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "810",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Formosa",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "811",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "4535.26",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "812",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "250",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "813",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "LG Chem.",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "814",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "95.91",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "815",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "April 25, 2017",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "816",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "4899.3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "817",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Stearalkonium Chloride",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "818",
+      "source_file": "084.png",
+      "resolved_file": "084.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "205",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

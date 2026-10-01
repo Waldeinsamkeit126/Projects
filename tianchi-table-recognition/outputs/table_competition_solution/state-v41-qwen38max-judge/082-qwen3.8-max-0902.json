@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "id": "796",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "10260+619+1329+578=12786，与A一致"
+    },
+    {
+      "id": "797",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "污水小计人工费12403+机械费3793=16196，与A一致"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 600,
+    "completion_tokens_details": {
+      "reasoning_tokens": 498,
+      "text_tokens": 101
+    },
+    "prompt_tokens": 1329,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 884,
+      "text_tokens": 445
+    },
+    "total_tokens": 1929
+  },
+  "requestId": "chatcmpl-9ba329a3-492a-95ba-9091-766c3af537ab",
+  "model": "qwen3.8-max-0902"
+}

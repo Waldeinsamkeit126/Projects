@@ -1,0 +1,40 @@
+{
+  "decisions": [
+    {
+      "id": "295",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A完整保留了原表文本，B被截断。"
+    },
+    {
+      "id": "296",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原表文本使用的是'za'，B准确匹配，A使用了'pre'。"
+    },
+    {
+      "id": "297",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原表中第三条的义务履行期限是'najneskôr 30 dní pred...'，'15. auguste'是适用条件的时间点，A更符合题意。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 2652,
+    "completion_tokens": 1658,
+    "prompt_tokens": 994,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1435,
+      "text_tokens": 222
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 529,
+      "cached_tokens": 0,
+      "text_tokens": 465
+    }
+  },
+  "requestId": "chatcmpl-0136b628-93f2-9a1f-8f43-cf04af86427a"
+}

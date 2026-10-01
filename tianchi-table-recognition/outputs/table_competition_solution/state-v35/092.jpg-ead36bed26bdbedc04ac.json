@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\092.jpg",
+  "results": [
+    {
+      "id": "890",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Debjit Mukherjee",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "891",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "1600000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "892",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "50000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "893",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "32",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "894",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "-1108907",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "895",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "84%",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "896",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "8775000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "897",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "3149574",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "898",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Yes",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

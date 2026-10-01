@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\028.jpg",
+  "results": [
+    {
+      "id": "269",
+      "source_file": "028.jpg",
+      "resolved_file": "028.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "20 -20 学期第 学期课程表",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "270",
+      "source_file": "028.jpg",
+      "resolved_file": "028.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "271",
+      "source_file": "028.jpg",
+      "resolved_file": "028.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "272",
+      "source_file": "028.jpg",
+      "resolved_file": "028.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "时间",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "273",
+      "source_file": "028.jpg",
+      "resolved_file": "028.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "星期五",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "274",
+      "source_file": "028.jpg",
+      "resolved_file": "028.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "计算机网络工程",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "275",
+      "source_file": "028.jpg",
+      "resolved_file": "028.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "计算机网络技术",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "276",
+      "source_file": "028.jpg",
+      "resolved_file": "028.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "XX网络1班",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "277",
+      "source_file": "028.jpg",
+      "resolved_file": "028.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "windows网络服务搭建配置与管理(1-15周)",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "278",
+      "source_file": "028.jpg",
+      "resolved_file": "028.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"星期三第一二节\":\"大学生心理健康教育 (1-4周)\",\"星期五第九十节\":\"网络设备及应用 (1-16周)\",\"午休行文本\":\"\",\"每周列数\":5}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

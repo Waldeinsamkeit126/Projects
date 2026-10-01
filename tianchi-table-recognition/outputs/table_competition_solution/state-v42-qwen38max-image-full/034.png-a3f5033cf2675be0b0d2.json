@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\034.png",
+  "results": [
+    {
+      "id": "329",
+      "source_file": "034.png",
+      "resolved_file": "034.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "员工信息表",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "330",
+      "source_file": "034.png",
+      "resolved_file": "034.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "331",
+      "source_file": "034.png",
+      "resolved_file": "034.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "332",
+      "source_file": "034.png",
+      "resolved_file": "034.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "姓名",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "333",
+      "source_file": "034.png",
+      "resolved_file": "034.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "备注",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "334",
+      "source_file": "034.png",
+      "resolved_file": "034.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "王嵩",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "335",
+      "source_file": "034.png",
+      "resolved_file": "034.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "WS WANG SONG",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "336",
+      "source_file": "034.png",
+      "resolved_file": "034.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "男",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "337",
+      "source_file": "034.png",
+      "resolved_file": "034.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "2000-04-03",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "338",
+      "source_file": "034.png",
+      "resolved_file": "034.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"手机\":\"13902167523\",\"电子邮件\":\"wangsong@wuyuan.com\",\"入职公司\":\"重庆因瀚信息技术有限公司\",\"职级\":\"5\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

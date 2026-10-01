@@ -1,0 +1,72 @@
+{
+  "model": "qwen3.8-max-0902",
+  "sourceA": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v37-score-feedback-corrections.xlsx",
+  "sourceB": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v35-qwen37-image-refresh.xlsx",
+  "diffCount": 84,
+  "fileCount": 43,
+  "decisions": 84,
+  "byChoice": {
+    "A": 70,
+    "B": 13,
+    "CUSTOM": 1
+  },
+  "byConfidence": {
+    "high": 57,
+    "medium": 26,
+    "low": 1
+  },
+  "appliedCount": 3,
+  "skipped": [],
+  "failures": [],
+  "applied": [
+    {
+      "id": "238",
+      "file_name": "024.png",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：Never serviced residential inland、Don’t know/refused residential total、Frequency once every two years residential inland、表格主分区数量。",
+      "table_hint": "Services performed and frequency",
+      "currentAnswer": "[{\"Never serviced residential inland\":\"20\",\"Don’t know/refused residential total\":\"2\",\"Frequency once every two years residential inland\":\"10\",\"表格主分区数量\":\"2\"}]",
+      "refreshedAnswer": "[{\"Never serviced residential inland\":\"20\",\"Don’t know/refused residential total\":\"\",\"Frequency once every two years residential inland\":\"\",\"表格主分区数量\":\"2\"}]",
+      "finalAnswer": "[{\"Never serviced residential inland\":\"20\",\"Don’t know/refused residential total\":\"\",\"Frequency once every two years residential inland\":\"\",\"表格主分区数量\":\"2\"}]",
+      "decision": {
+        "choice": "B",
+        "confidence": "high",
+        "reason": "图中无Don't know/refused及frequency行，对应值应为空；Never serviced inland=20与主分区=2两者一致，B更准确"
+      }
+    },
+    {
+      "id": "449",
+      "file_name": "047.jpg",
+      "question_type": "extract",
+      "answer_format": "string",
+      "question": "该文件中主表或主区域的标题是什么？",
+      "table_hint": "园林设计师简历表",
+      "currentAnswer": "园林设计师",
+      "refreshedAnswer": "园林设计师简历表",
+      "finalAnswer": "园林设计师简历表",
+      "decision": {
+        "choice": "B",
+        "confidence": "high",
+        "reason": "表中求职意向为园林设计师，而主表标题应为简历表名，与hint一致"
+      }
+    },
+    {
+      "id": "528",
+      "file_name": "055.jpg",
+      "question_type": "thinking",
+      "answer_format": "json_array",
+      "question": "请按表中顺序列出以下字段的答案：最低活动价、最高活动价、备注中含退换规则、表格下方说明条数。",
+      "table_hint": "套餐表",
+      "currentAnswer": "[{\"最低活动价\":\"399\",\"最高活动价\":\"59999\",\"备注中含退换规则\":\"3年内非人为原因质量问题硬件免费换新\",\"表格下方说明条数\":\"3\"}]",
+      "refreshedAnswer": "[{\"最低活动价\":\"20299\",\"最高活动价\":\"79999\",\"备注中含退换规则\":\"3年内非人为原因质量问题硬件免费换新\",\"表格下方说明条数\":\"3\"}]",
+      "finalAnswer": "[{\"最低活动价\":\"399\",\"最高活动价\":\"79999\",\"备注中含退换规则\":\"3年内非人为原因质量问题硬件免费换新\",\"表格下方说明条数\":\"3\"}]",
+      "decision": {
+        "choice": "CUSTOM",
+        "confidence": "high",
+        "reason": "活动价列含加配行，最小为399、最大为79999；A最高价错、B最低价错，其余字段两者一致"
+      }
+    }
+  ],
+  "outputPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v41-qwen38max-adjudicated.xlsx"
+}

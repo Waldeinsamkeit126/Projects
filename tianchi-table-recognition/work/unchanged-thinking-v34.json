@@ -1,0 +1,814 @@
+[
+  {
+    "id": "3",
+    "file_name": "001.pdf",
+    "answer_format": "number",
+    "question": "属于美国的产品有多少个？",
+    "answer": "6"
+  },
+  {
+    "id": "4",
+    "file_name": "001.pdf",
+    "answer_format": "number",
+    "question": "属于Openai的产品有多少个？",
+    "answer": "3"
+  },
+  {
+    "id": "11",
+    "file_name": "002.pdf",
+    "answer_format": "number",
+    "question": "非流动资产有几项",
+    "answer": "18"
+  },
+  {
+    "id": "13",
+    "file_name": "002.pdf",
+    "answer_format": "number",
+    "question": "应收账款+应收票据+应收款项融资+其他应收款项 本期合计金额",
+    "answer": "200037797.59"
+  },
+  {
+    "id": "20",
+    "file_name": "003.pdf",
+    "answer_format": "number",
+    "question": "不计算投资收入，本期净利润是多少？",
+    "answer": "223689870.83"
+  },
+  {
+    "id": "28",
+    "file_name": "006.pdf",
+    "answer_format": "number",
+    "question": "应收账款表，1年以内账款，本期变动是多少？",
+    "answer": "-19920438.75"
+  },
+  {
+    "id": "29",
+    "file_name": "006.pdf",
+    "answer_format": "number",
+    "question": "应收账款表，5年以上账款，本期变动是多少？",
+    "answer": "-3713312.66"
+  },
+  {
+    "id": "39",
+    "file_name": "006.pdf",
+    "answer_format": "number",
+    "question": "坏账表中，单项计提坏账准备的金额期末余额与期初余额的插值是多少？",
+    "answer": "2704881.02"
+  },
+  {
+    "id": "40",
+    "file_name": "006.pdf",
+    "answer_format": "number",
+    "question": "坏账表中，单项计提坏账准备的金额期末余额与期初余额的插值是多少？",
+    "answer": "2704881.02"
+  },
+  {
+    "id": "41",
+    "file_name": "006.pdf",
+    "answer_format": "number",
+    "question": "坏账表中，按组合计提坏账准备的应收账款的金额期末余额与期初余额的插值是多少？",
+    "answer": "-1115570.42"
+  },
+  {
+    "id": "47",
+    "file_name": "006.pdf",
+    "answer_format": "string",
+    "question": "单项计提坏账准备表，坏账准备最高的是哪家公司?",
+    "answer": "新疆蓝海新能源有限公司"
+  },
+  {
+    "id": "49",
+    "file_name": "006.pdf",
+    "answer_format": "number",
+    "question": "单项计提坏账准备表，预计无法回收的账款总计多少？",
+    "answer": "2321245.42"
+  },
+  {
+    "id": "52",
+    "file_name": "007.pdf",
+    "answer_format": "number",
+    "question": "固定资产期初账面价值合计比期末账面价值合计多多少？",
+    "answer": "79954740.25"
+  },
+  {
+    "id": "53",
+    "file_name": "007.pdf",
+    "answer_format": "number",
+    "question": "固定资产中房屋及建筑物和机器设备的期末账面价值合计是多少？",
+    "answer": "386382973.78"
+  },
+  {
+    "id": "54",
+    "file_name": "007.pdf",
+    "answer_format": "string",
+    "question": "固定资产期末账面价值最高的资产类别是什么？",
+    "answer": "管网设备"
+  },
+  {
+    "id": "55",
+    "file_name": "007.pdf",
+    "answer_format": "number",
+    "question": "固定资产累计折旧本期计提合计是多少？",
+    "answer": "120704863.24"
+  },
+  {
+    "id": "56",
+    "file_name": "007.pdf",
+    "answer_format": "number",
+    "question": "固定资产情况表中有几个资产类别？不含“合计”",
+    "answer": "5"
+  },
+  {
+    "id": "64",
+    "file_name": "008.pdf",
+    "answer_format": "number",
+    "question": "关键管理人员薪酬本期比上期减少多少？",
+    "answer": "956363.02"
+  },
+  {
+    "id": "65",
+    "file_name": "008.pdf",
+    "answer_format": "number",
+    "question": "关联租赁情况表中有多少个出租方？",
+    "answer": "3"
+  },
+  {
+    "id": "66",
+    "file_name": "008.pdf",
+    "answer_format": "string",
+    "question": "本期支付租金最高的出租方是哪一个？",
+    "answer": "昌吉市德声房地产经纪有限公司"
+  },
+  {
+    "id": "69",
+    "file_name": "008.pdf",
+    "answer_format": "number",
+    "question": "本公司应收关联方款项表中出现了几类项目名称？",
+    "answer": "2"
+  },
+  {
+    "id": "70",
+    "file_name": "008.pdf",
+    "answer_format": "number",
+    "question": "其他应收款中两家关联方的期末账面余额合计是多少？",
+    "answer": "105000"
+  },
+  {
+    "id": "71",
+    "file_name": "010.png",
+    "answer_format": "string",
+    "question": "此营最后一个活动是什么？",
+    "answer": "晚间休息"
+  },
+  {
+    "id": "74",
+    "file_name": "010.png",
+    "answer_format": "number",
+    "question": "复盘的持续时间是多少分钟？",
+    "answer": "30"
+  },
+  {
+    "id": "78",
+    "file_name": "010.png",
+    "answer_format": "number",
+    "question": "“自由调整 + 午餐”持续多少分钟",
+    "answer": "120"
+  },
+  {
+    "id": "79",
+    "file_name": "010.png",
+    "answer_format": "number",
+    "question": "“阶段复盘 + 明确次日目标”持续多少小时？",
+    "answer": "0.5"
+  },
+  {
+    "id": "80",
+    "file_name": "010.png",
+    "answer_format": "string",
+    "question": "每天晚上 22:00 后安排的事项是什么？",
+    "answer": "晚间休息"
+  },
+  {
+    "id": "84",
+    "file_name": "010.png",
+    "answer_format": "number",
+    "question": "这张营期日程表一共包含几天？",
+    "answer": "6"
+  },
+  {
+    "id": "91",
+    "file_name": "010.png",
+    "answer_format": "number",
+    "question": "从 12:00 到 14:00 的“自由调整 + 午餐”持续多少分钟？",
+    "answer": "120"
+  },
+  {
+    "id": "556",
+    "file_name": "58.pdf",
+    "answer_format": "number",
+    "question": "请计算 MMLU-Pro (EM) 中 DeepSeek-V4-Pro Base 比 DeepSeek-V3.2 Base 高多少分。",
+    "answer": "8"
+  },
+  {
+    "id": "557",
+    "file_name": "58.pdf",
+    "answer_format": "string",
+    "question": "请判断 AGIEval (EM) 三个模型中分数最高的模型名称。",
+    "answer": "DeepSeek-V4-Pro Base"
+  },
+  {
+    "id": "558",
+    "file_name": "58.pdf",
+    "answer_format": "number",
+    "question": "请计算 World Knowl. 下 C-Eval 与 CMMLU 两项中 DeepSeek-V4-Pro Base 分数之和。",
+    "answer": "183.9"
+  },
+  {
+    "id": "566",
+    "file_name": "59.pdf",
+    "answer_format": "number",
+    "question": "请计算 GPQA Diamond 中 Gemini-3.1-Pro High 与 DS-V4-Pro Max 的分差。",
+    "answer": "4.2"
+  },
+  {
+    "id": "567",
+    "file_name": "59.pdf",
+    "answer_format": "number",
+    "question": "请找出 Apex (Pass@1) 六个模型中的最高分。",
+    "answer": "60.9"
+  },
+  {
+    "id": "568",
+    "file_name": "59.pdf",
+    "answer_format": "number",
+    "question": "请计算 BrowseComp (Pass@1) 中 Gemini-3.1-Pro High、K2.6 Thinking、GLM-5.1 Thinking 三者平均分，保留两位小数。",
+    "answer": "82.8"
+  },
+  {
+    "id": "576",
+    "file_name": "060.pdf",
+    "answer_format": "number",
+    "question": "请计算 Table 9 中 Total 行 Agent Win 与 RAG Win 的差值。",
+    "answer": "377"
+  },
+  {
+    "id": "577",
+    "file_name": "060.pdf",
+    "answer_format": "number",
+    "question": "请计算 Table 10 中两种版本 Output tokens 的差值。",
+    "answer": "218"
+  },
+  {
+    "id": "578",
+    "file_name": "060.pdf",
+    "answer_format": "number",
+    "question": "请计算 Table 11 中 TOTAL 行 V4 win 和 V3.2 win 合计。",
+    "answer": "368"
+  },
+  {
+    "id": "586",
+    "file_name": "061.pdf",
+    "answer_format": "number",
+    "question": "请计算 Business Writing 中 Report 的 DS win 与 Gem win 差值。",
+    "answer": "188"
+  },
+  {
+    "id": "587",
+    "file_name": "061.pdf",
+    "answer_format": "string",
+    "question": "请找出 Everyday Writing 已列子类中 DS% 最高的子类。",
+    "answer": "Review (介绍评价)"
+  },
+  {
+    "id": "588",
+    "file_name": "061.pdf",
+    "answer_format": "number",
+    "question": "请计算 Media Writing 的 Subtotal 中 DS win 与 Gem win 的合计。",
+    "answer": "642"
+  },
+  {
+    "id": "596",
+    "file_name": "062.pdf",
+    "answer_format": "number",
+    "question": "请计算 Fiction 的写作质量 DS win 与 Gem win 的差值。",
+    "answer": "515"
+  },
+  {
+    "id": "597",
+    "file_name": "062.pdf",
+    "answer_format": "string",
+    "question": "请找出指令遵循 DS% 低于 30% 的已列子类名称。",
+    "answer": "Lyrics (歌词)"
+  },
+  {
+    "id": "598",
+    "file_name": "062.pdf",
+    "answer_format": "number",
+    "question": "请计算 Fan Fiction 的指令遵循 DS win 与写作质量 DS win 之和。",
+    "answer": "591"
+  },
+  {
+    "id": "606",
+    "file_name": "063.pdf",
+    "answer_format": "number",
+    "question": "请计算 Cathedral Peak 2 与 Cathedral Peak 3 的 Mean annual rainfall 之和。",
+    "answer": "2940"
+  },
+  {
+    "id": "607",
+    "file_name": "063.pdf",
+    "answer_format": "string",
+    "question": "请找出 BFI 最高的 catchment。",
+    "answer": "Lambrechtbos B (SA)"
+  },
+  {
+    "id": "608",
+    "file_name": "063.pdf",
+    "answer_format": "number",
+    "question": "请计算 Traralgon Ck 与 Biesievlei 的 Area (ha) 差值。",
+    "answer": "8673"
+  },
+  {
+    "id": "616",
+    "file_name": "064.pdf",
+    "answer_format": "number",
+    "question": "请计算 Redhill 的 Published total flow reduction 与 Estimated total flow reduction 的差值。",
+    "answer": "-9"
+  },
+  {
+    "id": "617",
+    "file_name": "064.pdf",
+    "answer_format": "string",
+    "question": "请找出 Published low flow reduction 最高的 catchment。",
+    "answer": "Redhill"
+  },
+  {
+    "id": "618",
+    "file_name": "064.pdf",
+    "answer_format": "number",
+    "question": "请计算 Cathedral Peak 2 和 Cathedral Peak 3 的 Estimated total flow reduction 平均值。",
+    "answer": "59.5"
+  },
+  {
+    "id": "626",
+    "file_name": "065.pdf",
+    "answer_format": "number",
+    "question": "请计算 2024E 到 2026E 营业收入增加了多少百万元。",
+    "answer": "3580"
+  },
+  {
+    "id": "627",
+    "file_name": "065.pdf",
+    "answer_format": "number",
+    "question": "请计算 2024E、2025E、2026E 三年净利润合计。",
+    "answer": "8163"
+  },
+  {
+    "id": "628",
+    "file_name": "065.pdf",
+    "answer_format": "string",
+    "question": "请根据表格找出 2022-2026E 中 PE 最低的年份。",
+    "answer": "2023"
+  },
+  {
+    "id": "636",
+    "file_name": "066.pdf",
+    "answer_format": "number",
+    "question": "请计算 2026E 调整后收入比前值低多少亿元。",
+    "answer": "29.3"
+  },
+  {
+    "id": "637",
+    "file_name": "066.pdf",
+    "answer_format": "number",
+    "question": "请计算 2024E 销售费用率调整后比前值高多少百分点。",
+    "answer": "1.1"
+  },
+  {
+    "id": "638",
+    "file_name": "066.pdf",
+    "answer_format": "number",
+    "question": "请计算 2024-2026 年调整后归母净利润合计。",
+    "answer": "81.6"
+  },
+  {
+    "id": "646",
+    "file_name": "067.pdf",
+    "answer_format": "number",
+    "question": "请计算 2026E 资产总计减去负债合计。",
+    "answer": "16882"
+  },
+  {
+    "id": "647",
+    "file_name": "067.pdf",
+    "answer_format": "number",
+    "question": "请计算 2024E 到 2026E 营业收入增量。",
+    "answer": "3580"
+  },
+  {
+    "id": "648",
+    "file_name": "067.pdf",
+    "answer_format": "number",
+    "question": "请计算 2022-2026E 归属于母公司净利润合计。",
+    "answer": "13270"
+  },
+  {
+    "id": "656",
+    "file_name": "068.pdf",
+    "answer_format": "number",
+    "question": "请计算 TABFACT 中 TAPASLARGE inter 的 Before test 与 After test 的差值。",
+    "answer": "1.4"
+  },
+  {
+    "id": "657",
+    "file_name": "068.pdf",
+    "answer_format": "string",
+    "question": "请找出 WTQ 表中 test 最高的模型。",
+    "answer": "TABLEFORMERLARGE inter-sqa"
+  },
+  {
+    "id": "658",
+    "file_name": "068.pdf",
+    "answer_format": "number",
+    "question": "请计算 TABFACT 中 TABLEFORMERLARGE inter 的 After testsimple 与 After testcomplex 的差值。",
+    "answer": "17.4"
+  },
+  {
+    "id": "666",
+    "file_name": "069.pdf",
+    "answer_format": "number",
+    "question": "请计算 TAPASLARGE 的 Before ALL 与 After ALL 差值。",
+    "answer": "6.3"
+  },
+  {
+    "id": "667",
+    "file_name": "069.pdf",
+    "answer_format": "string",
+    "question": "请找出表中 VP 最高的模型。",
+    "answer": "TAPASLARGE"
+  },
+  {
+    "id": "668",
+    "file_name": "069.pdf",
+    "answer_format": "number",
+    "question": "请计算 TABLEFORMERLARGE inter 的 Before ALL 与 After ALL 差值。",
+    "answer": "0.1"
+  },
+  {
+    "id": "676",
+    "file_name": "070.pdf",
+    "answer_format": "number",
+    "question": "请计算 Our Method 与 CostFilter 的 MDE/s 差值。",
+    "answer": "157.8"
+  },
+  {
+    "id": "677",
+    "file_name": "070.pdf",
+    "answer_format": "string",
+    "question": "请找出 FPS 最高的方法。",
+    "answer": "Our Method"
+  },
+  {
+    "id": "678",
+    "file_name": "070.pdf",
+    "answer_format": "number",
+    "question": "请计算表中 Error 最低值和最高值的差值。",
+    "answer": "5.35"
+  },
+  {
+    "id": "686",
+    "file_name": "071.pdf",
+    "answer_format": "number",
+    "question": "请计算 TA0 的杂质 Fe 和 O 限值之和。",
+    "answer": "0.3"
+  },
+  {
+    "id": "687",
+    "file_name": "071.pdf",
+    "answer_format": "string",
+    "question": "请判断 TA14 的主要成分中是否包含 Cu。",
+    "answer": "不包含"
+  },
+  {
+    "id": "688",
+    "file_name": "071.pdf",
+    "answer_format": "string",
+    "question": "请找出该页表头中横跨 Fe、C、N、H、O 的上级栏目名称。",
+    "answer": "杂质,不大于"
+  },
+  {
+    "id": "696",
+    "file_name": "072.pdf",
+    "answer_format": "string",
+    "question": "请判断 72.pdf 中是否同时出现表1续表和表2。",
+    "answer": "是"
+  },
+  {
+    "id": "697",
+    "file_name": "072.pdf",
+    "answer_format": "number",
+    "question": "请计算 TB2 的主要元素种类数（不含 Ti）。",
+    "answer": "4"
+  },
+  {
+    "id": "698",
+    "file_name": "072.pdf",
+    "answer_format": "string",
+    "question": "请从第1页右侧表2中找出 V 范围为 9.0～10.5 的牌号。",
+    "answer": "TB4"
+  },
+  {
+    "id": "706",
+    "file_name": "073.pdf",
+    "answer_format": "string",
+    "question": "请判断 73.pdf 是否跨页展示同一标准中的多个表格。",
+    "answer": "是"
+  },
+  {
+    "id": "707",
+    "file_name": "073.pdf",
+    "answer_format": "number",
+    "question": "请计算该 PDF 的页数与第1页可见主表数量的乘积。",
+    "answer": "4"
+  },
+  {
+    "id": "708",
+    "file_name": "073.pdf",
+    "answer_format": "string",
+    "question": "请指出该文件中最容易造成识别困难的版式特征。",
+    "answer": "表格跨页且包含复杂的合并单元格与竖排文本"
+  },
+  {
+    "id": "716",
+    "file_name": "074.jpg",
+    "answer_format": "number",
+    "question": "请计算 Paperclips 和 Staples (box) 的 Cost 合计。",
+    "answer": "110"
+  },
+  {
+    "id": "717",
+    "file_name": "074.jpg",
+    "answer_format": "number",
+    "question": "请计算 8% 税额对应的 Subtotal。",
+    "answer": "110"
+  },
+  {
+    "id": "718",
+    "file_name": "074.jpg",
+    "answer_format": "number",
+    "question": "请根据 Subtotal 与 Tax 计算 Grand Total。",
+    "answer": "118.8"
+  },
+  {
+    "id": "726",
+    "file_name": "075.jpg",
+    "answer_format": "number",
+    "question": "请计算 Round 1 的 Post-money Valuation。",
+    "answer": "1000000"
+  },
+  {
+    "id": "727",
+    "file_name": "075.jpg",
+    "answer_format": "number",
+    "question": "请计算 Total Founders 在 Exit 列的金额。",
+    "answer": "9000000"
+  },
+  {
+    "id": "736",
+    "file_name": "076.jpg",
+    "answer_format": "number",
+    "question": "请计算 Total Revenue 减 Total COGS 后的 Total Gross Profit。",
+    "answer": "900"
+  },
+  {
+    "id": "737",
+    "file_name": "076.jpg",
+    "answer_format": "number",
+    "question": "请计算 Sales & Marketing、Research & Development、General & Administrative 三项经营费用合计。",
+    "answer": "-700"
+  },
+  {
+    "id": "738",
+    "file_name": "076.jpg",
+    "answer_format": "string",
+    "question": "请用 Net Income 除以 Total Revenue 计算净利率。",
+    "answer": "15.0%"
+  },
+  {
+    "id": "746",
+    "file_name": "077.pdf",
+    "answer_format": "number",
+    "question": "请计算 2021 Total Assets 与 2020 Total Assets 的差值。",
+    "answer": "1602068"
+  },
+  {
+    "id": "747",
+    "file_name": "077.pdf",
+    "answer_format": "number",
+    "question": "请计算 2021 NET SALES 减 2021 COST OF SALES。",
+    "answer": "3108513"
+  },
+  {
+    "id": "748",
+    "file_name": "077.pdf",
+    "answer_format": "number",
+    "question": "请计算 2021、2020、2019 三年 NET INCOME 合计。",
+    "answer": "3894904"
+  },
+  {
+    "id": "778",
+    "file_name": "080.png",
+    "answer_format": "string",
+    "question": "请找出 2012-2017 年 Net Earnings 最高的年份。",
+    "answer": "2017"
+  },
+  {
+    "id": "786",
+    "file_name": "081.png",
+    "answer_format": "number",
+    "question": "请计算 ABC Public School 两个班级的 Strength 合计。",
+    "answer": "105"
+  },
+  {
+    "id": "787",
+    "file_name": "081.png",
+    "answer_format": "number",
+    "question": "请计算 XYZ Public School 三个班级的 Strength 合计。",
+    "answer": "165"
+  },
+  {
+    "id": "788",
+    "file_name": "081.png",
+    "answer_format": "string",
+    "question": "请找出 Strength 最大的学校和班级。",
+    "answer": "XYZ Public School XII"
+  },
+  {
+    "id": "798",
+    "file_name": "082.png",
+    "answer_format": "string",
+    "question": "请找出显示在名称列中作为分组小计的类别名称。",
+    "answer": "污水"
+  },
+  {
+    "id": "806",
+    "file_name": "083.png",
+    "answer_format": "number",
+    "question": "请计算 High Risk Errors 三个子项的 Fields with errors 合计。",
+    "answer": "201"
+  },
+  {
+    "id": "808",
+    "file_name": "083.png",
+    "answer_format": "string",
+    "question": "请找出 %age 最高的表单名称。",
+    "answer": "Breast pathology"
+  },
+  {
+    "id": "816",
+    "file_name": "084.png",
+    "answer_format": "number",
+    "question": "请计算 Ferric Nitrate 的 Density 与 n-Pentane 的 Density 之和。",
+    "answer": "4899.3"
+  },
+  {
+    "id": "818",
+    "file_name": "084.png",
+    "answer_format": "number",
+    "question": "请计算 Ortho-Dichlorobenzene 的 Pack size 与 Ethoxylated Fatty Acid 的 Pack size 合计。",
+    "answer": "205"
+  },
+  {
+    "id": "826",
+    "file_name": "085.png",
+    "answer_format": "number",
+    "question": "请计算 DowDuPont 汇总行 Produced 减 Planned。",
+    "answer": "36.49"
+  },
+  {
+    "id": "836",
+    "file_name": "086.png",
+    "answer_format": "string",
+    "question": "请把 entry_id=5 的 first_name 和 last_name 拼成全名。",
+    "answer": "Sandeep Singh"
+  },
+  {
+    "id": "838",
+    "file_name": "086.png",
+    "answer_format": "string",
+    "question": "请找出 entry_id=6 可见的 email_id。",
+    "answer": "example@gmail.com"
+  },
+  {
+    "id": "846",
+    "file_name": "087.png",
+    "answer_format": "number",
+    "question": "请计算 Apple 的 Data1-Precision 与 Data1-Recall 的平均值。",
+    "answer": "0.76"
+  },
+  {
+    "id": "847",
+    "file_name": "087.png",
+    "answer_format": "string",
+    "question": "请找出 Data1-F1 最低的水果。",
+    "answer": "Orange"
+  },
+  {
+    "id": "856",
+    "file_name": "088.png",
+    "answer_format": "number",
+    "question": "请计算可见的 Oceania 奥运记录数量。",
+    "answer": "2"
+  },
+  {
+    "id": "857",
+    "file_name": "088.png",
+    "answer_format": "number",
+    "question": "请计算 Sydney 年份减 Melbourne 年份。",
+    "answer": "44"
+  },
+  {
+    "id": "858",
+    "file_name": "088.png",
+    "answer_format": "number",
+    "question": "请找出 Year 较晚的一行的 Season Number。",
+    "answer": "27"
+  },
+  {
+    "id": "866",
+    "file_name": "089.png",
+    "answer_format": "number",
+    "question": "请计算紫色区域内黄色编号 9 和 10 的和。",
+    "answer": "19"
+  },
+  {
+    "id": "867",
+    "file_name": "089.png",
+    "answer_format": "number",
+    "question": "请计算所有绿色块编号 4、11、18 的和。",
+    "answer": "33"
+  },
+  {
+    "id": "876",
+    "file_name": "090.png",
+    "answer_format": "number",
+    "question": "请计算包含 RowSpan=\"3\" 的两个合并区域覆盖的行数合计。",
+    "answer": "6"
+  },
+  {
+    "id": "878",
+    "file_name": "090.png",
+    "answer_format": "number",
+    "question": "请计算 Row 1、Row 7、Row 8 中标注 ColumnSpan=\"2\" 的区域数量。",
+    "answer": "4"
+  },
+  {
+    "id": "886",
+    "file_name": "091.png",
+    "answer_format": "number",
+    "question": "请计算 Count 四个单元格总和。",
+    "answer": "84"
+  },
+  {
+    "id": "887",
+    "file_name": "091.png",
+    "answer_format": "number",
+    "question": "请计算预测正确的 Count 合计。",
+    "answer": "69"
+  },
+  {
+    "id": "888",
+    "file_name": "091.png",
+    "answer_format": "string",
+    "question": "请计算 Actual Fail 行 Count 的 Pass 占该行总数的百分比，保留一位小数。",
+    "answer": "20.9%"
+  },
+  {
+    "id": "898",
+    "file_name": "092.jpg",
+    "answer_format": "string",
+    "question": "请判断 Rework 行是否达到正向 surplus。",
+    "answer": "Yes"
+  },
+  {
+    "id": "906",
+    "file_name": "093.jpg",
+    "answer_format": "number",
+    "question": "请计算 basic structure 变量名列表中的变量个数。",
+    "answer": "7"
+  },
+  {
+    "id": "907",
+    "file_name": "093.jpg",
+    "answer_format": "number",
+    "question": "请计算 local structure perturbations 变量名列表中的变量个数。",
+    "answer": "5"
+  },
+  {
+    "id": "908",
+    "file_name": "093.jpg",
+    "answer_format": "string",
+    "question": "请判断该表是否使用 ASCII 线框而非普通表格线。",
+    "answer": "yes"
+  }
+]

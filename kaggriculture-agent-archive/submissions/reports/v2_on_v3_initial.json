@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v2_hybrid\\main.py",
+    "games": 2,
+    "wins": 2,
+    "mean_score": 100891.5,
+    "mean_margin": 64312.5,
+    "mean_score_delta": -14304.0,
+    "mean_margin_delta": -14205.0,
+    "median_margin_delta": -14205.0,
+    "max_action_seconds": 0.0471813999756705,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89480633,
+      "opponent": "Kendamarron",
+      "seed": 1779362906,
+      "position": 0,
+      "ours": 93614.0,
+      "theirs": 35335.0,
+      "margin": 58279.0,
+      "win": true,
+      "original_ours": 106077.0,
+      "original_theirs": 35085.0,
+      "original_margin": 70992.0,
+      "score_delta": -12463.0,
+      "margin_delta": -12713.0,
+      "elapsed_seconds": 3.78639110000222,
+      "max_action_seconds": 0.0471813999756705,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89480102,
+      "opponent": "`",
+      "seed": 428141925,
+      "position": 0,
+      "ours": 108169.0,
+      "theirs": 37823.0,
+      "margin": 70346.0,
+      "win": true,
+      "original_ours": 124314.0,
+      "original_theirs": 38271.0,
+      "original_margin": 86043.0,
+      "score_delta": -16145.0,
+      "margin_delta": -15697.0,
+      "elapsed_seconds": 4.100975799985463,
+      "max_action_seconds": 0.0028673000051639974,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

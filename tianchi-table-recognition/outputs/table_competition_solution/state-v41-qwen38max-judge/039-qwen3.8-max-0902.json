@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "388",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Category列含Years，Intercept属Variable列而非类别；其余字段两候选一致"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 413,
+    "completion_tokens_details": {
+      "reasoning_tokens": 368,
+      "text_tokens": 44
+    },
+    "prompt_tokens": 603,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 162,
+      "text_tokens": 441
+    },
+    "total_tokens": 1016
+  },
+  "requestId": "chatcmpl-96636a7b-2cd3-9b40-82ed-134b44a3ff92",
+  "model": "qwen3.8-max-0902"
+}

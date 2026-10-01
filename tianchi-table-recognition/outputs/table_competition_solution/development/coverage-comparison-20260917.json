@@ -1,0 +1,185 @@
+{
+  "generatedAt": "2026-09-17T04:58:50.396Z",
+  "datasetVersion": "coverage-validation-v1",
+  "fixtureSha256": "ec91bcbedbc08deb9a0b8483b6f2d19eaed35fa66507357a0a4db5c9a863c513",
+  "sourceHash": "c3e67b1cc87f5012d184435f1b6f7c6dd66d15f96aa30fa5e72687c2ade4118b",
+  "inputSha256": "c260e72dae5dc6d00050186871eabd373423afcb79dcc02f2dc37f3a8c57e9d6",
+  "control": {
+    "runId": "2026-09-16T04-43-04-831Z-b3042aba",
+    "status": "answers-only-no-submission",
+    "predictionsSha256": "dc28dc594510cc8ef0f968bde92716cd3a4197444562fdb4acddd8f670f09838",
+    "correct": 12,
+    "total": 12,
+    "missing": 0,
+    "formatValid": 12,
+    "categories": {
+      "full-structure": {
+        "total": 4,
+        "correct": 4,
+        "formatValid": 4
+      },
+      "partial-structure": {
+        "total": 4,
+        "correct": 4,
+        "formatValid": 4
+      },
+      "table-location-and-value": {
+        "total": 4,
+        "correct": 4,
+        "formatValid": 4
+      }
+    },
+    "requests": {
+      "attempts": 4,
+      "successfulResponses": 4,
+      "failedAttempts": 0,
+      "sumRequestLatencyMs": 101604,
+      "reportedTotalTokens": 7252,
+      "responsesWithoutUsage": 0,
+      "costCny": null,
+      "costNote": "未接入账单；失败请求也可能计费，token 汇总不是账单金额"
+    }
+  },
+  "candidate": {
+    "runId": "2026-09-17T04-56-50-946Z-af3d6c66",
+    "status": "answers-only-no-submission",
+    "predictionsSha256": "58dab22a54d6eae6d20def8a445076baee765d54d8b9a131de8bd89945cf2dbf",
+    "correct": 12,
+    "total": 12,
+    "missing": 0,
+    "formatValid": 12,
+    "categories": {
+      "full-structure": {
+        "total": 4,
+        "correct": 4,
+        "formatValid": 4
+      },
+      "partial-structure": {
+        "total": 4,
+        "correct": 4,
+        "formatValid": 4
+      },
+      "table-location-and-value": {
+        "total": 4,
+        "correct": 4,
+        "formatValid": 4
+      }
+    },
+    "requests": {
+      "attempts": 4,
+      "successfulResponses": 4,
+      "failedAttempts": 0,
+      "sumRequestLatencyMs": 105042,
+      "reportedTotalTokens": 7252,
+      "responsesWithoutUsage": 0,
+      "costCny": null,
+      "costNote": "未接入账单；失败请求也可能计费，token 汇总不是账单金额"
+    }
+  },
+  "totalAttempts": 8,
+  "reportedTotalTokens": 14504,
+  "improved": 0,
+  "regressed": 0,
+  "coverageTriggeredRechecks": [],
+  "pairs": [
+    {
+      "id": "cv-tiered-full",
+      "category": "full-structure",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-tiered-header",
+      "category": "partial-structure",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-tiered-value",
+      "category": "table-location-and-value",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-blanks-full",
+      "category": "full-structure",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-blanks-header",
+      "category": "partial-structure",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-blanks-value",
+      "category": "table-location-and-value",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-groups-full",
+      "category": "full-structure",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-groups-header",
+      "category": "partial-structure",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-groups-value",
+      "category": "table-location-and-value",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-multitable-full",
+      "category": "full-structure",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-multitable-header",
+      "category": "partial-structure",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    },
+    {
+      "id": "cv-multitable-value",
+      "category": "table-location-and-value",
+      "controlCorrect": true,
+      "candidateCorrect": true,
+      "controlOutcome": "matched",
+      "candidateOutcome": "matched"
+    }
+  ],
+  "costCny": null,
+  "leaderboardScore": null,
+  "limitation": "独立合成小表上的单次对比；初次生成存在波动。结果不是官方评测，不能归因所有差异、推断真实扫描泛化或换算天池成绩。"
+}

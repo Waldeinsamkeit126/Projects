@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "438",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "数值均正确(96.31/97.50/PTN/2)，A字段名与题目中文表述完全一致，B擅自改英文字段名"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 362,
+    "completion_tokens_details": {
+      "reasoning_tokens": 298,
+      "text_tokens": 63
+    },
+    "prompt_tokens": 736,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 272,
+      "text_tokens": 464
+    },
+    "total_tokens": 1098
+  },
+  "requestId": "chatcmpl-2d6de969-1b5d-9947-ac79-ae34f40e598e",
+  "model": "qwen3.8-max-0902"
+}

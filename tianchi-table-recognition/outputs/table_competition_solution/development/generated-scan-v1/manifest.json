@@ -1,0 +1,256 @@
+{
+  "datasetVersion": "scan-stress-v1",
+  "createdAt": "2026-09-17T05:07:43.561Z",
+  "sourceCount": 6,
+  "tableCount": 8,
+  "questionCount": 60,
+  "media": [
+    {
+      "sourceId": "ss-budget",
+      "split": "development",
+      "variant": "clean",
+      "fileName": "ss-budget-clean.png",
+      "sha256": "52ccc9913afcfbfa35f2e7fac882d6377a550aa39dbfae458b1600176e78e4e5",
+      "width": 928,
+      "height": 410,
+      "profile": null,
+      "seed": null
+    },
+    {
+      "sourceId": "ss-budget",
+      "split": "development",
+      "variant": "scan",
+      "fileName": "ss-budget-scan.png",
+      "sha256": "de22fc2c42a3a0802c12500b7a49775899af74e9eafd143a03a8bd3f3ed42bb5",
+      "width": 768,
+      "height": 352,
+      "profile": {
+        "scale": 0.82,
+        "blur": 0.35,
+        "contrast": 0.78,
+        "brightness": 45,
+        "angle": 1.2,
+        "jpeg": 65,
+        "noise": 3
+      },
+      "seed": 101
+    },
+    {
+      "sourceId": "ss-assembly",
+      "split": "development",
+      "variant": "clean",
+      "fileName": "ss-assembly-clean.png",
+      "sha256": "e2fc239e596a5e4dffc478bbc9585f3e0fc93ac9b357812258498be2a9a1c206",
+      "width": 712,
+      "height": 410,
+      "profile": null,
+      "seed": null
+    },
+    {
+      "sourceId": "ss-assembly",
+      "split": "development",
+      "variant": "scan",
+      "fileName": "ss-assembly-scan.png",
+      "sha256": "6729150ef3481b37c790709db9c0f214cd8c5e84e1738228119eb7fd22fcf160",
+      "width": 559,
+      "height": 328,
+      "profile": {
+        "scale": 0.78,
+        "blur": 0.4,
+        "contrast": 0.6,
+        "brightness": 88,
+        "angle": -0.8,
+        "jpeg": 55,
+        "noise": 4
+      },
+      "seed": 211
+    },
+    {
+      "sourceId": "ss-warehouse",
+      "split": "development",
+      "variant": "clean",
+      "fileName": "ss-warehouse-clean.png",
+      "sha256": "d8c54893dddcb9e73151e586996915d3a2dc3b9b8f23c5c16c2cdc0f403e3566",
+      "width": 964,
+      "height": 308,
+      "profile": null,
+      "seed": null
+    },
+    {
+      "sourceId": "ss-warehouse",
+      "split": "development",
+      "variant": "scan",
+      "fileName": "ss-warehouse-scan.png",
+      "sha256": "bc2dc45d51eebf610f3c135e99c4fc33708faef50ed3f5b8c7d644555d6f9a3b",
+      "width": 677,
+      "height": 223,
+      "profile": {
+        "scale": 0.7,
+        "blur": 0.35,
+        "contrast": 0.73,
+        "brightness": 62,
+        "angle": 0.6,
+        "jpeg": 50,
+        "noise": 3
+      },
+      "seed": 307
+    },
+    {
+      "sourceId": "ss-production",
+      "split": "validation",
+      "variant": "clean",
+      "fileName": "ss-production-clean.png",
+      "sha256": "e9428961b3bfa947b9f14a305b9203560d79e59227ff2866d0f2794960b28be5",
+      "width": 820,
+      "height": 410,
+      "profile": null,
+      "seed": null
+    },
+    {
+      "sourceId": "ss-production",
+      "split": "validation",
+      "variant": "scan",
+      "fileName": "ss-production-scan.png",
+      "sha256": "7ab00b9e9e657bbc203192bfead6b52cedc9f9a11f5cfe79d29f93785e5825e3",
+      "width": 679,
+      "height": 350,
+      "profile": {
+        "scale": 0.82,
+        "blur": 0.35,
+        "contrast": 0.78,
+        "brightness": 45,
+        "angle": 1.2,
+        "jpeg": 65,
+        "noise": 3
+      },
+      "seed": 419
+    },
+    {
+      "sourceId": "ss-measurement",
+      "split": "validation",
+      "variant": "clean",
+      "fileName": "ss-measurement-clean.png",
+      "sha256": "a362b4e4d6b2e2263c6485fd0edfae4d2e8cae1be489606e39fb8aef9fcd328f",
+      "width": 604,
+      "height": 444,
+      "profile": null,
+      "seed": null
+    },
+    {
+      "sourceId": "ss-measurement",
+      "split": "validation",
+      "variant": "scan",
+      "fileName": "ss-measurement-scan.png",
+      "sha256": "76b2fb241cd8cdf221306ba42323e5daf64be8c68b7420cb69afb9d617cc71da",
+      "width": 476,
+      "height": 353,
+      "profile": {
+        "scale": 0.78,
+        "blur": 0.4,
+        "contrast": 0.6,
+        "brightness": 88,
+        "angle": -0.8,
+        "jpeg": 55,
+        "noise": 4
+      },
+      "seed": 521
+    },
+    {
+      "sourceId": "ss-inspection",
+      "split": "validation",
+      "variant": "clean",
+      "fileName": "ss-inspection-clean.png",
+      "sha256": "d301a3de3f7a41c5d317adef6c651eaf0af689f5880d5ba32ec915a0fb89c6f0",
+      "width": 1180,
+      "height": 308,
+      "profile": null,
+      "seed": null
+    },
+    {
+      "sourceId": "ss-inspection",
+      "split": "validation",
+      "variant": "scan",
+      "fileName": "ss-inspection-scan.png",
+      "sha256": "469b9058825f94fa661524e2b1aa93e47734e36da1fe14ba9864ebbf7b3cdd6f",
+      "width": 828,
+      "height": 225,
+      "profile": {
+        "scale": 0.7,
+        "blur": 0.35,
+        "contrast": 0.73,
+        "brightness": 62,
+        "angle": 0.6,
+        "jpeg": 50,
+        "noise": 3
+      },
+      "seed": 631
+    }
+  ],
+  "questionFiles": [
+    {
+      "name": "questions-development-clean.json",
+      "split": "development",
+      "variant": "clean",
+      "count": 15,
+      "sha256": "dd309f224f2fdced9177cd0fb3232d2cf73951df0f262ca55e02ae23d5b40acb"
+    },
+    {
+      "name": "questions-development-scan.json",
+      "split": "development",
+      "variant": "scan",
+      "count": 15,
+      "sha256": "0f5ec3c0a81530ecca51d4fbde5e678f57d2277acb9d612ae3f1fb673b713d70"
+    },
+    {
+      "name": "questions-validation-clean.json",
+      "split": "validation",
+      "variant": "clean",
+      "count": 15,
+      "sha256": "092dade3027708faa273c6bef53c3363e8c929a74c020555a8c5d7ac5c23bb94"
+    },
+    {
+      "name": "questions-validation-scan.json",
+      "split": "validation",
+      "variant": "scan",
+      "count": 15,
+      "sha256": "c82b0a4f51142d1a878b44c78da3766abb362e633a2b6290c4a10e88f21fa528"
+    }
+  ],
+  "fixtureSha256": "97bea6ec9da6bea5367b2471b35d3ae1fd32411ea088c37f4ac32ce15d50ebc4",
+  "rendererSha256": "f9e9c9c819745e1957ef2909bc04ea8484b7869d236f33ab356501a170d8fdcd",
+  "sharpVersions": {
+    "aom": "3.14.1",
+    "archive": "3.8.9",
+    "cairo": "1.18.4",
+    "cgif": "0.5.3",
+    "exif": "0.6.26",
+    "expat": "2.8.3",
+    "ffi": "3.8.0",
+    "fontconfig": "2.18.3",
+    "freetype": "2.14.3",
+    "fribidi": "1.0.16",
+    "glib": "2.89.4",
+    "harfbuzz": "14.3.1",
+    "heif": "1.23.2",
+    "highway": "1.4.0",
+    "imagequant": "2.4.1",
+    "lcms": "2.19.1",
+    "mozjpeg": "0826579",
+    "pango": "1.58.2",
+    "pixman": "0.46.4",
+    "png": "1.6.58",
+    "proxy-libintl": "0.5",
+    "rsvg": "2.62.91",
+    "tiff": "4.7.2",
+    "uhdr": "2.0.2",
+    "vips": "8.18.6",
+    "webp": "1.6.0",
+    "xml2": "2.15.3",
+    "zlib-ng": "2.3.3",
+    "sharp": "0.35.4"
+  },
+  "apiCalls": 0,
+  "modelAccuracy": null,
+  "visualQa": "pending-manual-review-see-separate-record",
+  "note": "合成扫描退化，不是真实扫描数据；同源清晰/扫描版本同组，禁止跨组调参或将参考文件发送给模型。不同平台字体可能不同，以这些媒体哈希为准。"
+}

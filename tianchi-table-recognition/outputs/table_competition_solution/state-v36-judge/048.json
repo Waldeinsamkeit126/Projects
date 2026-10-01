@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "459",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "图中无明确主标题，A为幻觉文本，B为图中第一行第一列文本（虽为列头但最接近）。"
+    },
+    {
+      "id": "468",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "数值均正确。B的格式为包含多个对象的数组，更符合'列出'多个独立字段答案的语义，且符合扁平对象数组要求。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 7384,
+    "completion_tokens": 6476,
+    "prompt_tokens": 908,
+    "completion_tokens_details": {
+      "reasoning_tokens": 6305,
+      "text_tokens": 170
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 420,
+      "cached_tokens": 0,
+      "text_tokens": 488
+    }
+  },
+  "requestId": "chatcmpl-451c0932-ad8d-99ff-b361-ca06ddc94a88"
+}

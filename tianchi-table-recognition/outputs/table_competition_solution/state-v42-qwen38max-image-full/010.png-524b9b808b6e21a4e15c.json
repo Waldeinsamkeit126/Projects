@@ -1,0 +1,257 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\010.png",
+  "results": [
+    {
+      "id": "71",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "家长结营交接",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "72",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "机会发现",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "73",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "产品开发推进",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "74",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "30",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "75",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"事项\":\"发布成果与成长\"},{\"事项\":\"家长结营交接\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "76",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "产品原型v1.0",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "77",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Day 6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "78",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "120",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "79",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "0.5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "80",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "晚间休息",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "81",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "82",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"天\":\"Day 2\"},{\"天\":\"Day 4\"},{\"天\":\"Day 5\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "83",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"天\":\"Day 1\"},{\"天\":\"Day 3\"},{\"天\":\"Day 4\"},{\"天\":\"Day 5\"},{\"天\":\"Day 6\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "84",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "85",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "迭代与表达",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "86",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "路演与成果",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "87",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "AI应用商业探索",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "88",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Business",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "89",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"任务\":\"用户验证实验\"},{\"任务\":\"基于数据分析\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "90",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"事项\":\"发布成果与成长\"},{\"事项\":\"家长结营交接\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "91",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "120",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "92",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "90",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "93",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"天\":\"Day 2\"},{\"天\":\"Day 4\"},{\"天\":\"Day 5\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "94",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"天\":\"Day 1\"},{\"天\":\"Day 3\"},{\"天\":\"Day 4\"},{\"天\":\"Day 5\"},{\"天\":\"Day 6\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "95",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "开发方案+技术路径",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "96",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "产品原型v2.0",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "97",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "98",
+      "source_file": "010.png",
+      "resolved_file": "010.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"天\":\"Day 2\"},{\"天\":\"Day 3\"},{\"天\":\"Day 5\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "mode": "read-only-coverage-audit",
+  "generatedAt": "2026-09-17T10:31:25.658Z",
+  "coverageVersion": "explicit-full-grid-v1",
+  "questionSha256": "dd309f224f2fdced9177cd0fb3232d2cf73951df0f262ca55e02ae23d5b40acb",
+  "predictionsSha256": "e8bf48e9012f54e9f328e0e1458eb40fee87ba0d554b28b5e87d6297125b6ee7",
+  "sourceHash": "c3e67b1cc87f5012d184435f1b6f7c6dd66d15f96aa30fa5e72687c2ade4118b",
+  "apiRequests": 0,
+  "predictionsModified": false,
+  "modelAccuracy": null,
+  "total": 15,
+  "fullScope": 3,
+  "newlyFlagged": 1,
+  "missingRecords": 0,
+  "details": [
+    {
+      "id": "ss-budget-clean-q1",
+      "scope": "full",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": {
+        "version": "explicit-full-grid-v1",
+        "totalSlots": "56",
+        "coveredSlots": "56",
+        "missingSlots": "0",
+        "complete": true,
+        "firstGaps": []
+      }
+    },
+    {
+      "id": "ss-budget-clean-q2",
+      "scope": "partial",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "ss-budget-clean-q3",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "ss-budget-clean-q4",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "ss-budget-clean-q5",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "ss-assembly-clean-q1",
+      "scope": "full",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": false,
+      "newlyFlagged": true,
+      "error": "题目明确要求完整表格，但当前 cells 有 4 个逻辑网格未覆盖，例如 (row=1,col=0,高=1,宽=2)、(row=1,col=4,高=1,宽=2)。请重新查看原图，核对空白单元格与纵向/横向合并边界。不得为了填满网格直接补值或扩大跨度；完整范围仍须以题目和图像为准。",
+      "coverage": {
+        "version": "explicit-full-grid-v1",
+        "totalSlots": "48",
+        "coveredSlots": "44",
+        "missingSlots": "4",
+        "complete": false,
+        "firstGaps": [
+          {
+            "row": 1,
+            "col": 0,
+            "height": 1,
+            "width": 2
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "height": 1,
+            "width": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "ss-assembly-clean-q2",
+      "scope": "partial",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "ss-assembly-clean-q3",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "ss-assembly-clean-q4",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "ss-assembly-clean-q5",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": true,
+      "candidateValid": true,
+      "newlyFlagged": false,
+      "error": "",
+      "coverage": null
+    },
+    {
+      "id": "ss-warehouse-clean-q1",
+      "scope": "full",
+      "recordPresent": true,
+      "baselineValid": false,
+      "candidateValid": false,
+      "newlyFlagged": false,
+      "error": "答案为空或不是字符串",
+      "coverage": null
+    },
+    {
+      "id": "ss-warehouse-clean-q2",
+      "scope": "partial",
+      "recordPresent": true,
+      "baselineValid": false,
+      "candidateValid": false,
+      "newlyFlagged": false,
+      "error": "答案为空或不是字符串",
+      "coverage": null
+    },
+    {
+      "id": "ss-warehouse-clean-q3",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": false,
+      "candidateValid": false,
+      "newlyFlagged": false,
+      "error": "答案为空或不是字符串",
+      "coverage": null
+    },
+    {
+      "id": "ss-warehouse-clean-q4",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": false,
+      "candidateValid": false,
+      "newlyFlagged": false,
+      "error": "答案为空或不是字符串",
+      "coverage": null
+    },
+    {
+      "id": "ss-warehouse-clean-q5",
+      "scope": "not-applicable",
+      "recordPresent": true,
+      "baselineValid": false,
+      "candidateValid": false,
+      "newlyFlagged": false,
+      "error": "答案为空或不是字符串",
+      "coverage": null
+    }
+  ],
+  "limitation": "只离线检查已有答案，不生成或修正答案，不重算模型成绩。已查看样例的错误定位不是独立泛化验证。"
+}

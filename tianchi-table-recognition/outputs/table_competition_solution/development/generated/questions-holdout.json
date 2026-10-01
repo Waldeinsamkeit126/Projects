@@ -1,0 +1,103 @@
+{
+  "datasetVersion": "synthetic-tables-v1",
+  "provenance": "synthetic-independent",
+  "split": "holdout",
+  "questions": [
+    {
+      "id": "holdout-merged-q1",
+      "file_name": "holdout-merged.png",
+      "question_type": "extract",
+      "question": "北区第二季度收入是多少万元？",
+      "table_hint": "练习季度业绩（金额：万元）",
+      "answer_format": "number"
+    },
+    {
+      "id": "holdout-merged-q2",
+      "file_name": "holdout-merged.png",
+      "question_type": "extract",
+      "question": "南区第一季度成本是多少万元？",
+      "table_hint": "练习季度业绩（金额：万元）",
+      "answer_format": "number"
+    },
+    {
+      "id": "holdout-merged-q3",
+      "file_name": "holdout-merged.png",
+      "question_type": "thinking",
+      "question": "北区第二季度收入比第一季度增长百分之几？只输出百分数的数值，不带百分号。",
+      "table_hint": "练习季度业绩（金额：万元）",
+      "answer_format": "number"
+    },
+    {
+      "id": "holdout-merged-q4",
+      "file_name": "holdout-merged.png",
+      "question_type": "thinking",
+      "question": "南区第二季度利润（收入减成本）是多少万元？",
+      "table_hint": "练习季度业绩（金额：万元）",
+      "answer_format": "number"
+    },
+    {
+      "id": "holdout-merged-q5",
+      "file_name": "holdout-merged.png",
+      "question_type": "extract",
+      "question": "按北区、南区的顺序列出地区及第二季度收入，键为地区、第二季度收入。",
+      "table_hint": "练习季度业绩（金额：万元）",
+      "answer_format": "json_array"
+    },
+    {
+      "id": "holdout-merged-q6",
+      "file_name": "holdout-merged.png",
+      "question_type": "structure",
+      "question": "恢复完整表格结构；标题不计入表内。row_count、col_count 为完整表格逻辑尺寸，cells 包含所有单元格（含空格），坐标从0开始，合并单元格仅记一次。",
+      "table_hint": "练习季度业绩（金额：万元）",
+      "answer_format": "json"
+    },
+    {
+      "id": "holdout-units-q1",
+      "file_name": "holdout-units.png",
+      "question_type": "thinking",
+      "question": "乙项目实际支出比预算多多少万元？",
+      "table_hint": "练习预算执行",
+      "answer_format": "number"
+    },
+    {
+      "id": "holdout-units-q2",
+      "file_name": "holdout-units.png",
+      "question_type": "thinking",
+      "question": "甲项目实际支出换算成元是多少？",
+      "table_hint": "练习预算执行",
+      "answer_format": "number"
+    },
+    {
+      "id": "holdout-units-q3",
+      "file_name": "holdout-units.png",
+      "question_type": "thinking",
+      "question": "哪个项目超预算？",
+      "table_hint": "练习预算执行",
+      "answer_format": "string"
+    },
+    {
+      "id": "holdout-units-q4",
+      "file_name": "holdout-units.png",
+      "question_type": "thinking",
+      "question": "合计实际支出是多少万元？",
+      "table_hint": "练习预算执行",
+      "answer_format": "number"
+    },
+    {
+      "id": "holdout-units-q5",
+      "file_name": "holdout-units.png",
+      "question_type": "extract",
+      "question": "丙项目人数是多少？",
+      "table_hint": "练习预算执行",
+      "answer_format": "number"
+    },
+    {
+      "id": "holdout-units-q6",
+      "file_name": "holdout-units.png",
+      "question_type": "structure",
+      "question": "恢复完整表格结构；标题不计入表内。row_count、col_count 为完整表格逻辑尺寸，cells 包含所有单元格（含空格），坐标从0开始，合并单元格仅记一次。",
+      "table_hint": "练习预算执行",
+      "answer_format": "json"
+    }
+  ]
+}

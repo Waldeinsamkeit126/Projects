@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\035.png",
+  "results": [
+    {
+      "id": "339",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Markup format comparison",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "340",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3-vl-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "341",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3-vl-plus",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "342",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Concise and readable",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "343",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3-vl-plus",
+      "answer": "MDX",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "344",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3-vl-plus",
+      "answer": "4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "345",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3-vl-plus",
+      "answer": "AsciiDoc, MDX",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "346",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Partial",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "347",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Experimental",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "348",
+      "source_file": "035.png",
+      "resolved_file": "035.png",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"MDX Book/article export\":\"Third-party\",\"Quarkdown Targets\":\"HTML, PDF, TXT\",\"AsciiDoc Targets\":\"HTML, PDF, ePub\",\"MDX Targets\":\"HTML\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

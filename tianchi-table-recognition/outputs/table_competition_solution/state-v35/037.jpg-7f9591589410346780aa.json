@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\037.jpg",
+  "results": [
+    {
+      "id": "359",
+      "source_file": "037.jpg",
+      "resolved_file": "037.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "课程表",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "360",
+      "source_file": "037.jpg",
+      "resolved_file": "037.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "362",
+      "source_file": "037.jpg",
+      "resolved_file": "037.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "上午",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "363",
+      "source_file": "037.jpg",
+      "resolved_file": "037.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "星期五",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "364",
+      "source_file": "037.jpg",
+      "resolved_file": "037.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "班会",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "365",
+      "source_file": "037.jpg",
+      "resolved_file": "037.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "语文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "366",
+      "source_file": "037.jpg",
+      "resolved_file": "037.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "数学",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "367",
+      "source_file": "037.jpg",
+      "resolved_file": "037.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "体育",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "368",
+      "source_file": "037.jpg",
+      "resolved_file": "037.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"周三第三节\":\"数学\",\"周四第六节\":\"音乐\",\"上午节数\":\"5\",\"下午节数\":\"2\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

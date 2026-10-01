@@ -1,0 +1,708 @@
+{
+  "summary": {
+    "player_one_games": 23,
+    "candidate_better": 14,
+    "baseline_better": 9,
+    "ties": 0,
+    "mean_delta": 4456.608695652174,
+    "groups": [
+      {
+        "signature": {
+          "animals": {
+            "SHEEP": 3
+          },
+          "crops": {
+            "MELON": 7
+          }
+        },
+        "games": 1,
+        "mean_delta": 43304.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {},
+          "crops": {
+            "MELON": 20,
+            "STRAWBERRY": 5
+          }
+        },
+        "games": 1,
+        "mean_delta": 37209.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2
+          },
+          "crops": {
+            "CARROT": 1,
+            "MELON": 10
+          }
+        },
+        "games": 1,
+        "mean_delta": 26710.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 1,
+            "SHEEP": 1
+          },
+          "crops": {
+            "MELON": 14,
+            "WHEAT": 3
+          }
+        },
+        "games": 1,
+        "mean_delta": 21851.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {},
+          "crops": {
+            "CARROT": 2,
+            "MELON": 18,
+            "TOMATO": 2,
+            "WHEAT": 3
+          }
+        },
+        "games": 2,
+        "mean_delta": 20937.5,
+        "candidate_better": 2
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          },
+          "crops": {}
+        },
+        "games": 1,
+        "mean_delta": 11574.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {},
+          "crops": {
+            "MELON": 20,
+            "WHEAT": 5
+          }
+        },
+        "games": 1,
+        "mean_delta": 9820.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {},
+          "crops": {
+            "MELON": 24
+          }
+        },
+        "games": 1,
+        "mean_delta": 9643.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {},
+          "crops": {
+            "MELON": 16,
+            "WHEAT": 9
+          }
+        },
+        "games": 1,
+        "mean_delta": 7971.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {
+            "SHEEP": 2
+          },
+          "crops": {
+            "MELON": 8,
+            "WHEAT": 3
+          }
+        },
+        "games": 1,
+        "mean_delta": 3661.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 2
+          },
+          "crops": {
+            "WHEAT": 8
+          }
+        },
+        "games": 1,
+        "mean_delta": 1819.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 4
+          },
+          "crops": {
+            "MELON": 5,
+            "STRAWBERRY": 4,
+            "WHEAT": 11
+          }
+        },
+        "games": 1,
+        "mean_delta": 1497.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 2,
+            "GOOSE": 1,
+            "SHEEP": 1
+          },
+          "crops": {
+            "WHEAT": 1
+          }
+        },
+        "games": 1,
+        "mean_delta": 1111.0,
+        "candidate_better": 1
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 3,
+            "SHEEP": 1
+          },
+          "crops": {
+            "MELON": 10
+          }
+        },
+        "games": 1,
+        "mean_delta": -970.0,
+        "candidate_better": 0
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2
+          },
+          "crops": {
+            "MELON": 9
+          }
+        },
+        "games": 1,
+        "mean_delta": -2360.0,
+        "candidate_better": 0
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 3,
+            "SHEEP": 1
+          },
+          "crops": {
+            "CARROT": 2,
+            "MELON": 8,
+            "WHEAT": 4
+          }
+        },
+        "games": 1,
+        "mean_delta": -5506.0,
+        "candidate_better": 0
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 2,
+            "SHEEP": 2
+          },
+          "crops": {
+            "CARROT": 2,
+            "MELON": 11
+          }
+        },
+        "games": 2,
+        "mean_delta": -6868.5,
+        "candidate_better": 0
+      },
+      {
+        "signature": {
+          "animals": {},
+          "crops": {
+            "CARROT": 4,
+            "MELON": 16,
+            "WHEAT": 26
+          }
+        },
+        "games": 1,
+        "mean_delta": -8188.0,
+        "candidate_better": 0
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 3,
+            "SHEEP": 1
+          },
+          "crops": {
+            "MELON": 1
+          }
+        },
+        "games": 1,
+        "mean_delta": -9533.0,
+        "candidate_better": 0
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 2,
+            "SHEEP": 1
+          },
+          "crops": {
+            "MELON": 6
+          }
+        },
+        "games": 1,
+        "mean_delta": -18616.0,
+        "candidate_better": 0
+      },
+      {
+        "signature": {
+          "animals": {
+            "COW": 3,
+            "SHEEP": 1
+          },
+          "crops": {
+            "MELON": 7,
+            "WHEAT": 10
+          }
+        },
+        "games": 1,
+        "mean_delta": -56633.0,
+        "candidate_better": 0
+      }
+    ]
+  },
+  "games": [
+    {
+      "episode_id": 89662736,
+      "score_delta": 43304.0,
+      "position": 1,
+      "opponent": "khan",
+      "crops": {
+        "MELON": 7
+      },
+      "animals": {
+        "SHEEP": 3
+      },
+      "kinds": {
+        "PASTURE": 3,
+        "PLANT": 7
+      },
+      "money": 51.0
+    },
+    {
+      "episode_id": 89465523,
+      "score_delta": 37209.0,
+      "position": 1,
+      "opponent": "Dmitry Larko",
+      "crops": {
+        "MELON": 20,
+        "STRAWBERRY": 5
+      },
+      "animals": {},
+      "kinds": {
+        "PLANT": 25
+      },
+      "money": 880.0
+    },
+    {
+      "episode_id": 89664441,
+      "score_delta": 26710.0,
+      "position": 1,
+      "opponent": "Stanislav Chistyakov",
+      "crops": {
+        "CARROT": 1,
+        "MELON": 10
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 2
+      },
+      "kinds": {
+        "PASTURE": 4,
+        "PLANT": 11
+      },
+      "money": 30.0
+    },
+    {
+      "episode_id": 89380685,
+      "score_delta": 21851.0,
+      "position": 1,
+      "opponent": "ayuma",
+      "crops": {
+        "MELON": 14,
+        "WHEAT": 3
+      },
+      "animals": {
+        "COW": 1,
+        "SHEEP": 1
+      },
+      "kinds": {
+        "PASTURE": 4,
+        "PLANT": 17
+      },
+      "money": 631.0
+    },
+    {
+      "episode_id": 89485486,
+      "score_delta": 21372.0,
+      "position": 1,
+      "opponent": "motemen",
+      "crops": {
+        "CARROT": 2,
+        "MELON": 18,
+        "TOMATO": 2,
+        "WHEAT": 3
+      },
+      "animals": {},
+      "kinds": {
+        "PLANT": 25
+      },
+      "money": 1370.0
+    },
+    {
+      "episode_id": 89427864,
+      "score_delta": 20503.0,
+      "position": 1,
+      "opponent": "motemen",
+      "crops": {
+        "CARROT": 2,
+        "MELON": 18,
+        "TOMATO": 2,
+        "WHEAT": 3
+      },
+      "animals": {},
+      "kinds": {
+        "PLANT": 25
+      },
+      "money": 1370.0
+    },
+    {
+      "episode_id": 89481708,
+      "score_delta": 11574.0,
+      "position": 1,
+      "opponent": "Veniamin Nelin",
+      "crops": {},
+      "animals": {
+        "COW": 1,
+        "SHEEP": 3
+      },
+      "kinds": {
+        "PASTURE": 5
+      },
+      "money": 982.0
+    },
+    {
+      "episode_id": 89487146,
+      "score_delta": 9820.0,
+      "position": 1,
+      "opponent": "starclan",
+      "crops": {
+        "MELON": 20,
+        "WHEAT": 5
+      },
+      "animals": {},
+      "kinds": {
+        "PLANT": 25
+      },
+      "money": 262.0
+    },
+    {
+      "episode_id": 89399155,
+      "score_delta": 9643.0,
+      "position": 1,
+      "opponent": "shreyas sangalad",
+      "crops": {
+        "MELON": 24
+      },
+      "animals": {},
+      "kinds": {
+        "PLANT": 24
+      },
+      "money": 1073.0
+    },
+    {
+      "episode_id": 89412858,
+      "score_delta": 7971.0,
+      "position": 1,
+      "opponent": "kitory Yeah やきとり",
+      "crops": {
+        "MELON": 16,
+        "WHEAT": 9
+      },
+      "animals": {},
+      "kinds": {
+        "PLANT": 25
+      },
+      "money": 542.0
+    },
+    {
+      "episode_id": 89660446,
+      "score_delta": 3661.0,
+      "position": 1,
+      "opponent": "yuto083",
+      "crops": {
+        "MELON": 8,
+        "WHEAT": 3
+      },
+      "animals": {
+        "SHEEP": 2
+      },
+      "kinds": {
+        "PASTURE": 2,
+        "PLANT": 11
+      },
+      "money": 443.0
+    },
+    {
+      "episode_id": 89482245,
+      "score_delta": 1819.0,
+      "position": 1,
+      "opponent": "HIDEYO CHIBA",
+      "crops": {
+        "WHEAT": 8
+      },
+      "animals": {
+        "COW": 2
+      },
+      "kinds": {
+        "PASTURE": 3,
+        "PLANT": 8,
+        "WEED": 1
+      },
+      "money": 113.0
+    },
+    {
+      "episode_id": 89483326,
+      "score_delta": 1497.0,
+      "position": 1,
+      "opponent": "IsaacJinyu",
+      "crops": {
+        "MELON": 5,
+        "STRAWBERRY": 4,
+        "WHEAT": 11
+      },
+      "animals": {
+        "COW": 4
+      },
+      "kinds": {
+        "COOP": 1,
+        "PASTURE": 4,
+        "PLANT": 20
+      },
+      "money": 145.0
+    },
+    {
+      "episode_id": 89387579,
+      "score_delta": 1111.0,
+      "position": 1,
+      "opponent": "phibkro",
+      "crops": {
+        "WHEAT": 1
+      },
+      "animals": {
+        "COW": 2,
+        "GOOSE": 1,
+        "SHEEP": 1
+      },
+      "kinds": {
+        "COOP": 2,
+        "PASTURE": 8,
+        "PLANT": 1
+      },
+      "money": 247.0
+    },
+    {
+      "episode_id": 89483866,
+      "score_delta": -970.0,
+      "position": 1,
+      "opponent": "cmasch",
+      "crops": {
+        "MELON": 10
+      },
+      "animals": {
+        "COW": 3,
+        "SHEEP": 1
+      },
+      "kinds": {
+        "PASTURE": 4,
+        "PLANT": 10
+      },
+      "money": 97.0
+    },
+    {
+      "episode_id": 89484406,
+      "score_delta": -2360.0,
+      "position": 1,
+      "opponent": "ghostiee11",
+      "crops": {
+        "MELON": 9
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 2
+      },
+      "kinds": {
+        "PASTURE": 4,
+        "PLANT": 9
+      },
+      "money": 78.0
+    },
+    {
+      "episode_id": 89668397,
+      "score_delta": -5506.0,
+      "position": 1,
+      "opponent": "motemen",
+      "crops": {
+        "CARROT": 2,
+        "MELON": 8,
+        "WHEAT": 4
+      },
+      "animals": {
+        "COW": 3,
+        "SHEEP": 1
+      },
+      "kinds": {
+        "PASTURE": 5,
+        "PLANT": 14
+      },
+      "money": 38.0
+    },
+    {
+      "episode_id": 89398609,
+      "score_delta": -5935.0,
+      "position": 1,
+      "opponent": "Rylan",
+      "crops": {
+        "CARROT": 2,
+        "MELON": 11
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 2
+      },
+      "kinds": {
+        "PASTURE": 4,
+        "PLANT": 13
+      },
+      "money": 30.0
+    },
+    {
+      "episode_id": 89509457,
+      "score_delta": -7802.0,
+      "position": 1,
+      "opponent": "Nur Srijan",
+      "crops": {
+        "CARROT": 2,
+        "MELON": 11
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 2
+      },
+      "kinds": {
+        "PASTURE": 4,
+        "PLANT": 13
+      },
+      "money": 30.0
+    },
+    {
+      "episode_id": 89482788,
+      "score_delta": -8188.0,
+      "position": 1,
+      "opponent": "MD. Nazmus Sakib Anik",
+      "crops": {
+        "CARROT": 4,
+        "MELON": 16,
+        "WHEAT": 26
+      },
+      "animals": {},
+      "kinds": {
+        "PLANT": 46,
+        "WEED": 2
+      },
+      "money": 266.0
+    },
+    {
+      "episode_id": 89661600,
+      "score_delta": -9533.0,
+      "position": 1,
+      "opponent": "Nolan Liang",
+      "crops": {
+        "MELON": 1
+      },
+      "animals": {
+        "COW": 3,
+        "SHEEP": 1
+      },
+      "kinds": {
+        "PASTURE": 4,
+        "PLANT": 1,
+        "WEED": 1
+      },
+      "money": 23.0
+    },
+    {
+      "episode_id": 89508913,
+      "score_delta": -18616.0,
+      "position": 1,
+      "opponent": "op_star_platinum",
+      "crops": {
+        "MELON": 6
+      },
+      "animals": {
+        "COW": 2,
+        "SHEEP": 1
+      },
+      "kinds": {
+        "PASTURE": 4,
+        "PLANT": 6
+      },
+      "money": 98.0
+    },
+    {
+      "episode_id": 89509422,
+      "score_delta": -56633.0,
+      "position": 1,
+      "opponent": "Hasibul Islam Sifat",
+      "crops": {
+        "MELON": 7,
+        "WHEAT": 10
+      },
+      "animals": {
+        "COW": 3,
+        "SHEEP": 1
+      },
+      "kinds": {
+        "PASTURE": 4,
+        "PLANT": 17,
+        "WEED": 1
+      },
+      "money": 273.0
+    }
+  ]
+}

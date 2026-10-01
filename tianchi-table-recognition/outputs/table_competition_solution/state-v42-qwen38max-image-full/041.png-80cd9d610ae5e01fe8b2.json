@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\041.png",
+  "results": [
+    {
+      "id": "399",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Contact/pressure measurements",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "400",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "英语",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "401",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "402",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Subjects",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "403",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "C",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "404",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "142.877±8.384",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "405",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "131.852±10.934",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "406",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "592.178±95.362",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "407",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "278.869±78.830",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "408",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"Elderly total peak pressure C\":\"203.564±45.484\"},{\"分组数量\":\"2\"},{\"面罩类别数量\":\"4\"},{\"指标区块数量\":\"4\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

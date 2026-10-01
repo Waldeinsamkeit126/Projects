@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\087.png",
+  "results": [
+    {
+      "id": "839",
+      "source_file": "087.png",
+      "resolved_file": "087.png",
+      "model": "qwen3-vl-plus",
+      "answer": "{\"row_count\":6,\"col_count\":13,\"cells\":[{\"text\":\"\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data1-Precision\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data1-Recall\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data1-F1\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data2-Orig-Precision\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data2-Orig-Recall\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data2-Orig-F1\",\"row\":0,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data2-Exp3-Precision\",\"row\":0,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data2-Exp3-Recall\",\"row\":0,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data2-Exp3-F1\",\"row\":0,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data2-Exp4-Precision\",\"row\":0,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data2-Exp4-Recall\",\"row\":0,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"Data2-Exp4-F1\",\"row\":0,\"col\":12,\"rowspan\":1,\"colspan\":1},{\"text\":\"Apple\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Banana\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Grapes\",\"row\":3,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Mango\",\"row\":4,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Orange\",\"row\":5,\"col\":0,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "840",
+      "source_file": "087.png",
+      "resolved_file": "087.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.91",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "841",
+      "source_file": "087.png",
+      "resolved_file": "087.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.81",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "842",
+      "source_file": "087.png",
+      "resolved_file": "087.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.28",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "843",
+      "source_file": "087.png",
+      "resolved_file": "087.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.54",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "844",
+      "source_file": "087.png",
+      "resolved_file": "087.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.18",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "845",
+      "source_file": "087.png",
+      "resolved_file": "087.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.87",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "846",
+      "source_file": "087.png",
+      "resolved_file": "087.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.76",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "847",
+      "source_file": "087.png",
+      "resolved_file": "087.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Orange",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "848",
+      "source_file": "087.png",
+      "resolved_file": "087.png",
+      "model": "qwen3-vl-plus",
+      "answer": "0.69",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

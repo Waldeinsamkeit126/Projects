@@ -1,0 +1,93 @@
+{
+  "version": "tianchi-value-array-candidate-v1",
+  "runId": "2026-09-18T15-37-28-691Z-7e0fe97e",
+  "planDigest": "46b0cab7ed55a7f6a4d7f31488a6633bb023d14617be2146042c864a4a00c590",
+  "sourceHash": "b1120f413d28b7fb9add71beae06c46d85ee8eb90f573e19ab672806020759ef",
+  "endpoint": "https://ws-zpzcvtpmb0e3zl4f.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "settings": {
+    "model": "qwen3-vl-plus",
+    "maxCompletionTokens": 4096,
+    "temperature": 0,
+    "enableThinking": false,
+    "maxAttempts": 1,
+    "concurrency": 1,
+    "automaticFallback": false
+  },
+  "status": "completed-candidates-only",
+  "stopReason": null,
+  "apiRequests": 2,
+  "maxRequests": 2,
+  "requests": [
+    {
+      "requestIndex": 1,
+      "fileName": "dev-sales.png",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "av-sales-codes",
+        "av-sales-counts",
+        "av-sales-row",
+        "av-sales-totals",
+        "av-sales-prices"
+      ],
+      "status": "format-passed-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 986,
+        "completion_tokens": 155,
+        "total_tokens": 1141,
+        "completion_tokens_details": {
+          "text_tokens": 155
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 242,
+          "text_tokens": 744,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 5008,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus"
+    },
+    {
+      "requestIndex": 2,
+      "fileName": "dev-missing.png",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "av-stock-counts",
+        "av-stock-notes",
+        "av-stock-region",
+        "av-stock-positive",
+        "av-stock-flags"
+      ],
+      "status": "format-passed-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1043,
+        "completion_tokens": 142,
+        "total_tokens": 1185,
+        "completion_tokens_details": {
+          "text_tokens": 142
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 290,
+          "text_tokens": 753,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 3993,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus"
+    }
+  ],
+  "plannedQuestions": 10,
+  "returnedQuestions": 10,
+  "validQuestions": 10,
+  "resultPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\array-trial-runs\\2026-09-18T15-37-28-691Z-7e0fe97e\\results.jsonl",
+  "baselineModified": false,
+  "exported": false,
+  "submitted": false,
+  "modelAccuracy": null,
+  "note": "Format checks only. Separate frozen-reference evaluation is required."
+}

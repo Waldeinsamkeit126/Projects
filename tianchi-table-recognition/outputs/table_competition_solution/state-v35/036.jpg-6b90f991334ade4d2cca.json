@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\036.jpg",
+  "results": [
+    {
+      "id": "349",
+      "source_file": "036.jpg",
+      "resolved_file": "036.jpg",
+      "model": "qwen3.8-max",
+      "answer": "中华人民共和国海关出口货物报关单",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "350",
+      "source_file": "036.jpg",
+      "resolved_file": "036.jpg",
+      "model": "qwen3.8-max",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "352",
+      "source_file": "036.jpg",
+      "resolved_file": "036.jpg",
+      "model": "qwen3.8-max",
+      "answer": "境内发货人",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "353",
+      "source_file": "036.jpg",
+      "resolved_file": "036.jpg",
+      "model": "qwen3.8-max",
+      "answer": "备案号",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "354",
+      "source_file": "036.jpg",
+      "resolved_file": "036.jpg",
+      "model": "qwen3.8-max",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "355",
+      "source_file": "036.jpg",
+      "resolved_file": "036.jpg",
+      "model": "qwen3.8-max",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "356",
+      "source_file": "036.jpg",
+      "resolved_file": "036.jpg",
+      "model": "qwen3.8-max",
+      "answer": "否",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "357",
+      "source_file": "036.jpg",
+      "resolved_file": "036.jpg",
+      "model": "qwen3.8-max",
+      "answer": "黑白",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "358",
+      "source_file": "036.jpg",
+      "resolved_file": "036.jpg",
+      "model": "qwen3.8-max",
+      "answer": "[{\"是否横向拍摄\":\"否\",\"是否含金额列\":\"是\",\"是否含订单号字段\":\"否\",\"是否含明细行\":\"是\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

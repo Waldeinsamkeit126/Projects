@@ -1,0 +1,65 @@
+{
+  "version": "original-image-structure-review-v1",
+  "runId": "2026-09-18T10-32-01-974Z-bac0ceaa",
+  "planDigest": "2eca41a9813294d3a67e5736f3b3ac83d6c5dea4f0a54850cf2449ba14ff6b61",
+  "sourceHash": "a143d034045ef916366f36a8cc5f0ff9992ae5f4cd8ac1985a7212cbb3558ae5",
+  "endpoint": "https://ws-zpzcvtpmb0e3zl4f.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "maxRequests": 2,
+  "settings": {
+    "model": "qwen3-vl-plus",
+    "maxAttempts": 1,
+    "maxCompletionTokens": 8192,
+    "enableThinking": false,
+    "concurrency": 1,
+    "checkFullCoverage": true,
+    "checkStructureConsistency": true,
+    "automaticFallback": false
+  },
+  "status": "stopped",
+  "stopReason": "unresolved-checks",
+  "attemptedUnits": 1,
+  "unattemptedUnits": 1,
+  "outcomes": [
+    {
+      "fileName": "ss-budget-clean.png",
+      "questionIds": [
+        "ss-budget-clean-q1",
+        "ss-budget-clean-q2"
+      ],
+      "status": "needs-review",
+      "consistency": {
+        "version": "same-image-explicit-table-v1",
+        "comparisons": [],
+        "conflictCount": 0,
+        "skipped": [
+          {
+            "id": "ss-budget-clean-q1",
+            "reason": "missing-or-invalid-structure"
+          },
+          {
+            "id": "ss-budget-clean-q2",
+            "reason": "missing-or-invalid-structure"
+          }
+        ],
+        "apiRequests": 0,
+        "answersModified": false,
+        "limitation": "同一图片和明确相同 table_hint 的完整表/表头交叉检查；只标记不一致，不判定哪份正确。一致仍可能共同漏列或错跨度；同名多表可能歧义。PDF、缺少目标提示或范围不明确时跳过。"
+      }
+    }
+  ],
+  "requests": {
+    "attempts": 1,
+    "successfulResponses": 1,
+    "failedAttempts": 0,
+    "sumRequestLatencyMs": 71522,
+    "reportedTotalTokens": 4191,
+    "responsesWithoutUsage": 0,
+    "costCny": null,
+    "costNote": "未接入账单；失败请求也可能计费，token 汇总不是账单金额"
+  },
+  "tracePath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\review-runs\\2026-09-18T10-32-01-974Z-bac0ceaa\\inference-trace.jsonl",
+  "resultPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\review-runs\\2026-09-18T10-32-01-974Z-bac0ceaa\\review-candidates.jsonl",
+  "baselineModified": false,
+  "modelAccuracy": null,
+  "note": "独立复核候选，不自动合并原答案、不修改缓存、不导出或提交。检查通过不是识别正确性证明。"
+}

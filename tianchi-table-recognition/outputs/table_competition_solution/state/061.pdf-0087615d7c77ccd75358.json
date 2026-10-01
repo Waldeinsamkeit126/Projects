@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\061.pdf",
+  "results": [
+    {
+      "id": "579",
+      "source_file": "061.pdf",
+      "resolved_file": "061.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":46,\"col_count\":9,\"cells\":[{\"text\":\"Category\",\"row\":0,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"Subcategory\",\"row\":0,\"col\":1,\"rowspan\":2,\"colspan\":1},{\"text\":\"#\",\"row\":0,\"col\":2,\"rowspan\":2,\"colspan\":1},{\"text\":\"Internal Evaluation (内部综合评估)\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":5},{\"text\":\"DS win\",\"row\":1,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"Gem win\",\"row\":1,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"Tie\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"DS%\",\"row\":1,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"Gem%\",\"row\":1,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"Tie%\",\"row\":1,\"col\":8,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "580",
+      "source_file": "061.pdf",
+      "resolved_file": "061.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"Category\":\"Business Writing (办公文本)\",\"Subcategory\":\"Subtotal (小计)\",\"#\":\"1349\",\"DS win\":\"879\",\"Gem win\":\"436\",\"Tie\":\"34\",\"DS%\":\"65.16\",\"Gem%\":\"32.32\",\"Tie%\":\"2.52\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "581",
+      "source_file": "061.pdf",
+      "resolved_file": "061.pdf",
+      "model": "qwen3.8-max",
+      "answer": "73.29",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "582",
+      "source_file": "061.pdf",
+      "resolved_file": "061.pdf",
+      "model": "qwen3.8-max",
+      "answer": "98",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "583",
+      "source_file": "061.pdf",
+      "resolved_file": "061.pdf",
+      "model": "qwen3.8-max",
+      "answer": "68",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "584",
+      "source_file": "061.pdf",
+      "resolved_file": "061.pdf",
+      "model": "qwen3.8-max",
+      "answer": "40",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "585",
+      "source_file": "061.pdf",
+      "resolved_file": "061.pdf",
+      "model": "qwen3.8-max",
+      "answer": "3170",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "586",
+      "source_file": "061.pdf",
+      "resolved_file": "061.pdf",
+      "model": "qwen3.8-max",
+      "answer": "188",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "587",
+      "source_file": "061.pdf",
+      "resolved_file": "061.pdf",
+      "model": "qwen3.8-max",
+      "answer": "Review (介绍评价)",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "588",
+      "source_file": "061.pdf",
+      "resolved_file": "061.pdf",
+      "model": "qwen3.8-max",
+      "answer": "642",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

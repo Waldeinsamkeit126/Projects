@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\041.png",
+  "results": [
+    {
+      "id": "399",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.7-plus",
+      "answer": "Contact/pressure measurements",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "400",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.7-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "402",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.7-plus",
+      "answer": "Subjects",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "403",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.7-plus",
+      "answer": "Maximum mean pressure (kPa)",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "404",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.7-plus",
+      "answer": "142.87±68.584",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "405",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.7-plus",
+      "answer": "313.85±210.934",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "406",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.7-plus",
+      "answer": "605.047±81.495",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "407",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.7-plus",
+      "answer": "270.869±70.940",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "408",
+      "source_file": "041.png",
+      "resolved_file": "041.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Elderly total peak pressure C\":\"77.778±7.078\",\"分组数量\":\"2\",\"面罩类别数量\":\"4\",\"指标区块数量\":\"3\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\052.jpg",
+  "results": [
+    {
+      "id": "489",
+      "source_file": "052.jpg",
+      "resolved_file": "052.jpg",
+      "model": "qwen3.8-max",
+      "answer": "中华人民共和国海关出口货物报关单",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "490",
+      "source_file": "052.jpg",
+      "resolved_file": "052.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "491",
+      "source_file": "052.jpg",
+      "resolved_file": "052.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "10",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "492",
+      "source_file": "052.jpg",
+      "resolved_file": "052.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "境内发货人",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "493",
+      "source_file": "052.jpg",
+      "resolved_file": "052.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "杂费",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "494",
+      "source_file": "052.jpg",
+      "resolved_file": "052.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "495",
+      "source_file": "052.jpg",
+      "resolved_file": "052.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "496",
+      "source_file": "052.jpg",
+      "resolved_file": "052.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "497",
+      "source_file": "052.jpg",
+      "resolved_file": "052.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "498",
+      "source_file": "052.jpg",
+      "resolved_file": "052.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"是否含单价列\":\"是\",\"是否含金额列\":\"是\",\"是否含多行明细\":\"是\",\"是否横向拍摄\":\"否\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

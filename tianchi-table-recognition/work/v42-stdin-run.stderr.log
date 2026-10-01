@@ -1,0 +1,5 @@
+[RETRY] 088.png 请求失败 (fetch failed); 第 1/8 次，4 秒后重试
+[WARN] 089.png 批量 JSON 解析失败: Expected ',' or ']' after array element in JSON at position 750 (line 1 column 751)
+[RETRY] 090.png 请求失败 (模型响应缺少 choices[0].message.content (finish_reason=length)); 第 1/8 次，3 秒后重试；提升 max_completion_tokens 至 16384
+[RETRY] 090.png 请求失败 (fetch failed); 第 2/8 次，7 秒后重试
+[WARN] 092.jpg 批量 JSON 解析失败: Expected ',' or '}' after property value in JSON at position 1273 (line 1 column 1274)

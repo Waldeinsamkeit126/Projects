@@ -1,0 +1,129 @@
+{
+  "summary": {
+    "candidate_variant": "production",
+    "opponent": "self",
+    "games": 8,
+    "wins": 4,
+    "ties": 0,
+    "win_rate": 0.5,
+    "mean_score": 19574.5,
+    "mean_opponent_score": 19574.5,
+    "mean_margin": 0.0,
+    "median_margin": 0.0,
+    "max_game_seconds": 6.154584600008093
+  },
+  "games": [
+    {
+      "seed": 0,
+      "position": 0,
+      "ours": 18138.0,
+      "theirs": 18778.0,
+      "margin": -640.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 4.080770900007337,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 0,
+      "position": 1,
+      "ours": 18778.0,
+      "theirs": 18138.0,
+      "margin": 640.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 6.154584600008093,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 1,
+      "position": 0,
+      "ours": 22365.0,
+      "theirs": 21734.0,
+      "margin": 631.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 5.223085400008131,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 1,
+      "position": 1,
+      "ours": 21734.0,
+      "theirs": 22365.0,
+      "margin": -631.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 4.95150559998001,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 2,
+      "position": 0,
+      "ours": 18337.0,
+      "theirs": 18376.0,
+      "margin": -39.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 5.536707799998112,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 2,
+      "position": 1,
+      "ours": 18376.0,
+      "theirs": 18337.0,
+      "margin": 39.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 4.40267720000702,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 3,
+      "position": 0,
+      "ours": 19463.0,
+      "theirs": 19405.0,
+      "margin": 58.0,
+      "win": true,
+      "tie": false,
+      "elapsed_seconds": 4.723559500009287,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "seed": 3,
+      "position": 1,
+      "ours": 19405.0,
+      "theirs": 19463.0,
+      "margin": -58.0,
+      "win": false,
+      "tie": false,
+      "elapsed_seconds": 4.486254000017652,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

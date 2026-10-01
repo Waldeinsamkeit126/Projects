@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "498",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表头含单价/总价/币制列，明细有2行，图片宽大于高为横向版面，A全项正确"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 376,
+    "completion_tokens_details": {
+      "reasoning_tokens": 320,
+      "text_tokens": 55
+    },
+    "prompt_tokens": 2946,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 2522,
+      "text_tokens": 424
+    },
+    "total_tokens": 3322
+  },
+  "requestId": "chatcmpl-f0937c1d-4cd2-97f2-9259-798ed8061884",
+  "model": "qwen3.8-max-0902"
+}

@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "837",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "entry_id=5的行从id 45到55，共11行"
+    }
+  ],
+  "usage": {
+    "total_tokens": 828,
+    "completion_tokens": 332,
+    "prompt_tokens": 496,
+    "completion_tokens_details": {
+      "reasoning_tokens": 286,
+      "text_tokens": 45
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 242,
+      "cached_tokens": 0,
+      "text_tokens": 254
+    }
+  },
+  "requestId": "chatcmpl-39ae39bd-9ca9-9e0f-8fcf-244cea27f82d"
+}

@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\013.jpg",
+  "results": [
+    {
+      "id": "119",
+      "source_file": "013.jpg",
+      "resolved_file": "013.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Component & Specification",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "120",
+      "source_file": "013.jpg",
+      "resolved_file": "013.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "122",
+      "source_file": "013.jpg",
+      "resolved_file": "013.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Item No",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "123",
+      "source_file": "013.jpg",
+      "resolved_file": "013.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Each",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "124",
+      "source_file": "013.jpg",
+      "resolved_file": "013.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Air condition 2 ton",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "125",
+      "source_file": "013.jpg",
+      "resolved_file": "013.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Each",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "126",
+      "source_file": "013.jpg",
+      "resolved_file": "013.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "",
+      "valid": false,
+      "error": "答案为空"
+    },
+    {
+      "id": "127",
+      "source_file": "013.jpg",
+      "resolved_file": "013.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Rotary",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "128",
+      "source_file": "013.jpg",
+      "resolved_file": "013.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"电源\":\"AC≥ (220)V/(50)Hz\"},{\"过滤网\":\"Available\"},{\"室内机颜色\":\"\"},{\"保修\":\"Compressor (5) Year. Other parts: ≥ (2) Year\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

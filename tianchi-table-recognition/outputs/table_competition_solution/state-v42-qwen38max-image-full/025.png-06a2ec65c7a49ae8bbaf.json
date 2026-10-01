@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\025.png",
+  "results": [
+    {
+      "id": "239",
+      "source_file": "025.png",
+      "resolved_file": "025.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Frequency",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "240",
+      "source_file": "025.png",
+      "resolved_file": "025.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "英语",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "241",
+      "source_file": "025.png",
+      "resolved_file": "025.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "7",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "242",
+      "source_file": "025.png",
+      "resolved_file": "025.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Frequency",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "243",
+      "source_file": "025.png",
+      "resolved_file": "025.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Total",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "244",
+      "source_file": "025.png",
+      "resolved_file": "025.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "1",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "245",
+      "source_file": "025.png",
+      "resolved_file": "025.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "246",
+      "source_file": "025.png",
+      "resolved_file": "025.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "247",
+      "source_file": "025.png",
+      "resolved_file": "025.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "白色",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "248",
+      "source_file": "025.png",
+      "resolved_file": "025.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"文件内容类型\":\"表格\",\"是否适合内容提取\":\"是\",\"是否有跨页表\":\"否\",\"是否有表头\":\"是\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

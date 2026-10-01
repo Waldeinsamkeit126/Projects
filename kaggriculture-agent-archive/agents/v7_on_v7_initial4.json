@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v7_purecrop81_after_probe\\main.py",
+    "games": 4,
+    "wins": 3,
+    "mean_score": 106940.0,
+    "mean_margin": 74835.0,
+    "mean_score_delta": 35664.0,
+    "mean_margin_delta": 77953.75,
+    "median_margin_delta": 75046.0,
+    "max_action_seconds": 0.21449029998620972,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 90106875,
+      "opponent": "Tristan Peng",
+      "seed": 1342579433,
+      "position": 0,
+      "ours": 70309.0,
+      "theirs": 91201.0,
+      "margin": -20892.0,
+      "win": false,
+      "original_ours": 70309.0,
+      "original_theirs": 91201.0,
+      "original_margin": -20892.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 5.7307353999931365,
+      "max_action_seconds": 0.0915965000167489,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90106200,
+      "opponent": "Khoa Le",
+      "seed": 450007447,
+      "position": 1,
+      "ours": 123155.0,
+      "theirs": 8425.0,
+      "margin": 114730.0,
+      "win": true,
+      "original_ours": 70802.0,
+      "original_theirs": 53850.0,
+      "original_margin": 16952.0,
+      "score_delta": 52353.0,
+      "margin_delta": 97778.0,
+      "elapsed_seconds": 5.924268399947323,
+      "max_action_seconds": 0.08695339999394491,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90108250,
+      "opponent": "Leonardo Viola10",
+      "seed": 677491542,
+      "position": 0,
+      "ours": 111677.0,
+      "theirs": 26648.0,
+      "margin": 85029.0,
+      "win": true,
+      "original_ours": 70575.0,
+      "original_theirs": 37860.0,
+      "original_margin": 32715.0,
+      "score_delta": 41102.0,
+      "margin_delta": 52314.0,
+      "elapsed_seconds": 6.428335200005677,
+      "max_action_seconds": 0.21449029998620972,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90108951,
+      "opponent": "Mr.S hanakosan",
+      "seed": 948979181,
+      "position": 1,
+      "ours": 122619.0,
+      "theirs": 2146.0,
+      "margin": 120473.0,
+      "win": true,
+      "original_ours": 73418.0,
+      "original_theirs": 114668.0,
+      "original_margin": -41250.0,
+      "score_delta": 49201.0,
+      "margin_delta": 161723.0,
+      "elapsed_seconds": 6.2815605999785475,
+      "max_action_seconds": 0.0037516000447794795,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

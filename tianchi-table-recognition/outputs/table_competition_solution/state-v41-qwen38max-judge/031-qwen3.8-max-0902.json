@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "300",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表头与内容（Agremiação、Nota、Sábado等）为葡萄牙语，A以问题语言中文给出等价答案，更贴合题目"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 757,
+    "completion_tokens_details": {
+      "reasoning_tokens": 699,
+      "text_tokens": 57
+    },
+    "prompt_tokens": 982,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 629,
+      "text_tokens": 353
+    },
+    "total_tokens": 1739
+  },
+  "requestId": "chatcmpl-9ca39257-798e-91b0-a585-1f9ed01d539f",
+  "model": "qwen3.8-max-0902"
+}

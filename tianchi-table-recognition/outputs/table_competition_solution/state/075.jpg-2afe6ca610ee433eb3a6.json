@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\075.jpg",
+  "results": [
+    {
+      "id": "719",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "{\"row_count\":5,\"col_count\":10,\"cells\":[{\"text\":\"Common Stock\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":4},{\"text\":\"Investor Rounds\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":4},{\"text\":\"Exit\",\"row\":0,\"col\":8,\"rowspan\":1,\"colspan\":2},{\"text\":\"Founders' Shares\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":2},{\"text\":\"Stock Options\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":2},{\"text\":\"$\",\"row\":1,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"Shares\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"%\",\"row\":1,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"$\",\"row\":1,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"Shares\",\"row\":1,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"%\",\"row\":1,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"Common\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Founders\",\"row\":2,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"Stock Options\",\"row\":2,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Round 1\",\"row\":2,\"col\":4,\"rowspan\":1,\"colspan\":3},{\"text\":\"Round 2\",\"row\":2,\"col\":7,\"rowspan\":1,\"colspan\":3},{\"text\":\"Total Common\",\"row\":3,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Investor Rounds\",\"row\":3,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"Round 1\",\"row\":3,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Total Round 1\",\"row\":3,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"Round 2\",\"row\":3,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"Total Round 2\",\"row\":3,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"Total Investor Rounds\",\"row\":3,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"Total\",\"row\":3,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"Pre-money Valuation\",\"row\":4,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Post-money Valuation\",\"row\":4,\"col\":1,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "720",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "100000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "721",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "$750,000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "722",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "$250,000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "723",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "$3,000,000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "724",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "$1,000,000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "725",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "888889",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "726",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "1000000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "727",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "9000000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "728",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "28750000",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

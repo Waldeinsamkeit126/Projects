@@ -1,0 +1,845 @@
+{
+  "player": "カワシギ",
+  "episode_count": 50,
+  "mean_action_match_fraction": 0.42613888888888884,
+  "mean_exact_prefix_fraction": 0.24,
+  "mean_state_distance": 310.7117030555556,
+  "episodes": [
+    {
+      "episode_id": 93536446,
+      "seat": 1,
+      "opponent": "Ueddy",
+      "margin": 16840.0,
+      "steps": 720,
+      "action_match_fraction": 0.27361111111111114,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 539.7555972222221,
+      "first_mismatch": 176,
+      "selected_counts": {
+        "93634131": 72,
+        "93803702": 121,
+        "93714132": 121,
+        "93759682": 240,
+        "93734648": 166
+      }
+    },
+    {
+      "episode_id": 93537345,
+      "seat": 0,
+      "opponent": "Ueddy",
+      "margin": 4407.0,
+      "steps": 720,
+      "action_match_fraction": 0.3333333333333333,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 110.8309861111111,
+      "first_mismatch": 203,
+      "selected_counts": {
+        "93539123": 72,
+        "93809928": 2,
+        "93540914": 70,
+        "93775894": 576
+      }
+    },
+    {
+      "episode_id": 93538238,
+      "seat": 0,
+      "opponent": "Ueddy",
+      "margin": 9319.0,
+      "steps": 720,
+      "action_match_fraction": 0.3541666666666667,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 259.4051111111111,
+      "first_mismatch": 176,
+      "selected_counts": {
+        "93539123": 72,
+        "93542710": 138,
+        "93620762": 350,
+        "93743523": 106,
+        "93848465": 54
+      }
+    },
+    {
+      "episode_id": 93539123,
+      "seat": 0,
+      "opponent": "Utkarsh #2",
+      "margin": 5747.0,
+      "steps": 720,
+      "action_match_fraction": 0.4847222222222222,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 262.68005555555555,
+      "first_mismatch": 194,
+      "selected_counts": {
+        "93783010": 72,
+        "93682830": 648
+      }
+    },
+    {
+      "episode_id": 93540021,
+      "seat": 0,
+      "opponent": "Ueddy",
+      "margin": -2474.0,
+      "steps": 720,
+      "action_match_fraction": 0.5986111111111111,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 105.18454166666666,
+      "first_mismatch": 194,
+      "selected_counts": {
+        "93539123": 72,
+        "93724855": 43,
+        "93670246": 577,
+        "93798410": 28
+      }
+    },
+    {
+      "episode_id": 93540914,
+      "seat": 0,
+      "opponent": "Ueddy",
+      "margin": 5277.0,
+      "steps": 720,
+      "action_match_fraction": 0.48333333333333334,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 141.38216666666668,
+      "first_mismatch": 205,
+      "selected_counts": {
+        "93539123": 72,
+        "93809928": 186,
+        "93537345": 373,
+        "93775894": 89
+      }
+    },
+    {
+      "episode_id": 93541810,
+      "seat": 0,
+      "opponent": "Ueddy",
+      "margin": 4376.0,
+      "steps": 720,
+      "action_match_fraction": 0.2569444444444444,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 596.6545277777778,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93539123": 72,
+        "93862421": 607,
+        "93646712": 41
+      }
+    },
+    {
+      "episode_id": 93542710,
+      "seat": 0,
+      "opponent": "Ueddy",
+      "margin": 13189.0,
+      "steps": 720,
+      "action_match_fraction": 0.2875,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 482.08225,
+      "first_mismatch": 176,
+      "selected_counts": {
+        "93539123": 72,
+        "93743523": 70,
+        "93538238": 549,
+        "93620762": 29
+      }
+    },
+    {
+      "episode_id": 93543614,
+      "seat": 1,
+      "opponent": "Ueddy",
+      "margin": 16130.0,
+      "steps": 720,
+      "action_match_fraction": 0.5361111111111111,
+      "exact_prefix_fraction": 0.1,
+      "mean_state_distance": 119.65923611111113,
+      "first_mismatch": 385,
+      "selected_counts": {
+        "93634131": 73,
+        "93544524": 72,
+        "93693600": 8,
+        "93536446": 556,
+        "93545421": 11
+      }
+    },
+    {
+      "episode_id": 93544524,
+      "seat": 1,
+      "opponent": "Ueddy",
+      "margin": -4817.0,
+      "steps": 720,
+      "action_match_fraction": 0.24722222222222223,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 550.7271666666667,
+      "first_mismatch": 146,
+      "selected_counts": {
+        "93634131": 72,
+        "93693600": 9,
+        "93658436": 63,
+        "93835266": 576
+      }
+    },
+    {
+      "episode_id": 93545421,
+      "seat": 1,
+      "opponent": "Ueddy",
+      "margin": 817.0,
+      "steps": 720,
+      "action_match_fraction": 0.6805555555555556,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 294.21902777777774,
+      "first_mismatch": 330,
+      "selected_counts": {
+        "93634131": 72,
+        "93550871": 648
+      }
+    },
+    {
+      "episode_id": 93546314,
+      "seat": 1,
+      "opponent": "Utkarsh #2",
+      "margin": 978.0,
+      "steps": 720,
+      "action_match_fraction": 0.49444444444444446,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 348.55231944444444,
+      "first_mismatch": 211,
+      "selected_counts": {
+        "93634131": 72,
+        "93558043": 2,
+        "93579517": 69,
+        "93704243": 1,
+        "93751661": 576
+      }
+    },
+    {
+      "episode_id": 93547215,
+      "seat": 1,
+      "opponent": "Ueddy",
+      "margin": 3804.0,
+      "steps": 720,
+      "action_match_fraction": 0.5069444444444444,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 205.4685138888889,
+      "first_mismatch": 362,
+      "selected_counts": {
+        "93634131": 72,
+        "93546314": 2,
+        "93558043": 70,
+        "93579517": 576
+      }
+    },
+    {
+      "episode_id": 93550871,
+      "seat": 1,
+      "opponent": "Ueddy",
+      "margin": 8493.0,
+      "steps": 720,
+      "action_match_fraction": 0.6805555555555556,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 294.21902777777774,
+      "first_mismatch": 330,
+      "selected_counts": {
+        "93634131": 72,
+        "93545421": 648
+      }
+    },
+    {
+      "episode_id": 93558043,
+      "seat": 1,
+      "opponent": "Ueddy",
+      "margin": 4712.0,
+      "steps": 720,
+      "action_match_fraction": 0.27361111111111114,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 517.1518333333333,
+      "first_mismatch": 176,
+      "selected_counts": {
+        "93634131": 72,
+        "93546314": 235,
+        "93704243": 73,
+        "93547215": 224,
+        "93579517": 116
+      }
+    },
+    {
+      "episode_id": 93567835,
+      "seat": 1,
+      "opponent": "Ueddy",
+      "margin": 1713.0,
+      "steps": 720,
+      "action_match_fraction": 0.5972222222222222,
+      "exact_prefix_fraction": 0.1,
+      "mean_state_distance": 80.34072222222223,
+      "first_mismatch": 146,
+      "selected_counts": {
+        "93634131": 73,
+        "93591196": 72,
+        "93816256": 80,
+        "93606440": 343,
+        "93547215": 73,
+        "93693600": 79
+      }
+    },
+    {
+      "episode_id": 93579517,
+      "seat": 1,
+      "opponent": "Utkarsh #2",
+      "margin": 4300.0,
+      "steps": 720,
+      "action_match_fraction": 0.5069444444444444,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 205.4685138888889,
+      "first_mismatch": 362,
+      "selected_counts": {
+        "93634131": 72,
+        "93546314": 72,
+        "93547215": 576
+      }
+    },
+    {
+      "episode_id": 93591196,
+      "seat": 1,
+      "opponent": "Ueddy",
+      "margin": -405.0,
+      "steps": 720,
+      "action_match_fraction": 0.7430555555555556,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 213.13783333333336,
+      "first_mismatch": 217,
+      "selected_counts": {
+        "93634131": 72,
+        "93816256": 570,
+        "93822918": 64,
+        "93606440": 14
+      }
+    },
+    {
+      "episode_id": 93606440,
+      "seat": 1,
+      "opponent": "Utkarsh #2",
+      "margin": 2193.0,
+      "steps": 720,
+      "action_match_fraction": 0.4666666666666667,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 203.5214861111111,
+      "first_mismatch": 217,
+      "selected_counts": {
+        "93634131": 72,
+        "93591196": 111,
+        "93816256": 94,
+        "93822918": 443
+      }
+    },
+    {
+      "episode_id": 93620762,
+      "seat": 0,
+      "opponent": "Utkarsh #2",
+      "margin": 10043.0,
+      "steps": 720,
+      "action_match_fraction": 0.24166666666666667,
+      "exact_prefix_fraction": 0.4,
+      "mean_state_distance": 457.1000138888889,
+      "first_mismatch": 146,
+      "selected_counts": {
+        "93539123": 72,
+        "93542710": 71,
+        "93743523": 1,
+        "93848465": 576
+      }
+    },
+    {
+      "episode_id": 93634131,
+      "seat": 1,
+      "opponent": "Ueddy",
+      "margin": 3826.0,
+      "steps": 720,
+      "action_match_fraction": 0.36527777777777776,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 363.3638055555556,
+      "first_mismatch": 194,
+      "selected_counts": {
+        "93803702": 72,
+        "93793186": 120,
+        "93897794": 528
+      }
+    },
+    {
+      "episode_id": 93646712,
+      "seat": 0,
+      "opponent": "ReCurSiON",
+      "margin": 1400.0,
+      "steps": 720,
+      "action_match_fraction": 0.22083333333333333,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 673.0177916666667,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93539123": 1,
+        "93848465": 71,
+        "93862421": 537,
+        "93541810": 111
+      }
+    },
+    {
+      "episode_id": 93658436,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": 6341.0,
+      "steps": 720,
+      "action_match_fraction": 0.44722222222222224,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 297.9354305555555,
+      "first_mismatch": 263,
+      "selected_counts": {
+        "93634131": 72,
+        "93544524": 70,
+        "93693600": 578
+      }
+    },
+    {
+      "episode_id": 93670246,
+      "seat": 0,
+      "opponent": "peikopon",
+      "margin": -1835.0,
+      "steps": 720,
+      "action_match_fraction": 0.5986111111111111,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 105.2774861111111,
+      "first_mismatch": 194,
+      "selected_counts": {
+        "93539123": 72,
+        "93724855": 43,
+        "93540021": 604,
+        "93798410": 1
+      }
+    },
+    {
+      "episode_id": 93682830,
+      "seat": 0,
+      "opponent": "Thomas Tschinkel",
+      "margin": 6870.0,
+      "steps": 720,
+      "action_match_fraction": 0.4847222222222222,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 262.68005555555555,
+      "first_mismatch": 194,
+      "selected_counts": {
+        "93539123": 720
+      }
+    },
+    {
+      "episode_id": 93693600,
+      "seat": 1,
+      "opponent": "Utkarsh #2",
+      "margin": 10166.0,
+      "steps": 720,
+      "action_match_fraction": 0.44722222222222224,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 297.8613888888889,
+      "first_mismatch": 263,
+      "selected_counts": {
+        "93634131": 72,
+        "93544524": 71,
+        "93658436": 577
+      }
+    },
+    {
+      "episode_id": 93704243,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": 2158.0,
+      "steps": 720,
+      "action_match_fraction": 0.44722222222222224,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 193.6012638888889,
+      "first_mismatch": 211,
+      "selected_counts": {
+        "93634131": 72,
+        "93546314": 89,
+        "93751661": 473,
+        "93558043": 41,
+        "93547215": 45
+      }
+    },
+    {
+      "episode_id": 93714132,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": 5172.0,
+      "steps": 720,
+      "action_match_fraction": 0.3236111111111111,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 154.9694722222222,
+      "first_mismatch": 195,
+      "selected_counts": {
+        "93634131": 72,
+        "93803702": 2,
+        "93734648": 605,
+        "93536446": 41
+      }
+    },
+    {
+      "episode_id": 93724855,
+      "seat": 0,
+      "opponent": "Thomas Tschinkel",
+      "margin": 6695.0,
+      "steps": 720,
+      "action_match_fraction": 0.5819444444444445,
+      "exact_prefix_fraction": 0.4,
+      "mean_state_distance": 325.466375,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93539123": 72,
+        "93670246": 3,
+        "93798410": 604,
+        "93540021": 41
+      }
+    },
+    {
+      "episode_id": 93734648,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": 4167.0,
+      "steps": 720,
+      "action_match_fraction": 0.3236111111111111,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 154.53504166666664,
+      "first_mismatch": 195,
+      "selected_counts": {
+        "93634131": 72,
+        "93803702": 2,
+        "93714132": 593,
+        "93536446": 41,
+        "93759682": 12
+      }
+    },
+    {
+      "episode_id": 93743523,
+      "seat": 0,
+      "opponent": "Thomas Tschinkel",
+      "margin": 4658.0,
+      "steps": 720,
+      "action_match_fraction": 0.42916666666666664,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 320.95033333333333,
+      "first_mismatch": 195,
+      "selected_counts": {
+        "93539123": 72,
+        "93542710": 71,
+        "93620762": 283,
+        "93538238": 253,
+        "93848465": 41
+      }
+    },
+    {
+      "episode_id": 93751661,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": -1424.0,
+      "steps": 720,
+      "action_match_fraction": 0.49444444444444446,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 348.55231944444444,
+      "first_mismatch": 211,
+      "selected_counts": {
+        "93634131": 72,
+        "93546314": 578,
+        "93704243": 29,
+        "93558043": 41
+      }
+    },
+    {
+      "episode_id": 93759682,
+      "seat": 1,
+      "opponent": "Utkarsh #2",
+      "margin": 9925.0,
+      "steps": 720,
+      "action_match_fraction": 0.33194444444444443,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 268.77363888888885,
+      "first_mismatch": 176,
+      "selected_counts": {
+        "93634131": 72,
+        "93803702": 273,
+        "93536446": 17,
+        "93714132": 151,
+        "93734648": 207
+      }
+    },
+    {
+      "episode_id": 93767766,
+      "seat": 0,
+      "opponent": "peikopon",
+      "margin": -1168.0,
+      "steps": 720,
+      "action_match_fraction": 0.5402777777777777,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 314.81525,
+      "first_mismatch": 193,
+      "selected_counts": {
+        "93539123": 72,
+        "93783010": 251,
+        "93877490": 397
+      }
+    },
+    {
+      "episode_id": 93775894,
+      "seat": 0,
+      "opponent": "Utkarsh #2",
+      "margin": 6399.0,
+      "steps": 720,
+      "action_match_fraction": 0.3333333333333333,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 110.8309861111111,
+      "first_mismatch": 203,
+      "selected_counts": {
+        "93539123": 72,
+        "93809928": 72,
+        "93537345": 576
+      }
+    },
+    {
+      "episode_id": 93783010,
+      "seat": 0,
+      "opponent": "Utkarsh #2",
+      "margin": 16526.0,
+      "steps": 720,
+      "action_match_fraction": 0.5430555555555555,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 368.86275,
+      "first_mismatch": 193,
+      "selected_counts": {
+        "93539123": 72,
+        "93877490": 453,
+        "93767766": 195
+      }
+    },
+    {
+      "episode_id": 93787889,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": 19.0,
+      "steps": 720,
+      "action_match_fraction": 0.5069444444444444,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 110.611875,
+      "first_mismatch": 337,
+      "selected_counts": {
+        "93634131": 114,
+        "93793186": 30,
+        "93897794": 576
+      }
+    },
+    {
+      "episode_id": 93793186,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": 14878.0,
+      "steps": 720,
+      "action_match_fraction": 0.3680555555555556,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 225.39794444444448,
+      "first_mismatch": 217,
+      "selected_counts": {
+        "93634131": 114,
+        "93897794": 356,
+        "93787889": 250
+      }
+    },
+    {
+      "episode_id": 93798410,
+      "seat": 0,
+      "opponent": "Lucien de Rubempre",
+      "margin": 12093.0,
+      "steps": 720,
+      "action_match_fraction": 0.5625,
+      "exact_prefix_fraction": 0.4,
+      "mean_state_distance": 325.4590277777778,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93539123": 1,
+        "93862421": 71,
+        "93724855": 621,
+        "93540021": 27
+      }
+    },
+    {
+      "episode_id": 93803702,
+      "seat": 1,
+      "opponent": "Utkarsh #2",
+      "margin": 2004.0,
+      "steps": 720,
+      "action_match_fraction": 0.32083333333333336,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 336.97759722222224,
+      "first_mismatch": 176,
+      "selected_counts": {
+        "93634131": 72,
+        "93536446": 37,
+        "93759682": 300,
+        "93714132": 212,
+        "93734648": 99
+      }
+    },
+    {
+      "episode_id": 93809928,
+      "seat": 0,
+      "opponent": "Utkarsh #2",
+      "margin": 10845.0,
+      "steps": 720,
+      "action_match_fraction": 0.4263888888888889,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 184.98831944444444,
+      "first_mismatch": 194,
+      "selected_counts": {
+        "93539123": 72,
+        "93540914": 320,
+        "93775894": 251,
+        "93537345": 77
+      }
+    },
+    {
+      "episode_id": 93816256,
+      "seat": 1,
+      "opponent": "Utkarsh #2",
+      "margin": 5545.0,
+      "steps": 720,
+      "action_match_fraction": 0.37222222222222223,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 422.1041666666667,
+      "first_mismatch": 194,
+      "selected_counts": {
+        "93634131": 72,
+        "93591196": 2,
+        "93606440": 69,
+        "93822918": 577
+      }
+    },
+    {
+      "episode_id": 93822918,
+      "seat": 1,
+      "opponent": "Kostiantyn Isaienkov",
+      "margin": 230.0,
+      "steps": 720,
+      "action_match_fraction": 0.37222222222222223,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 422.2719861111111,
+      "first_mismatch": 194,
+      "selected_counts": {
+        "93634131": 72,
+        "93591196": 70,
+        "93816256": 578
+      }
+    },
+    {
+      "episode_id": 93835266,
+      "seat": 1,
+      "opponent": "ReCurSiON",
+      "margin": 8491.0,
+      "steps": 720,
+      "action_match_fraction": 0.21666666666666667,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 587.7789166666666,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93634131": 72,
+        "93544524": 620,
+        "93658436": 28
+      }
+    },
+    {
+      "episode_id": 93848465,
+      "seat": 0,
+      "opponent": "ReCurSiON",
+      "margin": 6218.0,
+      "steps": 720,
+      "action_match_fraction": 0.2111111111111111,
+      "exact_prefix_fraction": 0.4,
+      "mean_state_distance": 479.2250555555555,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93539123": 1,
+        "93646712": 71,
+        "93542710": 44,
+        "93743523": 28,
+        "93620762": 576
+      }
+    },
+    {
+      "episode_id": 93862421,
+      "seat": 0,
+      "opponent": "Lucien de Rubempre",
+      "margin": 460.0,
+      "steps": 720,
+      "action_match_fraction": 0.2625,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 521.9960972222223,
+      "first_mismatch": 73,
+      "selected_counts": {
+        "93539123": 1,
+        "93798410": 71,
+        "93541810": 366,
+        "93646712": 282
+      }
+    },
+    {
+      "episode_id": 93877490,
+      "seat": 0,
+      "opponent": "Utkarsh #2",
+      "margin": -114.0,
+      "steps": 720,
+      "action_match_fraction": 0.4930555555555556,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 317.94758333333334,
+      "first_mismatch": 193,
+      "selected_counts": {
+        "93539123": 72,
+        "93783010": 219,
+        "93767766": 429
+      }
+    },
+    {
+      "episode_id": 93897794,
+      "seat": 1,
+      "opponent": "Thomas Tschinkel",
+      "margin": -2952.0,
+      "steps": 720,
+      "action_match_fraction": 0.5069444444444444,
+      "exact_prefix_fraction": 0.3,
+      "mean_state_distance": 110.611875,
+      "first_mismatch": 337,
+      "selected_counts": {
+        "93634131": 114,
+        "93793186": 30,
+        "93787889": 576
+      }
+    },
+    {
+      "episode_id": 93916293,
+      "seat": 0,
+      "opponent": "Thomas Tschinkel",
+      "margin": -114.0,
+      "steps": 720,
+      "action_match_fraction": 0.3638888888888889,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 470.5901944444444,
+      "first_mismatch": 217,
+      "selected_counts": {
+        "93539123": 72,
+        "93936519": 648
+      }
+    },
+    {
+      "episode_id": 93936519,
+      "seat": 0,
+      "opponent": "Thomas Tschinkel",
+      "margin": -2512.0,
+      "steps": 720,
+      "action_match_fraction": 0.3638888888888889,
+      "exact_prefix_fraction": 0.2,
+      "mean_state_distance": 470.5901944444444,
+      "first_mismatch": 217,
+      "selected_counts": {
+        "93539123": 72,
+        "93916293": 648
+      }
+    }
+  ]
+}

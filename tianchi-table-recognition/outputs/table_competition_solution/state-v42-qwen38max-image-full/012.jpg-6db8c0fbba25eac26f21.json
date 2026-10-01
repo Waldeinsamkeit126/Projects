@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\012.jpg",
+  "results": [
+    {
+      "id": "109",
+      "source_file": "012.jpg",
+      "resolved_file": "012.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Co-Scholastic Achievement",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "110",
+      "source_file": "012.jpg",
+      "resolved_file": "012.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "111",
+      "source_file": "012.jpg",
+      "resolved_file": "012.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "112",
+      "source_file": "012.jpg",
+      "resolved_file": "012.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "序号",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "113",
+      "source_file": "012.jpg",
+      "resolved_file": "012.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "证书要求",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "114",
+      "source_file": "012.jpg",
+      "resolved_file": "012.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Representing National/SGFI in Sports and Games",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "115",
+      "source_file": "012.jpg",
+      "resolved_file": "012.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Attach copy of certificate",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "116",
+      "source_file": "012.jpg",
+      "resolved_file": "012.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "NCC 'C' / 'B' / 'A' Certificate",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "117",
+      "source_file": "012.jpg",
+      "resolved_file": "012.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Art/Music/Literature",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "118",
+      "source_file": "012.jpg",
+      "resolved_file": "012.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"数学表的阶段数\":\"3\",\"科学表包含科目\":\"Chemistry, Biology, Zoology\",\"社会科学表包含科目\":\"History, Geography\",\"是否多级表头\":\"是\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

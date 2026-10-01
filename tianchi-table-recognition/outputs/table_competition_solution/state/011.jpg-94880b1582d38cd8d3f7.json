@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\011.jpg",
+  "results": [
+    {
+      "id": "99",
+      "source_file": "011.jpg",
+      "resolved_file": "011.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Course Outline",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "100",
+      "source_file": "011.jpg",
+      "resolved_file": "011.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "双语/全英文(Chinese or English)",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "101",
+      "source_file": "011.jpg",
+      "resolved_file": "011.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "102",
+      "source_file": "011.jpg",
+      "resolved_file": "011.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "课程基本信息/Course Information",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "103",
+      "source_file": "011.jpg",
+      "resolved_file": "011.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "104",
+      "source_file": "011.jpg",
+      "resolved_file": "011.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "trial",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "105",
+      "source_file": "011.jpg",
+      "resolved_file": "011.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "106",
+      "source_file": "011.jpg",
+      "resolved_file": "011.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "中文班:生物信息学算法原理\n英文班:Algorithms in computational biology",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "107",
+      "source_file": "011.jpg",
+      "resolved_file": "011.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "培养计划课程",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "108",
+      "source_file": "011.jpg",
+      "resolved_file": "011.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"授课语言/Language of Instruction\":\"双语/全英文Chinese or English\",\"开课院系/School\":\"生命科学学院School of Life Sciences and Biotechnology\",\"先修课程/Prerequisite\":\"概率统计Probability and Statistics\",\"授课教师/Teacher\":\"韦朝春\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

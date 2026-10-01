@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\020.png",
+  "results": [
+    {
+      "id": "189",
+      "source_file": "020.png",
+      "resolved_file": "020.png",
+      "model": "qwen3.7-plus",
+      "answer": "Program 1.1: Food regulatory activity and services to the Minister and Parliament",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "190",
+      "source_file": "020.png",
+      "resolved_file": "020.png",
+      "model": "qwen3.7-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "192",
+      "source_file": "020.png",
+      "resolved_file": "020.png",
+      "model": "qwen3.7-plus",
+      "answer": "Program 1.1: Food regulatory activity and services to the Minister and Parliament",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "193",
+      "source_file": "020.png",
+      "resolved_file": "020.png",
+      "model": "qwen3.7-plus",
+      "answer": "2015-16 Forward year 3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "194",
+      "source_file": "020.png",
+      "resolved_file": "020.png",
+      "model": "qwen3.7-plus",
+      "answer": "22429",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "195",
+      "source_file": "020.png",
+      "resolved_file": "020.png",
+      "model": "qwen3.7-plus",
+      "answer": "21572",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "196",
+      "source_file": "020.png",
+      "resolved_file": "020.png",
+      "model": "qwen3.7-plus",
+      "answer": "0",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "197",
+      "source_file": "020.png",
+      "resolved_file": "020.png",
+      "model": "qwen3.7-plus",
+      "answer": "2169",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "198",
+      "source_file": "020.png",
+      "resolved_file": "020.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"2011-12 Average staffing level\":\"129\",\"2012-13 Average staffing level\":\"129\",\"列单位\":\"$'000\",\"年度列数\":\"5\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

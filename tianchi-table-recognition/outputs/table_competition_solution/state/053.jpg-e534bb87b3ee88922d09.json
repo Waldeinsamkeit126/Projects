@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\053.jpg",
+  "results": [
+    {
+      "id": "499",
+      "source_file": "053.jpg",
+      "resolved_file": "053.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Nutrition Facts",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "500",
+      "source_file": "053.jpg",
+      "resolved_file": "053.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "501",
+      "source_file": "053.jpg",
+      "resolved_file": "053.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "502",
+      "source_file": "053.jpg",
+      "resolved_file": "053.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Amount Per Serving",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "503",
+      "source_file": "053.jpg",
+      "resolved_file": "053.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "0g",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "504",
+      "source_file": "053.jpg",
+      "resolved_file": "053.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "About 1/4 cup (7g)",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "505",
+      "source_file": "053.jpg",
+      "resolved_file": "053.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "About 4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "506",
+      "source_file": "053.jpg",
+      "resolved_file": "053.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "25",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "507",
+      "source_file": "053.jpg",
+      "resolved_file": "053.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "0g",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "508",
+      "source_file": "053.jpg",
+      "resolved_file": "053.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"Sodium\":\"0mg\",\"Total Carbohydrate\":\"6g\",\"Sugars\":\"4g\",\"Protein\":\"0g\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

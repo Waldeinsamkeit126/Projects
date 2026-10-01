@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\089.png",
+  "results": [
+    {
+      "id": "860",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3.7-plus",
+      "answer": "1",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "861",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3.7-plus",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "862",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"编号\":\"9\"},{\"编号\":\"10\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "863",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3.7-plus",
+      "answer": "18",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "864",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3.7-plus",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "865",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3.7-plus",
+      "answer": "13",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "866",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3.7-plus",
+      "answer": "19",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "867",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3.7-plus",
+      "answer": "33",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "868",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"编号\":\"1\"},{\"编号\":\"4\"},{\"编号\":\"5\"},{\"编号\":\"6\"},{\"编号\":\"7\"},{\"编号\":\"11\"},{\"编号\":\"12\"},{\"编号\":\"13\"},{\"编号\":\"17\"},{\"编号\":\"18\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

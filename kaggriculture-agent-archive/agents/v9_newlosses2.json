@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v9_p1_tinycow80\\main.py",
+    "games": 2,
+    "wins": 2,
+    "mean_score": 117665.0,
+    "mean_margin": 71791.0,
+    "mean_score_delta": 14417.5,
+    "mean_margin_delta": 81988.0,
+    "median_margin_delta": 81988.0,
+    "max_action_seconds": 0.11097509996034205,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 90381688,
+      "opponent": "Leon",
+      "seed": 1660141956,
+      "position": 0,
+      "ours": 111829.0,
+      "theirs": 70997.0,
+      "margin": 40832.0,
+      "win": true,
+      "original_ours": 97067.0,
+      "original_theirs": 107304.0,
+      "original_margin": -10237.0,
+      "score_delta": 14762.0,
+      "margin_delta": 51069.0,
+      "elapsed_seconds": 4.037261000019498,
+      "max_action_seconds": 0.0024405999574810266,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90374909,
+      "opponent": "Sida Zuo",
+      "seed": 2097202625,
+      "position": 1,
+      "ours": 123501.0,
+      "theirs": 20751.0,
+      "margin": 102750.0,
+      "win": true,
+      "original_ours": 109428.0,
+      "original_theirs": 119585.0,
+      "original_margin": -10157.0,
+      "score_delta": 14073.0,
+      "margin_delta": 112907.0,
+      "elapsed_seconds": 3.7661538999527693,
+      "max_action_seconds": 0.11097509996034205,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

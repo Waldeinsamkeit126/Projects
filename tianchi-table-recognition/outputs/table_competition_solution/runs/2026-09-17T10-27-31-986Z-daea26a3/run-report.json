@@ -1,0 +1,106 @@
+{
+  "runId": "2026-09-17T10-27-31-986Z-daea26a3",
+  "pipeline": "reliable-v2-coverage",
+  "startedAt": "2026-09-17T10:27:31.986Z",
+  "testsPath": "D:\\tests.xlsx",
+  "questionsJsonPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated-scan-v1\\questions-development-clean.json",
+  "noExport": true,
+  "templatePath": "D:\\submit-template.xlsx",
+  "mediaDir": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated-scan-v1",
+  "questionCount": 15,
+  "allQuestionCount": 15,
+  "uniqueResolvedFiles": 3,
+  "questionTypes": {
+    "extract": 6,
+    "structure": 6,
+    "thinking": 3
+  },
+  "answerFormats": {
+    "json": 6,
+    "number": 6,
+    "string": 3
+  },
+  "structureScopes": {
+    "not-applicable": 9,
+    "full": 3,
+    "partial": 3
+  },
+  "unresolved": [],
+  "filenameCorrections": [],
+  "normalizedQuestionTypes": [],
+  "ignoredSourceAnswerColumn": true,
+  "models": {
+    "pdf": "qwen3.8-max",
+    "image": "qwen3-vl-plus"
+  },
+  "maxCompletionTokens": 8192,
+  "refreshStructure": false,
+  "enableThinking": false,
+  "includeSources": [
+    "pdf",
+    "image"
+  ],
+  "includeTypes": [
+    "structure",
+    "extract",
+    "thinking"
+  ],
+  "excludeTypes": [],
+  "maxRequests": 4,
+  "maxAttempts": 1,
+  "checkFullCoverage": false,
+  "coverageVersion": "explicit-full-grid-v1",
+  "historicalAnswersImported": false,
+  "partialRun": false,
+  "validationMeaning": "格式与结构约束检查，不代表答案正确率或合规认证",
+  "sourceHash": "c3e67b1cc87f5012d184435f1b6f7c6dd66d15f96aa30fa5e72687c2ade4118b",
+  "inputSha256": "dd309f224f2fdced9177cd0fb3232d2cf73951df0f262ca55e02ae23d5b40acb",
+  "templateSha256": null,
+  "endpoint": "https://ws-zpzcvtpmb0e3zl4f.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "purpose": "scan-v1-development-clean-20260917",
+  "status": "failed-validation",
+  "outputPath": null,
+  "completedAt": "2026-09-17T10:31:06.959Z",
+  "elapsedMs": 214973,
+  "requests": {
+    "attempts": 4,
+    "successfulResponses": 4,
+    "failedAttempts": 0,
+    "sumRequestLatencyMs": 214924,
+    "reportedTotalTokens": 13772,
+    "responsesWithoutUsage": 0,
+    "costCny": null,
+    "costNote": "未接入账单；失败请求也可能计费，token 汇总不是账单金额"
+  },
+  "cacheHits": 0,
+  "completed": 15,
+  "valid": 10,
+  "invalid": 5,
+  "invalidItems": [
+    {
+      "id": "ss-warehouse-clean-q1",
+      "source_file": "ss-warehouse-clean.png",
+      "error": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q2",
+      "source_file": "ss-warehouse-clean.png",
+      "error": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q3",
+      "source_file": "ss-warehouse-clean.png",
+      "error": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q4",
+      "source_file": "ss-warehouse-clean.png",
+      "error": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q5",
+      "source_file": "ss-warehouse-clean.png",
+      "error": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    }
+  ]
+}

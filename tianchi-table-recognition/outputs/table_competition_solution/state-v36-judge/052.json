@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "493",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格下半部分为明细表，其最右侧表头为'征免'；虽然上半部分最右侧字段为'杂费'，但'表头'通常指明细列名，且'征免'位于整体最右列。"
+    },
+    {
+      "id": "498",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片文字方向正常，为纵向/正向拍摄，非横向拍摄（旋转90度）。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 4726,
+    "completion_tokens": 1835,
+    "prompt_tokens": 2891,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1652,
+      "text_tokens": 182
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 2522,
+      "cached_tokens": 0,
+      "text_tokens": 369
+    }
+  },
+  "requestId": "chatcmpl-955141b0-7fff-9fd0-9d91-17664145af78"
+}

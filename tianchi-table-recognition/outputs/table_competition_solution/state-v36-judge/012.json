@@ -1,0 +1,54 @@
+{
+  "decisions": [
+    {
+      "id": "112",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Course of Study 是子表明确的最左侧列标题，1 仅为序号内容。"
+    },
+    {
+      "id": "113",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Remarks 是子表明确的最右侧列标题，Attach copy of certificate 为单元格内容。"
+    },
+    {
+      "id": "116",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原文使用的是单引号，B 选项更忠实于原图。"
+    },
+    {
+      "id": "117",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "B 选项完整保留了原表第7行的文本，A 选项进行了概括和修改，不符合保留原表文本原则。"
+    },
+    {
+      "id": "118",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B 选项的科目列表分隔更规范（带空格），且 Yes 回答是否问题更自然。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 5933,
+    "completion_tokens": 4877,
+    "prompt_tokens": 1056,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4527,
+      "text_tokens": 349
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 496,
+      "cached_tokens": 0,
+      "text_tokens": 560
+    }
+  },
+  "requestId": "chatcmpl-feece57b-cb73-9326-9704-7607c618f503"
+}

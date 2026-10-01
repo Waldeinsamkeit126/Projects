@@ -1,0 +1,104 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\002.pdf",
+  "results": [
+    {
+      "id": "5",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"item\":\"应收账款\",\"value\":188661393.95},{\"item\":\"应收票据\",\"value\":0},{\"item\":\"应收款项融资\",\"value\":0},{\"item\":\"其他应收款\",\"value\":46023324.74}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "6",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "18945194.71",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "7",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"item\":\"长期借款\",\"value\":95250987.68},{\"item\":\"应付债券\",\"value\":0},{\"item\":\"租赁负债\",\"value\":881323.23},{\"item\":\"长期应付款\",\"value\":0},{\"item\":\"长期应付职工薪酬\",\"value\":0},{\"item\":\"预计负债\",\"value\":0},{\"item\":\"递延收益\",\"value\":15401527.35},{\"item\":\"递延所得税负债\",\"value\":10540766.93},{\"item\":\"其他非流动负债\",\"value\":0}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "8",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"item\":\"债权投资\",\"value\":0},{\"item\":\"其他债权投资\",\"value\":0},{\"item\":\"长期应收款\",\"value\":0},{\"item\":\"长期股权投资\",\"value\":17663778.06},{\"item\":\"其他权益工具投资\",\"value\":0},{\"item\":\"其他非流动金融资产\",\"value\":0},{\"item\":\"投资性房地产\",\"value\":24132677.69},{\"item\":\"固定资产\",\"value\":908086512.3},{\"item\":\"在建工程\",\"value\":26653628.18},{\"item\":\"生产性生物资产\",\"value\":0},{\"item\":\"油气资产\",\"value\":0},{\"item\":\"使用权资产\",\"value\":3907669.91},{\"item\":\"无形资产\",\"value\":105814633.66},{\"item\":\"开发支出\",\"value\":0},{\"item\":\"商誉\",\"value\":135604327.01},{\"item\":\"长期待摊费用\",\"value\":3531360.81},{\"item\":\"递延所得税资产\",\"value\":25088416.69},{\"item\":\"其他非流动资产\",\"value\":161613200}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "9",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"period\":\"本期\",\"value\":2794275324.1},{\"period\":\"上期\",\"value\":2918275906.82}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "10",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "11",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "11",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "18",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "12",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "11",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "13",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "200037797.59",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "14",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"部分\":\"优先股\"},{\"部分\":\"永续债\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "15",
+      "source_file": "002.pdf",
+      "resolved_file": "002.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"item\":\"少数股东权益\",\"value\":135088205.15}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

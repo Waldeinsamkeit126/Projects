@@ -1,0 +1,41 @@
+{
+  "decisions": [
+    {
+      "id": "439",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "主表标题为概括性名称Vehicle department information，A仅为首行字段标签英文部分"
+    },
+    {
+      "id": "440",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "表内标签均为英文加中文对照，语义等价时选与中文问题一致的简洁表述"
+    },
+    {
+      "id": "448",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "司机行联系电话为021-88888888，18888888888是联系人合小合的电话"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3953,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3816,
+      "text_tokens": 136
+    },
+    "prompt_tokens": 1045,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 506,
+      "text_tokens": 539
+    },
+    "total_tokens": 4998
+  },
+  "requestId": "chatcmpl-18ea7c96-fc02-93e2-9b5a-589f62954f2b",
+  "model": "qwen3.8-max-0902"
+}

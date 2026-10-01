@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\014.jpg",
+  "results": [
+    {
+      "id": "129",
+      "source_file": "014.jpg",
+      "resolved_file": "014.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Lot No.1",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "130",
+      "source_file": "014.jpg",
+      "resolved_file": "014.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "English and Arabic",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "132",
+      "source_file": "014.jpg",
+      "resolved_file": "014.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Stitch type",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "133",
+      "source_file": "014.jpg",
+      "resolved_file": "014.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Each",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "134",
+      "source_file": "014.jpg",
+      "resolved_file": "014.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "200",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "135",
+      "source_file": "014.jpg",
+      "resolved_file": "014.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "150",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "136",
+      "source_file": "014.jpg",
+      "resolved_file": "014.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "50",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "137",
+      "source_file": "014.jpg",
+      "resolved_file": "014.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "100",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "138",
+      "source_file": "014.jpg",
+      "resolved_file": "014.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"直缝纫机送料机构\":\"Drop feed\"},{\"直缝纫机针距\":\"≥ 5 mm\"},{\"直缝纫机保修\":\"2 year\"},{\"之字形缝纫机最大速度\":\"≥ 2500 spm\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

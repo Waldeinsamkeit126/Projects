@@ -1,0 +1,201 @@
+{
+  "datasetVersion": "scan-stress-v1",
+  "manifestSha256": "96e38d9dc2af364f9ce203239d7b1be38f848b69c4775bb0fb4fef387c116b39",
+  "fixtureHash": "97bea6ec9da6bea5367b2471b35d3ae1fd32411ea088c37f4ac32ce15d50ebc4",
+  "scorerHash": "983764fa21d6bec724b5328ed104778313ebaa07a33955f2c265afc4d4d93d92",
+  "split": "development",
+  "variant": "clean",
+  "mode": "observed-model-predictions",
+  "predictionsSha256": "e8bf48e9012f54e9f328e0e1458eb40fee87ba0d554b28b5e87d6297125b6ee7",
+  "total": 15,
+  "correct": 5,
+  "formatValid": 10,
+  "missing": 5,
+  "metric": "local-exact-match-v2 (not the official evaluator)",
+  "categories": {
+    "full-structure": {
+      "total": 3,
+      "correct": 0,
+      "formatValid": 2
+    },
+    "partial-structure": {
+      "total": 3,
+      "correct": 0,
+      "formatValid": 2
+    },
+    "header-path": {
+      "total": 2,
+      "correct": 1,
+      "formatValid": 2
+    },
+    "identifier": {
+      "total": 2,
+      "correct": 1,
+      "formatValid": 1
+    },
+    "arithmetic": {
+      "total": 3,
+      "correct": 2,
+      "formatValid": 2
+    },
+    "text-extract": {
+      "total": 1,
+      "correct": 1,
+      "formatValid": 1
+    },
+    "neighbor-table": {
+      "total": 1,
+      "correct": 0,
+      "formatValid": 0
+    }
+  },
+  "details": [
+    {
+      "id": "ss-budget-clean-q1",
+      "category": "full-structure",
+      "valid": true,
+      "correct": false,
+      "error": "",
+      "outcome": "mismatch",
+      "upstreamError": ""
+    },
+    {
+      "id": "ss-budget-clean-q2",
+      "category": "partial-structure",
+      "valid": true,
+      "correct": false,
+      "error": "",
+      "outcome": "mismatch",
+      "upstreamError": ""
+    },
+    {
+      "id": "ss-budget-clean-q3",
+      "category": "header-path",
+      "valid": true,
+      "correct": false,
+      "error": "",
+      "outcome": "mismatch",
+      "upstreamError": ""
+    },
+    {
+      "id": "ss-budget-clean-q4",
+      "category": "identifier",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "ss-budget-clean-q5",
+      "category": "arithmetic",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "ss-assembly-clean-q1",
+      "category": "full-structure",
+      "valid": true,
+      "correct": false,
+      "error": "",
+      "outcome": "mismatch",
+      "upstreamError": ""
+    },
+    {
+      "id": "ss-assembly-clean-q2",
+      "category": "partial-structure",
+      "valid": true,
+      "correct": false,
+      "error": "",
+      "outcome": "mismatch",
+      "upstreamError": ""
+    },
+    {
+      "id": "ss-assembly-clean-q3",
+      "category": "header-path",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "ss-assembly-clean-q4",
+      "category": "text-extract",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "ss-assembly-clean-q5",
+      "category": "arithmetic",
+      "valid": true,
+      "correct": true,
+      "error": "",
+      "outcome": "matched",
+      "upstreamError": ""
+    },
+    {
+      "id": "ss-warehouse-clean-q1",
+      "category": "full-structure",
+      "valid": false,
+      "correct": false,
+      "error": "答案为空或不是字符串",
+      "outcome": "empty-answer",
+      "upstreamError": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q2",
+      "category": "partial-structure",
+      "valid": false,
+      "correct": false,
+      "error": "答案为空或不是字符串",
+      "outcome": "empty-answer",
+      "upstreamError": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q3",
+      "category": "neighbor-table",
+      "valid": false,
+      "correct": false,
+      "error": "答案为空或不是字符串",
+      "outcome": "empty-answer",
+      "upstreamError": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q4",
+      "category": "identifier",
+      "valid": false,
+      "correct": false,
+      "error": "答案为空或不是字符串",
+      "outcome": "empty-answer",
+      "upstreamError": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    },
+    {
+      "id": "ss-warehouse-clean-q5",
+      "category": "arithmetic",
+      "valid": false,
+      "correct": false,
+      "error": "答案为空或不是字符串",
+      "outcome": "empty-answer",
+      "upstreamError": "已达到本轮 API 请求次数上限（含重试），停止新增调用"
+    }
+  ],
+  "missingRecords": 0,
+  "emptyAnswers": 5,
+  "answered": 10,
+  "invalidNonempty": 0,
+  "mismatchedValid": 5,
+  "answerCoverage": 0.6666666666666666,
+  "overallExactMatch": 0.3333333333333333,
+  "answeredExactMatch": 0.5,
+  "complete": false,
+  "rateNote": "answeredExactMatch 仅针对非空回答；不代表全量准确率。缺失答案不应归因于识别能力，须结合 upstreamError 和请求记录判断。",
+  "evaluatedAt": "2026-09-17T10:31:25.049Z",
+  "limitation": "合成配对退化图像；不是实际扫描分布或天池评测。清晰/扫描变体不是独立样本，分组按源表固定。数值格式约定在题目中明确，不改变历史题目、标签或严格评分器。"
+}

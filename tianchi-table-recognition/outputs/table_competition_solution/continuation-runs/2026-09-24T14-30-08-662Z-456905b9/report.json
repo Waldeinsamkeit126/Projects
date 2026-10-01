@@ -1,0 +1,3565 @@
+{
+  "version": "bounded-continuation-v1",
+  "runId": "2026-09-24T14-30-08-662Z-456905b9",
+  "planDigest": "6bf87f429dfa0affcd7d4fc4ff88e9f7253818ec09e5967e4a55ff08a31ddcb2",
+  "sourceHash": "dc30bf3fc886d0b1c388a8723c4fb7339523b8e10758a1c0a579481d34661a4e",
+  "priorRequests": 10,
+  "newRequests": 58,
+  "totalRequests": 68,
+  "maxNewRequests": 84,
+  "baseCompleted": 57,
+  "repairsMade": 0,
+  "requests": [
+    {
+      "requestIndex": 11,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "119",
+        "120",
+        "121",
+        "122",
+        "123",
+        "124",
+        "125",
+        "126",
+        "127",
+        "128"
+      ],
+      "sourceUnitIndices": [
+        11
+      ],
+      "promptSha256": "150c49cc9361cb6632ee058c1c03739dfaec4caef0fa584e4ee03dd849bd5eef",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1349,
+        "completion_tokens": 261,
+        "total_tokens": 1610,
+        "completion_tokens_details": {
+          "text_tokens": 261
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 496,
+          "text_tokens": 853,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8024,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "119",
+        "120",
+        "121",
+        "122",
+        "123",
+        "124",
+        "125",
+        "126",
+        "127",
+        "128"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 12,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "129",
+        "130",
+        "131",
+        "132",
+        "133",
+        "134",
+        "135",
+        "136",
+        "137",
+        "138"
+      ],
+      "sourceUnitIndices": [
+        12
+      ],
+      "promptSha256": "e85c4f86f490fcafa7974a98ed12197d4c1b6be37a9f062f52e5b4fb76871a09",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1442,
+        "completion_tokens": 254,
+        "total_tokens": 1696,
+        "completion_tokens_details": {
+          "text_tokens": 254
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 496,
+          "text_tokens": 946,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 11596,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "129",
+        "130",
+        "131",
+        "132",
+        "133",
+        "134",
+        "135",
+        "136",
+        "137",
+        "138"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 13,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "139",
+        "140",
+        "141",
+        "142",
+        "143",
+        "144",
+        "145",
+        "146",
+        "147",
+        "148"
+      ],
+      "sourceUnitIndices": [
+        13
+      ],
+      "promptSha256": "4c8147480dffedaf481a10495be53cccef3442855e3430dd83f5c0791b5af4a7",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1386,
+        "completion_tokens": 227,
+        "total_tokens": 1613,
+        "completion_tokens_details": {
+          "text_tokens": 227
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 496,
+          "text_tokens": 890,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7491,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "139",
+        "140",
+        "141",
+        "142",
+        "143",
+        "144",
+        "145",
+        "146",
+        "147",
+        "148"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 14,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "149",
+        "150",
+        "151",
+        "152",
+        "153",
+        "154",
+        "155",
+        "156",
+        "157",
+        "158"
+      ],
+      "sourceUnitIndices": [
+        14
+      ],
+      "promptSha256": "ff72ce3a89ed8d9101eb03477eef1053b563503adec229dd9f65046c58ee0c69",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1410,
+        "completion_tokens": 290,
+        "total_tokens": 1700,
+        "completion_tokens_details": {
+          "text_tokens": 290
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 496,
+          "text_tokens": 914,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8857,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "149",
+        "150",
+        "151",
+        "152",
+        "153",
+        "154",
+        "155",
+        "156",
+        "157",
+        "158"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 15,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "159",
+        "160",
+        "161",
+        "162",
+        "163",
+        "164",
+        "165",
+        "166",
+        "167",
+        "168"
+      ],
+      "sourceUnitIndices": [
+        15
+      ],
+      "promptSha256": "c22d5a119269cdc92fef738c3f7d4f9833603cafe6247b099db6f14e27037965",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1371,
+        "completion_tokens": 258,
+        "total_tokens": 1629,
+        "completion_tokens_details": {
+          "text_tokens": 258
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 477,
+          "text_tokens": 894,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7999,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "159",
+        "160",
+        "161",
+        "162",
+        "163",
+        "164",
+        "165",
+        "166",
+        "167",
+        "168"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 16,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "169",
+        "170",
+        "171",
+        "172",
+        "173",
+        "174",
+        "175",
+        "176",
+        "177",
+        "178"
+      ],
+      "sourceUnitIndices": [
+        16
+      ],
+      "promptSha256": "d0eea6b5f391e64e29eea8056f98a2018ea8195a427f8e6e686010ef1682914a",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1397,
+        "completion_tokens": 266,
+        "total_tokens": 1663,
+        "completion_tokens_details": {
+          "text_tokens": 266
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 496,
+          "text_tokens": 901,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8234,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "169",
+        "170",
+        "171",
+        "172",
+        "173",
+        "174",
+        "175",
+        "176",
+        "177",
+        "178"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 17,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "179",
+        "180",
+        "181",
+        "182",
+        "183",
+        "184",
+        "185",
+        "186",
+        "187",
+        "188"
+      ],
+      "sourceUnitIndices": [
+        17
+      ],
+      "promptSha256": "b91cca8122dbdb70b6e951150c85ed10fb9c7e3f1117a2f89441bb57483191d8",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1527,
+        "completion_tokens": 287,
+        "total_tokens": 1814,
+        "completion_tokens_details": {
+          "text_tokens": 287
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 496,
+          "text_tokens": 1031,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7767,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "179",
+        "180",
+        "181",
+        "182",
+        "183",
+        "184",
+        "185",
+        "186",
+        "187",
+        "188"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 18,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "189",
+        "190",
+        "191",
+        "192",
+        "193",
+        "194",
+        "195",
+        "196",
+        "197",
+        "198"
+      ],
+      "sourceUnitIndices": [
+        18
+      ],
+      "promptSha256": "65efd6f062e85ba3d0568a48c645d9ab58f8c521bf2275436a841158dc9b86b7",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1099,
+        "completion_tokens": 273,
+        "total_tokens": 1372,
+        "completion_tokens_details": {
+          "text_tokens": 273
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 146,
+          "text_tokens": 953,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8084,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "189",
+        "190",
+        "191",
+        "192",
+        "193",
+        "194",
+        "195",
+        "196",
+        "197",
+        "198"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 19,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "199",
+        "200",
+        "201",
+        "202",
+        "203",
+        "204",
+        "205",
+        "206",
+        "207",
+        "208"
+      ],
+      "sourceUnitIndices": [
+        19
+      ],
+      "promptSha256": "8213187acd31ef4cd1ab97cb828757ace3e7cb948ad86ae0e14d48760da00e34",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1822,
+        "completion_tokens": 240,
+        "total_tokens": 2062,
+        "completion_tokens_details": {
+          "text_tokens": 240
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 914,
+          "text_tokens": 908,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 6998,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "199",
+        "200",
+        "201",
+        "202",
+        "203",
+        "204",
+        "205",
+        "206",
+        "207",
+        "208"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 20,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "209",
+        "210",
+        "211",
+        "212",
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218"
+      ],
+      "sourceUnitIndices": [
+        20
+      ],
+      "promptSha256": "a0931805e6f28cf9ae1e655890d859e365b602c1c51c31f16b37d07e02ea759f",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1223,
+        "completion_tokens": 255,
+        "total_tokens": 1478,
+        "completion_tokens_details": {
+          "text_tokens": 255
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 306,
+          "text_tokens": 917,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7703,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "209",
+        "210",
+        "211",
+        "212",
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 21,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "219",
+        "220",
+        "221",
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "228"
+      ],
+      "sourceUnitIndices": [
+        21
+      ],
+      "promptSha256": "514a999ccb5c938fd0baedaf05a0a69891ee052585f95440d708a8ec2ef8a99d",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1298,
+        "completion_tokens": 255,
+        "total_tokens": 1553,
+        "completion_tokens_details": {
+          "text_tokens": 255
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 401,
+          "text_tokens": 897,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8070,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "219",
+        "220",
+        "221",
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "228"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 22,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "229",
+        "230",
+        "231",
+        "232",
+        "233",
+        "234",
+        "235",
+        "236",
+        "237",
+        "238"
+      ],
+      "sourceUnitIndices": [
+        22
+      ],
+      "promptSha256": "3f7fa4dc5ca4e6f44bcfecaad4a326938a89b35ff88a653fad40463ece3284fd",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1056,
+        "completion_tokens": 230,
+        "total_tokens": 1286,
+        "completion_tokens_details": {
+          "text_tokens": 230
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 170,
+          "text_tokens": 886,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7740,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "229",
+        "230",
+        "231",
+        "232",
+        "233",
+        "234",
+        "235",
+        "236",
+        "237",
+        "238"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 23,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "239",
+        "240",
+        "241",
+        "242",
+        "243",
+        "244",
+        "245",
+        "246",
+        "247",
+        "248"
+      ],
+      "sourceUnitIndices": [
+        23
+      ],
+      "promptSha256": "33c11c736ca99309f4c1efee6582513949e2d6923cacb007f3b895b609110fab",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1053,
+        "completion_tokens": 220,
+        "total_tokens": 1273,
+        "completion_tokens_details": {
+          "text_tokens": 220
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 170,
+          "text_tokens": 883,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 6760,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "239",
+        "240",
+        "241",
+        "242",
+        "243",
+        "244",
+        "245",
+        "246",
+        "247",
+        "248"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 24,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "249",
+        "250",
+        "251",
+        "252",
+        "253",
+        "254",
+        "255",
+        "256",
+        "257",
+        "258"
+      ],
+      "sourceUnitIndices": [
+        24
+      ],
+      "promptSha256": "8dbed6283f2a987364fda481d13089c0e9df848787d036801a699a6f8b381a04",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1104,
+        "completion_tokens": 228,
+        "total_tokens": 1332,
+        "completion_tokens_details": {
+          "text_tokens": 228
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 202,
+          "text_tokens": 902,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7136,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "249",
+        "250",
+        "251",
+        "252",
+        "253",
+        "254",
+        "255",
+        "256",
+        "257",
+        "258"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 25,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "259",
+        "260",
+        "261",
+        "262",
+        "263",
+        "264",
+        "265",
+        "266",
+        "267",
+        "268"
+      ],
+      "sourceUnitIndices": [
+        25
+      ],
+      "promptSha256": "204a5e8e5f546d9c83006e64bfbdda20814548c37e1874fe6a4a0ef60d24b4be",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1581,
+        "completion_tokens": 266,
+        "total_tokens": 1847,
+        "completion_tokens_details": {
+          "text_tokens": 266
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 682,
+          "text_tokens": 899,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8905,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "259",
+        "260",
+        "261",
+        "262",
+        "263",
+        "264",
+        "265",
+        "266",
+        "267",
+        "268"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 26,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "269",
+        "270",
+        "271",
+        "272",
+        "273",
+        "274",
+        "275",
+        "276",
+        "277",
+        "278"
+      ],
+      "sourceUnitIndices": [
+        26
+      ],
+      "promptSha256": "66181f4d4b2adc1bc60d68a8965e865a20ce7e2247ce4efc0026249d07abd30e",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 3385,
+        "completion_tokens": 273,
+        "total_tokens": 3658,
+        "completion_tokens_details": {
+          "text_tokens": 273
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 2522,
+          "text_tokens": 863,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 10415,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "269",
+        "270",
+        "271",
+        "272",
+        "273",
+        "274",
+        "275",
+        "276",
+        "277",
+        "278"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 27,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "279",
+        "280",
+        "281",
+        "282",
+        "283",
+        "284",
+        "285",
+        "286",
+        "287",
+        "288"
+      ],
+      "sourceUnitIndices": [
+        27
+      ],
+      "promptSha256": "4b7f9c284efdadc91496cd3a38097f482bf4df20bca60add1ca0c0e45bee7edd",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1266,
+        "completion_tokens": 229,
+        "total_tokens": 1495,
+        "completion_tokens_details": {
+          "text_tokens": 229
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 338,
+          "text_tokens": 928,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 6712,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "279",
+        "280",
+        "281",
+        "282",
+        "283",
+        "284",
+        "285",
+        "286",
+        "287",
+        "288"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 28,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "289",
+        "290",
+        "291",
+        "292",
+        "293",
+        "294",
+        "295",
+        "296",
+        "297",
+        "298"
+      ],
+      "sourceUnitIndices": [
+        28
+      ],
+      "promptSha256": "88513d8e9adecb999f6c7d2691181ddb11d0f289d205ac5c2a79a46af17a52c1",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1451,
+        "completion_tokens": 374,
+        "total_tokens": 1825,
+        "completion_tokens_details": {
+          "text_tokens": 374
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 529,
+          "text_tokens": 922,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 11552,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "289",
+        "290",
+        "291",
+        "292",
+        "293",
+        "294",
+        "295",
+        "296",
+        "297",
+        "298"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 29,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "299",
+        "300",
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "306",
+        "307",
+        "308"
+      ],
+      "sourceUnitIndices": [
+        29
+      ],
+      "promptSha256": "56e22da5397088ac055f7242dfc5c971cf52c351844750c504115df6cae25223",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1599,
+        "completion_tokens": 253,
+        "total_tokens": 1852,
+        "completion_tokens_details": {
+          "text_tokens": 253
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 629,
+          "text_tokens": 970,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8518,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "299",
+        "300",
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "306",
+        "307",
+        "308"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 30,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "309",
+        "310",
+        "311",
+        "312",
+        "313",
+        "314",
+        "315",
+        "316",
+        "317",
+        "318"
+      ],
+      "sourceUnitIndices": [
+        30
+      ],
+      "promptSha256": "df466b8d0dc23fdf3a1319168b75c6172f24b5a66a9268896b7691e2420543cd",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1207,
+        "completion_tokens": 227,
+        "total_tokens": 1434,
+        "completion_tokens_details": {
+          "text_tokens": 227
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 347,
+          "text_tokens": 860,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7366,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "309",
+        "310",
+        "311",
+        "312",
+        "313",
+        "314",
+        "315",
+        "316",
+        "317",
+        "318"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 31,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "319",
+        "320",
+        "321",
+        "322",
+        "323",
+        "324",
+        "325",
+        "326",
+        "327",
+        "328"
+      ],
+      "sourceUnitIndices": [
+        31
+      ],
+      "promptSha256": "ad96871698060738e88dfe6f6c0a9955ddd0f0013c5c0b6b14905c4ae5b7ee5e",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1475,
+        "completion_tokens": 264,
+        "total_tokens": 1739,
+        "completion_tokens_details": {
+          "text_tokens": 264
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 611,
+          "text_tokens": 864,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8118,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "319",
+        "320",
+        "321",
+        "322",
+        "323",
+        "324",
+        "325",
+        "326",
+        "327",
+        "328"
+      ],
+      "invalidCount": 2
+    },
+    {
+      "requestIndex": 32,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "329",
+        "330",
+        "331",
+        "332",
+        "333",
+        "334",
+        "335",
+        "336",
+        "337",
+        "338"
+      ],
+      "sourceUnitIndices": [
+        32
+      ],
+      "promptSha256": "fdd952657ad4377bba6ce3a741be09b966987d0390d98e84818425c9264fa685",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1620,
+        "completion_tokens": 262,
+        "total_tokens": 1882,
+        "completion_tokens_details": {
+          "text_tokens": 262
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 761,
+          "text_tokens": 859,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 9625,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "329",
+        "330",
+        "331",
+        "332",
+        "333",
+        "334",
+        "335",
+        "336",
+        "337",
+        "338"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 33,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "339",
+        "340",
+        "341",
+        "342",
+        "343",
+        "344",
+        "345",
+        "346",
+        "347",
+        "348"
+      ],
+      "sourceUnitIndices": [
+        33
+      ],
+      "promptSha256": "344974e249b41ba3b6549b0a5e10dc0d71f04f7fc72fccfb960c0f2b316402ab",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1718,
+        "completion_tokens": 246,
+        "total_tokens": 1964,
+        "completion_tokens_details": {
+          "text_tokens": 246
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 842,
+          "text_tokens": 876,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 9207,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "339",
+        "340",
+        "341",
+        "342",
+        "343",
+        "344",
+        "345",
+        "346",
+        "347",
+        "348"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 34,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "349",
+        "350",
+        "351",
+        "352",
+        "353",
+        "354",
+        "355",
+        "356",
+        "357",
+        "358"
+      ],
+      "sourceUnitIndices": [
+        34
+      ],
+      "promptSha256": "27d8d3db0681b82e9f897a7426cf9900e7ae98256a238f51c0172c9dcb381053",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 2855,
+        "completion_tokens": 220,
+        "total_tokens": 3075,
+        "completion_tokens_details": {
+          "text_tokens": 220
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 1954,
+          "text_tokens": 901,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7144,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "349",
+        "350",
+        "351",
+        "352",
+        "353",
+        "354",
+        "355",
+        "356",
+        "357",
+        "358"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 35,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "359",
+        "360",
+        "361",
+        "362",
+        "363",
+        "364",
+        "365",
+        "366",
+        "367",
+        "368"
+      ],
+      "sourceUnitIndices": [
+        35
+      ],
+      "promptSha256": "4885575bf6f8c9bb0e4726df50410a75ae09ecc35328619b5533a00df07d9a7d",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1048,
+        "completion_tokens": 222,
+        "total_tokens": 1270,
+        "completion_tokens_details": {
+          "text_tokens": 222
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 202,
+          "text_tokens": 846,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 6661,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "359",
+        "360",
+        "361",
+        "362",
+        "363",
+        "364",
+        "365",
+        "366",
+        "367",
+        "368"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 36,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "369",
+        "370",
+        "371",
+        "372",
+        "373",
+        "374",
+        "375",
+        "376",
+        "377",
+        "378"
+      ],
+      "sourceUnitIndices": [
+        36
+      ],
+      "promptSha256": "5547e47d36fa3b83f5fffd904b812f304771078941f83d384bac2a09d9d0084a",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1339,
+        "completion_tokens": 298,
+        "total_tokens": 1637,
+        "completion_tokens_details": {
+          "text_tokens": 298
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 422,
+          "text_tokens": 917,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7934,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "369",
+        "370",
+        "371",
+        "372",
+        "373",
+        "374",
+        "375",
+        "376",
+        "377",
+        "378"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 37,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "379",
+        "380",
+        "381",
+        "382",
+        "383",
+        "384",
+        "385",
+        "386",
+        "387",
+        "388"
+      ],
+      "sourceUnitIndices": [
+        37
+      ],
+      "promptSha256": "bdc1764f06537ef629287f6a5afa12b341433615d26d9be47ecb7f2ba7cd8b0c",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1045,
+        "completion_tokens": 256,
+        "total_tokens": 1301,
+        "completion_tokens_details": {
+          "text_tokens": 256
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 162,
+          "text_tokens": 883,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7884,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "379",
+        "380",
+        "381",
+        "382",
+        "383",
+        "384",
+        "385",
+        "386",
+        "387",
+        "388"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 38,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "389",
+        "390",
+        "391",
+        "392",
+        "393",
+        "394",
+        "395",
+        "396",
+        "397",
+        "398"
+      ],
+      "sourceUnitIndices": [
+        38
+      ],
+      "promptSha256": "01d316a1e776b99ce3e8b6ad00a2d7b7332ef377cc77495a63a2972493e487be",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1023,
+        "completion_tokens": 242,
+        "total_tokens": 1265,
+        "completion_tokens_details": {
+          "text_tokens": 242
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 152,
+          "text_tokens": 871,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 6712,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "389",
+        "390",
+        "391",
+        "392",
+        "393",
+        "394",
+        "395",
+        "396",
+        "397",
+        "398"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 39,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "399",
+        "400",
+        "401",
+        "402",
+        "403",
+        "404",
+        "405",
+        "406",
+        "407",
+        "408"
+      ],
+      "sourceUnitIndices": [
+        39
+      ],
+      "promptSha256": "0f656006a625404cae29e9fbba4013628fda771aff00e8fc0c5a1b1596e8be1b",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1008,
+        "completion_tokens": 295,
+        "total_tokens": 1303,
+        "completion_tokens_details": {
+          "text_tokens": 295
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 122,
+          "text_tokens": 886,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8996,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "399",
+        "400",
+        "401",
+        "402",
+        "403",
+        "404",
+        "405",
+        "406",
+        "407",
+        "408"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 40,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "409",
+        "410",
+        "411",
+        "412",
+        "413",
+        "414",
+        "415",
+        "416",
+        "417",
+        "418"
+      ],
+      "sourceUnitIndices": [
+        40
+      ],
+      "promptSha256": "9605ae269f27e8d58cca12f24e9c2ef18b7a9414ad92f6f7237720a5d5327edb",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1320,
+        "completion_tokens": 251,
+        "total_tokens": 1571,
+        "completion_tokens_details": {
+          "text_tokens": 251
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 452,
+          "text_tokens": 868,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7401,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "409",
+        "410",
+        "411",
+        "412",
+        "413",
+        "414",
+        "415",
+        "416",
+        "417",
+        "418"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 41,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "419",
+        "420",
+        "421",
+        "422",
+        "423",
+        "424",
+        "425",
+        "426",
+        "427",
+        "428"
+      ],
+      "sourceUnitIndices": [
+        41
+      ],
+      "promptSha256": "95968bd51db5ea10f0ae2fe34eb2760faf3425845458f9fee65a88f45eb52b6d",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1275,
+        "completion_tokens": 330,
+        "total_tokens": 1605,
+        "completion_tokens_details": {
+          "text_tokens": 330
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 418,
+          "text_tokens": 857,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 9284,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "419",
+        "420",
+        "421",
+        "422",
+        "423",
+        "424",
+        "425",
+        "426",
+        "427",
+        "428"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 42,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "429",
+        "430",
+        "431",
+        "432",
+        "433",
+        "434",
+        "435",
+        "436",
+        "437",
+        "438"
+      ],
+      "sourceUnitIndices": [
+        42
+      ],
+      "promptSha256": "1b112aba4ca54656931e9df860e3dc8b80a3335772e2d6265119e22f3414bb98",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1217,
+        "completion_tokens": 252,
+        "total_tokens": 1469,
+        "completion_tokens_details": {
+          "text_tokens": 252
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 272,
+          "text_tokens": 945,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 6709,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "429",
+        "430",
+        "431",
+        "432",
+        "433",
+        "434",
+        "435",
+        "436",
+        "437",
+        "438"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 43,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "439",
+        "440",
+        "441",
+        "442",
+        "443",
+        "444",
+        "445",
+        "446",
+        "447",
+        "448"
+      ],
+      "sourceUnitIndices": [
+        43
+      ],
+      "promptSha256": "edb49cdd189bcfdc96e50cb0011eff1c37351c7b01ff0981fc7d2c72590eddde",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1361,
+        "completion_tokens": 275,
+        "total_tokens": 1636,
+        "completion_tokens_details": {
+          "text_tokens": 275
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 506,
+          "text_tokens": 855,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8270,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "439",
+        "440",
+        "441",
+        "442",
+        "443",
+        "444",
+        "445",
+        "446",
+        "447",
+        "448"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 44,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "449",
+        "450",
+        "451",
+        "452",
+        "453",
+        "454",
+        "455",
+        "456",
+        "457",
+        "458"
+      ],
+      "sourceUnitIndices": [
+        44
+      ],
+      "promptSha256": "d33a81e0933fbdacfff27c8296cd3e5be9d3d01adda474e83989d999ea41c4e4",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1385,
+        "completion_tokens": 233,
+        "total_tokens": 1618,
+        "completion_tokens_details": {
+          "text_tokens": 233
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 527,
+          "text_tokens": 858,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 6996,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "449",
+        "450",
+        "451",
+        "452",
+        "453",
+        "454",
+        "455",
+        "456",
+        "457",
+        "458"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 45,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "459",
+        "460",
+        "461",
+        "462",
+        "463",
+        "464",
+        "465",
+        "466",
+        "467",
+        "468"
+      ],
+      "sourceUnitIndices": [
+        45
+      ],
+      "promptSha256": "663882b3f5abf7d5a246e44f8a9ac73f9ff77e64b0a4f820838b375878fa5108",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1291,
+        "completion_tokens": 320,
+        "total_tokens": 1611,
+        "completion_tokens_details": {
+          "text_tokens": 320
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 420,
+          "text_tokens": 871,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 9232,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "459",
+        "460",
+        "461",
+        "462",
+        "463",
+        "464",
+        "465",
+        "466",
+        "467",
+        "468"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 46,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "469",
+        "470",
+        "471",
+        "472",
+        "473",
+        "474",
+        "475",
+        "476",
+        "477",
+        "478"
+      ],
+      "sourceUnitIndices": [
+        46
+      ],
+      "promptSha256": "6ffd99125a2dffd1feced688e0137ceee0a5e16859648ea96db40ef95467cb3b",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1385,
+        "completion_tokens": 270,
+        "total_tokens": 1655,
+        "completion_tokens_details": {
+          "text_tokens": 270
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 402,
+          "text_tokens": 983,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 9118,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "469",
+        "470",
+        "471",
+        "472",
+        "473",
+        "474",
+        "475",
+        "476",
+        "477",
+        "478"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 47,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "479",
+        "480",
+        "481",
+        "482",
+        "483",
+        "484",
+        "485",
+        "486",
+        "487",
+        "488"
+      ],
+      "sourceUnitIndices": [
+        47
+      ],
+      "promptSha256": "ded26c587a8fb4d01508f63cd19e8c066a7971ac09b7bea5dc93d96d76686a47",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 3410,
+        "completion_tokens": 220,
+        "total_tokens": 3630,
+        "completion_tokens_details": {
+          "text_tokens": 220
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 2522,
+          "text_tokens": 888,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8095,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "479",
+        "480",
+        "481",
+        "482",
+        "483",
+        "484",
+        "485",
+        "486",
+        "487",
+        "488"
+      ],
+      "invalidCount": 2
+    },
+    {
+      "requestIndex": 48,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "489",
+        "490",
+        "491",
+        "492",
+        "493",
+        "494",
+        "495",
+        "496",
+        "497",
+        "498"
+      ],
+      "sourceUnitIndices": [
+        48
+      ],
+      "promptSha256": "db2fa20ff517ced68d7b3b652fb5fda844bc63a70f6e6d614ce76fa273424c12",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 3423,
+        "completion_tokens": 114,
+        "total_tokens": 3537,
+        "completion_tokens_details": {
+          "text_tokens": 114
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 2522,
+          "text_tokens": 901,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 4438,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "489",
+        "490",
+        "491",
+        "492",
+        "493",
+        "494",
+        "495",
+        "496",
+        "497",
+        "498"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 49,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "499",
+        "500",
+        "501",
+        "502",
+        "503",
+        "504",
+        "505",
+        "506",
+        "507",
+        "508"
+      ],
+      "sourceUnitIndices": [
+        49
+      ],
+      "promptSha256": "ad695753f8cbc359808903b3907eff27b939267b056e5026aee0f5993bf0d4df",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 957,
+        "completion_tokens": 240,
+        "total_tokens": 1197,
+        "completion_tokens_details": {
+          "text_tokens": 240
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 98,
+          "text_tokens": 859,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 6585,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "499",
+        "500",
+        "501",
+        "502",
+        "503",
+        "504",
+        "505",
+        "506",
+        "507",
+        "508"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 50,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "509",
+        "510",
+        "511",
+        "512",
+        "513",
+        "514",
+        "515",
+        "516",
+        "517",
+        "518"
+      ],
+      "sourceUnitIndices": [
+        50
+      ],
+      "promptSha256": "37240f91d1fb87dc5aecf48eae32a7794db05276b5740f1cf7dc391a0016a745",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1037,
+        "completion_tokens": 275,
+        "total_tokens": 1312,
+        "completion_tokens_details": {
+          "text_tokens": 275
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 134,
+          "text_tokens": 903,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 8447,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "509",
+        "510",
+        "511",
+        "512",
+        "513",
+        "514",
+        "515",
+        "516",
+        "517",
+        "518"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 51,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "519",
+        "520",
+        "521",
+        "522",
+        "523",
+        "524",
+        "525",
+        "526",
+        "527",
+        "528"
+      ],
+      "sourceUnitIndices": [
+        51
+      ],
+      "promptSha256": "65679709afac0666fa61dcb490e86c987c37911e9e4886568fef20d6a1bb256d",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1212,
+        "completion_tokens": 233,
+        "total_tokens": 1445,
+        "completion_tokens_details": {
+          "text_tokens": 233
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 352,
+          "text_tokens": 860,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7393,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "519",
+        "520",
+        "521",
+        "522",
+        "523",
+        "524",
+        "525",
+        "526",
+        "527",
+        "528"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 52,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "529",
+        "530",
+        "531",
+        "532",
+        "533",
+        "534",
+        "535",
+        "536",
+        "537",
+        "538"
+      ],
+      "sourceUnitIndices": [
+        52
+      ],
+      "promptSha256": "a6484a295c878c648256c09de1e46dbbeeadc43cfd7cc6d40460c8d351572c69",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 3239,
+        "completion_tokens": 240,
+        "total_tokens": 3479,
+        "completion_tokens_details": {
+          "text_tokens": 240
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 2339,
+          "text_tokens": 900,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7631,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "529",
+        "530",
+        "531",
+        "532",
+        "533",
+        "534",
+        "535",
+        "536",
+        "537",
+        "538"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 53,
+      "stage": "base",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "539",
+        "540",
+        "541",
+        "542",
+        "543",
+        "544",
+        "545",
+        "546",
+        "547",
+        "548"
+      ],
+      "sourceUnitIndices": [
+        53
+      ],
+      "promptSha256": "1994dd01b0d6543944fd426eabd6b1918f1cec7ed38b16c9e0800cf3b9ed09a5",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 3403,
+        "completion_tokens": 249,
+        "total_tokens": 3652,
+        "completion_tokens_details": {
+          "text_tokens": 249
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 2496,
+          "text_tokens": 907,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 7669,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus",
+      "adoptedIds": [
+        "539",
+        "540",
+        "541",
+        "542",
+        "543",
+        "544",
+        "545",
+        "546",
+        "547",
+        "548"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 54,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "549",
+        "550",
+        "551",
+        "552",
+        "553",
+        "554",
+        "555",
+        "556",
+        "557",
+        "558"
+      ],
+      "sourceUnitIndices": [
+        54
+      ],
+      "promptSha256": "3b4c4e58022ebe323a668c42c19a4ab7e3c7e919f2a643a72493271886af93c0",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 4425,
+        "total_tokens": 5089,
+        "completion_tokens": 664,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 2278
+        },
+        "completion_tokens_details": {
+          "text_tokens": 664
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 12227,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "549",
+        "550",
+        "551",
+        "552",
+        "553",
+        "554",
+        "555",
+        "556",
+        "557",
+        "558"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 55,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "559",
+        "560",
+        "561",
+        "562",
+        "563",
+        "564",
+        "565",
+        "566",
+        "567",
+        "568"
+      ],
+      "sourceUnitIndices": [
+        55
+      ],
+      "promptSha256": "85e0065bfb8561f01a0db478e50f144b540b5e1dcd515b64e7b774f2ae2720cb",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 4767,
+        "total_tokens": 5477,
+        "completion_tokens": 710,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 2620
+        },
+        "completion_tokens_details": {
+          "text_tokens": 710
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 13528,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "559",
+        "560",
+        "561",
+        "562",
+        "563",
+        "564",
+        "565",
+        "566",
+        "567",
+        "568"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 56,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "569",
+        "570",
+        "571",
+        "572",
+        "573",
+        "574",
+        "575",
+        "576",
+        "577",
+        "578"
+      ],
+      "sourceUnitIndices": [
+        56
+      ],
+      "promptSha256": "e8175ca5c7eec1884711ea76b01e1449cec903f6ec5b993b5e94d08592e6ee53",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 4509,
+        "total_tokens": 5949,
+        "completion_tokens": 1440,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 2362
+        },
+        "completion_tokens_details": {
+          "text_tokens": 1440
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 26671,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "569",
+        "570",
+        "571",
+        "572",
+        "573",
+        "574",
+        "575",
+        "576",
+        "577",
+        "578"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 57,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "579",
+        "580",
+        "581",
+        "582",
+        "583",
+        "584",
+        "585",
+        "586",
+        "587",
+        "588"
+      ],
+      "sourceUnitIndices": [
+        57
+      ],
+      "promptSha256": "cac1691b802e0961ca0c5a7ecf841fbb52aefbd30528f0d6e9a73408284a9235",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 4948,
+        "total_tokens": 5785,
+        "completion_tokens": 837,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 2801
+        },
+        "completion_tokens_details": {
+          "text_tokens": 837
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 15567,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "579",
+        "580",
+        "581",
+        "582",
+        "583",
+        "584",
+        "585",
+        "586",
+        "587",
+        "588"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 58,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "589",
+        "590",
+        "591",
+        "592",
+        "593",
+        "594",
+        "595",
+        "596",
+        "597",
+        "598"
+      ],
+      "sourceUnitIndices": [
+        58
+      ],
+      "promptSha256": "4d66dcb784dcb1fc524b2971cf366bf5455827d7a7783d93e3ae070c851f3090",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 4921,
+        "total_tokens": 6021,
+        "completion_tokens": 1100,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 2774
+        },
+        "completion_tokens_details": {
+          "text_tokens": 1100
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 23174,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "589",
+        "590",
+        "591",
+        "592",
+        "593",
+        "594",
+        "595",
+        "596",
+        "597",
+        "598"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 59,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "599",
+        "600",
+        "601",
+        "602",
+        "603",
+        "604",
+        "605",
+        "606",
+        "607",
+        "608"
+      ],
+      "sourceUnitIndices": [
+        59
+      ],
+      "promptSha256": "626a1a4c89be169e887c118a327f704dc7ef43371b6bbdeb350bbbf4e9b1b4ca",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 3296,
+        "total_tokens": 4135,
+        "completion_tokens": 839,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 1682,
+          "text_tokens": 1614
+        },
+        "completion_tokens_details": {
+          "text_tokens": 839
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 15500,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "599",
+        "600",
+        "601",
+        "602",
+        "603",
+        "604",
+        "605",
+        "606",
+        "607",
+        "608"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 60,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "609",
+        "610",
+        "611",
+        "612",
+        "613",
+        "614",
+        "615",
+        "616",
+        "617",
+        "618"
+      ],
+      "sourceUnitIndices": [
+        60
+      ],
+      "promptSha256": "d4e98f2bf580c57ff913f531939f6c1e166c8f49b75f35968e6c0f16bf8551ee",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 3762,
+        "total_tokens": 4464,
+        "completion_tokens": 702,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 1682,
+          "text_tokens": 2080
+        },
+        "completion_tokens_details": {
+          "text_tokens": 702
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 13006,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "609",
+        "610",
+        "611",
+        "612",
+        "613",
+        "614",
+        "615",
+        "616",
+        "617",
+        "618"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 61,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "619",
+        "620",
+        "621",
+        "622",
+        "623",
+        "624",
+        "625",
+        "626",
+        "627",
+        "628"
+      ],
+      "sourceUnitIndices": [
+        61
+      ],
+      "promptSha256": "587e693de8cdb4f63a8054994b8cdad2ee071153bea66be2c53077460644940a",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 5528,
+        "total_tokens": 6142,
+        "completion_tokens": 614,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 3381
+        },
+        "completion_tokens_details": {
+          "text_tokens": 614
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 13114,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "619",
+        "620",
+        "621",
+        "622",
+        "623",
+        "624",
+        "625",
+        "626",
+        "627",
+        "628"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 62,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "629",
+        "630",
+        "631",
+        "632",
+        "633",
+        "634",
+        "635",
+        "636",
+        "637",
+        "638"
+      ],
+      "sourceUnitIndices": [
+        62
+      ],
+      "promptSha256": "a3e09e3cc5e18522b6fe55a27f14ae551ff205de0a8d99fa76dd809dbb8e499d",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 5522,
+        "total_tokens": 6261,
+        "completion_tokens": 739,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 3375
+        },
+        "completion_tokens_details": {
+          "text_tokens": 739
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 14460,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "629",
+        "630",
+        "631",
+        "632",
+        "633",
+        "634",
+        "635",
+        "636",
+        "637",
+        "638"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 63,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "639",
+        "640",
+        "641",
+        "642",
+        "643",
+        "644",
+        "645",
+        "646",
+        "647",
+        "648"
+      ],
+      "sourceUnitIndices": [
+        63
+      ],
+      "promptSha256": "86c0e2e9805f50be6aa422531ce3b5029aa35e8780811ed10f251aad228acd0c",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 5431,
+        "total_tokens": 6643,
+        "completion_tokens": 1212,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 3284
+        },
+        "completion_tokens_details": {
+          "text_tokens": 1212
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 22472,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "639",
+        "640",
+        "641",
+        "642",
+        "643",
+        "644",
+        "645",
+        "646",
+        "647",
+        "648"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 64,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "649",
+        "650",
+        "651",
+        "652",
+        "653",
+        "654",
+        "655",
+        "656",
+        "657",
+        "658"
+      ],
+      "sourceUnitIndices": [
+        64
+      ],
+      "promptSha256": "7bc098c3606036e27b3dc684dce16b606d31bce9e85961cfd0adb4133dedaabc",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 4699,
+        "total_tokens": 5522,
+        "completion_tokens": 823,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 2552
+        },
+        "completion_tokens_details": {
+          "text_tokens": 823
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 14722,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "649",
+        "650",
+        "651",
+        "652",
+        "653",
+        "654",
+        "655",
+        "656",
+        "657",
+        "658"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 65,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "659",
+        "660",
+        "661",
+        "662",
+        "663",
+        "664",
+        "665",
+        "666",
+        "667",
+        "668"
+      ],
+      "sourceUnitIndices": [
+        65
+      ],
+      "promptSha256": "c731c1a51b4e93072df4985677b13b0ce8cce23aaba202210355d440c1f4a0f7",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 4475,
+        "total_tokens": 5155,
+        "completion_tokens": 680,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 2328
+        },
+        "completion_tokens_details": {
+          "text_tokens": 680
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 13188,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "659",
+        "660",
+        "661",
+        "662",
+        "663",
+        "664",
+        "665",
+        "666",
+        "667",
+        "668"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 66,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "669",
+        "670",
+        "671",
+        "672",
+        "673",
+        "674",
+        "675",
+        "676",
+        "677",
+        "678"
+      ],
+      "sourceUnitIndices": [
+        66
+      ],
+      "promptSha256": "b25dcf941ee7da16971893db5ec9fbb544f7e5e2353ae036c47f097b6bacb012",
+      "status": "format-checked-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 5041,
+        "total_tokens": 5588,
+        "completion_tokens": 547,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2082,
+          "text_tokens": 2959
+        },
+        "completion_tokens_details": {
+          "text_tokens": 547
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 16349,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "669",
+        "670",
+        "671",
+        "672",
+        "673",
+        "674",
+        "675",
+        "676",
+        "677",
+        "678"
+      ],
+      "invalidCount": 0
+    },
+    {
+      "requestIndex": 67,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "679",
+        "680",
+        "681",
+        "682",
+        "683",
+        "684",
+        "685",
+        "686",
+        "687",
+        "688"
+      ],
+      "sourceUnitIndices": [
+        67
+      ],
+      "promptSha256": "14c65c6b92ca9523cdac4f45ec8a0d0717bbb83439d2084923081177a241d944",
+      "status": "validation-issues-recorded",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 6397,
+        "total_tokens": 8172,
+        "completion_tokens": 1775,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 2147,
+          "text_tokens": 4250
+        },
+        "completion_tokens_details": {
+          "text_tokens": 1775
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 29136,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max",
+      "adoptedIds": [
+        "679",
+        "680",
+        "681",
+        "682",
+        "683",
+        "684",
+        "685",
+        "686",
+        "687",
+        "688"
+      ],
+      "invalidCount": 1
+    },
+    {
+      "requestIndex": 68,
+      "stage": "base",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "689",
+        "690",
+        "691",
+        "692",
+        "693",
+        "694",
+        "695",
+        "696",
+        "697",
+        "698"
+      ],
+      "sourceUnitIndices": [
+        68
+      ],
+      "promptSha256": "63a80013e8cbe3f20c936381fdcaf62404cc932e58cd30fa4e45d9f0720fe88e",
+      "status": "error",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 13534,
+        "total_tokens": 29918,
+        "completion_tokens": 16384,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 4294,
+          "text_tokens": 9240
+        },
+        "completion_tokens_details": {
+          "text_tokens": 16384
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 221214,
+      "finishReason": "length",
+      "resolvedModel": "qwen3.8-max",
+      "error": "truncated-or-empty-response"
+    }
+  ],
+  "stopReason": "truncated-or-empty-response",
+  "audit": {
+    "complete": false,
+    "expectedQuestions": 908,
+    "returnedQuestions": 688,
+    "missing": [
+      "689",
+      "690",
+      "691",
+      "692",
+      "693",
+      "694",
+      "695",
+      "696",
+      "697",
+      "698",
+      "699",
+      "700",
+      "701",
+      "702",
+      "703",
+      "704",
+      "705",
+      "706",
+      "707",
+      "708",
+      "709",
+      "710",
+      "711",
+      "712",
+      "713",
+      "714",
+      "715",
+      "716",
+      "717",
+      "718",
+      "719",
+      "720",
+      "721",
+      "722",
+      "723",
+      "724",
+      "725",
+      "726",
+      "727",
+      "728",
+      "729",
+      "730",
+      "731",
+      "732",
+      "733",
+      "734",
+      "735",
+      "736",
+      "737",
+      "738",
+      "739",
+      "740",
+      "741",
+      "742",
+      "743",
+      "744",
+      "745",
+      "746",
+      "747",
+      "748",
+      "749",
+      "750",
+      "751",
+      "752",
+      "753",
+      "754",
+      "755",
+      "756",
+      "757",
+      "758",
+      "759",
+      "760",
+      "761",
+      "762",
+      "763",
+      "764",
+      "765",
+      "766",
+      "767",
+      "768",
+      "769",
+      "770",
+      "771",
+      "772",
+      "773",
+      "774",
+      "775",
+      "776",
+      "777",
+      "778",
+      "779",
+      "780",
+      "781",
+      "782",
+      "783",
+      "784",
+      "785",
+      "786",
+      "787",
+      "788",
+      "789",
+      "790",
+      "791",
+      "792",
+      "793",
+      "794",
+      "795",
+      "796",
+      "797",
+      "798",
+      "799",
+      "800",
+      "801",
+      "802",
+      "803",
+      "804",
+      "805",
+      "806",
+      "807",
+      "808",
+      "809",
+      "810",
+      "811",
+      "812",
+      "813",
+      "814",
+      "815",
+      "816",
+      "817",
+      "818",
+      "819",
+      "820",
+      "821",
+      "822",
+      "823",
+      "824",
+      "825",
+      "826",
+      "827",
+      "828",
+      "829",
+      "830",
+      "831",
+      "832",
+      "833",
+      "834",
+      "835",
+      "836",
+      "837",
+      "838",
+      "839",
+      "840",
+      "841",
+      "842",
+      "843",
+      "844",
+      "845",
+      "846",
+      "847",
+      "848",
+      "849",
+      "850",
+      "851",
+      "852",
+      "853",
+      "854",
+      "855",
+      "856",
+      "857",
+      "858",
+      "859",
+      "860",
+      "861",
+      "862",
+      "863",
+      "864",
+      "865",
+      "866",
+      "867",
+      "868",
+      "869",
+      "870",
+      "871",
+      "872",
+      "873",
+      "874",
+      "875",
+      "876",
+      "877",
+      "878",
+      "879",
+      "880",
+      "881",
+      "882",
+      "883",
+      "884",
+      "885",
+      "886",
+      "887",
+      "888",
+      "889",
+      "890",
+      "891",
+      "892",
+      "893",
+      "894",
+      "895",
+      "896",
+      "897",
+      "898",
+      "899",
+      "900",
+      "901",
+      "902",
+      "903",
+      "904",
+      "905",
+      "906",
+      "907",
+      "908"
+    ],
+    "invalid": [
+      {
+        "id": "118",
+        "error": "第 2 项不是直接值；空缺用空字符串，不能为 null、对象或嵌套数组"
+      },
+      {
+        "id": "126",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "147",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "197",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "279",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "315",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "319",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "323",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "349",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "378",
+        "error": "第 3 项不是直接值；空缺用空字符串，不能为 null、对象或嵌套数组"
+      },
+      {
+        "id": "387",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "456",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "479",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "484",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "489",
+        "error": "答案为空或不是字符串"
+      },
+      {
+        "id": "549",
+        "error": "cells[5] 超出表格范围"
+      },
+      {
+        "id": "559",
+        "error": "cells[6] 超出表格范围"
+      },
+      {
+        "id": "599",
+        "error": "cells[9] 超出表格范围"
+      },
+      {
+        "id": "639",
+        "error": "cells[6] 与其他单元格重叠"
+      },
+      {
+        "id": "649",
+        "error": "cells[12] 与其他单元格重叠"
+      },
+      {
+        "id": "679",
+        "error": "cells[11] 与其他单元格重叠"
+      }
+    ],
+    "consistency": {
+      "version": "same-image-explicit-table-v1",
+      "comparisons": [],
+      "conflictCount": 0,
+      "skipped": [
+        {
+          "id": "1",
+          "reason": "missing-explicit-table-hint"
+        },
+        {
+          "id": "25",
+          "reason": "missing-explicit-table-hint"
+        },
+        {
+          "id": "43",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "51",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "549",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "559",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "569",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "579",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "589",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "599",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "609",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "619",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "629",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "639",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "649",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "659",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "669",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "679",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "689",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "699",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "709",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "719",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "729",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "739",
+          "reason": "not-single-image-target"
+        },
+        {
+          "id": "749",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "759",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "769",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "779",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "789",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "799",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "809",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "819",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "829",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "839",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "849",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "859",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "869",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "879",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "889",
+          "reason": "missing-or-invalid-structure"
+        },
+        {
+          "id": "899",
+          "reason": "missing-or-invalid-structure"
+        }
+      ],
+      "apiRequests": 0,
+      "answersModified": false,
+      "limitation": "同一图片和明确相同 table_hint 的完整表/表头交叉检查；只标记不一致，不判定哪份正确。一致仍可能共同漏列或错跨度；同名多表可能歧义。PDF、缺少目标提示或范围不明确时跳过。"
+    }
+  },
+  "status": "stopped",
+  "resultsSha256": "8bb884b0d378907407d3487184bb122153024d20bc6efc685aa557413b114e3f",
+  "exported": false,
+  "submitted": false,
+  "groundTruthAccuracy": null
+}

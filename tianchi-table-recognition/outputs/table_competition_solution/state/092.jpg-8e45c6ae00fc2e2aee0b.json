@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\092.jpg",
+  "results": [
+    {
+      "id": "889",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "{\"row_count\":5,\"col_count\":13,\"cells\":[{\"text\":\"Account Manager\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"1\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"2\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"3\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"4\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"5\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"6\",\"row\":0,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"7\",\"row\":0,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"8\",\"row\":0,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"9\",\"row\":0,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"10\",\"row\":0,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"11\",\"row\":0,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"12\",\"row\":0,\"col\":12,\"rowspan\":1,\"colspan\":1},{\"text\":\"ANNUAL TARGET\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"AVG CONTRACT VALUE (CURRENT AVG VALUE)\",\"row\":1,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"NO. OF CONTRACTS REQUIRED\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"TOTAL MEETINGS TO BE DONE PER MONTH\",\"row\":1,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"DISCUSSION TO PROPOSAL CONVERSION RATIO (CURRENT RATIO)\",\"row\":1,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"# PROPOSALS TO BE GENERATED PER MONTH\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"PIPELINE VALUE PER MONTH\",\"row\":1,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"PROPOSAL TO ORDERBOOK (CURRENT RATIO)\",\"row\":1,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"# CONTRACTS GENERATED PER MONTH\",\"row\":1,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"ORDER BOOK VALUE GENERATED PER MONTH\",\"row\":1,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"AVG TARGET PER MONTH\",\"row\":1,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"SHORTFALL / SURPLUS\",\"row\":1,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":1,\"col\":12,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":12,\"rowspan\":1,\"colspan\":1},{\"text\":\"DATA FROM\",\"row\":3,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"TARGET SHEET\",\"row\":3,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"APRIL TO JAN CONTRACT AVG\",\"row\":3,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 1 / STEP 2\",\"row\":3,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"ACCOUNT MANAGEMENT PLAN\",\"row\":3,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"YTD DAILY ACTIVITY REPORT (PROPOSAL / DISCUSSION %)\",\"row\":3,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 4 * STEP 5\",\"row\":3,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 6 * STEP 2\",\"row\":3,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"YTD DAILY ACTIVITY REPORT (PROPOSAL / BUSINESS GENERATED %)\",\"row\":3,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 6 * STEP 8\",\"row\":3,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 9 * STEP 2\",\"row\":3,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 11 / 12\",\"row\":3,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"STEP 10 - STEP 11\",\"row\":3,\"col\":12,\"rowspan\":1,\"colspan\":1},{\"text\":\"2016-17\",\"row\":4,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"16000000\",\"row\":4,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"214500\",\"row\":4,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"75\",\"row\":4,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"19\",\"row\":4,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"13%\",\"row\":4,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"2\",\"row\":4,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"535113\",\"row\":4,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"42%\",\"row\":4,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"1.05\",\"row\":4,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"224426\",\"row\":4,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"1333333\",\"row\":4,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"-1108907\",\"row\":4,\"col\":12,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "890",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Debajit Mukherjee",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "891",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "16000000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "892",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "500000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "893",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "32",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "894",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "-1108907",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "895",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "84%",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "896",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "2244260",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "897",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "3125574",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "898",
+      "source_file": "092.jpg",
+      "resolved_file": "092.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Yes",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

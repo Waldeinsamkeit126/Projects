@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\075.jpg",
+  "results": [
+    {
+      "id": "719",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "{\"row_count\":18,\"col_count\":13,\"cells\":[{\"text\":\"\",\"row\":0,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"Common Stock\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":4},{\"text\":\"Investor Rounds\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":6},{\"text\":\"Exit\",\"row\":0,\"col\":11,\"rowspan\":1,\"colspan\":2},{\"text\":\"Founders' Shares\",\"row\":1,\"col\":1,\"rowspan\":1,\"colspan\":2},{\"text\":\"Stock Options\",\"row\":1,\"col\":3,\"rowspan\":1,\"colspan\":2},{\"text\":\"Round 1\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":3},{\"text\":\"Round 2\",\"row\":1,\"col\":8,\"rowspan\":1,\"colspan\":3},{\"text\":\"$20,000,000\",\"row\":1,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"Multiple\",\"row\":1,\"col\":12,\"rowspan\":1,\"colspan\":1},{\"text\":\"Common\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Shares\",\"row\":2,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"%\",\"row\":2,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"Shares\",\"row\":2,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"%\",\"row\":2,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"$\",\"row\":2,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"Shares\",\"row\":2,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"%\",\"row\":2,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"$\",\"row\":2,\"col\":8,\"rowspan\":1,\"colspan\":1},{\"text\":\"Shares\",\"row\":2,\"col\":9,\"rowspan\":1,\"colspan\":1},{\"text\":\"%\",\"row\":2,\"col\":10,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":11,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":12,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "720",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "100000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "721",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "$750,000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "722",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "$250,000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "723",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "$3,000,000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "724",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "$1,000,000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "725",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "888889",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "726",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "1000000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "727",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "9000000",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "728",
+      "source_file": "075.jpg",
+      "resolved_file": "075.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "20000000",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

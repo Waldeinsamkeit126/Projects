@@ -1,0 +1,54 @@
+{
+  "decisions": [
+    {
+      "id": "890",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中显示为 Debjit Mukherjee，B拼写正确。"
+    },
+    {
+      "id": "891",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中2016-17行Annual Target列数值为16000000。"
+    },
+    {
+      "id": "892",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中Rework行Avg Contract Value列数值为500000。"
+    },
+    {
+      "id": "896",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "6.75 * 1333333 ≈ 8999997.75，A最接近。"
+    },
+    {
+      "id": "897",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "2041667 - (-1108907) = 3150574。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 2423,
+    "completion_tokens": 1579,
+    "prompt_tokens": 844,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1218,
+      "text_tokens": 360
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 314,
+      "cached_tokens": 0,
+      "text_tokens": 530
+    }
+  },
+  "requestId": "chatcmpl-fc729e70-11f1-95a0-842c-69c626c30da4"
+}

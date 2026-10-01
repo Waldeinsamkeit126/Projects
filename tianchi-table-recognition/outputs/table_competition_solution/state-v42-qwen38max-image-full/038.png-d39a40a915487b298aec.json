@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\038.png",
+  "results": [
+    {
+      "id": "369",
+      "source_file": "038.png",
+      "resolved_file": "038.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Factor Levels",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "370",
+      "source_file": "038.png",
+      "resolved_file": "038.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "371",
+      "source_file": "038.png",
+      "resolved_file": "038.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "372",
+      "source_file": "038.png",
+      "resolved_file": "038.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Complete name",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "373",
+      "source_file": "038.png",
+      "resolved_file": "038.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "1",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "374",
+      "source_file": "038.png",
+      "resolved_file": "038.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "25, 30, 35",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "375",
+      "source_file": "038.png",
+      "resolved_file": "038.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "4, 6, 8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "376",
+      "source_file": "038.png",
+      "resolved_file": "038.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "4, 6, 8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "377",
+      "source_file": "038.png",
+      "resolved_file": "038.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "50, 100, 150",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "378",
+      "source_file": "038.png",
+      "resolved_file": "038.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"HCMRM total pore volume\":\"8.635\"},{\"HCMRM average particle size\":\"84.172\"},{\"编码列名\":\"x1, x2, x3, x4\"},{\"设计因素数量\":\"4\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

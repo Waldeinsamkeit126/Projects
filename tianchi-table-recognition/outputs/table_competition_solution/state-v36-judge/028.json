@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "278",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原图单元格内文本为换行显示，无空格字符。中文文本直接拼接（B）比加空格（A）更符合原表字面且避免词语断开风险（如'搭建'），语义更连贯。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 7117,
+    "completion_tokens": 4239,
+    "prompt_tokens": 2878,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4125,
+      "text_tokens": 113
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 2522,
+      "cached_tokens": 0,
+      "text_tokens": 356
+    }
+  },
+  "requestId": "chatcmpl-32868abf-d4e0-959d-b598-3a98b810d6be"
+}

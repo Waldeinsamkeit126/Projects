@@ -1,0 +1,61 @@
+{
+  "runId": "2026-09-16T04-43-04-831Z-b3042aba",
+  "pipeline": "reliable-v2-coverage",
+  "startedAt": "2026-09-16T04:43:04.831Z",
+  "testsPath": "D:\\tests.xlsx",
+  "questionsJsonPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated-coverage-v1\\questions-validation.json",
+  "noExport": true,
+  "templatePath": "D:\\submit-template.xlsx",
+  "mediaDir": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated-coverage-v1",
+  "questionCount": 12,
+  "allQuestionCount": 12,
+  "uniqueResolvedFiles": 4,
+  "questionTypes": {
+    "structure": 8,
+    "extract": 4
+  },
+  "answerFormats": {
+    "json": 8,
+    "number": 4
+  },
+  "structureScopes": {
+    "full": 4,
+    "not-applicable": 4,
+    "partial": 4
+  },
+  "unresolved": [],
+  "filenameCorrections": [],
+  "normalizedQuestionTypes": [],
+  "ignoredSourceAnswerColumn": true,
+  "models": {
+    "pdf": "qwen3.8-max",
+    "image": "qwen3-vl-plus"
+  },
+  "maxCompletionTokens": 8192,
+  "refreshStructure": false,
+  "enableThinking": false,
+  "includeSources": [
+    "pdf",
+    "image"
+  ],
+  "includeTypes": [
+    "structure",
+    "extract",
+    "thinking"
+  ],
+  "excludeTypes": [],
+  "maxRequests": 6,
+  "maxAttempts": 1,
+  "checkFullCoverage": false,
+  "coverageVersion": "explicit-full-grid-v1",
+  "historicalAnswersImported": false,
+  "partialRun": false,
+  "validationMeaning": "格式与结构约束检查，不代表答案正确率或合规认证",
+  "sourceHash": "c3e67b1cc87f5012d184435f1b6f7c6dd66d15f96aa30fa5e72687c2ade4118b",
+  "inputSha256": "c260e72dae5dc6d00050186871eabd373423afcb79dcc02f2dc37f3a8c57e9d6",
+  "templateSha256": null,
+  "endpoint": "https://ws-zpzcvtpmb0e3zl4f.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "purpose": "coverage-v1-control-20260916",
+  "status": "running",
+  "outputPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\runs\\2026-09-16T04-43-04-831Z-b3042aba\\submission.xlsx"
+}

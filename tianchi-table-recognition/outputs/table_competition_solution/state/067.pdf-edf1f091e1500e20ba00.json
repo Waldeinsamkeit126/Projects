@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\067.pdf",
+  "results": [
+    {
+      "id": "639",
+      "source_file": "067.pdf",
+      "resolved_file": "067.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":21,\"col_count\":6,\"cells\":[{\"text\":\"资产负债表（百万元）\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"2022\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"2023\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"2024E\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"2025E\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"2026E\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "640",
+      "source_file": "067.pdf",
+      "resolved_file": "067.pdf",
+      "model": "qwen3.8-max",
+      "answer": "39270",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "641",
+      "source_file": "067.pdf",
+      "resolved_file": "067.pdf",
+      "model": "qwen3.8-max",
+      "answer": "21021",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "642",
+      "source_file": "067.pdf",
+      "resolved_file": "067.pdf",
+      "model": "qwen3.8-max",
+      "answer": "4897",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "643",
+      "source_file": "067.pdf",
+      "resolved_file": "067.pdf",
+      "model": "qwen3.8-max",
+      "answer": "2155",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "644",
+      "source_file": "067.pdf",
+      "resolved_file": "067.pdf",
+      "model": "qwen3.8-max",
+      "answer": "22388",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "645",
+      "source_file": "067.pdf",
+      "resolved_file": "067.pdf",
+      "model": "qwen3.8-max",
+      "answer": "16050",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "646",
+      "source_file": "067.pdf",
+      "resolved_file": "067.pdf",
+      "model": "qwen3.8-max",
+      "answer": "16882",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "647",
+      "source_file": "067.pdf",
+      "resolved_file": "067.pdf",
+      "model": "qwen3.8-max",
+      "answer": "3580",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "648",
+      "source_file": "067.pdf",
+      "resolved_file": "067.pdf",
+      "model": "qwen3.8-max",
+      "answer": "13270",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

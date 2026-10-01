@@ -1,0 +1,55 @@
+{
+  "decisions": [
+    {
+      "id": "119",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "黄色高亮居中的 Item Name 值 Air condition 2 ton 为主表主题标题"
+    },
+    {
+      "id": "120",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "顶部有阿拉伯语行，表内为英文"
+    },
+    {
+      "id": "122",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "主表表头行最左为 Component & Specification"
+    },
+    {
+      "id": "123",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "主表表头行最右为 Notes"
+    },
+    {
+      "id": "128",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "单对象含四键符合扁平对象数组要求，B 拆成四个对象结构错误"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3639,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3466,
+      "text_tokens": 172
+    },
+    "prompt_tokens": 1137,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 496,
+      "text_tokens": 641
+    },
+    "total_tokens": 4776
+  },
+  "requestId": "chatcmpl-4892ecbb-b369-9a46-90ca-577e60bfe889",
+  "model": "qwen3.8-max-0902"
+}

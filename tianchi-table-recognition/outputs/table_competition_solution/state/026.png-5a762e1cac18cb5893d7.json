@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\026.png",
+  "results": [
+    {
+      "id": "249",
+      "source_file": "026.png",
+      "resolved_file": "026.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Medication error targets",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "250",
+      "source_file": "026.png",
+      "resolved_file": "026.png",
+      "model": "qwen3-vl-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "251",
+      "source_file": "026.png",
+      "resolved_file": "026.png",
+      "model": "qwen3-vl-plus",
+      "answer": "7",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "252",
+      "source_file": "026.png",
+      "resolved_file": "026.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Target",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "253",
+      "source_file": "026.png",
+      "resolved_file": "026.png",
+      "model": "qwen3-vl-plus",
+      "answer": "YTD",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "254",
+      "source_file": "026.png",
+      "resolved_file": "026.png",
+      "model": "qwen3-vl-plus",
+      "answer": "11",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "255",
+      "source_file": "026.png",
+      "resolved_file": "026.png",
+      "model": "qwen3-vl-plus",
+      "answer": "30",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "256",
+      "source_file": "026.png",
+      "resolved_file": "026.png",
+      "model": "qwen3-vl-plus",
+      "answer": "12",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "257",
+      "source_file": "026.png",
+      "resolved_file": "026.png",
+      "model": "qwen3-vl-plus",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "258",
+      "source_file": "026.png",
+      "resolved_file": "026.png",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"Total 4Q2017\":\"1\",\"Total YTD\":\"51\",\"Wrong Patient YTD\":\"4\",\"Procedure Not Followed YTD\":\"14\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

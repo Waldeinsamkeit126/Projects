@@ -1,0 +1,168 @@
+{
+  "outputPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v43-conservative-visual-fixes.xlsx",
+  "reportPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\v43-report.json",
+  "baselinePath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v37-score-feedback-corrections.xlsx",
+  "rows": 908,
+  "changedCount": 21,
+  "changedIds": [
+    "154",
+    "155",
+    "251",
+    "262",
+    "263",
+    "291",
+    "295",
+    "296",
+    "297",
+    "342",
+    "371",
+    "391",
+    "401",
+    "481",
+    "491",
+    "528",
+    "768",
+    "773",
+    "777",
+    "890",
+    "896"
+  ],
+  "invalidCount": 0,
+  "reopenedMatches": true,
+  "usedRangeInspection": "{\"kind\":\"table\",\"sheet\":\"Sheet1\",\"address\":\"A1:B909\",\"rows\":909,\"cols\":2,\"values\":[[\"id\",\"answer\"],[\"1\",\"{\\\"row_count\\\":11,\\\"col_count\\\":4,\\\"cells\\\":[{\\\"text\\\":\\\"公司名称\\\",\\\"row\\\":0,\\\"col\\\":0,\\\"rowspa...\"],[\"2\",\"全场景低代码开发平台，支持拖拽式工作流设计。\"],[\"3\",\"6\"],[\"4\",\"3\"],[\"5\",\"[{\\\"item\\\":\\\"应收账款\\\",\\\"value\\\":\\\"188661393.95\\\"},{\\\"item\\\":\\\"应收票据\\\",\\\"value\\\":\\\"0\\\"},{\\\"item\\\":\\\"...\"],[\"6\",\"18945194.71\"],[\"7\",\"[{\\\"item\\\":\\\"长期借款\\\",\\\"value\\\":\\\"95250987.68\\\"},{\\\"item\\\":\\\"应付债券\\\",\\\"value\\\":\\\"0\\\"},{\\\"item\\\":\\\"租...\"],[\"8\",\"[{\\\"item\\\":\\\"债权投资\\\",\\\"value\\\":\\\"0\\\"},{\\\"item\\\":\\\"其他债权投资\\\",\\\"value\\\":\\\"0\\\"},{\\\"item\\\":\\\"长期应收款\\\",\\\"v...\"],[\"9\",\"[{\\\"period\\\":\\\"本期\\\",\\\"value\\\":\\\"2794275324.1\\\"},{\\\"period\\\":\\\"上期\\\",\\\"value\\\":\\\"2918275906.82\\\"}]\"],[\"10\",\"13\"],[\"11\",\"18\"]],\"valuesTruncated\":true,\"valuesPreviewRows\":12,\"valuesPreviewCols\":2,\"valuesPreviewAddress\":\"A1:B12\"}",
+  "formulaErrorInspection": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "previewPaths": [
+    "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\v43-preview\\part-1.png",
+    "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\v43-preview\\part-2.png",
+    "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\v43-preview\\part-3.png",
+    "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\v43-preview\\part-4.png"
+  ],
+  "applied": [
+    {
+      "id": "154",
+      "previous": "A metal box",
+      "next": "Photoelectric effect apparatus with solar cell",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "155",
+      "previous": "Banana plugs.",
+      "next": "Leads Set (Banana)",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "251",
+      "previous": "7",
+      "next": "8",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "262",
+      "previous": "文档解析",
+      "next": "GLM-OCR",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "263",
+      "previous": "GPT-5.2-20 25-12-11",
+      "next": "GPT-5.2-2025-12-11",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "291",
+      "previous": "3",
+      "next": "4",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "295",
+      "previous": "vrátiť prevádzkovateľovi regionálnej distribučnej sústavy doplatok, ktorý mu bol vyplatený v rozpore s podmienkami podpory zákona o podpore",
+      "next": "vrátiť",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "296",
+      "previous": "predložiť PDS potvrdenie o pôvode vyrobenej elektriny za predchádzajúci kalendárny rok",
+      "next": "predložiť",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "297",
+      "previous": "najneskôr 30 dní pred uvedením zariadenia na výrobu elektriny do prevádzky",
+      "next": "30 dní",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "342",
+      "previous": "Concise and readable",
+      "next": "Quarkdown",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "371",
+      "previous": "7",
+      "next": "6",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "391",
+      "previous": "7",
+      "next": "6",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "401",
+      "previous": "12",
+      "next": "8",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "481",
+      "previous": "10",
+      "next": "9",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "491",
+      "previous": "10",
+      "next": "9",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "528",
+      "previous": "[{\"最低活动价\":\"399\",\"最高活动价\":\"59999\",\"备注中含退换规则\":\"3年内非人为原因质量问题硬件免费换新\",\"表格下方说明条数\":\"3\"}]",
+      "next": "[{\"最低活动价\":\"399\",\"最高活动价\":\"79999\",\"备注中含退换规则\":\"3年内非人为原因质量问题硬件免费换新\",\"表格下方说明条数\":\"3\"}]",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "768",
+      "previous": "-3789",
+      "next": "23765",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "773",
+      "previous": "295351",
+      "next": "295551",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "777",
+      "previous": "13839",
+      "next": "13239",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "890",
+      "previous": "Debjit Mukherjee",
+      "next": "Debajit Mukherjee",
+      "basis": "manual_visual_verification"
+    },
+    {
+      "id": "896",
+      "previous": "8999997",
+      "next": "8999997.75",
+      "basis": "manual_visual_verification"
+    }
+  ]
+}

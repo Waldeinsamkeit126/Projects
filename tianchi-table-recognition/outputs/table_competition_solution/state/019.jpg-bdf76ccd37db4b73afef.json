@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\019.jpg",
+  "results": [
+    {
+      "id": "179",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "2.1. Santeknikos įtaisai",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "180",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "立陶宛语",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "181",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "182",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Nr",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "183",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Vandens srautas [l/min.]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "184",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Virtuvės čiaupai",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "185",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "186",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "Virtuvės kriauklės čiaupai",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "187",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "188",
+      "source_file": "019.jpg",
+      "resolved_file": "019.jpg",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"gaminių pogrupis\":\"Virtuvės čiaupai\",\"vandens srautas (l/min.)\":\"8,0\",\"main_unit\":\"l/min.\",\"table_count\":4}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

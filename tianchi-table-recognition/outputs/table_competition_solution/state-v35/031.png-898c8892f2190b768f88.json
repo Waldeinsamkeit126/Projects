@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\031.png",
+  "results": [
+    {
+      "id": "299",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3.7-plus",
+      "answer": "Grupo Especial – Carnaval 2016.2 - Sábado",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "300",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3.7-plus",
+      "answer": "Português",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "302",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3.7-plus",
+      "answer": "Agremiação",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "303",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3.7-plus",
+      "answer": "Notas por Extenso",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "304",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3.7-plus",
+      "answer": "9.3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "305",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3.7-plus",
+      "answer": "9.4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "306",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3.7-plus",
+      "answer": "10",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "307",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3.7-plus",
+      "answer": "10",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "308",
+      "source_file": "031.png",
+      "resolved_file": "031.png",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"Borboleta Transgênero nota\":\"10\",\"满分队伍数量\":\"3\",\"最高分\":\"10\",\"最低分\":\"9.3\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

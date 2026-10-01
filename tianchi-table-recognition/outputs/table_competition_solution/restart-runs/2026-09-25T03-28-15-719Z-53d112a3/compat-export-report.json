@@ -1,0 +1,30 @@
+{
+  "output": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\restart-runs\\2026-09-25T03-28-15-719Z-53d112a3\\submission-conservative-890-emptystring-20260926.xlsx",
+  "source": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\restart-runs\\2026-09-25T03-28-15-719Z-53d112a3\\submission-conservative-890-20260925.xlsx",
+  "sha256": "ff2351b9434378b82f80a558a538f6d929cfc06acfe4a4d634d999d72cb606a0",
+  "blankIds": [
+    "126",
+    "147",
+    "315",
+    "456",
+    "479",
+    "484",
+    "489",
+    "549",
+    "559",
+    "599",
+    "639",
+    "649",
+    "679",
+    "709",
+    "779",
+    "873",
+    "874",
+    "889"
+  ],
+  "substantiveAnswers": 890,
+  "totalRows": 908,
+  "policy": "encode-abstentions-as-json-empty-string",
+  "reason": "Platform failed prior workbook; blank parsing issue suspected, not confirmed",
+  "submitted": false
+}

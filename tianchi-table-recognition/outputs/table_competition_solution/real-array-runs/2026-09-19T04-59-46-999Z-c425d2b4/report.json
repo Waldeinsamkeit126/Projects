@@ -1,0 +1,149 @@
+{
+  "version": "official-array-stratified-pilot-v1",
+  "runId": "2026-09-19T04-59-46-999Z-c425d2b4",
+  "planDigest": "a044a293e475153c7edf67e5c417042cd84da2be0f49811b850f9fd1e67e5f2d",
+  "sourceHash": "616ee4070115a266061ed44cc95f2ee41bb68d0d95de33760a1ae8d065f89a4f",
+  "inputSha256": "594e0d8cbcfbe38edd243d02b425b58c342655d5d90a56822489915b36ed36d1",
+  "settings": {
+    "imageModel": "qwen3-vl-plus",
+    "pdfModel": "qwen3.8-max",
+    "maxCompletionTokens": 4096,
+    "temperature": 0,
+    "enableThinking": false,
+    "maxAttempts": 1,
+    "maxRequests": 4,
+    "maxQuestionsPerFile": 3,
+    "concurrency": 1,
+    "automaticFallback": false
+  },
+  "endpoint": "https://ws-zpzcvtpmb0e3zl4f.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "maxRequests": 4,
+  "apiRequests": 4,
+  "requests": [
+    {
+      "requestIndex": 1,
+      "stratum": "image/extract",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "75",
+        "90",
+        "89"
+      ],
+      "status": "format-passed-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 2941,
+        "completion_tokens": 106,
+        "total_tokens": 3047,
+        "completion_tokens_details": {
+          "text_tokens": 106
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 2339,
+          "text_tokens": 602,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 4061,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus"
+    },
+    {
+      "requestIndex": 2,
+      "stratum": "image/thinking",
+      "model": "qwen3-vl-plus",
+      "questionIds": [
+        "108"
+      ],
+      "status": "format-passed-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 1026,
+        "completion_tokens": 45,
+        "total_tokens": 1071,
+        "completion_tokens_details": {
+          "text_tokens": 45
+        },
+        "prompt_tokens_details": {
+          "image_tokens": 496,
+          "text_tokens": 530,
+          "cached_tokens": 0
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 2000,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3-vl-plus"
+    },
+    {
+      "requestIndex": 3,
+      "stratum": "pdf/extract",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "35",
+        "38",
+        "26"
+      ],
+      "status": "format-passed-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 7216,
+        "total_tokens": 7448,
+        "completion_tokens": 232,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 4294,
+          "text_tokens": 2922
+        },
+        "completion_tokens_details": {
+          "text_tokens": 232
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 6872,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max"
+    },
+    {
+      "requestIndex": 4,
+      "stratum": "pdf/thinking",
+      "model": "qwen3.8-max",
+      "questionIds": [
+        "23",
+        "22",
+        "24"
+      ],
+      "status": "format-passed-not-proven-correct",
+      "apiRequestMade": true,
+      "usage": {
+        "prompt_tokens": 12198,
+        "total_tokens": 12380,
+        "completion_tokens": 182,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "image_tokens": 4294,
+          "text_tokens": 7904
+        },
+        "completion_tokens_details": {
+          "text_tokens": 182
+        }
+      },
+      "httpStatus": 200,
+      "elapsedMs": 11400,
+      "finishReason": "stop",
+      "resolvedModel": "qwen3.8-max"
+    }
+  ],
+  "status": "completed-candidates-only",
+  "stopReason": null,
+  "selectedQuestions": 10,
+  "returnedQuestions": 10,
+  "validQuestions": 10,
+  "resultPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\real-array-runs\\2026-09-19T04-59-46-999Z-c425d2b4\\results.jsonl",
+  "originalAnswersModified": false,
+  "exported": false,
+  "submitted": false,
+  "groundTruthAccuracy": null,
+  "note": "Formal data has no reference labels here. Format validity is not correctness and cannot be converted to expected leaderboard gain."
+}

@@ -1,0 +1,43 @@
+{
+  "testsPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\tests.xlsx",
+  "templatePath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\submit-template.xlsx",
+  "mediaDir": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files",
+  "questionCount": 668,
+  "allQuestionCount": 908,
+  "uniqueResolvedFiles": 65,
+  "questionTypes": {
+    "extract": 487,
+    "thinking": 117,
+    "structure": 64
+  },
+  "answerFormats": {
+    "string": 364,
+    "number": 228,
+    "json_array": 57,
+    "json": 19
+  },
+  "unresolved": [],
+  "filenameCorrections": [],
+  "normalizedQuestionTypes": [],
+  "ignoredSourceAnswerColumn": true,
+  "models": {
+    "pdf": "qwen3.8-max-0902",
+    "image": "qwen3.8-max-0902"
+  },
+  "refreshStructure": false,
+  "enableThinking": true,
+  "includeSources": [
+    "image"
+  ],
+  "includeTypes": [
+    "structure",
+    "extract",
+    "thinking"
+  ],
+  "excludeTypes": [],
+  "baseSubmission": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v37-score-feedback-corrections.xlsx"
+}
+[1/65] CACHE 010.png
+[2/65] CACHE 011.jpg
+[3/65] CACHE 012.jpg
+[4/65] CALL  013.jpg (10 questions)

@@ -1,0 +1,96 @@
+{
+  "decisions": [
+    {
+      "id": "75",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "B使用'标签'字段更客观，且结构完整，符合原图绿色框特征。"
+    },
+    {
+      "id": "81",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Day 2下午14:00-17:30有两个任务卡片（用户与问题拆解、产品方案设计），共1+2+1=4个。"
+    },
+    {
+      "id": "82",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A提供了session字段，信息更丰富且准确。"
+    },
+    {
+      "id": "83",
+      "choice": "CUSTOM",
+      "answer": "[{\"day\":\"Day 1\",\"session\":\"营地集结与入场\",\"label\":\"成果启动：项目立项\"},{\"day\":\"Day 1\",\"session\":\"AI趋势与案例解析\",\"label\":\"AI商业认知建立\"},{\"day\":\"Day 3\",\"session\":\"功能与流程设计\",\"label\":\"成果：产品逻辑图\"},{\"day\":\"Day 3\",\"session\":\"MVP开发推进\",\"label\":\"产品原型v1.0\"},{\"day\":\"Day 4\",\"session\":\"产品开发推进\",\"label\":\"成果：产品原型v2.0\"},{\"day\":\"Day 4\",\"session\":\"用户验证实验\",\"label\":\"成果：测试数据\"},{\"day\":\"Day 4\",\"session\":\"基于数据分析\",\"label\":\"成果：原型v3.0\"},{\"day\":\"Day 5\",\"session\":\"基于价值分析\",\"label\":\"成果：原型v4.0\"},{\"day\":\"Day 6\",\"session\":\"项目路演\",\"label\":\"成果：Pitch路演全记录\"},{\"day\":\"Day 6\",\"session\":\"发布成果与成长\",\"label\":\"结营证书+项目档案\"}]",
+      "confidence": "high",
+      "reason": "A将Day 3上午的BP模块误判为成果，B漏选多天。需列出所有绿色框卡片。"
+    },
+    {
+      "id": "89",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B保留了原表文本'成果：...'，符合保留原表文本的要求。"
+    },
+    {
+      "id": "90",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B提取了标签信息，内容更完整。"
+    },
+    {
+      "id": "93",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B包含了Time字段，信息更完整。"
+    },
+    {
+      "id": "94",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A完整列出了Day 4的两个卡片，B漏掉了'基于数据分析'。"
+    },
+    {
+      "id": "96",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B保留了原表文本'成果：产品原型v2.0'。"
+    },
+    {
+      "id": "97",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "同题81，共4个任务卡片。"
+    },
+    {
+      "id": "98",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A包含了卡片标题，信息更完整。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 11527,
+    "completion_tokens": 7210,
+    "prompt_tokens": 4317,
+    "completion_tokens_details": {
+      "reasoning_tokens": 6288,
+      "text_tokens": 921
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 2339,
+      "cached_tokens": 0,
+      "text_tokens": 1978
+    }
+  },
+  "requestId": "chatcmpl-3041f7f5-4385-97e7-93a0-aedcf4c0b93d"
+}

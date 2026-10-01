@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\047.jpg",
+  "results": [
+    {
+      "id": "449",
+      "source_file": "047.jpg",
+      "resolved_file": "047.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "园林设计师简历表",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "450",
+      "source_file": "047.jpg",
+      "resolved_file": "047.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "452",
+      "source_file": "047.jpg",
+      "resolved_file": "047.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "姓名",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "453",
+      "source_file": "047.jpg",
+      "resolved_file": "047.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "1992.5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "454",
+      "source_file": "047.jpg",
+      "resolved_file": "047.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "雅资",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "455",
+      "source_file": "047.jpg",
+      "resolved_file": "047.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "男",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "456",
+      "source_file": "047.jpg",
+      "resolved_file": "047.jpg",
+      "model": "qwen3.8-max",
+      "answer": "1992.5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "457",
+      "source_file": "047.jpg",
+      "resolved_file": "047.jpg",
+      "model": "qwen3.8-max",
+      "answer": "湖北",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "458",
+      "source_file": "047.jpg",
+      "resolved_file": "047.jpg",
+      "model": "qwen3.8-max",
+      "answer": "[{\"学历\":\"专科\",\"毕业院校\":\"三峡大学\",\"联系电话\":\"1534914xxxx\",\"求职意向\":\"园林设计师\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

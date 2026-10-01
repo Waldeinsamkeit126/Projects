@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\056.png",
+  "results": [
+    {
+      "id": "529",
+      "source_file": "056.png",
+      "resolved_file": "056.png",
+      "model": "qwen3-vl-plus",
+      "answer": "夏令营日程表",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "530",
+      "source_file": "056.png",
+      "resolved_file": "056.png",
+      "model": "qwen3-vl-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "531",
+      "source_file": "056.png",
+      "resolved_file": "056.png",
+      "model": "qwen3-vl-plus",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "532",
+      "source_file": "056.png",
+      "resolved_file": "056.png",
+      "model": "qwen3-vl-plus",
+      "answer": "9:30 | 12:00",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "533",
+      "source_file": "056.png",
+      "resolved_file": "056.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Day 6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "534",
+      "source_file": "056.png",
+      "resolved_file": "056.png",
+      "model": "qwen3-vl-plus",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "535",
+      "source_file": "056.png",
+      "resolved_file": "056.png",
+      "model": "qwen3-vl-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "536",
+      "source_file": "056.png",
+      "resolved_file": "056.png",
+      "model": "qwen3-vl-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "537",
+      "source_file": "056.png",
+      "resolved_file": "056.png",
+      "model": "qwen3-vl-plus",
+      "answer": "是",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "538",
+      "source_file": "056.png",
+      "resolved_file": "056.png",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"是否包含自由调整\":\"是\",\"是否包含评审记录\":\"是\",\"是否包含复盘\":\"是\",\"最后时间段\":\"22:00\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

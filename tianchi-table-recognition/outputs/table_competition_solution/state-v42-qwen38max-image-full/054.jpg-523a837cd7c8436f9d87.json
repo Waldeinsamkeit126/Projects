@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\054.jpg",
+  "results": [
+    {
+      "id": "509",
+      "source_file": "054.jpg",
+      "resolved_file": "054.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Voeding / Nutrition",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "510",
+      "source_file": "054.jpg",
+      "resolved_file": "054.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "荷兰语和法语",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "511",
+      "source_file": "054.jpg",
+      "resolved_file": "054.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "4",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "512",
+      "source_file": "054.jpg",
+      "resolved_file": "054.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Gemiddelde waarden per: Valeurs moyennes pour :",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "513",
+      "source_file": "054.jpg",
+      "resolved_file": "054.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "% RI* % AR*",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "514",
+      "source_file": "054.jpg",
+      "resolved_file": "054.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "255 kJ 60 kcal",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "515",
+      "source_file": "054.jpg",
+      "resolved_file": "054.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "319 kJ 75 kcal",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "516",
+      "source_file": "054.jpg",
+      "resolved_file": "054.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "0 g",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "517",
+      "source_file": "054.jpg",
+      "resolved_file": "054.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "3,5 g",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "518",
+      "source_file": "054.jpg",
+      "resolved_file": "054.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"Carbohydrates 125g\":\"4,4 g\"},{\"Proteins 100g\":\"12 g\"},{\"Proteins 125g\":\"14 g\"},{\"Salt 100g\":\"0,11 g\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

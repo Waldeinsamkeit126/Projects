@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "id": "344",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Concise and readable 行有4个勾选（LaTeX为叉），支持数为4"
+    },
+    {
+      "id": "348",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A以题目要求的字段名为键组成扁平对象数组且值与表一致，B使用Field/Value冗余结构"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 576,
+    "completion_tokens_details": {
+      "reasoning_tokens": 485,
+      "text_tokens": 90
+    },
+    "prompt_tokens": 1350,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 842,
+      "text_tokens": 508
+    },
+    "total_tokens": 1926
+  },
+  "requestId": "chatcmpl-adf78254-4e4a-99b0-ab66-5e43b8391f7f",
+  "model": "qwen3.8-max-0902"
+}

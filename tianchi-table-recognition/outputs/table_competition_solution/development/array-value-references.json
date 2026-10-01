@@ -1,0 +1,16 @@
+{
+  "version": "synthetic-value-array-v1",
+  "note": "Offline evaluation only. Authored synthetic data, not Tianchi reference answers. Never send this file to a model.",
+  "references": [
+    {"id":"av-sales-codes","expected":["001","002"]},
+    {"id":"av-sales-counts","expected":[3,4]},
+    {"id":"av-sales-row","expected":["001",3,12.5]},
+    {"id":"av-sales-totals","expected":[37.5,29]},
+    {"id":"av-sales-prices","expected":["12.50","7.25"]},
+    {"id":"av-stock-counts","expected":[0,"",18]},
+    {"id":"av-stock-notes","expected":["","未盘点","正常"]},
+    {"id":"av-stock-region","expected":["东仓",0,"","西仓","","未盘点"]},
+    {"id":"av-stock-positive","expected":["南仓"]},
+    {"id":"av-stock-flags","expected":[true,false,true]}
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\008.pdf",
+  "results": [
+    {
+      "id": "60",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"出租方名称\":\"新疆东方环宇投资（集团）有限公司\"},{\"出租方名称\":\"昌吉环宅世纪城房地产开发有限公司\"},{\"出租方名称\":\"昌吉市德声房地产经纪有限公司\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "61",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"租赁资产种类\":\"房屋\"},{\"租赁资产种类\":\"房屋\"},{\"租赁资产种类\":\"房屋\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "62",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "92197.53",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "63",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"项目\":\"关键管理人员薪酬\",\"本期发生额\":\"5,130,725.03\",\"上期发生额\":\"6,087,088.05\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "64",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "956363.02",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "65",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "66",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "昌吉市德声房地产经纪有限公司",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "67",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "140330.21",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "68",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "28066.04",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "69",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "70",
+      "source_file": "008.pdf",
+      "resolved_file": "008.pdf",
+      "model": "qwen3.8-max",
+      "answer": "105000",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\v4_adaptive_crop\\main.py",
+    "games": 4,
+    "wins": 4,
+    "mean_score": 96965.25,
+    "mean_margin": 58792.25,
+    "mean_score_delta": -334.25,
+    "mean_margin_delta": -268.75,
+    "median_margin_delta": 0.0,
+    "max_action_seconds": 0.07903630001237616,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89480633,
+      "opponent": "Kendamarron",
+      "seed": 1779362906,
+      "position": 0,
+      "ours": 106077.0,
+      "theirs": 35085.0,
+      "margin": 70992.0,
+      "win": true,
+      "original_ours": 106077.0,
+      "original_theirs": 35085.0,
+      "original_margin": 70992.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.531195799994748,
+      "max_action_seconds": 0.07903630001237616,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89480102,
+      "opponent": "`",
+      "seed": 428141925,
+      "position": 0,
+      "ours": 114519.0,
+      "theirs": 38156.0,
+      "margin": 76363.0,
+      "win": true,
+      "original_ours": 124314.0,
+      "original_theirs": 38271.0,
+      "original_margin": 86043.0,
+      "score_delta": -9795.0,
+      "margin_delta": -9680.0,
+      "elapsed_seconds": 3.6107422999921255,
+      "max_action_seconds": 0.0024440000124741346,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89481170,
+      "opponent": "Vu Tran Hoang",
+      "seed": 906097251,
+      "position": 0,
+      "ours": 100516.0,
+      "theirs": 32549.0,
+      "margin": 67967.0,
+      "win": true,
+      "original_ours": 92058.0,
+      "original_theirs": 32696.0,
+      "original_margin": 59362.0,
+      "score_delta": 8458.0,
+      "margin_delta": 8605.0,
+      "elapsed_seconds": 3.987696900003357,
+      "max_action_seconds": 0.002283500012708828,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89481708,
+      "opponent": "Veniamin Nelin",
+      "seed": 1696771976,
+      "position": 1,
+      "ours": 66749.0,
+      "theirs": 46902.0,
+      "margin": 19847.0,
+      "win": true,
+      "original_ours": 66749.0,
+      "original_theirs": 46902.0,
+      "original_margin": 19847.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.500562800007174,
+      "max_action_seconds": 0.05499379997490905,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

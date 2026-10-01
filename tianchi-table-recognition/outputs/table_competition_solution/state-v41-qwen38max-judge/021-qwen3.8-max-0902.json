@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "id": "199",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "Material仅为列头，表的主题标题为Material composition limits"
+    },
+    {
+      "id": "208",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "2HM实测C%为0.450，绿色单元共16个，B误用限制值且计数错"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 5149,
+    "completion_tokens_details": {
+      "reasoning_tokens": 5063,
+      "text_tokens": 85
+    },
+    "prompt_tokens": 1400,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 914,
+      "text_tokens": 486
+    },
+    "total_tokens": 6549
+  },
+  "requestId": "chatcmpl-1abd2c4c-dd02-92c9-b9f4-f48cad294d9f",
+  "model": "qwen3.8-max-0902"
+}

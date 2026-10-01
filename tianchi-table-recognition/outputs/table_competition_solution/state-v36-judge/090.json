@@ -1,0 +1,40 @@
+{
+  "decisions": [
+    {
+      "id": "870",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Row 1 绿色区域文本为 ColumnSpan=\"2\"，A 提取的是行标签且颜色不对。"
+    },
+    {
+      "id": "871",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中文字分两行显示，A 保留换行符更忠实于原表视觉文本。"
+    },
+    {
+      "id": "876",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "题目表述可能有误，推测意指 RowSpan=3 (3行) 与 RowSpan=5 (5行) 的合计，3+5=8。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 7048,
+    "completion_tokens": 6446,
+    "prompt_tokens": 602,
+    "completion_tokens_details": {
+      "reasoning_tokens": 6208,
+      "text_tokens": 237
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 211,
+      "cached_tokens": 0,
+      "text_tokens": 391
+    }
+  },
+  "requestId": "chatcmpl-fccc33d8-b77d-9e1e-b989-1600f21f93e3"
+}

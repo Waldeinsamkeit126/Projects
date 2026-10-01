@@ -1,0 +1,41 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\001.pdf",
+  "results": [
+    {
+      "id": "1",
+      "source_file": "001.pdf",
+      "resolved_file": "001.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":11,\"col_count\":4,\"cells\":[{\"text\":\"公司名称\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"工具名称\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"国别\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"OpenAI\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"AgentKit\",\"row\":1,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"美国\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"OpenAI\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Agent SDK\",\"row\":2,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"美国\",\"row\":2,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"OpenAI\",\"row\":3,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Responses API\",\"row\":3,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"美国\",\"row\":3,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"CrewAI\",\"row\":4,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"CrewAI\",\"row\":4,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"美国\",\"row\":4,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"LangChain\",\"row\":5,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"LangChain\",\"row\":5,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"美国\",\"row\":5,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"微软\",\"row\":6,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"AutoGen\",\"row\":6,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"美国\",\"row\":6,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"字节跳动\",\"row\":7,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"扣子\",\"row\":7,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"中国\",\"row\":7,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"百度\",\"row\":8,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"AgentBuilder\",\"row\":8,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"中国\",\"row\":8,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"腾讯\",\"row\":9,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"元器智能体平台\",\"row\":9,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"中国\",\"row\":9,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"华为\",\"row\":10,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Versatile-AI\",\"row\":10,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"中国\",\"row\":10,\"col\":2,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "2",
+      "source_file": "001.pdf",
+      "resolved_file": "001.pdf",
+      "model": "qwen3.8-max",
+      "answer": "全场景低代码开发平台，支持拖拽式工作流设计。",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "3",
+      "source_file": "001.pdf",
+      "resolved_file": "001.pdf",
+      "model": "qwen3.8-max",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "4",
+      "source_file": "001.pdf",
+      "resolved_file": "001.pdf",
+      "model": "qwen3.8-max",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

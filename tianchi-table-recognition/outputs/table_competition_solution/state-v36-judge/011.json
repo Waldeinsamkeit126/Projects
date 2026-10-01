@@ -1,0 +1,47 @@
+{
+  "decisions": [
+    {
+      "id": "100",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格中包含'双语'字样，且为中英对照，'中英文双语'描述更准确。"
+    },
+    {
+      "id": "103",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中'学分'与'Credits'之间无括号，A选项多余括号，B选项用斜杠连接更符合无分隔符的换行文本。"
+    },
+    {
+      "id": "106",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中为'中文:'和'英文:'，A选项多余'班'字，B选项更忠实于原文。"
+    },
+    {
+      "id": "108",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A选项在文本中添加了括号（如概率统计(Probability...)）且学院名称多了'与'字，B选项文本更忠实于图片原貌（无括号，学院名准确）。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 6454,
+    "completion_tokens": 5409,
+    "prompt_tokens": 1045,
+    "completion_tokens_details": {
+      "reasoning_tokens": 5087,
+      "text_tokens": 321
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 496,
+      "cached_tokens": 0,
+      "text_tokens": 549
+    }
+  },
+  "requestId": "chatcmpl-9fb978ee-ac6a-9255-b588-ff49558a215b"
+}

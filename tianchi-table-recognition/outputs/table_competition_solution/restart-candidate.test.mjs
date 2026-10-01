@@ -1,0 +1,13 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import os from 'node:os';
+import {createContinuationPlan,executeContinuation,LIMITS} from './restart-candidate.mjs';
+const plan=await createContinuationPlan();
+const options=async extra=>({allowPaid:true,maxNewRequests:26,apiKey:'test-secret',outputRoot:await fs.mkdtemp(path.join(os.tmpdir(),'restart-test-')),...extra});
+function response(body){const text=body.messages[1].content.at(-1).text;const qs=JSON.parse(text.split('\n问题清单：\n')[1].split('\n')[0]);return{ok:true,status:200,json:async()=>({model:body.model,choices:[{finish_reason:'stop',message:{content:JSON.stringify({answers:qs.map(q=>({id:q.id,answer:q.answer_format==='number'?'1':q.answer_format==='json_array'?['mock']:q.answer_format==='json'?{row_count:1,col_count:1,cells:[{text:'mock',row:0,col:0,rowspan:1,colspan:1}]}:'mock'}))})}}]})};}
+test('split plan retains 688 answers and fits remaining 26 calls',()=>{assert.equal(plan.baseTasks.length,23);assert.equal(plan.baseTasks[0].questionIds.length,9);assert.deepEqual(plan.baseTasks[1].questionIds,['689']);assert.equal(new Set(plan.baseTasks.flatMap(t=>t.questionIds)).size,220);assert.equal(LIMITS.priorRequests+LIMITS.newRequests,94);});
+test('dry run free and invalid budgets rejected',async()=>{let n=0;const o=await options({fetchImpl:()=>n++});assert.equal((await executeContinuation(plan,{...o,allowPaid:false})).apiRequests,0);await assert.rejects(executeContinuation(plan,{...o,maxNewRequests:27}));await assert.rejects(executeContinuation(plan,{...o,apiKey:''}));assert.equal(n,0);});
+test('bounded complete base then three repairs at most; retained responses not rerun',async()=>{let n=0;const r=await executeContinuation(plan,await options({fetchImpl:async(_,init)=>{n++;const b=JSON.parse(init.body);assert.equal(b.max_completion_tokens,16384);assert.ok(b.messages[1].content.at(-1).text.includes('不能扩展为整表内容'));return response(b);}}));assert.equal(r.baseCompleted,23);assert.equal(r.audit.returnedQuestions,908);assert.ok(n<=26);assert.equal(r.totalRequests,68+n);assert.equal(r.repairsMade,3);assert.equal(r.submitted,false);});
+test('truncation stops once and cannot restart authorization lock',async()=>{let n=0;const o=await options({fetchImpl:async()=>{n++;return{ok:true,status:200,json:async()=>({model:'qwen3.8-max',choices:[{finish_reason:'length',message:{content:'{}'}}]})};}});const r=await executeContinuation(plan,o);assert.equal(r.totalRequests,69);assert.equal(r.audit.returnedQuestions,688);assert.equal(r.stopReason,'truncated-or-empty-response');await assert.rejects(executeContinuation(plan,o));assert.equal(n,1);});

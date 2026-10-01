@@ -1,0 +1,28 @@
+{
+  "outputPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v46-id890-name-only.xlsx",
+  "reportPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\v46-report.json",
+  "baselinePath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\submission-candidate-v37-score-feedback-corrections.xlsx",
+  "rows": 908,
+  "changedCount": 1,
+  "changedIds": [
+    "890"
+  ],
+  "invalidCount": 0,
+  "reopenedMatches": true,
+  "usedRangeInspection": "{\"kind\":\"table\",\"sheet\":\"Sheet1\",\"address\":\"A1:B909\",\"rows\":909,\"cols\":2,\"values\":[[\"id\",\"answer\"],[\"1\",\"{\\\"row_count\\\":11,\\\"col_count\\\":4,\\\"cells\\\":[{\\\"text\\\":\\\"公司名称\\\",\\\"row\\\":0,\\\"col\\\":0,\\\"rowspa...\"],[\"2\",\"全场景低代码开发平台，支持拖拽式工作流设计。\"],[\"3\",\"6\"],[\"4\",\"3\"],[\"5\",\"[{\\\"item\\\":\\\"应收账款\\\",\\\"value\\\":\\\"188661393.95\\\"},{\\\"item\\\":\\\"应收票据\\\",\\\"value\\\":\\\"0\\\"},{\\\"item\\\":\\\"...\"],[\"6\",\"18945194.71\"],[\"7\",\"[{\\\"item\\\":\\\"长期借款\\\",\\\"value\\\":\\\"95250987.68\\\"},{\\\"item\\\":\\\"应付债券\\\",\\\"value\\\":\\\"0\\\"},{\\\"item\\\":\\\"租...\"],[\"8\",\"[{\\\"item\\\":\\\"债权投资\\\",\\\"value\\\":\\\"0\\\"},{\\\"item\\\":\\\"其他债权投资\\\",\\\"value\\\":\\\"0\\\"},{\\\"item\\\":\\\"长期应收款\\\",\\\"v...\"],[\"9\",\"[{\\\"period\\\":\\\"本期\\\",\\\"value\\\":\\\"2794275324.1\\\"},{\\\"period\\\":\\\"上期\\\",\\\"value\\\":\\\"2918275906.82\\\"}]\"],[\"10\",\"13\"],[\"11\",\"18\"]],\"valuesTruncated\":true,\"valuesPreviewRows\":12,\"valuesPreviewCols\":2,\"valuesPreviewAddress\":\"A1:B12\"}",
+  "formulaErrorInspection": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "previewPaths": [
+    "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\v46-preview\\part-1.png",
+    "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\v46-preview\\part-2.png",
+    "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\v46-preview\\part-3.png",
+    "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\v46-preview\\part-4.png"
+  ],
+  "applied": [
+    {
+      "id": "890",
+      "previous": "Debjit Mukherjee",
+      "next": "Debajit Mukherjee",
+      "basis": "manual_visual_verification"
+    }
+  ]
+}

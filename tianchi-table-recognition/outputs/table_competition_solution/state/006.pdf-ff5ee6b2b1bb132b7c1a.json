@@ -1,0 +1,239 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\006.pdf",
+  "results": [
+    {
+      "id": "25",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":10,\"col_count\":3,\"cells\":[{\"text\":\"账龄\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"期末余额\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"期初余额\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"1年以内\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"1－2年\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"2－3年\",\"row\":3,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"3－4年\",\"row\":4,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"4－5年\",\"row\":5,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"5年以上\",\"row\":6,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"小计\",\"row\":7,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"减：坏账准备\",\"row\":8,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"合计\",\"row\":9,\"col\":0,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "26",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"账龄\":\"1年以内\",\"期末余额\":\"160,112,139.83\",\"期初余额\":\"180,032,578.58\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "27",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"账龄\":\"5年以上\",\"期末余额\":\"13,470,966.56\",\"期初余额\":\"17,184,279.22\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "28",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "-19920438.75",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "29",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "-3713312.66",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "30",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "-18037723.07",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "31",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "-18099999.33",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "32",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "33",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"类别\":\"单项计提坏账准备的应收账款\",\"金额\":\"7,586,126.44\",\"计提比例（%）\":\"59.03\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "34",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "32239502.3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "35",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"类别\":\"单项计提坏账准备的应收账款\",\"金额\":\"7,586,126.44\"},{\"类别\":\"按组合计提坏账准备的应收账款\",\"金额\":\"24,653,375.86\"},{\"类别\":\"其中：信用风险特征组合\",\"金额\":\"24,653,375.86\"},{\"类别\":\"合计\",\"金额\":\"32,239,502.30\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "36",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"类别\":\"单项计提坏账准备的应收账款\",\"金额\":\"4,881,245.42\",\"计提比例（%）\":\"100.00\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "37",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "30650191.7",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "38",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"类别\":\"单项计提坏账准备的应收账款\",\"金额\":\"4,881,245.42\"},{\"类别\":\"按组合计提坏账准备的应收账款\",\"金额\":\"25,768,946.28\"},{\"类别\":\"其中：信用风险特征组合\",\"金额\":\"25,768,946.28\"},{\"类别\":\"合计\",\"金额\":\"30,650,191.70\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "39",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "2704881.02",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "40",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "2704881.02",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "41",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "-1115570.42",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "42",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"分类\":\"单项计提坏账准备的应收账款\"},{\"分类\":\"按组合计提坏账准备的应收账款\"},{\"分类\":\"其中：信用风险特征组合\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "43",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":6,\"col_count\":5,\"cells\":[{\"text\":\"单位名称\",\"row\":0,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"期末余额\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":4},{\"text\":\"账面余额\",\"row\":1,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"坏账准备\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"计提比例（%）\",\"row\":1,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"计   提理由\",\"row\":1,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"新疆蓝海新能源有限公司\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"新疆海联三邦投资有限公司\",\"row\":3,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"昌吉市御足堂康体有限公司\",\"row\":4,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"昌吉市金海快捷宾馆\",\"row\":5,\"col\":0,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "44",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"单位名称\":\"新疆蓝海新能源有限公司\"},{\"单位名称\":\"新疆海联三邦投资有限公司\"},{\"单位名称\":\"昌吉市御足堂康体有限公司\"},{\"单位名称\":\"昌吉市金海快捷宾馆\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "45",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "1987509.8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "46",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "7586126.44",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "47",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "新疆蓝海新能源有限公司",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "48",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "57.95",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "49",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "2321245.42",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "50",
+      "source_file": "006.pdf",
+      "resolved_file": "006.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"单位名称\":\"新疆海联三邦投资有限公司\"},{\"单位名称\":\"昌吉市御足堂康体有限公司\"},{\"单位名称\":\"昌吉市金海快捷宾馆\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

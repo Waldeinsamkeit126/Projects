@@ -1,0 +1,16 @@
+{
+  "version": "synthetic-value-array-v1",
+  "source": "New questions about existing authored synthetic images only. No official test answers.",
+  "questions": [
+    {"id":"av-sales-codes","file_name":"dev-sales.png","question_type":"extract","table_hint":"练习订单（单价单位：元）","answer_format":"json_array","question":"按表格数据行顺序列出全部商品编号。保留前导零，数组元素为编号字符串。"},
+    {"id":"av-sales-counts","file_name":"dev-sales.png","question_type":"extract","table_hint":"练习订单（单价单位：元）","answer_format":"json_array","question":"按表格数据行顺序列出全部商品的数量，数组元素为数值。"},
+    {"id":"av-sales-row","file_name":"dev-sales.png","question_type":"extract","table_hint":"练习订单（单价单位：元）","answer_format":"json_array","question":"依次输出第一条数据行的商品编号、数量、单价。编号保留前导零，数量和单价为数值，使用一个值数组。"},
+    {"id":"av-sales-totals","file_name":"dev-sales.png","question_type":"thinking","table_hint":"练习订单（单价单位：元）","answer_format":"json_array","question":"按表格数据行顺序计算每条商品的数量乘单价，依次列出金额（元），数组元素为数值。"},
+    {"id":"av-sales-prices","file_name":"dev-sales.png","question_type":"extract","table_hint":"练习订单（单价单位：元）","answer_format":"json_array","question":"按表格数据行顺序列出全部单价，保留原表小数位格式，数组元素为字符串。"},
+    {"id":"av-stock-counts","file_name":"dev-missing.png","question_type":"extract","table_hint":"练习库存","answer_format":"json_array","question":"依次给出东仓、西仓、南仓的数量。已有数量用数值，空缺用空字符串，不能把零当空缺。"},
+    {"id":"av-stock-notes","file_name":"dev-missing.png","question_type":"extract","table_hint":"练习库存","answer_format":"json_array","question":"依次给出东仓、西仓、南仓的备注，空缺用空字符串。"},
+    {"id":"av-stock-region","file_name":"dev-missing.png","question_type":"extract","table_hint":"练习库存","answer_format":"json_array","question":"提取东仓和西仓两行的仓库、数量、备注，按行顺序且每行从左到右放进一个平坦值数组。数量用数值，空缺用空字符串。"},
+    {"id":"av-stock-positive","file_name":"dev-missing.png","question_type":"thinking","table_hint":"练习库存","answer_format":"json_array","question":"列出已填数量大于零的仓库名称，按表格数据行顺序，用值数组，即使仅有一个仓库也保留数组。"},
+    {"id":"av-stock-flags","file_name":"dev-missing.png","question_type":"thinking","table_hint":"练习库存","answer_format":"json_array","question":"按东仓、西仓、南仓的顺序判断数量是否已填写（零也算已填写），用 JSON 布尔值 true/false 数组回答。"}
+  ]
+}

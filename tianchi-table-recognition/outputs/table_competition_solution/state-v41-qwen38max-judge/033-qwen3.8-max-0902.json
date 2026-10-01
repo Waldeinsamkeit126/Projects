@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "323",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表格为左字段名右值两列结构，最右列为值列，无表头；B的“权利其他状况”位于左列字段名"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 296,
+    "completion_tokens_details": {
+      "reasoning_tokens": 235,
+      "text_tokens": 60
+    },
+    "prompt_tokens": 969,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 611,
+      "text_tokens": 358
+    },
+    "total_tokens": 1265
+  },
+  "requestId": "chatcmpl-d7da04d2-d5ec-9eaa-83c4-31e475c1e3e7",
+  "model": "qwen3.8-max-0902"
+}

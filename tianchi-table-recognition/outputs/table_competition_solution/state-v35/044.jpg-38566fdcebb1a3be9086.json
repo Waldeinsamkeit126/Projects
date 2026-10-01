@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\044.jpg",
+  "results": [
+    {
+      "id": "419",
+      "source_file": "044.jpg",
+      "resolved_file": "044.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "中标项目表",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "420",
+      "source_file": "044.jpg",
+      "resolved_file": "044.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "中文",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "422",
+      "source_file": "044.jpg",
+      "resolved_file": "044.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "标段（包）编号",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "423",
+      "source_file": "044.jpg",
+      "resolved_file": "044.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "合同签订时间",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "424",
+      "source_file": "044.jpg",
+      "resolved_file": "044.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "A3304810620000488001001",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "425",
+      "source_file": "044.jpg",
+      "resolved_file": "044.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "新昌县水利水电局2023-2024年度小额（水利）工程",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "426",
+      "source_file": "044.jpg",
+      "resolved_file": "044.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "浙江前卫建设有限公司",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "427",
+      "source_file": "044.jpg",
+      "resolved_file": "044.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "新昌县佳泰市政园林建设有限公司",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "428",
+      "source_file": "044.jpg",
+      "resolved_file": "044.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"中标价\":\"10.41%\",\"工期\":\"合同签订之日起至2024年12月31日，具体项目及工期按每个项目施工合同中确定\",\"项目经理\":\"王永平\",\"合同签订时间\":\"2023年4月12日\"},{\"中标价\":\"10.41%\",\"工期\":\"合同签订之日起至2024年12月31日，具体项目及工期按每个项目施工合同中确定\",\"项目经理\":\"梁卫凤\",\"合同签订时间\":\"2023年4月12日\"},{\"中标价\":\"10.41%\",\"工期\":\"合同签订之日起至2024年12月31日，具体项目及工期按每个项目施工合同中确定\",\"项目经理\":\"胡浙明\",\"合同签订时间\":\"2023年4月12日\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

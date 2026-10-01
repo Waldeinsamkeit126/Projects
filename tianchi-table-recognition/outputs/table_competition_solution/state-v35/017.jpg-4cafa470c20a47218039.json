@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\017.jpg",
+  "results": [
+    {
+      "id": "159",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Overall Rankings by District",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "160",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "English",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "162",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Ranking",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "163",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "CC?",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "164",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Cal State Fullerton",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "165",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "University of Nevada Las Vegas",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "166",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "CSU Chico",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "167",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "Weber State University",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "168",
+      "source_file": "017.jpg",
+      "resolved_file": "017.jpg",
+      "model": "qwen3.7-plus",
+      "answer": "[{\"District 2 第二名学校\":\"Idaho State University\",\"District 1 第一名分数\":\"313\",\"District 2 第一名分数\":\"250\",\"页脚\":\"Fall 2012 NDT Ranking Report Page 13\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

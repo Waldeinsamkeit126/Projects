@@ -1,0 +1,47 @@
+{
+  "decisions": [
+    {
+      "id": "790",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原图括号内有明显空格，B更贴近字面。"
+    },
+    {
+      "id": "791",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "原图文字间距较大，B保留了空格，更准确。"
+    },
+    {
+      "id": "796",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "10260+619+1329+578=12786，A计算正确。"
+    },
+    {
+      "id": "797",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "12403+3793=16196，A计算正确。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 2355,
+    "completion_tokens": 985,
+    "prompt_tokens": 1370,
+    "completion_tokens_details": {
+      "reasoning_tokens": 707,
+      "text_tokens": 277
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 884,
+      "cached_tokens": 0,
+      "text_tokens": 486
+    }
+  },
+  "requestId": "chatcmpl-ed18ac5f-7a56-9206-8c80-eca70ffd14f1"
+}

@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\080.png",
+  "results": [
+    {
+      "id": "769",
+      "source_file": "080.png",
+      "resolved_file": "080.png",
+      "model": "qwen3-vl-plus",
+      "answer": "{\"row_count\":3,\"col_count\":7,\"cells\":[{\"text\":\"FINANCIAL STATEMENTS\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"2012\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"2013\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"2014\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"2015\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"2016\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"2017\",\"row\":0,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"Income Statement\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":7},{\"text\":\"Revenue\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"102,007\",\"row\":2,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"118,086\",\"row\":2,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"131,345\",\"row\":2,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"142,341\",\"row\":2,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"150,772\",\"row\":2,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"158,311\",\"row\":2,\"col\":6,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "770",
+      "source_file": "080.png",
+      "resolved_file": "080.png",
+      "model": "qwen3-vl-plus",
+      "answer": "181210",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "771",
+      "source_file": "080.png",
+      "resolved_file": "080.png",
+      "model": "qwen3-vl-plus",
+      "answer": "158311",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "772",
+      "source_file": "080.png",
+      "resolved_file": "080.png",
+      "model": "qwen3-vl-plus",
+      "answer": "2474",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "773",
+      "source_file": "080.png",
+      "resolved_file": "080.png",
+      "model": "qwen3-vl-plus",
+      "answer": "295951",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "774",
+      "source_file": "080.png",
+      "resolved_file": "080.png",
+      "model": "qwen3-vl-plus",
+      "answer": "37505",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "775",
+      "source_file": "080.png",
+      "resolved_file": "080.png",
+      "model": "qwen3-vl-plus",
+      "answer": "293627",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "776",
+      "source_file": "080.png",
+      "resolved_file": "080.png",
+      "model": "qwen3-vl-plus",
+      "answer": "100033",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "777",
+      "source_file": "080.png",
+      "resolved_file": "080.png",
+      "model": "qwen3-vl-plus",
+      "answer": "13936",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "778",
+      "source_file": "080.png",
+      "resolved_file": "080.png",
+      "model": "qwen3-vl-plus",
+      "answer": "2017",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

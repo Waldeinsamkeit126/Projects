@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\089.png",
+  "results": [
+    {
+      "id": "859",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3-vl-plus",
+      "answer": "{\"row_count\":13,\"col_count\":8,\"cells\":[{\"text\":\"1\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"2\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":2},{\"text\":\"\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":0,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":0,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"3\",\"row\":1,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":1,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":1,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":1,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":1,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"4\",\"row\":2,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":2,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"5\",\"row\":3,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":3,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":3,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":3,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":3,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":3,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":3,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":3,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"6\",\"row\":4,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":4,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":4,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":4,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":4,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":4,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":4,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":4,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"7\",\"row\":5,\"col\":0,\"rowspan\":2,\"colspan\":1},{\"text\":\"9\",\"row\":5,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":5,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"8\",\"row\":5,\"col\":3,\"rowspan\":2,\"colspan\":1},{\"text\":\"\",\"row\":5,\"col\":4,\"rowspan\":2,\"colspan\":1},{\"text\":\"\",\"row\":5,\"col\":5,\"rowspan\":2,\"colspan\":1},{\"text\":\"\",\"row\":5,\"col\":6,\"rowspan\":2,\"colspan\":1},{\"text\":\"\",\"row\":5,\"col\":7,\"rowspan\":2,\"colspan\":1},{\"text\":\"10\",\"row\":6,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":6,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"11\",\"row\":7,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"12\",\"row\":7,\"col\":1,\"rowspan\":1,\"colspan\":2},{\"text\":\"\",\"row\":7,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":7,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":7,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":7,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":7,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"13\",\"row\":8,\"col\":0,\"rowspan\":3,\"colspan\":3},{\"text\":\"14\",\"row\":8,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":8,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":8,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":8,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":8,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"15\",\"row\":9,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":9,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":9,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":9,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":9,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"16\",\"row\":10,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":10,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":10,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":10,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":10,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"17\",\"row\":11,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":11,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":11,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":11,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":11,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":11,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":11,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":11,\"col\":7,\"rowspan\":1,\"colspan\":1},{\"text\":\"18\",\"row\":12,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":12,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":12,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":12,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":12,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":12,\"col\":5,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":12,\"col\":6,\"rowspan\":1,\"colspan\":1},{\"text\":\"\",\"row\":12,\"col\":7,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "860",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3-vl-plus",
+      "answer": "1",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "861",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3-vl-plus",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "862",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"编号\":\"9\"},{\"编号\":\"10\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "863",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3-vl-plus",
+      "answer": "18",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "864",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3-vl-plus",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "865",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3-vl-plus",
+      "answer": "13",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "866",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3-vl-plus",
+      "answer": "19",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "867",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3-vl-plus",
+      "answer": "33",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "868",
+      "source_file": "089.png",
+      "resolved_file": "089.png",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"编号\":\"1\"},{\"编号\":\"4\"},{\"编号\":\"5\"},{\"编号\":\"6\"},{\"编号\":\"7\"},{\"编号\":\"11\"},{\"编号\":\"13\"},{\"编号\":\"17\"},{\"编号\":\"18\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

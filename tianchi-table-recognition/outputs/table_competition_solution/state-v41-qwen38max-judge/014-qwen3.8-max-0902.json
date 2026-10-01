@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "id": "130",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "表格主体为英语，仅顶部一行阿拉伯语，按主要程度英语在前更贴切"
+    },
+    {
+      "id": "138",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "A为单一扁平对象且之字形速度1800 spm正确；B拆成多对象且误用平缝速度2500 spm"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2574,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2473,
+      "text_tokens": 100
+    },
+    "prompt_tokens": 1021,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 496,
+      "text_tokens": 525
+    },
+    "total_tokens": 3595
+  },
+  "requestId": "chatcmpl-3181ee93-7464-9630-a884-7bb5936bba0a",
+  "model": "qwen3.8-max-0902"
+}

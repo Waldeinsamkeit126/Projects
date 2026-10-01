@@ -1,0 +1,184 @@
+{
+  "summary": {
+    "agent": "outputs\\kaggriculture_agent\\v8_p1_crowd10\\main.py",
+    "games": 8,
+    "wins": 3,
+    "mean_score": 85588.625,
+    "mean_margin": -18215.5,
+    "mean_score_delta": 454.0,
+    "mean_margin_delta": 2902.625,
+    "median_margin_delta": 0.0,
+    "max_action_seconds": 0.08797550003509969,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 89854099,
+      "opponent": "kreiack",
+      "seed": 154530892,
+      "position": 0,
+      "ours": 77748.0,
+      "theirs": 71304.0,
+      "margin": 6444.0,
+      "win": true,
+      "original_ours": 62361.0,
+      "original_theirs": 92875.0,
+      "original_margin": -30514.0,
+      "score_delta": 15387.0,
+      "margin_delta": 36958.0,
+      "elapsed_seconds": 3.6573474999750033,
+      "max_action_seconds": 0.001878499984741211,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89838498,
+      "opponent": "Linh Le",
+      "seed": 987850291,
+      "position": 0,
+      "ours": 96554.0,
+      "theirs": 119654.0,
+      "margin": -23100.0,
+      "win": false,
+      "original_ours": 96554.0,
+      "original_theirs": 119654.0,
+      "original_margin": -23100.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.6855507000000216,
+      "max_action_seconds": 0.002023700042627752,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89673440,
+      "opponent": "Emre Cirak",
+      "seed": 798474334,
+      "position": 0,
+      "ours": 70070.0,
+      "theirs": 121693.0,
+      "margin": -51623.0,
+      "win": false,
+      "original_ours": 70070.0,
+      "original_theirs": 121693.0,
+      "original_margin": -51623.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.634586500003934,
+      "max_action_seconds": 0.0019095000461675227,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89658738,
+      "opponent": "ZechHuang",
+      "seed": 547441592,
+      "position": 0,
+      "ours": 74461.0,
+      "theirs": 135032.0,
+      "margin": -60571.0,
+      "win": false,
+      "original_ours": 74461.0,
+      "original_theirs": 135032.0,
+      "original_margin": -60571.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.723743700014893,
+      "max_action_seconds": 0.053571099997498095,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89658155,
+      "opponent": "GzmCR632",
+      "seed": 599855846,
+      "position": 0,
+      "ours": 89561.0,
+      "theirs": 106327.0,
+      "margin": -16766.0,
+      "win": false,
+      "original_ours": 89561.0,
+      "original_theirs": 106327.0,
+      "original_margin": -16766.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.783835200010799,
+      "max_action_seconds": 0.0021933999960310757,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89658154,
+      "opponent": "suminshim",
+      "seed": 1520630520,
+      "position": 0,
+      "ours": 93960.0,
+      "theirs": 138260.0,
+      "margin": -44300.0,
+      "win": false,
+      "original_ours": 93960.0,
+      "original_theirs": 138260.0,
+      "original_margin": -44300.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.74706820002757,
+      "max_action_seconds": 0.0021274000173434615,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89662169,
+      "opponent": "Anton Tikhonov",
+      "seed": 815975912,
+      "position": 0,
+      "ours": 92841.0,
+      "theirs": 90983.0,
+      "margin": 1858.0,
+      "win": true,
+      "original_ours": 92841.0,
+      "original_theirs": 90983.0,
+      "original_margin": 1858.0,
+      "score_delta": 0.0,
+      "margin_delta": 0.0,
+      "elapsed_seconds": 3.4979267999879085,
+      "max_action_seconds": 0.08797550003509969,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 89658724,
+      "opponent": "Justin CH123",
+      "seed": 416604342,
+      "position": 0,
+      "ours": 89514.0,
+      "theirs": 47180.0,
+      "margin": 42334.0,
+      "win": true,
+      "original_ours": 101269.0,
+      "original_theirs": 45198.0,
+      "original_margin": 56071.0,
+      "score_delta": -11755.0,
+      "margin_delta": -13737.0,
+      "elapsed_seconds": 3.770355099986773,
+      "max_action_seconds": 0.05792230000952259,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

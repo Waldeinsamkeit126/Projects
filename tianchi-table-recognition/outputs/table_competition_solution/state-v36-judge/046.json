@@ -1,0 +1,54 @@
+{
+  "decisions": [
+    {
+      "id": "439",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图中左上角字段为Vehicle department，无information字样，A更贴近原文。"
+    },
+    {
+      "id": "440",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "题目为中文，且表格确实包含中英文，回答中英双语符合语境。"
+    },
+    {
+      "id": "442",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B完整保留了单元格内的中英文及换行结构。"
+    },
+    {
+      "id": "443",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B完整保留了单元格内的中英文及换行结构。"
+    },
+    {
+      "id": "448",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Driver contact number对应司机行下方的联系电话021-88888888，而非上方联系人的电话。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 3261,
+    "completion_tokens": 2234,
+    "prompt_tokens": 1027,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1905,
+      "text_tokens": 328
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 506,
+      "cached_tokens": 0,
+      "text_tokens": 521
+    }
+  },
+  "requestId": "chatcmpl-dd809e2c-946f-926c-ac19-f76246ab512d"
+}

@@ -1,0 +1,33 @@
+{
+  "decisions": [
+    {
+      "id": "212",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "表格最上方的表头行（Column Headers）最左侧的有效标题是 'Estimated actual 2011-12'。'ASSETS' 是行标题（Row Header）的内容。"
+    },
+    {
+      "id": "218",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "前三个数值提取正确。'估算年度'通常指 'Forward estimate' 列，表中有 2013-14, 2014-15, 2015-16 共 3 列。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 8370,
+    "completion_tokens": 7609,
+    "prompt_tokens": 761,
+    "completion_tokens_details": {
+      "reasoning_tokens": 7401,
+      "text_tokens": 207
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 306,
+      "cached_tokens": 0,
+      "text_tokens": 455
+    }
+  },
+  "requestId": "chatcmpl-fb29d809-81bb-907e-a7b7-98664dd98822"
+}

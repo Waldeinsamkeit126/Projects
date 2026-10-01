@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "868",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B包含了12，A漏掉了12，观察图片最左列从上到下依次为1,4,5,6,7,11,12,13,17,18"
+    }
+  ],
+  "usage": {
+    "total_tokens": 1278,
+    "completion_tokens": 706,
+    "prompt_tokens": 572,
+    "completion_tokens_details": {
+      "reasoning_tokens": 635,
+      "text_tokens": 70
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 198,
+      "cached_tokens": 0,
+      "text_tokens": 374
+    }
+  },
+  "requestId": "chatcmpl-8badc883-89c7-96ca-a14d-2ef3c7d1bb14"
+}

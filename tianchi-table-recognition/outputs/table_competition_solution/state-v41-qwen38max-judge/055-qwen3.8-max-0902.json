@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "528",
+      "choice": "CUSTOM",
+      "answer": "[{\"最低活动价\":\"399\",\"最高活动价\":\"79999\",\"备注中含退换规则\":\"3年内非人为原因质量问题硬件免费换新\",\"表格下方说明条数\":\"3\"}]",
+      "confidence": "high",
+      "reason": "活动价列含加配行，最小为399、最大为79999；A最高价错、B最低价错，其余字段两者一致"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2465,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2358,
+      "text_tokens": 106
+    },
+    "prompt_tokens": 800,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 352,
+      "text_tokens": 448
+    },
+    "total_tokens": 3265
+  },
+  "requestId": "chatcmpl-e297c32e-0201-9ab8-902b-877c94d1d6c5",
+  "model": "qwen3.8-max-0902"
+}

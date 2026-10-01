@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "agent": "work\\kaggriculture_agent\\candidates\\v10_straw35\\main.py",
+    "games": 4,
+    "wins": 4,
+    "mean_score": 121101.25,
+    "mean_margin": 117076.25,
+    "mean_score_delta": 37675.5,
+    "mean_margin_delta": 132571.25,
+    "median_margin_delta": 122069.0,
+    "max_action_seconds": 0.08496200002264231,
+    "all_done": true
+  },
+  "games": [
+    {
+      "episode_id": 90357165,
+      "opponent": "xfhdh1",
+      "seed": 1752771597,
+      "position": 0,
+      "ours": 117734.0,
+      "theirs": 0.0,
+      "margin": 117734.0,
+      "win": true,
+      "original_ours": 100845.0,
+      "original_theirs": 101285.0,
+      "original_margin": -440.0,
+      "score_delta": 16889.0,
+      "margin_delta": 118174.0,
+      "elapsed_seconds": 3.062317500007339,
+      "max_action_seconds": 0.0019802999449893832,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90324658,
+      "opponent": "Michael McGrain",
+      "seed": 570599941,
+      "position": 0,
+      "ours": 139379.0,
+      "theirs": 56.0,
+      "margin": 139323.0,
+      "win": true,
+      "original_ours": 87610.0,
+      "original_theirs": 116260.0,
+      "original_margin": -28650.0,
+      "score_delta": 51769.0,
+      "margin_delta": 167973.0,
+      "elapsed_seconds": 3.0156640000641346,
+      "max_action_seconds": 0.002067800029180944,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90324092,
+      "opponent": "LGarcia10",
+      "seed": 608490508,
+      "position": 1,
+      "ours": 115018.0,
+      "theirs": 11314.0,
+      "margin": 103704.0,
+      "win": true,
+      "original_ours": 68755.0,
+      "original_theirs": 83872.0,
+      "original_margin": -15117.0,
+      "score_delta": 46263.0,
+      "margin_delta": 118821.0,
+      "elapsed_seconds": 3.366677499958314,
+      "max_action_seconds": 0.08496200002264231,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "episode_id": 90299299,
+      "opponent": "Muhammed Ashiq Abdul Khader",
+      "seed": 1551305454,
+      "position": 1,
+      "ours": 112274.0,
+      "theirs": 4730.0,
+      "margin": 107544.0,
+      "win": true,
+      "original_ours": 76493.0,
+      "original_theirs": 94266.0,
+      "original_margin": -17773.0,
+      "score_delta": 35781.0,
+      "margin_delta": 125317.0,
+      "elapsed_seconds": 3.151603400008753,
+      "max_action_seconds": 0.0017668999498710036,
+      "statuses": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ]
+}

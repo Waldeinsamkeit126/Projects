@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\046.jpg",
+  "results": [
+    {
+      "id": "439",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Vehicle department information",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "440",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "中英双语",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "441",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "6",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "442",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Vehicle department 用车部门",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "443",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "Number of passengers 乘车人数",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "444",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "合合信息",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "445",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "2020年5月20日",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "446",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "14人",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "447",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "上海静安区市北·云立方A座",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "448",
+      "source_file": "046.jpg",
+      "resolved_file": "046.jpg",
+      "model": "qwen3.8-max-0902",
+      "answer": "[{\"Car reason\":\"公务出行\",\"License plate number\":\"沪M888888\",\"Driver name\":\"合小安\",\"Driver contact number\":\"021-88888888\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

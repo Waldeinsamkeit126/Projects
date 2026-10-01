@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\058.pdf",
+  "results": [
+    {
+      "id": "549",
+      "source_file": "58.pdf",
+      "resolved_file": "058.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":26,\"col_count\":6,\"cells\":[{\"text\":\"\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"Benchmark (Metric)\",\"row\":0,\"col\":1,\"rowspan\":1,\"colspan\":1},{\"text\":\"# Shots\",\"row\":0,\"col\":2,\"rowspan\":1,\"colspan\":1},{\"text\":\"DeepSeek-V3.2 Base\",\"row\":0,\"col\":3,\"rowspan\":1,\"colspan\":1},{\"text\":\"DeepSeek-V4-Flash Base\",\"row\":0,\"col\":4,\"rowspan\":1,\"colspan\":1},{\"text\":\"DeepSeek-V4-Pro Base\",\"row\":0,\"col\":5,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "550",
+      "source_file": "58.pdf",
+      "resolved_file": "058.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"DeepSeek-V3.2 Base\":\"MoE\",\"DeepSeek-V4-Flash Base\":\"MoE\",\"DeepSeek-V4-Pro Base\":\"MoE\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "551",
+      "source_file": "58.pdf",
+      "resolved_file": "058.pdf",
+      "model": "qwen3.8-max",
+      "answer": "1.6T",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "552",
+      "source_file": "58.pdf",
+      "resolved_file": "058.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"DeepSeek-V3.2 Base\":\"80.1\",\"DeepSeek-V4-Flash Base\":\"82.6\",\"DeepSeek-V4-Pro Base\":\"83.1\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "553",
+      "source_file": "58.pdf",
+      "resolved_file": "058.pdf",
+      "model": "qwen3.8-max",
+      "answer": "73.5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "554",
+      "source_file": "58.pdf",
+      "resolved_file": "058.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"DeepSeek-V3.2 Base\":\"62.8\",\"DeepSeek-V4-Flash Base\":\"69.5\",\"DeepSeek-V4-Pro Base\":\"76.8\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "555",
+      "source_file": "58.pdf",
+      "resolved_file": "058.pdf",
+      "model": "qwen3.8-max",
+      "answer": "44.7",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "556",
+      "source_file": "58.pdf",
+      "resolved_file": "058.pdf",
+      "model": "qwen3.8-max",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "557",
+      "source_file": "58.pdf",
+      "resolved_file": "058.pdf",
+      "model": "qwen3.8-max",
+      "answer": "DeepSeek-V4-Pro Base",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "558",
+      "source_file": "58.pdf",
+      "resolved_file": "058.pdf",
+      "model": "qwen3.8-max",
+      "answer": "183.9",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

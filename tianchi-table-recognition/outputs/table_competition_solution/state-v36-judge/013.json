@@ -1,0 +1,54 @@
+{
+  "decisions": [
+    {
+      "id": "119",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Air condition 2 ton 位于表头行显眼位置，作为主标题。"
+    },
+    {
+      "id": "120",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "顶部有阿拉伯文，表格内容为英文。"
+    },
+    {
+      "id": "122",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "Component & Specification 是主体规格表的主要列头，涵盖左侧区域。"
+    },
+    {
+      "id": "123",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "Notes 是主体规格表的最右侧列头，与 Component & Specification 对应。"
+    },
+    {
+      "id": "128",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B 的文本 AC≥ (220)V/(50)Hz 保留了原图空格，且格式为扁平对象数组，符合多字段提取。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 11074,
+    "completion_tokens": 10059,
+    "prompt_tokens": 1015,
+    "completion_tokens_details": {
+      "reasoning_tokens": 9716,
+      "text_tokens": 342
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 496,
+      "cached_tokens": 0,
+      "text_tokens": 519
+    }
+  },
+  "requestId": "chatcmpl-34f397c4-638d-9d96-8461-1d39f7fb3c93"
+}

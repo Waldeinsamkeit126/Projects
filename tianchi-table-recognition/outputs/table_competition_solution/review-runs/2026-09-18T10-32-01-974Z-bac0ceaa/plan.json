@@ -1,0 +1,174 @@
+{
+  "version": "original-image-structure-review-v1",
+  "sourceHash": "a143d034045ef916366f36a8cc5f0ff9992ae5f4cd8ac1985a7212cbb3558ae5",
+  "coreSourceHash": "46e0dce366c7c49df4bab25c7c9dfb201d46c2ddbbe0c83bbab790e6f6b21898",
+  "inputs": {
+    "questionsPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated-scan-v1\\questions-development-clean.json",
+    "predictionsPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\runs\\2026-09-17T10-27-31-986Z-daea26a3\\results.jsonl",
+    "mediaDir": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated-scan-v1"
+  },
+  "inputHashes": {
+    "questions": "dd309f224f2fdced9177cd0fb3232d2cf73951df0f262ca55e02ae23d5b40acb",
+    "predictions": "e8bf48e9012f54e9f328e0e1458eb40fee87ba0d554b28b5e87d6297125b6ee7"
+  },
+  "settings": {
+    "model": "qwen3-vl-plus",
+    "maxAttempts": 1,
+    "maxCompletionTokens": 8192,
+    "enableThinking": false,
+    "concurrency": 1,
+    "checkFullCoverage": true,
+    "checkStructureConsistency": true,
+    "automaticFallback": false
+  },
+  "units": [
+    {
+      "fileName": "ss-budget-clean.png",
+      "tableHint": "季度经费登记（单位：元）",
+      "triggers": [
+        {
+          "kind": "cross-answer-conflict",
+          "fileName": "ss-budget-clean.png",
+          "tableHint": "季度经费登记（单位：元）",
+          "fullId": "ss-budget-clean-q1",
+          "headerId": "ss-budget-clean-q2",
+          "consistent": false,
+          "differenceCount": 7,
+          "differences": [
+            {
+              "kind": "dimensions",
+              "field": "row_count",
+              "full": 8,
+              "header": 7
+            },
+            {
+              "kind": "dimensions",
+              "field": "col_count",
+              "full": 7,
+              "header": 8
+            },
+            {
+              "kind": "header-cell",
+              "coordinate": "0:0",
+              "field": "rowspan",
+              "full": 3,
+              "header": 1
+            },
+            {
+              "kind": "header-cell",
+              "coordinate": "0:1",
+              "field": "rowspan",
+              "full": 3,
+              "header": 1
+            },
+            {
+              "kind": "header-cell",
+              "coordinate": "0:5",
+              "field": "colspan",
+              "full": 2,
+              "header": 3
+            },
+            {
+              "kind": "header-cell",
+              "coordinate": "1:4",
+              "field": "rowspan",
+              "full": 2,
+              "header": 1
+            },
+            {
+              "kind": "missing-header-origin-in-full",
+              "coordinate": "1:7"
+            }
+          ],
+          "omittedDifferences": 0
+        }
+      ],
+      "questions": [
+        {
+          "id": "ss-budget-clean-q1",
+          "file_name": "ss-budget-clean.png",
+          "question_type": "structure",
+          "original_question_type": "structure",
+          "question": "只依据《季度经费登记（单位：元）》。恢复完整表格结构；标题和表外说明不计入表内，cells须包含所有单元格（含空白），坐标从0开始，合并单元格仅记录一次。",
+          "table_hint": "季度经费登记（单位：元）",
+          "answer_format": "json",
+          "structure_scope": "full"
+        },
+        {
+          "id": "ss-budget-clean-q2",
+          "file_name": "ss-budget-clean.png",
+          "question_type": "structure",
+          "original_question_type": "structure",
+          "question": "只依据《季度经费登记（单位：元）》。仅恢复表头行结构；cells只输出表头，row_count和col_count仍填写整张目标表的逻辑尺寸。",
+          "table_hint": "季度经费登记（单位：元）",
+          "answer_format": "json",
+          "structure_scope": "partial"
+        }
+      ],
+      "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated-scan-v1\\ss-budget-clean.png",
+      "mediaSha256": "52ccc9913afcfbfa35f2e7fac882d6377a550aa39dbfae458b1600176e78e4e5",
+      "promptSha256": "8501a71f6683287dcb7c1f73d68febb39d8c22d84568237ca0a9f96e74fb56f2"
+    },
+    {
+      "fileName": "ss-assembly-clean.png",
+      "tableHint": "装配班次记录",
+      "triggers": [
+        {
+          "kind": "full-grid-gap",
+          "id": "ss-assembly-clean-q1",
+          "coverage": {
+            "version": "explicit-full-grid-v1",
+            "totalSlots": "48",
+            "coveredSlots": "44",
+            "missingSlots": "4",
+            "complete": false,
+            "firstGaps": [
+              {
+                "row": 1,
+                "col": 0,
+                "height": 1,
+                "width": 2
+              },
+              {
+                "row": 1,
+                "col": 4,
+                "height": 1,
+                "width": 2
+              }
+            ]
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ss-assembly-clean-q1",
+          "file_name": "ss-assembly-clean.png",
+          "question_type": "structure",
+          "original_question_type": "structure",
+          "question": "只依据《装配班次记录》。恢复完整表格结构；标题和表外说明不计入表内，cells须包含所有单元格（含空白），坐标从0开始，合并单元格仅记录一次。",
+          "table_hint": "装配班次记录",
+          "answer_format": "json",
+          "structure_scope": "full"
+        },
+        {
+          "id": "ss-assembly-clean-q2",
+          "file_name": "ss-assembly-clean.png",
+          "question_type": "structure",
+          "original_question_type": "structure",
+          "question": "只依据《装配班次记录》。仅恢复表头行结构；cells只输出表头，row_count和col_count仍填写整张目标表的逻辑尺寸。",
+          "table_hint": "装配班次记录",
+          "answer_format": "json",
+          "structure_scope": "partial"
+        }
+      ],
+      "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\outputs\\table_competition_solution\\development\\generated-scan-v1\\ss-assembly-clean.png",
+      "mediaSha256": "e2fc239e596a5e4dffc478bbc9585f3e0fc93ac9b357812258498be2a9a1c206",
+      "promptSha256": "616f4690e3e16910908fc5599d6c53ff4e74467e25ff707abc09ab2c80ae4872"
+    }
+  ],
+  "proposedMaxRequests": 2,
+  "referenceLabelsRead": false,
+  "overwriteBaseline": false,
+  "note": "待确认的独立复核实验；每目标表一次请求，无重试/备用模型，不构成付费授权。不改历史答案、不提交。",
+  "digest": "2eca41a9813294d3a67e5736f3b3ac83d6c5dea4f0a54850cf2449ba14ff6b61"
+}

@@ -1,0 +1,11 @@
+{
+  "experts": 50,
+  "seat0": 23,
+  "seat1": 27,
+  "main_path": "D:\\Codex\\2026-08-01\\k\\work\\kaggriculture_agent\\candidates\\state_knn_v1\\main.py",
+  "main_bytes": 985965,
+  "main_sha256": "9222a715dd135e44dddd381e5d62fbd7a075e487c1d48b0a11ffe82cccd1daaa",
+  "archive_path": "D:\\Codex\\2026-08-01\\k\\work\\kaggriculture_agent\\candidates\\state_knn_v1\\submission.tar.gz",
+  "archive_bytes": 769326,
+  "archive_sha256": "e0dcd4b9fe1003e28cfc7f4f7a190c59f5ae5ad0732f4a7af58d30881222df7d"
+}

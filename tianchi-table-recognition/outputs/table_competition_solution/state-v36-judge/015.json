@@ -1,0 +1,47 @@
+{
+  "decisions": [
+    {
+      "id": "139",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "Component & Specification 是表格中主要的内容区域标题，A 选项拼凑且不完整。"
+    },
+    {
+      "id": "143",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "Item Name: 位于表格第一行的最右侧，作为字段名标签。"
+    },
+    {
+      "id": "146",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "Up to 12 volts 是 Circular Coil 的 Input，Electric Fan 部分未提及电压。"
+    },
+    {
+      "id": "148",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "B 选项将缺失值（颜色）设为空字符串，符合 prompt 要求；页码保留了原文。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 4393,
+    "completion_tokens": 3420,
+    "prompt_tokens": 973,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3137,
+      "text_tokens": 282
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 496,
+      "cached_tokens": 0,
+      "text_tokens": 477
+    }
+  },
+  "requestId": "chatcmpl-6456ce31-32cf-9758-b337-733cd5071f19"
+}

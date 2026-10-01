@@ -1,0 +1,26 @@
+{
+  "decisions": [
+    {
+      "id": "168",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "页脚应包含完整底部文本，B保留了Page 13更完整"
+    }
+  ],
+  "usage": {
+    "total_tokens": 1175,
+    "completion_tokens": 322,
+    "prompt_tokens": 853,
+    "completion_tokens_details": {
+      "reasoning_tokens": 278,
+      "text_tokens": 43
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 477,
+      "cached_tokens": 0,
+      "text_tokens": 376
+    }
+  },
+  "requestId": "chatcmpl-369be8ac-fdbc-9a62-99fb-6147ab047536"
+}

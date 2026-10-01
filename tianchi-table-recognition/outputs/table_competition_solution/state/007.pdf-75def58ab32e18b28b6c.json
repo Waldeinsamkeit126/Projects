@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\007.pdf",
+  "results": [
+    {
+      "id": "51",
+      "source_file": "007.pdf",
+      "resolved_file": "007.pdf",
+      "model": "qwen3.8-max",
+      "answer": "{\"row_count\":23,\"col_count\":7,\"cells\":[{\"text\":\"项目\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":1},{\"text\":\"一.账面原值\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "52",
+      "source_file": "007.pdf",
+      "resolved_file": "007.pdf",
+      "model": "qwen3.8-max",
+      "answer": "79954740.25",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "53",
+      "source_file": "007.pdf",
+      "resolved_file": "007.pdf",
+      "model": "qwen3.8-max",
+      "answer": "386382973.78",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "54",
+      "source_file": "007.pdf",
+      "resolved_file": "007.pdf",
+      "model": "qwen3.8-max",
+      "answer": "管网设备",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "55",
+      "source_file": "007.pdf",
+      "resolved_file": "007.pdf",
+      "model": "qwen3.8-max",
+      "answer": "120704863.24",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "56",
+      "source_file": "007.pdf",
+      "resolved_file": "007.pdf",
+      "model": "qwen3.8-max",
+      "answer": "5",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "57",
+      "source_file": "007.pdf",
+      "resolved_file": "007.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"category\":\"房屋及建筑物\",\"value\":\"311640136.81\"},{\"category\":\"管网设备\",\"value\":\"1502429632.12\"},{\"category\":\"机器设备\",\"value\":\"802815549.18\"},{\"category\":\"运输工具\",\"value\":\"33551089.51\"},{\"category\":\"办公电子及其他设备\",\"value\":\"24711347.91\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "58",
+      "source_file": "007.pdf",
+      "resolved_file": "007.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"category\":\"机器设备\",\"value\":\"81371.67\"},{\"category\":\"运输工具\",\"value\":\"1876349.13\"},{\"category\":\"办公电子及其他设备\",\"value\":\"1767848.19\"}]",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "59",
+      "source_file": "007.pdf",
+      "resolved_file": "007.pdf",
+      "model": "qwen3.8-max",
+      "answer": "[{\"项目\":\"房屋及建筑物\",\"金额\":\"\"},{\"项目\":\"管网设备\",\"金额\":\"\"},{\"项目\":\"运输工具\",\"金额\":\"1,876,349.13\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

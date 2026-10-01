@@ -1,0 +1,91 @@
+{
+  "mode": "read-only-consistency-audit",
+  "generatedAt": "2026-09-17T15:59:33.151Z",
+  "questionSha256": "dd309f224f2fdced9177cd0fb3232d2cf73951df0f262ca55e02ae23d5b40acb",
+  "predictionsSha256": "e8bf48e9012f54e9f328e0e1458eb40fee87ba0d554b28b5e87d6297125b6ee7",
+  "auditSourceHash": "46e0dce366c7c49df4bab25c7c9dfb201d46c2ddbbe0c83bbab790e6f6b21898",
+  "version": "same-image-explicit-table-v1",
+  "comparisons": [
+    {
+      "fileName": "ss-budget-clean.png",
+      "tableHint": "季度经费登记（单位：元）",
+      "fullId": "ss-budget-clean-q1",
+      "headerId": "ss-budget-clean-q2",
+      "consistent": false,
+      "differenceCount": 7,
+      "differences": [
+        {
+          "kind": "dimensions",
+          "field": "row_count",
+          "full": 8,
+          "header": 7
+        },
+        {
+          "kind": "dimensions",
+          "field": "col_count",
+          "full": 7,
+          "header": 8
+        },
+        {
+          "kind": "header-cell",
+          "coordinate": "0:0",
+          "field": "rowspan",
+          "full": 3,
+          "header": 1
+        },
+        {
+          "kind": "header-cell",
+          "coordinate": "0:1",
+          "field": "rowspan",
+          "full": 3,
+          "header": 1
+        },
+        {
+          "kind": "header-cell",
+          "coordinate": "0:5",
+          "field": "colspan",
+          "full": 2,
+          "header": 3
+        },
+        {
+          "kind": "header-cell",
+          "coordinate": "1:4",
+          "field": "rowspan",
+          "full": 2,
+          "header": 1
+        },
+        {
+          "kind": "missing-header-origin-in-full",
+          "coordinate": "1:7"
+        }
+      ],
+      "omittedDifferences": 0
+    },
+    {
+      "fileName": "ss-assembly-clean.png",
+      "tableHint": "装配班次记录",
+      "fullId": "ss-assembly-clean-q1",
+      "headerId": "ss-assembly-clean-q2",
+      "consistent": true,
+      "differenceCount": 0,
+      "differences": [],
+      "omittedDifferences": 0
+    }
+  ],
+  "conflictCount": 1,
+  "skipped": [
+    {
+      "id": "ss-warehouse-clean-q1",
+      "reason": "missing-or-invalid-structure"
+    },
+    {
+      "id": "ss-warehouse-clean-q2",
+      "reason": "missing-or-invalid-structure"
+    }
+  ],
+  "apiRequests": 0,
+  "answersModified": false,
+  "limitation": "同一图片和明确相同 table_hint 的完整表/表头交叉检查；只标记不一致，不判定哪份正确。一致仍可能共同漏列或错跨度；同名多表可能歧义。PDF、缺少目标提示或范围不明确时跳过。",
+  "modelAccuracy": null,
+  "note": "对已有输出离线交叉检查，不修改预测、不回写缓存、不改变历史分数。不是新推理或修复结果。"
+}

@@ -1,0 +1,86 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\088.png",
+  "results": [
+    {
+      "id": "850",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.7-plus",
+      "answer": "Oceania",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "851",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.7-plus",
+      "answer": "Melbourne",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "852",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.7-plus",
+      "answer": "Australia",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "853",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.7-plus",
+      "answer": "22 November",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "854",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.7-plus",
+      "answer": "Sydney",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "855",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.7-plus",
+      "answer": "1 October",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "856",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.7-plus",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "857",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.7-plus",
+      "answer": "44",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "858",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.7-plus",
+      "answer": "27",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

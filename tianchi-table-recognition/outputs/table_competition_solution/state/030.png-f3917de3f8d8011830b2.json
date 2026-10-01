@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\030.png",
+  "results": [
+    {
+      "id": "289",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Povinnosti výrobcu",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "290",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3-vl-plus",
+      "answer": "斯洛伐克语",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "291",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3-vl-plus",
+      "answer": "3",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "292",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Povinnosti výrobcu",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "293",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3-vl-plus",
+      "answer": "Komentár",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "294",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3-vl-plus",
+      "answer": "8",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "295",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3-vl-plus",
+      "answer": "vrátiť prevádzkovateľovi regionálnej distribučnej sústavy doplatok, ktorý mu bol vyplatený v rozpore s podmienkami podpory zákona o podpore",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "296",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3-vl-plus",
+      "answer": "predložiť PDS potvrdenie o pôvode vyrobenej elektriny pre predchádzajúci kalendárny rok",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "297",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3-vl-plus",
+      "answer": "do 15. marca kalendárneho roka",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "298",
+      "source_file": "030.png",
+      "resolved_file": "030.png",
+      "model": "qwen3-vl-plus",
+      "answer": "[{\"第五条日期\":\"15. apríla\",\"第六条日期\":\"15. augusta\",\"第八条日期\":\"31.12.\",\"法律依据列名\":\"Prislúchajúci právny predpis\"}]",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

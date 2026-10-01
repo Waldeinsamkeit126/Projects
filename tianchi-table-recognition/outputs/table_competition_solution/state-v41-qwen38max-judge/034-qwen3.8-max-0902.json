@@ -1,0 +1,27 @@
+{
+  "decisions": [
+    {
+      "id": "333",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "任职记录表最右列表头为“备注”；B是姓名拼音的值而非表头"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 264,
+    "completion_tokens_details": {
+      "reasoning_tokens": 217,
+      "text_tokens": 46
+    },
+    "prompt_tokens": 1111,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 761,
+      "text_tokens": 350
+    },
+    "total_tokens": 1375
+  },
+  "requestId": "chatcmpl-b0b890a9-19bb-9f7c-8010-51118591e079",
+  "model": "qwen3.8-max-0902"
+}

@@ -1,0 +1,95 @@
+{
+  "mediaPath": "C:\\Users\\zhhzh\\Documents\\Codex\\2026-08-26\\x20-x20-2\\work\\competition_data\\multimodal_table_recognition\\files\\088.png",
+  "results": [
+    {
+      "id": "849",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "{\"row_count\":10,\"col_count\":9,\"cells\":[{\"text\":\"Games by Continent\",\"row\":0,\"col\":0,\"rowspan\":1,\"colspan\":9},{\"text\":\"\",\"row\":1,\"col\":0,\"rowspan\":1,\"colspan\":2},{\"text\":\"Place\",\"row\":1,\"col\":2,\"rowspan\":1,\"colspan\":3},{\"text\":\"Dates\",\"row\":1,\"col\":5,\"rowspan\":1,\"colspan\":3},{\"text\":\"\",\"row\":1,\"col\":8,\"rowspan\":1,\"colspan\":1}]}",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "850",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Oceania",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "851",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Melbourne",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "852",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Australia",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "853",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "22 November",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "854",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "Sydney",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "855",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "1 October",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "856",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "2",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "857",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "44",
+      "valid": true,
+      "error": ""
+    },
+    {
+      "id": "858",
+      "source_file": "088.png",
+      "resolved_file": "088.png",
+      "model": "qwen3.8-max-0902",
+      "answer": "27",
+      "valid": true,
+      "error": ""
+    }
+  ]
+}

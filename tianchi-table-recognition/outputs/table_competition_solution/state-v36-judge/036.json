@@ -1,0 +1,61 @@
+{
+  "decisions": [
+    {
+      "id": "349",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片中未显示完整标题，A描述准确符合图片内容。"
+    },
+    {
+      "id": "350",
+      "choice": "A",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表中包含大量英文字段如NINGBO, BY SEA, FOB等。"
+    },
+    {
+      "id": "353",
+      "choice": "A",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "明细表的最右侧表头为'征免'，通常'表头'指列标题。"
+    },
+    {
+      "id": "356",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "表头只有一行，无多级合并表头。"
+    },
+    {
+      "id": "357",
+      "choice": "B",
+      "answer": "",
+      "confidence": "high",
+      "reason": "图片为黑白扫描件。"
+    },
+    {
+      "id": "358",
+      "choice": "B",
+      "answer": "",
+      "confidence": "medium",
+      "reason": "中文问题优先选中文回答，'横向拍摄'理解为侧拍故为否，其他逻辑符合。"
+    }
+  ],
+  "usage": {
+    "total_tokens": 8748,
+    "completion_tokens": 6257,
+    "prompt_tokens": 2491,
+    "completion_tokens_details": {
+      "reasoning_tokens": 5876,
+      "text_tokens": 380
+    },
+    "prompt_tokens_details": {
+      "image_tokens": 1954,
+      "cached_tokens": 0,
+      "text_tokens": 537
+    }
+  },
+  "requestId": "chatcmpl-54b0e392-14dd-92ff-9fdd-cceaec9ac86c"
+}
